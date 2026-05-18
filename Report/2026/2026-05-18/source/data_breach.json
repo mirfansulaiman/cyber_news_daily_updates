@@ -1,1 +1,102 @@
-[\n  {\n    \"title\": \"Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase\",\n    \"published_at\": \"2026-05-17\",\n    \"summary\": \"Grafana disclosed that an unauthorized party obtained a token granting access to Grafana Labs’ GitHub environment and downloaded its codebase, then attempted extortion. The company reported no customer/personal data impact and described rapid containment actions including token invalidation, workflow shutdowns, and incident investigation after canary-token triggering.\",\n    \"impact\": \"Source code exposure can increase downstream vulnerability discovery and targeted exploitation risk. Token/CI weaknesses can be reused against other open-source projects.\",\n    \"recommendation\": \"Lock down CI/CD workflows (especially pull_request_target patterns), rotate secrets, and enforce least-privilege GitHub tokens with short lifetimes.\",\n    \"sources\": [\n      {\n        \"title\": \"Cyber Security News\",\n        \"url\": \"https://cybersecuritynews.com/grafana-labs-security-breach/\"\n      },\n      {\n        \"title\": \"Grafana disclosure thread\",\n        \"url\": \"https://x.com/grafana/status/2055827123236171827\"\n      }\n    ],\n    \"is_older_than_24h\": false\n  },\n  {\n    \"title\": \"[+24h Old] Trellix source code breach claimed by RansomHouse hackers\",\n    \"published_at\": \"2026-05-08T09:23:00-04:00\",\n    \"summary\": \"RansomHouse claimed responsibility for unauthorized access to part of Trellix’s source code repository and published screenshots as purported proof. Trellix confirmed investigating unauthorized access to a portion of its repo and stated it found no evidence that its release/distribution process was affected or that code was exploited, while the investigation continued.\",\n    \"impact\": \"Source repository compromise can enable targeted exploitation, counterfeit binaries, and disclosure of sensitive security product internals. Extortion pressure can increase leak risk.\",\n    \"recommendation\": \"Monitor vendor advisories, validate supply-chain integrity, and rotate any credentials tied to impacted repos or integrations.\",\n    \"sources\": [\n      {\n        \"title\": \"BleepingComputer\",\n        \"url\": \"https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/\"\n      },\n      {\n        \"title\": \"Trellix statement\",\n        \"url\": \"https://www.trellix.com/statement/\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] Canvas/Instructure incident: disruption and data exposure amid ShinyHunters extortion claims\",\n    \"published_at\": \"2026-05-12T09:26:00-04:00\",\n    \"summary\": \"Instructure said it reached an agreement with the attacker behind the Canvas incident to prevent publication of stolen data, reporting that data was returned and “shred logs” were provided as destruction confirmation. The disruption affected schools during finals and raised concern about student/educator data exposure; the company noted there’s never full certainty when dealing with cybercriminals.\",\n    \"impact\": \"Large education platforms are high-impact targets; compromise can expose student/faculty data and disrupt instruction at scale.\",\n    \"recommendation\": \"Force SSO hardening, monitor admin session anomalies, and review XSS and content-handling controls in LMS integrations and portals.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek / AP\",\n        \"url\": \"https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/\"\n      },\n      {\n        \"title\": \"SecurityWeek (Instructure breach disclosure)\",\n        \"url\": \"https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/\"\n      },\n      {\n        \"title\": \"Instructure incident update\",\n        \"url\": \"https://www.instructure.com/incident_update\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] American Lending Center data breach affects 123,000 individuals after ransomware incident\",\n    \"published_at\": \"2026-05-15T07:06:00-04:00\",\n    \"summary\": \"American Lending Center disclosed that a ransomware attack detected in July 2025 resulted in potential access to files containing personal data, including names, dates of birth, and Social Security numbers, impacting over 123,000 individuals. The company reported completing its investigation in April 2026 and stated it had not found evidence of misuse at time of notification.\",\n    \"impact\": \"Exposed PII/SSNs can drive identity theft, fraud, and targeted phishing. Ransomware incidents in financial services often have prolonged notification and remediation timelines.\",\n    \"recommendation\": \"Offer credit monitoring, enforce MFA and network segmentation, and improve ransomware resilience (immutable backups, EDR, IR playbooks).\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/\"\n      },\n      {\n        \"title\": \"Maine AG filing\",\n        \"url\": \"https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7931fb22-1cd3-4253-a418-931c4cd9b68d.html\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] Foxconn confirms North American factories hit by cyberattack claimed by Nitrogen ransomware group\",\n    \"published_at\": \"2026-05-13T13:13:00-04:00\",\n    \"summary\": \"Foxconn confirmed a cyberattack affecting some North American factories after the Nitrogen ransomware group claimed data theft (including alleged confidential customer-related documents) and published screenshots. Foxconn said incident response measures were activated to ensure production continuity and that factories were resuming normal operations.\",\n    \"impact\": \"Manufacturing disruption and exposure of sensitive customer documents can create supply-chain and IP risk. Ransomware targeting can cascade into delivery delays and contractual impacts.\",\n    \"recommendation\": \"Isolate OT/IT, enforce least privilege on engineering systems, and validate backup/restore procedures for production-critical environments.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] 716,000 impacted by OpenLoop Health data breach\",\n    \"published_at\": \"2026-05-13T07:18:00-04:00\",\n    \"summary\": \"OpenLoop Health reported a January intrusion in which an unauthorized actor accessed certain systems and exfiltrated personal data (names, contact details, birth dates, and medical data) affecting 716,000 individuals. The incident later appeared on the HHS breach portal, and the company offered monitoring services while stating no SSNs/financial account info or EHR access was involved.\",\n    \"impact\": \"Healthcare data exposure increases risk of medical identity fraud and highly targeted phishing/scams. Breach portal reporting can trigger regulatory scrutiny and patient notification requirements.\",\n    \"recommendation\": \"Enhance detection on patient/telehealth platforms, minimize data retention, and implement strong access controls plus rapid incident notification workflows.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/\"\n      },\n      {\n        \"title\": \"California OAG PDF\",\n        \"url\": \"https://oag.ca.gov/system/files/OpenLoop%20-%20Reg.%20Letter%20-%20California_0.pdf\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] Skoda discloses data breach affecting online shop customers\",\n    \"published_at\": \"2026-05-11T07:54:00-04:00\",\n    \"summary\": \"Skoda reported that attackers exploited a vulnerability in its online shop portal, accessing customer personal data such as names, addresses, emails, phone numbers, order details, and password hashes. The company took the shop offline, patched the issue, engaged forensics, and advised users to remain vigilant against phishing and to change reused passwords.\",\n    \"impact\": \"Customer PII exposure raises fraud and phishing risk, and password-hash exposure increases credential stuffing risk if users reuse passwords across services.\",\n    \"recommendation\": \"Force password resets, add anti-bot defenses, and implement continuous vulnerability management and secure SDLC for e-commerce portals.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/\"\n      },\n      {\n        \"title\": \"Skoda notice\",\n        \"url\": \"https://www.skoda-auto.de/unternehmen/sicherheitsvorfall-skoda-shop\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] Vimeo data breach exposes personal information of 119,000 people\",\n    \"published_at\": \"2026-05-05T09:03:00-04:00\",\n    \"summary\": \"Following a third-party breach chain, ShinyHunters leaked stolen Vimeo-related data after extortion attempts failed, and breach analysis indicated exposure of email addresses and, in some cases, names for over 119,000 people. Vimeo stated that login credentials and payment card data were not impacted and that it removed the affected integration credentials.\",\n    \"impact\": \"Exposed emails/names increase phishing and account takeover attempts, especially where users reuse credentials elsewhere.\",\n    \"recommendation\": \"Notify affected users, enforce phishing-resistant MFA for internal/admin accounts, and strengthen third-party integration credential controls.\",\n    \"sources\": [\n      {\n        \"title\": \"BleepingComputer\",\n        \"url\": \"https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] West Pharmaceutical Services hit by disruptive ransomware attack\",\n    \"published_at\": \"2026-05-12T08:59:00-04:00\",\n    \"summary\": \"West Pharmaceutical Services disclosed it took affected on-premise infrastructure offline globally after detecting a ransomware incident on May 4, 2026. The company said attackers exfiltrated data before deploying file-encrypting ransomware and that it engaged Unit 42 and notified law enforcement while restoring critical business operations.\",\n    \"impact\": \"Ransomware with confirmed data theft raises double-extortion risk and potential exposure of sensitive enterprise or regulated data. Global operational disruption can impact manufacturing and supply chains.\",\n    \"recommendation\": \"Treat as a data-breach scenario: rotate exposed credentials, validate backup integrity, review OT/IT segmentation, and prepare external notification workflows depending on confirmed data types.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/\"\n      },\n      {\n        \"title\": \"Company incident notice\",\n        \"url\": \"https://www.westpharma.com/support/company-impact-updates\"\n      },\n      {\n        \"title\": \"SEC filing\",\n        \"url\": \"https://www.sec.gov/Archives/edgar/data/105770/000010577026000068/wst-20260507.htm\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  },\n  {\n    \"title\": \"[+24h Old] Sandhills Medical says ransomware breach affects 170,000\",\n    \"published_at\": \"2026-04-30T04:35:00-04:00\",\n    \"summary\": \"Sandhills Medical Foundation disclosed a ransomware incident discovered on May 8, 2025 and later confirmed that personal and health information for roughly 170,000 individuals may have been accessed. The breach disclosure includes sensitive identifiers (SSNs, IDs, passports, financial information, and PHI), and Inc Ransom listed the organization on its leak site in 2025.\",\n    \"impact\": \"High identity-theft and medical fraud risk due to the sensitivity of exposed data, plus long-tail phishing risk against patients and staff.\",\n    \"recommendation\": \"Provide credit/ID monitoring, enforce MFA and least privilege, and verify that leaked data is not being reused for targeted social-engineering; review third-party access and logging retention for healthcare systems.\",\n    \"sources\": [\n      {\n        \"title\": \"SecurityWeek\",\n        \"url\": \"https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/\"\n      },\n      {\n        \"title\": \"Sandhills incident notice\",\n        \"url\": \"https://sandhillsmedical.org/sandhills-medical-reports-data-security-incident/\"\n      },\n      {\n        \"title\": \"Maine AG filing\",\n        \"url\": \"https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e36cacd3-3e26-4bed-be5b-45965f2326cb.html\"\n      }\n    ],\n    \"is_older_than_24h\": true\n  }\n]
+[
+  {
+    "title": "Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase",
+    "published_wib": "2026-05-17 07:00 WIB",
+    "summary": "Grafana Labs reportedly disclosed a breach involving access to a GitHub token and download of a private code repository.",
+    "why_it_matters": "Source-code access can enable supply-chain attacks, vulnerability discovery, and exposure of embedded secrets.",
+    "recommendation": "Rotate compromised tokens/secrets, review access logs, and strengthen repository protections (least privilege, MFA, and secret scanning).",
+    "sources": [
+      "https://cybersecuritynews.com/grafana-labs-security-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Trellix source code breach claimed by RansomHouse hackers",
+    "published_wib": "2026-05-08 20:23 WIB",
+    "summary": "RansomHouse claimed a breach of Trellix involving alleged source-code exposure, consistent with extortion-driven disclosure tactics.",
+    "why_it_matters": "Extortion groups use source-code theft to pressure victims and potentially enable follow-on targeting.",
+    "recommendation": "Validate exposure scope, rotate secrets, monitor for leaked artifacts, and prepare customer communications and legal/regulatory response.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Canvas/Instructure incident: disruption and data exposure amid ShinyHunters extortion claims",
+    "published_wib": "2026-05-12 20:26 WIB",
+    "summary": "Reporting covered disruption and alleged data exposure related to the Canvas/Instructure incident and extortion claims.",
+    "why_it_matters": "Education platforms hold large volumes of PII and are frequent targets for extortion and data-theft campaigns.",
+    "recommendation": "Review incident response communications, enforce strong authentication, and monitor for abnormal data access or exfiltration.",
+    "sources": [
+      "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/"
+    ]
+  },
+  {
+    "title": "[+24h Old] American Lending Center data breach affects 123,000 individuals after ransomware incident",
+    "published_wib": "2026-05-15 18:06 WIB",
+    "summary": "American Lending Center disclosed a ransomware incident impacting roughly 123,000 individuals, following investigation into accessed data.",
+    "why_it_matters": "Financial-sector breaches can increase identity fraud risk and enable targeted phishing and account takeover.",
+    "recommendation": "Strengthen backup/IR readiness, rotate credentials, and implement enhanced fraud monitoring and customer notifications as needed.",
+    "sources": [
+      "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Foxconn confirms North American factories hit by cyberattack claimed by Nitrogen ransomware group",
+    "published_wib": "2026-05-14 00:13 WIB",
+    "summary": "Foxconn confirmed a cyberattack impacting North American operations, reportedly linked to a ransomware group claiming responsibility.",
+    "why_it_matters": "Manufacturing disruptions can cause supply-chain impacts and may lead to data exposure and extended downtime.",
+    "recommendation": "Segment OT/IT networks, validate incident containment, and ensure backups and restoration processes are tested.",
+    "sources": [
+      "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 716,000 impacted by OpenLoop Health data breach",
+    "published_wib": "2026-05-13 18:18 WIB",
+    "summary": "OpenLoop Health reported a data breach impacting hundreds of thousands of individuals, according to disclosure reporting.",
+    "why_it_matters": "Healthcare data breaches can enable identity theft and targeted scams due to sensitivity of medical and personal information.",
+    "recommendation": "Enforce MFA, limit third-party access, monitor for misuse of exposed data, and implement enhanced patient notification and support processes.",
+    "sources": [
+      "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Skoda discloses data breach affecting online shop customers",
+    "published_wib": "2026-05-11 18:54 WIB",
+    "summary": "Skoda reported a breach affecting customers of its online shop, with disclosure describing impacted data categories.",
+    "why_it_matters": "Retail breaches can lead to credential stuffing, payment fraud, and phishing against affected customers.",
+    "recommendation": "Reset/rotate exposed credentials, enforce MFA, and monitor for account takeover and payment fraud patterns.",
+    "sources": [
+      "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Vimeo data breach exposes personal information of 119,000 people",
+    "published_wib": "2026-05-05 20:03 WIB",
+    "summary": "Vimeo disclosed a data breach affecting roughly 119,000 individuals, according to reporting.",
+    "why_it_matters": "Large-scale PII exposure increases risk of phishing, account takeover, and identity fraud.",
+    "recommendation": "Notify affected users, force password resets where needed, and implement monitoring for suspicious login patterns.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/"
+    ]
+  },
+  {
+    "title": "[+24h Old] West Pharmaceutical Services hit by disruptive ransomware attack",
+    "published_wib": "2026-05-12 19:59 WIB",
+    "summary": "West Pharmaceutical Services reported a disruptive ransomware incident impacting operations.",
+    "why_it_matters": "Ransomware disruption in critical manufacturing can impact supply chains and patient safety indirectly.",
+    "recommendation": "Improve segmentation, test backups, and implement rapid isolation procedures; monitor for data theft indicators and extortion activity.",
+    "sources": [
+      "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Sandhills Medical says ransomware breach affects 170,000",
+    "published_wib": "2026-04-30 15:35 WIB",
+    "summary": "Sandhills Medical reported a ransomware-related breach affecting approximately 170,000 individuals.",
+    "why_it_matters": "Healthcare ransomware incidents can combine downtime with sensitive data exposure, increasing harm to patients and operations.",
+    "recommendation": "Enhance detection for ransomware precursors, validate recovery processes, and strengthen access controls and monitoring around PHI systems.",
+    "sources": [
+      "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/"
+    ]
+  }
+]
