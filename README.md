@@ -39,5 +39,8 @@ You will typically find:
 - Daily report/newsletter files (file format and naming convention follow the automation configuration).
 - Historical reports to help track trends and serve as references.
 
+## Data Source 
+We use the news data source from https://github.com/netsecid/cybersecurity-rss-sources.
+
 ## Built with TRAE
 This workflow runs using **SOLO automation on TRAE**, then pushes the results to GitHub for archiving and reference.
