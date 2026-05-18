@@ -1,20 +1,32 @@
 # Cyber News Daily Updates
 
-Repository ini digunakan untuk menyimpan hasil **laporan harian** terkait berita dan pembaruan keamanan siber (cyber security) yang dipublikasikan secara berkala.
+This repository is used to store **daily reports** related to cyber security news and updates, published on a regular basis. 
+
+## Today Updates: [Vol. XXX | ISSUE_DATE 07:00 WIB]
+[SUMMARY REPORT UPDATES]
+[IMAGE POSTER SUMMARY]
+
+### TOP 10 - VULNERABILITIES
+[IMAGE POSTER VULNERABILITIES] 
+
+### TOP 10 - THREAT INTEL]
+[IMAGE POSTER THREAT INTEL] 
+
+### TOP 10 - DATA BREACH & CYBERCRIME
+[IMAGE POSTER DATA BREACH & CYBERCRIME] 
+
+### PDF Report
+Download: [LINK TO PDF Report]
 
 ## Task Automation
-- **Nama task**: Daily CyberSecurity Newsletter
-- **Kegunaan**: Menghasilkan ringkasan newsletter harian berisi highlight berita/pembaruan keamanan siber, lalu menyimpan hasilnya ke repository ini agar mudah diakses dan ditelusuri.
-- **Frekuensi**: **Harian** (setiap hari).
+- **Task name**: Daily CyberSecurity Newsletter
+- **Purpose**: Generates a daily newsletter summary highlighting key cyber security news/updates, then stores the output in this repository so it can be easily accessed and tracked over time.
+- **Frequency**: **Daily** (every day).
 
-## Isi Repository
-Umumnya kamu akan menemukan:
-- File laporan/newsletter harian (format dan penamaan file mengikuti konfigurasi automation).
-- Riwayat laporan terdahulu untuk memudahkan pencarian tren dan referensi.
+## Repository Contents
+You will typically find:
+- Daily report/newsletter files (file format and naming convention follow the automation configuration).
+- Historical reports to help track trends and serve as references.
 
-## Catatan Keamanan
-- Repository ini **tidak menyimpan** kredensial, token, API key, atau data sensitif lainnya.
-- Konten yang dipublikasikan bersifat ringkasan/informasi dan ditujukan untuk konsumsi umum.
-
-## Dibuat dengan TRAE
-Workflow ini dijalankan menggunakan **automation di SOLO pada TRAE**, lalu hasilnya dipush ke GitHub sebagai arsip dan referensi.
+## Built with TRAE
+This workflow runs using **SOLO automation on TRAE**, then pushes the results to GitHub for archiving and reference.
