@@ -1,22 +1,31 @@
 # Cyber News Daily Updates
 
-This repository is used to store **daily reports** related to cyber security news and updates, published on a regular basis. 
+This repository is used to store **daily reports** related to cyber security news and updates, published on a regular basis.
 
-## Today Updates: [Vol. XXX | ISSUE_DATE 07:00 WIB]
-[SUMMARY REPORT UPDATES]
-[IMAGE POSTER SUMMARY]
+## Today Updates: [Vol. 001 | 2026-05-18 07:00 WIB]
+
+SUMMARY REPORT UPDATES: DirtyDecrypt PoC; NGINX Rift exploitation; MiniPlasma Windows zero-day…
+
+IMAGE POSTER SUMMARY:
+
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_2026-05-18_issue-001.jpg)
 
 ### TOP 10 - VULNERABILITIES
-[IMAGE POSTER VULNERABILITIES] 
 
-### TOP 10 - THREAT INTEL]
-[IMAGE POSTER THREAT INTEL] 
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_vulnerabilities_2026-05-18_issue-001.jpg)
+
+### TOP 10 - THREAT INTEL
+
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_threat-intel_2026-05-18_issue-001.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
-[IMAGE POSTER DATA BREACH & CYBERCRIME] 
+
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_data-breach_2026-05-18_issue-001.jpg)
 
 ### PDF Report
-Download: [LINK TO PDF Report]
+
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/cyber_newsletter_2026-05-18.pdf
+
 
 ## Task Automation
 - **Task name**: Daily CyberSecurity Newsletter
