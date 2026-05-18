@@ -1,7 +1,7 @@
 [
-  "DirtyDecrypt (DirtyCBC) Linux kernel page-cache write flaw now has a public root escalation PoC",
-  "NGINX Rift (CVE-2026-42945) exploitation begins days after PoC disclosure",
-  "MiniPlasma Windows privilege escalation zero-day PoC claims SYSTEM on fully patched Windows 11",
-  "Tycoon2FA phishing kit adds OAuth device-code flow to hijack Microsoft 365 accounts",
-  "[+24h Old] Cisco Catalyst SD-WAN Controller auth bypass (CVE-2026-20182) actively exploited in zero-day attacks"
+  "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+  "[+24h Old] PoC code published for critical NGINX vulnerability (CVE-2026-42945)",
+  "Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase",
+  "[+24h Old] Shai-Hulud worm steals npm, GitHub, AWS, and Kubernetes secrets from developers",
+  "[+24h Old] Google Project Zero discloses zero-click exploit chain for Pixel 10 devices"
 ]

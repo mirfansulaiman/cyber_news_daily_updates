@@ -1,5 +1,9 @@
 {
   "issue_date": "2026-05-18",
-  "issue_time_wib": "2026-05-18T07:00:00+07:00",
-  "vol": "001"
+  "issue_time_wib": "07:00 WIB",
+  "vol": "001",
+  "issue_tag": "issue-001",
+  "issue_datetime_wib": "2026-05-18T07:00:00+07:00",
+  "issue_datetime_utc": "2026-05-18T00:00:00Z",
+  "cutoff_24h_utc": "2026-05-17T00:00:00Z"
 }
