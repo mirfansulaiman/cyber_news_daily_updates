@@ -1,0 +1,17 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- DirtyDecrypt (DirtyCBC) Linux kernel page-cache write flaw now has a public root escalation PoC
+- NGINX Rift (CVE-2026-42945) exploitation begins days after PoC disclosure
+- MiniPlasma Windows privilege escalation zero-day PoC claims SYSTEM on fully patched Windows 11
+- Tycoon2FA phishing kit adds OAuth device-code flow to hijack Microsoft 365 accounts
+- [+24h Old] Cisco Catalyst SD-WAN Controller auth bypass (CVE-2026-20182) actively exploited in zero-day attacks
+
+Section Summaries:
+- Threat Intelligence: Identity and supply-chain threats continue to evolve, with attackers abusing collaboration and OAuth flows for rapid access.
+- Latest Vulnerabilities: Multiple high-impact escalation and internet-facing issues surfaced alongside public PoCs and active exploitation signals.
+- Data Breach & Cybercrime: Extortion and third-party compromise remain persistent, with large-scale education impacts and continued marketplace disruption.
+
+CTA: Full report and infographics attached below.

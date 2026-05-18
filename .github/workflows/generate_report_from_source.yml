@@ -1,0 +1,45 @@
+name: Generate Daily Report Artifacts
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "Report/**/source/**"
+      - "tools/generate_from_json_parts.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow reportlab
+
+      - name: Generate artifacts (all issue folders)
+        run: |
+          set -euo pipefail
+          python tools/generate_from_json_parts.py --root Report
+
+      - name: Commit generated artifacts
+        run: |
+          set -euo pipefail
+          if git status --porcelain | grep .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "[generate] materialize report artifacts"
+            git push
+          else
+            echo "No changes"
+          fi

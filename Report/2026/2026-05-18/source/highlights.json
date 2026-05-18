@@ -1,0 +1,7 @@
+[
+  "DirtyDecrypt (DirtyCBC) Linux kernel page-cache write flaw now has a public root escalation PoC",
+  "NGINX Rift (CVE-2026-42945) exploitation begins days after PoC disclosure",
+  "MiniPlasma Windows privilege escalation zero-day PoC claims SYSTEM on fully patched Windows 11",
+  "Tycoon2FA phishing kit adds OAuth device-code flow to hijack Microsoft 365 accounts",
+  "[+24h Old] Cisco Catalyst SD-WAN Controller auth bypass (CVE-2026-20182) actively exploited in zero-day attacks"
+]

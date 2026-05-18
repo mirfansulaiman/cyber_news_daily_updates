@@ -1,0 +1,112 @@
+[
+  {
+    "title": "[+24h Old] ShinyHunters defaces hundreds of Canvas login portals in renewed Instructure extortion campaign",
+    "published_wib": "2026-05-08T05:36:00+07:00",
+    "summary": "Attackers defaced Canvas login portals for hundreds of educational institutions, displaying extortion messages and threatening to leak previously stolen data. The disruption was visible briefly before portals were taken offline, with reports of broader impact on schools.",
+    "why_it_matters": "Large-scale disruption during academic periods can cause operational outages and increases the risk of student/teacher data exposure and follow-on phishing.",
+    "recommendation": "Review Canvas admin session security, patch XSS exposures, and prepare targeted phishing warnings to impacted user communities.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] US House Homeland Security Committee requests Instructure briefing after repeated Canvas breaches",
+    "published_wib": "2026-05-13T06:09:00+07:00",
+    "summary": "A congressional committee asked Instructure leadership to brief investigators on two ShinyHunters incidents involving student/staff data exposure and service disruption. The letter highlights widespread impact across states and questions incident response practices.",
+    "why_it_matters": "Regulatory and legislative scrutiny can expand breach costs, accelerate disclosure requirements, and increase litigation and compliance risk.",
+    "recommendation": "Ensure incident documentation is complete, validate breach notifications, and review third-party and SaaS security controls for systemic weaknesses.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "https://homeland.house.gov/wp-content/uploads/2026/05/2026.05.11-Homeland-to-Instructure-Holdings-Inc.pdf"
+    ]
+  },
+  {
+    "title": "[+24h Old] McGraw-Hill confirms unauthorized access via Salesforce-hosted webpage; ShinyHunters claims extortion",
+    "published_wib": "2026-04-15T01:07:00+07:00",
+    "summary": "McGraw-Hill said attackers accessed a limited set of data tied to a Salesforce-hosted webpage, describing it as part of broader Salesforce environment misconfiguration issues affecting multiple organizations. The company stated sensitive student data and financial identifiers were not exposed.",
+    "why_it_matters": "Even limited web-exposed datasets can fuel targeted phishing and extortion narratives; Salesforce ecosystem incidents can cascade across many customers.",
+    "recommendation": "Audit publicly exposed Salesforce pages and integrations, rotate any exposed secrets/tokens, and monitor for extortion attempts and data-leak claims.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "https://www.bleepingcomputer.com/tag/salesforce/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Telus Digital confirms breach after ShinyHunters claims ~1PB data theft impacting multiple customers",
+    "published_wib": "2026-03-12T21:40:00+07:00",
+    "summary": "Telus Digital confirmed unauthorized access to some systems while ShinyHunters claimed a very large data theft spanning multiple customer environments and internal datasets. The threat actor alleged initial access via cloud credentials discovered in earlier third-party data theft.",
+    "why_it_matters": "BPO compromise can become a multi-victim incident with complex notification scope, exposing call records, support data, and operational analytics.",
+    "recommendation": "Rotate cloud credentials and secrets, validate access logs for BigQuery/Snowflake and other analytics platforms, and segment BPO access paths with least-privilege controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/amp/",
+      "https://cloud.google.com/blog/topics/threat-intelligence/data-theft-salesforce-instances-via-salesloft-drift"
+    ]
+  },
+  {
+    "title": "[+24h Old] Vimeo says Anodot third-party breach exposed some user data (primarily metadata and some emails)",
+    "published_wib": "2026-04-29T02:04:00+07:00",
+    "summary": "Vimeo disclosed an incident linked to the Anodot breach where an unauthorized actor accessed some customer/user data. Vimeo stated that video content, credentials, and payment data were not exposed and that integrations were disabled and credentials rotated.",
+    "why_it_matters": "Third-party token compromise can cascade into downstream Snowflake/BigQuery data exposure and create extortion pressure even when core systems are unaffected.",
+    "recommendation": "Review third-party integrations, rotate API keys/tokens, and continuously monitor data warehouse access for anomalous exports.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/amp/",
+      "https://vimeo.com/blog/post/anodot-third-party-security-incident"
+    ]
+  },
+  {
+    "title": "[+24h Old] Grubhub confirms data was downloaded in a breach; sources link extortion to ShinyHunters",
+    "published_wib": "2026-01-16T04:38:00+07:00",
+    "summary": "Grubhub confirmed unauthorized data downloads from certain systems and reported it stopped the activity and engaged incident response support. Sources told BleepingComputer the incident involved extortion and referenced previously stolen Salesforce/Zendesk data.",
+    "why_it_matters": "Support-ticket and CRM data can contain sensitive PII and operational details that enable social engineering and account takeover attempts.",
+    "recommendation": "Rotate credentials and OAuth tokens tied to support tooling (Zendesk/Salesforce), and audit subdomains used for email campaigns and tracking links.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/amp/",
+      "https://www.bleepingcomputer.com/news/security/salesloft-breached-to-steal-oauth-tokens-for-salesforce-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Eurail warns stolen traveler data is for sale on dark web after earlier customer database breach",
+    "published_wib": "2026-02-17T02:19:00+07:00",
+    "summary": "Eurail said data from a prior breach is being offered for sale and a sample was posted on Telegram. Exposed information may include passport/ID details, IBANs, and contact info, with notifications planned as impact is confirmed.",
+    "why_it_matters": "Passport/ID and banking identifiers are high-risk for identity fraud and targeted phishing, especially for travelers and students using passes.",
+    "recommendation": "Advise impacted users to monitor financial activity, rotate reused passwords, and be alert for impersonation scams; organizations should strengthen database access controls and audit logs.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/?web_view=true",
+      "https://www.eurail.com/en/ni/data-security-incident"
+    ]
+  },
+  {
+    "title": "[+24h Old] German authorities shut down Crimenetwork marketplace reboot and arrest alleged operator in Spain",
+    "published_wib": "2026-05-10T21:16:00+07:00",
+    "summary": "Authorities arrested a suspect accused of rebuilding the Crimenetwork cybercrime marketplace shortly after its earlier takedown. Investigators seized infrastructure and data, noting the reboot amassed tens of thousands of users and significant illicit revenue.",
+    "why_it_matters": "Marketplace takedowns disrupt criminal supply chains but often lead to rapid reconstitution; seized user/vendor data can enable further arrests and intelligence.",
+    "recommendation": "Continue monitoring for successor marketplaces and leaked datasets; enterprises should assume stolen access and credentials circulate widely in such markets.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260508_PM_Crimenetwork.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ukraine arrests suspect accused of breaching 5,000 hosting accounts and cryptojacking via cloud VMs",
+    "published_wib": "2025-06-05T02:38:00+07:00",
+    "summary": "Ukrainian cyberpolice said a suspect abused compromised hosting accounts to deploy unauthorized virtual machines for cryptocurrency mining, creating multi-million dollar damages. Investigators seized devices and traced activity to forum accounts and stolen credentials.",
+    "why_it_matters": "Cryptojacking consumes compute resources, creates unexpected costs, and often indicates broader credential compromise and persistence in cloud environments.",
+    "recommendation": "Enforce MFA on hosting/cloud consoles, monitor for anomalous VM provisioning and spend spikes, and rotate credentials after any suspicion of account takeover.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/",
+      "https://cyberpolice.gov.ua/news/kiberpolicziya-zaporizhzhya-vykryla-xakera-yakyj-zavdav-poterpilym-miljonni-zbytky-na-majningu-kryptovalyuty-5154/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Advance Auto Parts confirms third-party cloud database breach exposed employee SSNs and other identifiers",
+    "published_wib": "2024-06-20T02:45:00+07:00",
+    "summary": "Advance Auto Parts reported unauthorized activity in a third-party cloud database and said data believed to include employee/applicant personal information was accessed. The company planned notifications and credit monitoring and reported related costs in filings.",
+    "why_it_matters": "Exposure of SSNs and government IDs increases identity theft risk and drives regulatory notification requirements and long-term fraud monitoring needs.",
+    "recommendation": "Minimize sensitive data stored in third-party databases, enforce strong access controls, and provide rapid identity-protection guidance to affected individuals.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/advance-auto-parts-confirms-data-breach-exposed-employee-information/",
+      "https://www.sec.gov/Archives/edgar/data/1158449/000115844924000162/aap-20240523.htm"
+    ]
+  }
+]

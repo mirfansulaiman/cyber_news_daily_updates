@@ -1,0 +1,112 @@
+[
+  {
+    "title": "DirtyDecrypt (DirtyCBC) Linux kernel page-cache write flaw now has a public root escalation PoC",
+    "published_wib": "2026-05-18T14:18:00+07:00",
+    "summary": "A proof-of-concept exploit was released for a Linux kernel rxgk module issue that can yield root privileges on certain configurations. The bug aligns with CVE-2026-31635 and impacts distributions closely tracking upstream kernels when CONFIG_RXGK is enabled.",
+    "why_it_matters": "Public PoCs typically accelerate weaponization; unpatched hosts may be quickly compromised after initial foothold to gain full root control.",
+    "recommendation": "Apply kernel updates promptly; where patching is delayed, consider temporary mitigations that disable vulnerable modules (with awareness of VPN/AFS impact).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "https://nvd.nist.gov/vuln/detail/CVE-2026-31635"
+    ]
+  },
+  {
+    "title": "NGINX Rift (CVE-2026-42945) exploitation begins days after PoC disclosure",
+    "published_wib": "2026-05-18T14:27:00+07:00",
+    "summary": "SecurityWeek reports VulnCheck detecting active exploitation attempts against CVE-2026-42945, a heap overflow in ngx_http_rewrite_module. Default configs may see DoS via worker crash/restart, while RCE is possible when ASLR is disabled and certain rewrite configs exist.",
+    "why_it_matters": "Internet-facing NGINX deployments are widespread; exploitation can cause disruption and, in edge cases, remote code execution leading to full server compromise.",
+    "recommendation": "Patch NGINX/F5 NGINX immediately, review rewrite rules exposure, and ensure ASLR is enabled across deployments.",
+    "sources": [
+      "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "https://nvd.nist.gov/vuln/detail/CVE-2026-42945"
+    ]
+  },
+  {
+    "title": "Pwn2Own Berlin 2026 concludes with 47 demonstrated zero-days and $1.3M in payouts",
+    "published_wib": "2026-05-18T12:33:00+07:00",
+    "summary": "The contest concluded with 47 unique zero-days demonstrated against fully patched products across enterprise and AI categories. Vendors have a standard 90-day window to ship patches before public disclosure by ZDI.",
+    "why_it_matters": "Enterprises should anticipate future patch waves across browsers, virtualization, and enterprise software targeted at the contest.",
+    "recommendation": "Track upcoming vendor advisories, prioritize patches tied to contest targets you operate, and validate compensating controls while waiting for fixes.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "https://www.zerodayinitiative.com/blog/2026/5/16/pwn2own-berlin-2026-day-three-results-and-master-of-pwn"
+    ]
+  },
+  {
+    "title": "MiniPlasma Windows privilege escalation zero-day PoC claims SYSTEM on fully patched Windows 11",
+    "published_wib": "2026-05-18T05:30:00+07:00",
+    "summary": "A researcher released a PoC exploit named MiniPlasma targeting the Cloud Filter driver (cldflt.sys), claiming a 2020 issue remains exploitable. Testing reported SYSTEM-level command execution on fully patched Windows 11, raising concerns of rapid in-the-wild abuse.",
+    "why_it_matters": "Public exploit code for LPE can be combined with phishing or malware to quickly escalate privileges and disable defenses or harvest credentials.",
+    "recommendation": "Monitor for exploit indicators and suspicious registry/file operations; apply vendor updates when available and enforce least-privilege and EDR controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17103"
+    ]
+  },
+  {
+    "title": "[+24h Old] Azure Backup for AKS 'confused deputy' privilege escalation report sparks silent patch controversy",
+    "published_wib": "2026-05-17T03:55:00+07:00",
+    "summary": "A researcher alleged that the low-privilege Backup Contributor role could be abused to gain cluster-admin via Trusted Access in Azure Backup for AKS. The report was rejected and no CVE issued, but the researcher observed behavior changes consistent with a silent fix.",
+    "why_it_matters": "Lack of CVE/advisory reduces defender visibility, making it harder to assess exposure windows and enforce remediation governance.",
+    "recommendation": "Review RBAC for backup vault roles, ensure Trusted Access is explicitly configured and audited, and log/alert on unexpected backup enablement actions.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "http://olearysec.com/research/azure-backup-aks-silent-patch/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cisco Catalyst SD-WAN Controller auth bypass (CVE-2026-20182) actively exploited in zero-day attacks",
+    "published_wib": "2026-05-15T03:09:00+07:00",
+    "summary": "Cisco disclosed CVE-2026-20182 (CVSS 10.0), an authentication bypass in SD-WAN peering that can allow login as a high-privileged internal account. The flaw has been exploited in the wild; Cisco provided IOCs and urged upgrades.",
+    "why_it_matters": "Successful exploitation can enable rogue peer registration and SD-WAN fabric manipulation, potentially enabling deep network compromise.",
+    "recommendation": "Patch to fixed releases, restrict management/control plane exposure to trusted IPs, and audit auth logs and peering events for anomalies.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-rpa2-v69WY2SW"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fragnesia (CVE-2026-46300) Linux kernel flaw allows unprivileged root via page-cache writes",
+    "published_wib": "2026-05-14T14:34:00+07:00",
+    "summary": "Fragnesia is a Dirty Frag class bug in the Linux XFRM ESP-in-TCP subsystem enabling arbitrary byte writes into page cache of read-only files. A PoC demonstrates corrupting /usr/bin/su in memory to obtain root privileges.",
+    "why_it_matters": "Local privilege escalation with a PoC increases risk for servers and developer endpoints where initial access is achievable through other vectors.",
+    "recommendation": "Apply kernel updates; if needed, temporarily unload esp4/esp6/rxrpc modules with awareness of operational tradeoffs.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "https://nvd.nist.gov/vuln/detail/CVE-2026-46300"
+    ]
+  },
+  {
+    "title": "[+24h Old] Windows BitLocker 'YellowKey' and 'GreenPlasma' zero-day PoCs published by disgruntled researcher",
+    "published_wib": "2026-05-13T23:37:00+07:00",
+    "summary": "Two PoCs were published: YellowKey targets WinRE behavior to bypass TPM-only BitLocker drive protection on the original device, while GreenPlasma is a privilege escalation concept. Independent researchers validated key aspects and urged stronger BitLocker configurations.",
+    "why_it_matters": "Physical access plus exploit chain may expose data on endpoints using TPM-only BitLocker, and LPE PoCs can enable rapid post-compromise escalation.",
+    "recommendation": "Prefer BitLocker with additional factors (PIN) where possible, set strong BIOS/UEFI passwords, and restrict access to recovery environments and removable media boot.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "https://github.com/Nightmare-Eclipse/YellowKey"
+    ]
+  },
+  {
+    "title": "[+24h Old] Exim SMTP server critical RCE (CVE-2026-45185) fixed in Exim 4.99.3",
+    "published_wib": "2026-05-14T03:23:00+07:00",
+    "summary": "CVE-2026-45185 is a use-after-free in Exim (GnuTLS builds with STARTTLS and CHUNKING) triggered during TLS shutdown handling BDAT traffic. The bug can allow unauthenticated remote code execution on affected configurations.",
+    "why_it_matters": "Email infrastructure compromise can enable message interception, lateral movement, and domain footholds in shared hosting and enterprise environments.",
+    "recommendation": "Upgrade to Exim 4.99.3 (or distro patches) and confirm whether your build uses GnuTLS with STARTTLS+CHUNKING enabled.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "https://nvd.nist.gov/vuln/detail/CVE-2026-45185"
+    ]
+  },
+  {
+    "title": "[+24h Old] Apple ships first 'Background Security Improvements' out-of-band update to patch WebKit CVE-2026-20643",
+    "published_wib": "2026-03-18T08:06:00+07:00",
+    "summary": "Apple used its Background Security Improvements mechanism to deliver a WebKit fix for CVE-2026-20643 without requiring a full OS upgrade. The issue could allow malicious web content to bypass the Same Origin Policy via a cross-origin Navigation API flaw.",
+    "why_it_matters": "WebKit browser bugs are frequently exploited in the wild; faster patch delivery reduces exposure windows, especially on mobile fleets.",
+    "recommendation": "Keep Background Security Improvements enabled, avoid uninstalling the background patch unless it causes device issues, and maintain timely OS updates.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
+      "https://support.apple.com/en-us/126604"
+    ]
+  }
+]

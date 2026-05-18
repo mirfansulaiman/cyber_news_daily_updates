@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Tycoon2FA phishing kit adds OAuth device-code flow to hijack Microsoft 365 accounts",
+    "published_wib": "2026-05-17T21:43:00+07:00",
+    "summary": "Researchers observed Tycoon2FA campaigns that lure targets through layered redirects and then trick them into completing Microsoft's legitimate device-login flow. Victims unknowingly authorize an attacker-controlled device, granting the actor access tokens to M365 services.",
+    "why_it_matters": "Device-code phishing can bypass typical credential protections and quickly lead to mailbox access, session/token theft, and downstream SaaS compromise.",
+    "recommendation": "Disable device-code flow where not needed, tighten OAuth consent and app approval, and monitor Entra logs for deviceCode auth events and anomalous user agents.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "https://www.esentire.com/blog/tycoon-2fa-operators-adopt-oauth-device-code-phishing",
+      "https://www.proofpoint.com/us/blog/threat-insight/device-code-phishing-evolution-identity-takeover"
+    ]
+  },
+  {
+    "title": "[+24h Old] Russian-linked Secret Blizzard evolves Kazuar backdoor into a modular peer-to-peer botnet",
+    "published_wib": "2026-05-16T21:15:00+07:00",
+    "summary": "Microsoft detailed how newer Kazuar variants use kernel/bridge/worker modules and elect a single 'leader' host to reduce external C2 traffic. The design improves stealth by keeping most infected systems in silent mode while still enabling collection and exfiltration.",
+    "why_it_matters": "P2P designs reduce detection surface and support long-dwell espionage operations, increasing the risk of sustained data theft from targeted environments.",
+    "recommendation": "Prioritize behavior-based detections, hunt for unusual IPC (named pipes/mailslots) patterns, and audit outbound proxy traffic tied to rare WebSockets/EWS patterns.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/"
+    ]
+  },
+  {
+    "title": "[+24h Old] KongTuke initial access broker shifts to Microsoft Teams helpdesk lures delivering ModeloRAT",
+    "published_wib": "2026-05-14T19:12:00+07:00",
+    "summary": "ReliaQuest reports KongTuke operators using external Microsoft Teams chats to impersonate IT/helpdesk staff and convince employees to run a PowerShell command. The chain downloads a ZIP from Dropbox and launches a Python-based RAT with expanded persistence and multi-channel access.",
+    "why_it_matters": "Fast social engineering via collaboration tools can yield initial access in minutes and be resold to ransomware operators for rapid lateral movement and extortion.",
+    "recommendation": "Restrict external Teams federation (allowlists), block suspicious tenant outreach, and hunt for unusual PowerShell + Dropbox download patterns and new scheduled tasks.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "https://reliaquest.com/blog/threat-spotlight-help-desk-lures-drop-kongtukes-evolved-modelorat"
+    ]
+  },
+  {
+    "title": "[+24h Old] OpenAI confirms employee devices impacted by TanStack 'Mini Shai-Hulud' supply-chain campaign",
+    "published_wib": "2026-05-15T02:07:00+07:00",
+    "summary": "OpenAI disclosed that two employees' devices showed malware behavior consistent with the TanStack supply-chain attack. The company rotated credentials and code-signing certificates as a precaution and stated there was no impact to customer data or production systems.",
+    "why_it_matters": "Supply-chain attacks can propagate broadly through trusted package ecosystems and CI/CD, exposing credentials, signing material, and internal source repositories.",
+    "recommendation": "Audit CI/CD workflows (especially GitHub Actions), rotate tokens/secrets, enforce least-privilege on publishing, and add install-time controls to detect suspicious package behavior.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/",
+      "https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack"
+    ]
+  },
+  {
+    "title": "[+24h Old] TeamPCP advertises nearly 450 Mistral AI repositories for sale after supply-chain fallout",
+    "published_wib": "2026-05-15T05:50:00+07:00",
+    "summary": "TeamPCP claimed it stole internal repositories and source code and attempted to monetize the theft by selling access. Mistral stated that the incident was linked to the TanStack supply-chain attack and said core services and user data were not compromised.",
+    "why_it_matters": "Even limited developer-environment compromise can cascade into code leakage, SDK contamination, and credential theft across downstream users.",
+    "recommendation": "Rotate all affected CI/CD secrets, review package integrity and provenance, and scan for post-compromise persistence in developer tools and runners.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "https://docs.mistral.ai/resources/security-advisories"
+    ]
+  },
+  {
+    "title": "[+24h Old] NoVoice Android malware used 50+ Google Play apps to exploit older Android bugs and deploy a rootkit",
+    "published_wib": "2026-04-02T01:07:00+07:00",
+    "summary": "McAfee described NoVoice as an Android operation that hides payloads via steganography and attempts privilege escalation using vulnerabilities patched between 2016\u20132021. Once rooted, it can hook system libraries and steal WhatsApp session material for account takeover.",
+    "why_it_matters": "Devices on outdated patch levels may be fully compromised, with persistence that can survive typical cleanup and enable messaging session cloning.",
+    "recommendation": "Ensure devices run supported Android versions with recent security patches, enable Play Protect, and treat previously-installed affected apps as a potential compromise indicator.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
+      "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-research-operation-novoice-rootkit-malware-android/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Google tracks UNC6783 targeting BPOs and Zendesk support to exfiltrate corporate data for extortion",
+    "published_wib": "2026-04-09T04:46:00+07:00",
+    "summary": "Google Threat Intelligence Group reported UNC6783 compromising business process outsourcing providers to reach high-value enterprises and steal support tickets. The actor also used spoofed Okta login pages resembling Zendesk patterns to bypass MFA and register devices.",
+    "why_it_matters": "BPO compromise can provide leverage into many downstream clients, enabling large-scale data theft and extortion across multiple brands.",
+    "recommendation": "Deploy phishing-resistant MFA (FIDO2), monitor live-chat workflows for abuse, and block lookalike Zendesk-support domains.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/amp/",
+      "https://cloud.google.com/blog/topics/threat-intelligence"
+    ]
+  },
+  {
+    "title": "[+24h Old] GhostPoster browser extension campaign persists with add-ons hiding malicious JavaScript in images",
+    "published_wib": "2026-01-17T22:23:00+07:00",
+    "summary": "LayerX reported additional GhostPoster-linked extensions across Chrome/Firefox/Edge that use image-based payload containers and obfuscated staging logic. The activity supports tracking, affiliate hijacking, and ad fraud, and includes longer dormancy to evade detection.",
+    "why_it_matters": "Malicious extensions can capture browsing activity and tokens, enabling credential theft and unauthorized access to enterprise apps via the browser.",
+    "recommendation": "Audit installed extensions, enforce enterprise allowlists, and monitor for extension network calls to unusual external hosts and injected scripts/iframes.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/",
+      "https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ClickFix-style macOS campaigns abuse fake Homebrew/LogMeIn pages to deliver AMOS and Odyssey stealers",
+    "published_wib": "2025-10-18T22:02:00+07:00",
+    "summary": "Hunt.io documented a malvertising ecosystem using dozens of lookalike domains and Terminal 'copy/paste' lures to fetch scripts and install macOS infostealers. Payloads include AMOS (Atomic macOS Stealer) and Odyssey, targeting browser data and crypto wallets.",
+    "why_it_matters": "Developer endpoints are high-value targets; successful infection can lead to credential and token theft, cloud compromise, and financial theft via wallets.",
+    "recommendation": "Block lookalike domains, educate users not to run pasted shell commands, and deploy EDR controls to detect suspicious curl|bash and quarantine-flag removal.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/",
+      "https://hunt.io/blog/macos-odyssey-amos-malware-campaign"
+    ]
+  },
+  {
+    "title": "[+24h Old] Font-rendering 'Poisoned Typeface' trick can hide malicious commands from AI assistants reviewing webpages",
+    "published_wib": "2026-03-17T20:59:00+07:00",
+    "summary": "LayerX demonstrated a mismatch between what the user sees and what an LLM reads from the DOM by remapping glyphs via custom fonts. Attackers can show a dangerous command to the user while exposing benign text to the assistant, encouraging unsafe actions.",
+    "why_it_matters": "Users may rely on AI assistants for safety checks; this technique undermines those checks and can increase successful social engineering for command execution.",
+    "recommendation": "Treat AI safety checks as advisory only; vendors should compare rendered view vs DOM and flag suspicious font/CSS obfuscation patterns.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+      "https://layerxsecurity.com/blog/poisoned-typeface-a-simple-font-rendering-poisons-every-ai-assistant-and-only-microsoft-cares"
+    ]
+  }
+]
