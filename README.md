@@ -4,11 +4,11 @@ This repository is used to store **daily reports** related to cyber security new
 
 ## Today Updates: [Vol. 001 | 2026-05-18 07:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: DirtyDecrypt (DirtyCBC) Linux kernel page-cache write flaw now has a public root escalation PoC and NGINX Rift (CVE-2026-42945) exploitation begins days after PoC disclosure. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released and [+24h Old] PoC code published for critical NGINX vulnerability (CVE-2026-42945). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: MiniPlasma Windows privilege escalation zero-day PoC claims SYSTEM on fully patched Windows 11. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
+Endpoint posture is also under pressure: Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
 
-Identity and edge access risks remain elevated: Tycoon2FA phishing kit adds OAuth device-code flow to hijack Microsoft 365 accounts, plus [+24h Old] Cisco Catalyst SD-WAN Controller auth bypass (CVE-2026-20182) actively exploited in zero-day attacks. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
+Identity and edge access risks remain elevated: [+24h Old] Shai-Hulud worm steals npm, GitHub, AWS, and Kubernetes secrets from developers, plus [+24h Old] Google Project Zero discloses zero-click exploit chain for Pixel 10 devices. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
 
 ![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_2026-05-18_issue-001.jpg)
 
