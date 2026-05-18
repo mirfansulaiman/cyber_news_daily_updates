@@ -6,19 +6,27 @@ This repository is used to store **daily reports** related to cyber security new
 
 Today's highlights are led by exploit-ready vulnerabilities: New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released and [+24h Old] PoC code published for critical NGINX vulnerability (CVE-2026-42945). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint and supply-chain exposure remains a key risk multiplier: Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase. Tighten CI/CD token scope and lifetime, monitor for anomalous repo access, and reduce post-compromise blast radius with least privilege and strong secret hygiene.
+Endpoint posture is also under pressure: Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
 
-Identity and device security pressures remain elevated: [+24h Old] Shai-Hulud worm steals npm, GitHub, AWS, and Kubernetes secrets from developers, plus [+24h Old] Google Project Zero discloses zero-click exploit chain for Pixel 10 devices. Prioritize phishing-resistant MFA/conditional access, harden developer endpoints, and ensure rapid patch compliance for managed mobile fleets.
+Identity and edge access risks remain elevated: [+24h Old] Shai-Hulud worm steals npm, GitHub, AWS, and Kubernetes secrets from developers, plus [+24h Old] Google Project Zero discloses zero-click exploit chain for Pixel 10 devices. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
 
 ![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_2026-05-18_issue-001.jpg)
 
-![Threat Intelligence Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_threat-intel_2026-05-18_issue-001.jpg)
+### TOP 10 - VULNERABILITIES
 
-![Latest Vulnerabilities Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_vulnerabilities_2026-05-18_issue-001.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_vulnerabilities_2026-05-18_issue-001.jpg)
 
-![Data Breach & Cybercrime Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_data-breach_2026-05-18_issue-001.jpg)
+### TOP 10 - THREAT INTEL
 
-PDF (raw): https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/cyber_newsletter_2026-05-18.pdf
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_threat-intel_2026-05-18_issue-001.jpg)
+
+### TOP 10 - DATA BREACH & CYBERCRIME
+
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_data-breach_2026-05-18_issue-001.jpg)
+
+### PDF Report
+
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/cyber_newsletter_2026-05-18.pdf
 
 
 ## Task Automation
