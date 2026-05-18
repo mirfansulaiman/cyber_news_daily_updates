@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""Generate PDF + posters from Report/**/source JSON files.
+"""Generate PDF + posters from Report/**/source JSON files, and keep README.md updated.
 
 Tujuan:
 - Menghindari upload file biner via MCP GitHub.
-- Push hanya data (JSON) dan biarkan GitHub Actions membangkitkan PDF/JPG dan commit ke repo.
+- Push hanya data (JSON) + email drafts.
+- Biarkan GitHub Actions membangkitkan PDF/JPG dan commit ke repo.
+- Update README.md secara konsisten (tanpa label "IMAGE POSTER SUMMARY:")
+  dan mengganti ringkasan menjadi 3 paragraf berdasarkan highlights poster utama.
 
 Input per issue folder:
 Report/<YEAR>/<ISSUE_DATE>/source/
@@ -20,7 +23,8 @@ Output per issue folder:
   - poster_vulnerabilities_<ISSUE_DATE>_issue-XXX.jpg
   - poster_data-breach_<ISSUE_DATE>_issue-XXX.jpg
 
-Catatan: Isi konten bahasa Inggris, sesuai requirement newsletter.
+Catatan:
+- Isi konten newsletter tetap Bahasa Inggris (requirement newsletter).
 """
 
 from __future__ import annotations
@@ -29,6 +33,7 @@ import argparse
 import json
 import os
 import random
+import re
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -45,6 +50,11 @@ from reportlab.pdfbase.ttfonts import TTFont
 
 NEON_YELLOW = (255, 255, 0)
 CYAN = (0, 255, 255)
+
+REPO_OWNER = "mirfansulaiman"
+REPO_NAME = "cyber_news_daily_updates"
+REPO_BRANCH = "main"
+RAW_BASE = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/{REPO_BRANCH}"
 
 DASH_REPLACEMENTS = {
     "\u2010": "-",
@@ -355,6 +365,95 @@ def draw_poster(out_path: Path, header: str, subheader: str, items: list[str], s
     img.convert("RGB").save(out_path, "JPEG", quality=92, optimize=True, progressive=True)
 
 
+def build_readme_summary_paragraphs(highlights: list[str]) -> list[str]:
+    h = list(highlights[:5])
+    while len(h) < 5:
+        h.append("")
+
+    return [
+        (
+            "Today's highlights are led by exploit-ready vulnerabilities: "
+            f"{h[0]} and {h[1]}. "
+            "Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure."
+        ),
+        (
+            "Endpoint posture is also under pressure: "
+            f"{h[2]}. "
+            "Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical."
+        ),
+        (
+            "Identity and edge access risks remain elevated: "
+            f"{h[3]}, plus {h[4]}. "
+            "Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components."
+        ),
+    ]
+
+
+def update_readme_today_updates(readme_path: Path, issue_date: str, vol: str):
+    year = issue_date[:4]
+    issue_tag = f"issue-{vol}"
+    base = f"{RAW_BASE}/Report/{year}/{issue_date}"
+
+    pdf = f"{base}/cyber_newsletter_{issue_date}.pdf"
+    cover = f"{base}/poster_{issue_date}_{issue_tag}.jpg"
+    pti = f"{base}/poster_threat-intel_{issue_date}_{issue_tag}.jpg"
+    pv = f"{base}/poster_vulnerabilities_{issue_date}_{issue_tag}.jpg"
+    pdb = f"{base}/poster_data-breach_{issue_date}_{issue_tag}.jpg"
+
+    # Load highlights for this issue
+    highlights_path = Path(f"Report/{year}/{issue_date}/source/highlights.json")
+    highlights = json.loads(highlights_path.read_text(encoding="utf-8")) if highlights_path.exists() else []
+    p1, p2, p3 = build_readme_summary_paragraphs(highlights)
+
+    new_block = "\n".join(
+        [
+            f"## Today Updates: [Vol. {vol} | {issue_date} 07:00 WIB]",
+            "",
+            p1,
+            "",
+            p2,
+            "",
+            p3,
+            "",
+            f"![Cover Poster]({cover})",
+            "",
+            "### TOP 10 - VULNERABILITIES",
+            "",
+            f"![Top 10 Vulnerabilities]({pv})",
+            "",
+            "### TOP 10 - THREAT INTEL",
+            "",
+            f"![Top 10 Threat Intel]({pti})",
+            "",
+            "### TOP 10 - DATA BREACH & CYBERCRIME",
+            "",
+            f"![Top 10 Data Breach & Cybercrime]({pdb})",
+            "",
+            "### PDF Report",
+            "",
+            f"Download: {pdf}",
+            "",
+        ]
+    )
+
+    if readme_path.exists():
+        content = readme_path.read_text(encoding="utf-8")
+    else:
+        content = "# Cyber News Daily Updates\n\n"
+
+    pattern = r"## Today Updates:[\s\S]*?(?=\n## Task Automation)"
+    if re.search(pattern, content, flags=re.MULTILINE):
+        updated = re.sub(pattern, new_block.rstrip() + "\n\n", content, flags=re.MULTILINE)
+    else:
+        # If template missing, append before Task Automation if exists
+        if "## Task Automation" in content:
+            updated = content.replace("## Task Automation", new_block + "\n## Task Automation")
+        else:
+            updated = content + "\n" + new_block
+
+    readme_path.write_text(updated, encoding="utf-8")
+
+
 def process_issue_folder(issue_dir: Path):
     source = issue_dir / "source"
     if not source.exists():
@@ -437,14 +536,22 @@ def main():
     if not root.exists():
         return
 
+    processed: list[tuple[str, str]] = []  # (issue_date, vol)
+
     # Iterate Report/<YEAR>/<ISSUE_DATE>/ folders
     for issue_dir in sorted(root.glob("*/????-??-??")):
-        try:
-            changed = process_issue_folder(issue_dir)
-            if changed:
-                print("generated", issue_dir)
-        except Exception as e:
-            raise
+        changed = process_issue_folder(issue_dir)
+        if changed:
+            src_meta = issue_dir / "source" / "meta.json"
+            meta = load_json(src_meta)
+            processed.append((meta["issue_date"], meta["vol"]))
+            print("generated", issue_dir)
+
+    # Update README for latest issue date
+    if processed:
+        latest_issue_date, latest_vol = sorted(processed, key=lambda x: x[0])[-1]
+        update_readme_today_updates(Path("README.md"), latest_issue_date, latest_vol)
+        print("updated README for", latest_issue_date, latest_vol)
 
 
 if __name__ == "__main__":
