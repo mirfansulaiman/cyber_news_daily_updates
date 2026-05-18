@@ -1,47 +1,61 @@
-name: Decode Report Base64
+name: Materialize Report Artifacts
 
 on:
   push:
     branches: [ "main" ]
     paths:
-      - "Report/**/*.b64"
+      - "Report/**/_chunks/**"
 
 permissions:
   contents: write
 
 jobs:
-  decode:
+  materialize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Decode .b64 files into binaries
+      - name: Assemble chunks and decode
         shell: bash
         run: |
           set -euo pipefail
           python3 - <<'PY'
           import base64
+          import json
           from pathlib import Path
 
           root = Path('Report')
           if not root.exists():
-            raise SystemExit(0)
+              raise SystemExit(0)
 
-          b64_files = sorted(root.rglob('*.b64'))
-          if not b64_files:
-            raise SystemExit(0)
+          manifests = sorted(root.rglob('_chunks/manifest.json'))
+          if not manifests:
+              raise SystemExit(0)
 
-          for p in b64_files:
-            out = p.with_suffix('')  # remove .b64
-            data = p.read_text(encoding='utf-8').strip()
-            out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_bytes(base64.b64decode(data))
-            p.unlink()
+          for mf in manifests:
+              chunk_dir = mf.parent
+              target_dir = chunk_dir.parent
+              spec = json.loads(mf.read_text(encoding='utf-8'))
+              files = spec.get('files', [])
+              for f in files:
+                  out_name = f['output']
+                  prefix = f['prefix']
+                  parts = int(f['parts'])
+                  b64 = ''
+                  for i in range(parts):
+                      part_path = chunk_dir / f"{prefix}.part{i:04d}"
+                      b64 += part_path.read_text(encoding='utf-8')
+                  (target_dir / out_name).write_bytes(base64.b64decode(b64))
 
-          print(f"Decoded {len(b64_files)} files")
+              # cleanup chunks
+              for p in chunk_dir.glob('*.part*'):
+                  p.unlink(missing_ok=True)
+              mf.unlink(missing_ok=True)
+
+          print(f"Processed {len(manifests)} manifest(s)")
           PY
 
-      - name: Commit decoded artifacts
+      - name: Commit materialized binaries
         shell: bash
         run: |
           set -euo pipefail
@@ -49,7 +63,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
-            git commit -m "[decoded] materialize report binaries"
+            git commit -m "[materialize] decode report artifacts"
             git push
           else
             echo "No changes"
