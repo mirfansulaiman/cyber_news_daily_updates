@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+    "published_wib": "2026-05-17 03:55 WIB",
+    "summary": "A researcher alleged Microsoft quietly fixed a critical Azure Backup for AKS issue after rejecting the report and without assigning a CVE; Microsoft disputed the claim and said the behavior was expected.",
+    "why_it_matters": "Disputed or quietly fixed cloud issues can still leave organizations exposed if they rely on assumptions about default security controls.",
+    "recommendation": "Review Azure Backup for AKS configurations, validate least-privilege access, and monitor audit logs for unexpected backup/restore activity or privilege escalation paths.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/"
+    ]
+  },
+  {
+    "title": "CVE-2026-8759 | xiandafu beetl up to 3.20.2 SpELFunction SpELFunction.java expression language injection (EUVD-2026-30704)",
+    "published_wib": "2026-05-17 00:50 WIB",
+    "summary": "A critical expression-language injection issue was reported in xiandafu beetl up to 3.20.2, potentially enabling attackers to execute attacker-controlled expressions in affected environments.",
+    "why_it_matters": "Expression injection vulnerabilities can lead to remote code execution or sensitive data access in server-side applications.",
+    "recommendation": "Identify affected deployments, upgrade to a patched release, and add WAF rules/validation to block malicious expression payload patterns.",
+    "sources": [
+      "https://vuldb.com/vuln/364386"
+    ]
+  },
+  {
+    "title": "CVE-2026-8758 | Metasoft MetaCRM up to 6.4.0 Beta06 upload3.jsp unrestricted file upload (EUVD-2026-30705)",
+    "published_wib": "2026-05-17 00:46 WIB",
+    "summary": "A critical unrestricted file upload vulnerability was disclosed in Metasoft MetaCRM (up to 6.4.0 Beta06), which could enable arbitrary file upload and potential server compromise.",
+    "why_it_matters": "Unrestricted upload issues are commonly weaponized to gain remote execution (webshells) and persistent access.",
+    "recommendation": "Patch/upgrade immediately, restrict access to upload endpoints, and monitor web directories for unexpected file creation and execution.",
+    "sources": [
+      "https://vuldb.com/vuln/364385"
+    ]
+  },
+  {
+    "title": "CVE-2026-8757 | adenhq hive up to 0.11.0 routes_sessions.py path traversal (EUVD-2026-30703)",
+    "published_wib": "2026-05-17 00:44 WIB",
+    "summary": "A critical path traversal vulnerability was reported in adenhq hive up to 0.11.0, potentially allowing unauthorized file access via crafted requests.",
+    "why_it_matters": "Path traversal can expose credentials, configuration files, and secrets that enable follow-on compromise.",
+    "recommendation": "Upgrade to a fixed version, apply request validation, and review logs for suspicious traversal patterns (e.g., ../ sequences and encoded variants).",
+    "sources": [
+      "https://vuldb.com/vuln/364384"
+    ]
+  },
+  {
+    "title": "CVE-2026-8756 | fishaudio Bert-VITS2 Gradio generate_config data_dir path traversal (EUVD-2026-30702)",
+    "published_wib": "2026-05-17 00:42 WIB",
+    "summary": "A critical path traversal flaw was disclosed in fishaudio Bert-VITS2 affecting a Gradio interface component, potentially allowing attackers to access files outside intended directories.",
+    "why_it_matters": "AI/ML web UIs are increasingly deployed internally and externally; traversal flaws can expose models, secrets, and system files.",
+    "recommendation": "Patch the affected build, restrict exposure of Gradio endpoints, and enforce authentication and network controls for ML tooling.",
+    "sources": [
+      "https://vuldb.com/vuln/364383"
+    ]
+  },
+  {
+    "title": "CVE-2026-8755 | fishaudio Bert-VITS2 hiyoriUI.py _get_all_models path traversal (EUVD-2026-30701)",
+    "published_wib": "2026-05-17 00:42 WIB",
+    "summary": "A critical path traversal vulnerability in fishaudio Bert-VITS2 was reported that could permit unauthorized access to files by manipulating model-related paths.",
+    "why_it_matters": "Traversal vulnerabilities can enable data theft and may serve as a stepping stone to broader compromise.",
+    "recommendation": "Update to a fixed version, review deployment exposure, and add defense-in-depth controls (authn, reverse proxy restrictions, and filesystem permissions).",
+    "sources": [
+      "https://vuldb.com/vuln/364382"
+    ]
+  },
+  {
+    "title": "CVE-2026-8754 | AstrBot up to 4.23.5 file upload filename path traversal (EUVD-2026-30700)",
+    "published_wib": "2026-05-17 00:39 WIB",
+    "summary": "A critical path traversal issue was identified in AstrBot (up to 4.23.5) in a file upload handler, potentially enabling attackers to write or access files outside intended paths.",
+    "why_it_matters": "Traversal and unsafe upload handling can lead to webshell deployment and full server compromise.",
+    "recommendation": "Patch immediately, validate and normalize upload paths, and monitor for anomalous uploads and unexpected file writes.",
+    "sources": [
+      "https://vuldb.com/vuln/364381"
+    ]
+  },
+  {
+    "title": "CVE-2026-8753 | Kodbox up to 1.64 ffmpegBin command injection (EUVD-2026-30698)",
+    "published_wib": "2026-05-16 23:28 WIB",
+    "summary": "A critical command injection vulnerability was reported in Kodbox up to 1.64, related to video thumbnail processing and ffmpeg binary invocation.",
+    "why_it_matters": "Command injection often results in remote code execution, enabling rapid compromise of file management servers.",
+    "recommendation": "Upgrade to a patched version, restrict exposure of media processing endpoints, and monitor for suspicious process execution and child processes spawned by the application.",
+    "sources": [
+      "https://vuldb.com/vuln/364380"
+    ]
+  },
+  {
+    "title": "CVE-2026-8752 | h2oai h2o-3 Rapids AstSetProperty.java exec access control (EUVD-2026-30699)",
+    "published_wib": "2026-05-16 23:25 WIB",
+    "summary": "A critical security issue in h2oai h2o-3 (up to 7402) was disclosed affecting Rapids property setting and access control, potentially enabling unauthorized execution paths.",
+    "why_it_matters": "Weak access control and unsafe execution primitives in analytics platforms can enable data theft and lateral movement in high-value environments.",
+    "recommendation": "Apply vendor patches, restrict network access to administrative APIs, and review role-based access controls for Rapids usage.",
+    "sources": [
+      "https://vuldb.com/vuln/364379"
+    ]
+  },
+  {
+    "title": "CVE-2026-8751 | h2oai h2o-3 Model.java importBinaryModel deserialization (EUVD-2026-30697)",
+    "published_wib": "2026-05-16 23:25 WIB",
+    "summary": "A critical deserialization issue was reported in h2oai h2o-3 (up to 7402) involving binary model import, which could enable code execution in certain deployment scenarios.",
+    "why_it_matters": "Deserialization vulnerabilities can allow remote code execution and are frequently exploited when untrusted data reaches vulnerable endpoints.",
+    "recommendation": "Upgrade to patched versions, disable or restrict model import endpoints, and ensure untrusted inputs cannot reach deserialization paths.",
+    "sources": [
+      "https://vuldb.com/vuln/364378"
+    ]
+  }
+]

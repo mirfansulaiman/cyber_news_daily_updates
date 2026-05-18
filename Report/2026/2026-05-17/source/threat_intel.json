@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+    "published_wib": "2026-05-16 22:20 WIB",
+    "summary": "Researchers reported active exploitation of a Funnel Builder WordPress plugin flaw to inject JavaScript skimmers into WooCommerce checkout flows and steal payment data.",
+    "why_it_matters": "Checkout skimming campaigns directly monetize compromised sites and can rapidly impact large numbers of customers when popular plugins are targeted.",
+    "recommendation": "Update/patch the affected plugin immediately, review checkout templates for injected scripts, and monitor for suspicious outbound connections and webshell indicators.",
+    "sources": [
+      "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/"
+    ]
+  },
+  {
+    "title": "[+24h Old] TeamPCP releases ‘vibe coded’ Shai-Hulud source code, issues challenge",
+    "published_wib": "2026-05-16 05:28 WIB",
+    "summary": "Researchers reported a release of ‘Shai-Hulud’ source code (a variant used in recent supply-chain activity), along with an associated challenge, increasing the likelihood of copycat tooling and derivatives.",
+    "why_it_matters": "Public release of attacker tooling can accelerate commoditization and broaden the set of actors capable of repeating similar campaigns.",
+    "recommendation": "Increase scrutiny of software supply-chain inputs (SCA/SBOM), pin dependencies, and hunt for indicators tied to known Shai-Hulud/TanStack-related activity.",
+    "sources": [
+      "https://www.scworld.com/news/teampcp-releases-vibe-coded-shai-hulud-source-code-issues-challenge"
+    ]
+  },
+  {
+    "title": "[+24h Old] 10.0 Cisco Catalyst SD-WAN Controller bug added to CISA’s KEV list",
+    "published_wib": "2026-05-16 05:23 WIB",
+    "summary": "A maximum-severity Cisco Catalyst SD-WAN Controller issue was added to CISA’s Known Exploited Vulnerabilities (KEV) catalog, signaling credible exploitation risk.",
+    "why_it_matters": "KEV additions typically correlate with real-world exploitation and should drive urgent remediation for internet-facing and high-privilege systems.",
+    "recommendation": "Patch/mitigate immediately, restrict management access, verify MFA and admin controls, and review logs for authentication bypass and anomalous administrative actions.",
+    "sources": [
+      "https://www.scworld.com/news/10-0-cisco-catalyst-sd-wan-controller-bug-added-to-cisas-kev-list"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers bypass Apple's M5 security with AI-powered macOS exploit",
+    "published_wib": "2026-05-16 04:48 WIB",
+    "summary": "Researchers described an AI-assisted exploit chain against macOS on Apple’s M5 platform, combining multiple techniques and vulnerabilities to achieve a working exploit.",
+    "why_it_matters": "AI-assisted exploit development can shorten time-to-weaponization, raising pressure on patch velocity and defensive telemetry.",
+    "recommendation": "Maintain rapid macOS patching, enable platform hardening controls, and prioritize endpoint visibility for exploit behavior (privilege escalation, persistence attempts, and unusual process injection).",
+    "sources": [
+      "https://www.scworld.com/brief/researchers-bypass-apples-m5-security-with-ai-powered-macos-exploit"
+    ]
+  },
+  {
+    "title": "[+24h Old] U.S. officials discard items from China trip over security concerns",
+    "published_wib": "2026-05-16 04:41 WIB",
+    "summary": "Reports described heightened operational security measures during U.S. officials’ travel, including discarding devices and gifts due to potential surveillance or compromise concerns.",
+    "why_it_matters": "Travel OPSEC incidents and supply-chain risks can lead to credential theft or persistent compromise, especially for high-value targets.",
+    "recommendation": "Use travel-specific devices, enforce strong device hardening and account controls, and perform post-travel forensics and credential rotation for high-risk trips.",
+    "sources": [
+      "https://www.scworld.com/brief/u-s-officials-discard-items-from-china-trip-over-security-concerns"
+    ]
+  },
+  {
+    "title": "[+24h Old] ESET details new Ghostwriter activity targeting Ukrainian government",
+    "published_wib": "2026-05-16 04:39 WIB",
+    "summary": "ESET reported new Ghostwriter-related activity targeting Ukrainian government entities via spear-phishing emails with a PDF lure, aligned to the FrostyNeighbor campaign.",
+    "why_it_matters": "Targeted phishing remains a primary initial access vector for espionage operations and often precedes credential theft or follow-on malware deployment.",
+    "recommendation": "Harden email security (attachment scanning/sandboxing), enforce MFA, and run targeted hunts for campaign-specific indicators in mail gateways and endpoint telemetry.",
+    "sources": [
+      "https://www.scworld.com/brief/eset-details-new-ghostwriter-activity-targeting-ukrainian-government"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+    "published_wib": "2026-05-16 00:47 WIB",
+    "summary": "On day two of Pwn2Own Berlin 2026, researchers demonstrated multiple zero-day exploits across platforms including Windows 11 and Microsoft Exchange, earning significant payouts.",
+    "why_it_matters": "Pwn2Own results provide early warning of impactful vulnerability classes that may be patched soon and later targeted by adversaries.",
+    "recommendation": "Track upcoming vendor patches, prioritize remediation for exposed services, and review compensating controls (EDR, attack surface reduction rules, and network segmentation).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/"
+    ]
+  },
+  {
+    "title": "[+24h Old] TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+    "published_wib": "2026-05-15 17:54 WIB",
+    "summary": "OpenAI disclosed that two employee endpoints were impacted via a TanStack-related supply-chain event, prompting macOS updates; the company reported no impact to user data or production systems.",
+    "why_it_matters": "Supply-chain compromises can bypass perimeter defenses and directly reach developer workstations and build pipelines.",
+    "recommendation": "Adopt dependency pinning and verification, monitor for anomalous package behavior, and enforce least-privilege and token hygiene in developer environments.",
+    "sources": [
+      "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-Linked Hackers Deploy New TencShell Malware Against Global Manufacturer",
+    "published_wib": "2026-05-15 15:00 WIB",
+    "summary": "A suspected China-linked actor targeted a manufacturer using new ‘TencShell’ tooling and webshell-style tradecraft, highlighting ongoing investment in stealthy post-compromise capabilities.",
+    "why_it_matters": "Webshell and modular backdoor activity can lead to long dwell time, data theft, and repeated access even after initial remediation.",
+    "recommendation": "Hunt for webshell indicators, audit exposed web applications, rotate credentials after suspected compromise, and deploy file integrity monitoring for web directories.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
+    "published_wib": "2026-05-15 08:00 WIB",
+    "summary": "A rail disruption incident in Taiwan highlighted how security gaps in operational technology (OT) environments can translate into real-world service disruption and safety concerns.",
+    "why_it_matters": "Transportation OT environments often have long asset lifecycles and limited monitoring, making them attractive for disruption-oriented threat activity.",
+    "recommendation": "Prioritize OT network segmentation, deploy OT-aware monitoring, and validate incident response playbooks with rail/ICS stakeholders.",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps"
+    ]
+  }
+]

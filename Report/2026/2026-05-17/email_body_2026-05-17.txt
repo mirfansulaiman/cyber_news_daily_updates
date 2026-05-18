@@ -1,0 +1,17 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming
+- Microsoft rejects critical Azure vulnerability report, no CVE issued
+- Russian hackers turn Kazuar backdoor into modular P2P botnet
+- [+24h Old] Popular node-ipc npm package compromised to steal credentials
+- [+24h Old] Avada Builder WordPress plugin flaws allow site credential theft
+
+Section Summaries:
+- Threat Intelligence: Supply-chain compromises and active exploitation continued, with multiple campaigns and proof-of-concept exploit activity shaping near-term risk.
+- Latest Vulnerabilities: Several critical CVEs and high-impact platform issues were discussed, underscoring the need for rapid patching and exposure reviews.
+- Data Breach & Cybercrime: Credential theft and malware delivery techniques remained prominent, alongside breach notifications and extortion-focused operations.
+
+CTA: Full report and infographics attached below.

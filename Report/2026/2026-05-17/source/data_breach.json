@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+    "published_wib": "2026-05-16 21:15 WIB",
+    "summary": "A Russia-linked actor evolved the long-running Kazuar backdoor into a modular peer-to-peer botnet to improve stealth, persistence, and data collection across compromised networks.",
+    "why_it_matters": "Modular P2P malware complicates takedown and can support long-term espionage or monetization through credential theft and secondary compromise.",
+    "recommendation": "Hunt for Kazuar-related artifacts, monitor DNS and unusual peer-to-peer traffic, and rotate credentials/tokens if systems are suspected of compromise.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Popular node-ipc npm package compromised to steal credentials",
+    "published_wib": "2026-05-16 00:10 WIB",
+    "summary": "Newly published node-ipc versions were compromised with an infostealer that exfiltrates cloud and developer secrets (AWS/Azure/GCP/OCI keys, CI/CD tokens, SSH keys, .env files) using DNS TXT queries for data exfiltration.",
+    "why_it_matters": "Developer and CI/CD credential theft can cascade into broader compromise, including cloud account takeover and supply-chain insertion into downstream software.",
+    "recommendation": "Remove affected versions, audit lockfiles and npm caches, rotate all potentially exposed secrets, and implement dependency integrity controls and anomaly detection for build environments.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Avada Builder WordPress plugin flaws allow site credential theft",
+    "published_wib": "2026-05-15 22:56 WIB",
+    "summary": "Two Avada Builder WordPress plugin vulnerabilities (including arbitrary file read and SQL injection conditions) could allow attackers to extract sensitive data and potentially achieve site takeover on impacted installations.",
+    "why_it_matters": "Credential and configuration exposure from high-install-base plugins can enable mass compromise, admin takeover, and downstream customer data theft.",
+    "recommendation": "Update Avada Builder to a fully patched version, review logs for suspicious access patterns, and rotate WordPress/database credentials if exposure is suspected.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers replaced JDownloader installer downloads with malware",
+    "published_wib": "2026-05-15 19:45 WIB",
+    "summary": "Attackers were reported to have swapped or replaced JDownloader installer downloads with malware, using a trusted distribution channel to improve victim success rates.",
+    "why_it_matters": "Trojanized installers are a reliable initial access vector that can lead to credential theft, ransomware, or secondary payload deployment.",
+    "recommendation": "Verify installers using official sources and signatures, monitor endpoint telemetry for suspicious installer behavior, and block unknown binaries via application allowlisting where feasible.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/05/attackers-replaced-jdownloader-installer-downloads-with-malware"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers use PyInstaller to hide XWorm malware",
+    "published_wib": "2026-05-16 04:48 WIB",
+    "summary": "Reports described attackers leveraging PyInstaller to package and obfuscate XWorm malware, complicating static analysis and improving delivery success.",
+    "why_it_matters": "Commodity malware families continue to adopt developer tooling to evade detection and accelerate distribution.",
+    "recommendation": "Improve detection for packed executables, monitor unusual Python runtime usage on endpoints, and strengthen email/web filtering against common malware delivery vectors.",
+    "sources": [
+      "https://www.scworld.com/brief/hackers-use-developer-tool-to-hide-xworm-malware"
+    ]
+  },
+  {
+    "title": "[+24h Old] FTC begins enforcing Take It Down Act for nonconsensual deepfakes",
+    "published_wib": "2026-05-16 04:43 WIB",
+    "summary": "The FTC began enforcing the Take It Down Act, requiring online platforms to remove nonconsensual intimate imagery and AI-generated ‘digital forgeries’ within defined timelines.",
+    "why_it_matters": "Regulatory enforcement shapes incident response obligations for platforms and can drive new abuse reporting, takedown, and moderation workflows.",
+    "recommendation": "Review trust-and-safety processes, improve abuse reporting and takedown SLAs, and strengthen identity verification and content integrity controls.",
+    "sources": [
+      "https://www.scworld.com/brief/ftc-begins-enforcing-take-it-down-act-for-nonconsensual-deepfakes"
+    ]
+  },
+  {
+    "title": "[+24h Old] Welcome to BlackFile: Inside a Vishing Extortion Operation",
+    "published_wib": "2026-05-15 21:00 WIB",
+    "summary": "Google Threat Intelligence Group detailed an extortion campaign involving vishing (voice phishing) by UNC6671, including operational patterns and tactics used to pressure victims.",
+    "why_it_matters": "Vishing-based extortion bypasses many technical controls and targets human workflows, often leading to rapid credential compromise or fraudulent fund transfers.",
+    "recommendation": "Implement call-back verification procedures, train staff on vishing scenarios, enforce MFA resistant to social engineering, and monitor for unusual helpdesk or account recovery activity.",
+    "sources": [
+      "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/"
+    ]
+  },
+  {
+    "title": "[+24h Old] American Lending Center Data Breach Affects 123,000 Individuals",
+    "published_wib": "2026-05-15 18:06 WIB",
+    "summary": "A lending company disclosed that a ransomware incident affected roughly 123,000 individuals, with notification following investigation into what data was accessed.",
+    "why_it_matters": "Financial-sector breaches can trigger identity fraud risks and provide attackers with data that enables targeted phishing and account takeover.",
+    "recommendation": "Validate incident response and backup readiness, rotate credentials, monitor for misuse of exposed data, and implement enhanced fraud monitoring for impacted populations.",
+    "sources": [
+      "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Congress Puts Heat on Instructure After Canvas Outage",
+    "published_wib": "2026-05-16 03:19 WIB",
+    "summary": "Following a cyber incident and outage affecting the Canvas platform, U.S. lawmakers questioned Instructure’s handling of the event and the reported interactions with the ShinyHunters group.",
+    "why_it_matters": "Education platforms are high-value targets due to large user bases and sensitive data; outage events can signal underlying data exposure risks.",
+    "recommendation": "Review third-party risk and incident communications plans, enforce strong authentication, and validate monitoring for suspicious data access and exfiltration patterns.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks"
+    ]
+  },
+  {
+    "title": "[+24h Old] What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+    "published_wib": "2026-05-15 18:00 WIB",
+    "summary": "An analysis argued that the highest-risk activity often looks like normal administration (PowerShell, remote management, scripting) and that observing first-party tool usage can reveal hidden exposure.",
+    "why_it_matters": "Living-off-the-land techniques reduce attacker reliance on malware and can evade detection if organizations do not baseline administrative tool usage.",
+    "recommendation": "Baseline and monitor administrative tooling (PowerShell/WMIC/remote exec), enforce least privilege and just-in-time access, and build detections around suspicious command lines and lateral movement patterns.",
+    "sources": [
+      "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
+    ]
+  }
+]
