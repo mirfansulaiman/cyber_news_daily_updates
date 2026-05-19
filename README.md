@@ -2,6 +2,9 @@
 
 This repository is used to store **daily reports** related to cyber security news and updates, published on a regular basis.
 
+## Support Me by Ko-fi
+ ![https://ko-fi.com/mirfansulaiman](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
+
 ## Today Updates: [Vol. 001 | 2026-05-19 07:00 WIB]
 
 Today's highlights are led by exploit-ready vulnerabilities: VU#777338: SGLang contains two remote code execution and one path traversal vulnerability and Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
