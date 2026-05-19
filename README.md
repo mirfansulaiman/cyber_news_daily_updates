@@ -2,31 +2,31 @@
 
 This repository is used to store **daily reports** related to cyber security news and updates, published on a regular basis.
 
-## Today Updates: [Vol. 001 | 2026-05-18 07:00 WIB]
+## Today Updates: [Vol. 001 | 2026-05-19 07:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released and [+24h Old] PoC code published for critical NGINX vulnerability (CVE-2026-42945). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: VU#777338: SGLang contains two remote code execution and one path traversal vulnerability and Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Grafana Labs security breach: attackers accessed GitHub token and downloaded private codebase. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
+Endpoint posture is also under pressure: MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
 
-Identity and edge access risks remain elevated: [+24h Old] Shai-Hulud worm steals npm, GitHub, AWS, and Kubernetes secrets from developers, plus [+24h Old] Google Project Zero discloses zero-click exploit chain for Pixel 10 devices. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
+Identity and edge access risks remain elevated: CVE-2026-42822 | Microsoft Azure Local/Azure Resource Manager improper authentication, plus Attackers are exploiting critical NGINX vulnerability (CVE-2026-42945). Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_2026-05-18_issue-001.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-19/poster_2026-05-19_issue-001.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_vulnerabilities_2026-05-18_issue-001.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-19/poster_vulnerabilities_2026-05-19_issue-001.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_threat-intel_2026-05-18_issue-001.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-19/poster_threat-intel_2026-05-19_issue-001.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/poster_data-breach_2026-05-18_issue-001.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-19/poster_data-breach_2026-05-19_issue-001.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-18/cyber_newsletter_2026-05-18.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-19/cyber_newsletter_2026-05-19.pdf
 
 
 ## Task Automation
