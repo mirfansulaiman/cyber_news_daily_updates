@@ -1,0 +1,102 @@
+[
+  {
+    "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
+    "published_wib": "2026-05-18T18:25:54+07:00",
+    "summary": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand. The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. The post 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/"
+    ]
+  },
+  {
+    "title": "201 arrested in INTERPOL disruption of phishing and fraud networks",
+    "published_wib": "2026-05-18T15:51:23+07:00",
+    "summary": "201 arrested in INTERPOL disruption of phishing and fraud networks. Operation Ramz, a cybercrime initiative coordinated by INTERPOL across the MENA region, focused on disrupting phishing campaigns, malware activity, and cyber scams that caused substantial financial losses across the region. The operation resulted in the arrest of 201 individuals and the identification of an additional 382 suspects. Moroccan authorities seized computers, smartphones and external hard drives containing banking data and software use.",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/18/interpol-mena-cybercrime-operation-ramz-201-arrests/"
+    ]
+  },
+  {
+    "title": "Game over for 74 suspected scammers after Dutch cops plastered their faces on billboards",
+    "published_wib": "2026-05-19T00:25:05+07:00",
+    "summary": "Game over for 74 suspected scammers after Dutch cops plastered their faces on billboards. The Dutch police’s Game Over?! campaign, which publicly displays images of suspected fraudsters to encourage self-surrenders and gather public tips, is proving successful, with the identities of 74 of the 100 suspects shown already identified. A digital display promoting the Dutch police’s Game Over?! campaign (Source: Politie) Launched in March 2026, the campaign displays blurred photos of 100 suspected fraudsters on billboards along motorways,.",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/18/dutch-police-game-over-fraudsters-campaign/"
+    ]
+  },
+  {
+    "title": "Grafana says stolen GitHub token let hackers steal codebase",
+    "published_wib": "2026-05-18T20:46:26+07:00",
+    "summary": "Grafana says stolen GitHub token let hackers steal codebase. Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...].",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/"
+    ]
+  },
+  {
+    "title": "Millions Impacted Across Several US Healthcare Data Breaches",
+    "published_wib": "2026-05-18T19:58:44+07:00",
+    "summary": "Millions Impacted Across Several US Healthcare Data Breaches. Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/"
+    ]
+  },
+  {
+    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+    "published_wib": "2026-05-19T03:48:21+07:00",
+    "summary": "CISA Admin Leaked AWS GovCloud Keys on Github. Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leak.",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
+    ]
+  },
+  {
+    "title": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
+    "published_wib": "2026-05-19T05:42:50+07:00",
+    "summary": "How Storm-2949 turned a compromised identity into a cloud-wide breach. Storm-2949 turned stolen credentials into a cloud-wide breach, moving from identity compromise to large-scale data theft without using malware. This incident shows how threat actors can exploit trusted systems to operate undetected. The post How Storm-2949 turned a compromised identity into a cloud-wide breach appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/"
+    ]
+  },
+  {
+    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+    "published_wib": "2026-05-19T00:21:18+07:00",
+    "summary": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests. INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these.",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html"
+    ]
+  },
+  {
+    "title": "Interpol Launches Sweeping Cybercrime Crackdown in MENA Region",
+    "published_wib": "2026-05-18T21:00:00+07:00",
+    "summary": "Interpol Launches Sweeping Cybercrime Crackdown in MENA Region. Over 200 people were arrested in an anti-cybercrime operation that spanned 13 countries across the Middle East and North Africa.",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/"
+    ]
+  },
+  {
+    "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+    "published_wib": "2026-05-18T15:34:59+07:00",
+    "summary": "Grafana Confirms Breach After Hackers Claim They Stole Data. Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity can lead to credential reuse, downstream attacks, and regulatory or reputational impact.",
+    "recommendation": "Assess potential exposure, hunt for related indicators, enforce MFA and credential hygiene, and validate incident response readiness.",
+    "sources": [
+      "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/"
+    ]
+  }
+]

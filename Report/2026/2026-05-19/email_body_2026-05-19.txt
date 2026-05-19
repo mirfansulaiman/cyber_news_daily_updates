@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- VU#777338: SGLang contains two remote code execution and one path traversal vulnerability
+- Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws
+- MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems
+- CVE-2026-42822 | Microsoft Azure Local/Azure Resource Manager improper authentication
+- Attackers are exploiting critical NGINX vulnerability (CVE-2026-42945)
+
+Section Summaries:
+- Threat Intelligence: Key threat-actor activity and ongoing campaigns focused on malware, phishing, and intrusion tradecraft.
+- Latest Vulnerabilities: Notable vulnerability disclosures and advisories that may require patching, mitigation, or compensating controls.
+- Data Breach & Cybercrime: Reports of breaches, ransomware, and cybercrime operations with potential downstream risk to organizations.
+
+CTA: Full report and infographics attached below.
+
+---

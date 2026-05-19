@@ -1,0 +1,102 @@
+[
+  {
+    "title": "VU#777338: SGLang contains two remote code execution and one path traversal vulnerability",
+    "published_wib": "2026-05-18T17:40:34+07:00",
+    "summary": "VU#777338: SGLang contains two remote code execution and one path traversal vulnerability. Three vulnerabilities have been discovered in the SGLang project, two enabling remote code execution (RCE), and one regarding a path traversal vulnerability. In order for an attacker to exploit these vulnerabilities, the multimodal generation mode must be enabled, and an attacker must have network access to the SGLang service. No patch is available at this time, and no response was obtained from the project maintainers during coordination. SGLang.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://kb.cert.org/vuls/id/777338"
+    ]
+  },
+  {
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+    "published_wib": "2026-05-18T17:54:05+07:00",
+    "summary": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws. Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks. \"External control of a file name in Ivanti Xtraction before version 2026.2 allows a r.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html"
+    ]
+  },
+  {
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+    "published_wib": "2026-05-18T15:57:34+07:00",
+    "summary": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems. Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma , has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma , the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver, and resides in a routine named \"HsmOsBlockPlaceholde.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html"
+    ]
+  },
+  {
+    "title": "CVE-2026-42822 | Microsoft Azure Local/Azure Resource Manager improper authentication",
+    "published_wib": "2026-05-19T01:52:22+07:00",
+    "summary": "CVE-2026-42822 | Microsoft Azure Local/Azure Resource Manager improper authentication. A vulnerability categorized as critical has been discovered in Microsoft Azure Local and Azure Resource Manager . This affects an unknown part. Executing a manipulation can lead to improper authentication. This vulnerability appears as CVE-2026-42822 . The attack may be performed from remote. There is no available exploit. It is advisable to upgrade the affected component.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://vuldb.com/vuln/364499"
+    ]
+  },
+  {
+    "title": "Attackers are exploiting critical NGINX vulnerability (CVE-2026-42945)",
+    "published_wib": "2026-05-18T20:29:49+07:00",
+    "summary": "Attackers are exploiting critical NGINX vulnerability (CVE-2026-42945). Help Net Security newsletters : Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! A critical NGINX vulnerability (CVE-2026-42945) disclosed last week is being exploited by attackers, VulnCheck security researcher Patrick Garrity revealed on Saturday. The vulnerability, dubbed NGINX Rift, can be reliably exploited to trigger a denial-of-service condition and can potentially allow for unauthenticated r.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/18/ngnix-vulnerability-exploited-cve-2026-42945/"
+    ]
+  },
+  {
+    "title": "Exploitation of Critical NGINX Vulnerability Begins",
+    "published_wib": "2026-05-18T14:27:42+07:00",
+    "summary": "Exploitation of Critical NGINX Vulnerability Begins. Hi, what are you looking for? The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled. By Flipboard Reddit Whatsapp Whatsapp Email The first in-the-wild attacks exploiting a critical-severity NGINX vulnerability patched last week have occurred over the weekend, VulnCheck warns. Tracked as CVE-2026-42945 (CVSS score of 9.2) and dubbed Nginx Rift , the flaw is described as a heap buffer overflo.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/"
+    ]
+  },
+  {
+    "title": "CVE-2026-26462 | Offline Hospital Management System 5.3.0 privilege escalation (EUVD-2026-30773)",
+    "published_wib": "2026-05-18T22:35:36+07:00",
+    "summary": "CVE-2026-26462 | Offline Hospital Management System 5.3.0 privilege escalation (EUVD-2026-30773). A vulnerability classified as critical has been found in Offline Hospital Management System 5.3.0 . Affected by this issue is some unknown functionality. The manipulation leads to privilege escalation. This vulnerability is referenced as CVE-2026-26462 . Remote exploitation of the attack is possible. No exploit is available.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://vuldb.com/vuln/364476"
+    ]
+  },
+  {
+    "title": "CVE-2026-45245 | steipete summarize up to 0.15.0 server-side request forgery",
+    "published_wib": "2026-05-19T05:31:17+07:00",
+    "summary": "CVE-2026-45245 | steipete summarize up to 0.15.0 server-side request forgery. A vulnerability marked as critical has been reported in steipete summarize up to 0.15.0 . This affects an unknown function. Performing a manipulation results in server-side request forgery. This vulnerability is known as CVE-2026-45245 . Remote exploitation of the attack is possible. No exploit is available. It is suggested to upgrade the affected component.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://vuldb.com/vuln/364516"
+    ]
+  },
+  {
+    "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+    "published_wib": "2026-05-19T04:43:51+07:00",
+    "summary": "Microsoft Exchange Zero-Day Under Attack, No Patch Available. CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch"
+    ]
+  },
+  {
+    "title": "CVE-2026-38719 | EIPStackGroup OpENer 2.3-558-g1e99582 CPF Message cpf.c CreateCommonPacketFormatStructure out-of-bounds (ID 558)",
+    "published_wib": "2026-05-19T01:41:20+07:00",
+    "summary": "CVE-2026-38719 | EIPStackGroup OpENer 2.3-558-g1e99582 CPF Message cpf.c CreateCommonPacketFormatStructure out-of-bounds (ID 558). A vulnerability, which was classified as problematic , has been found in EIPStackGroup OpENer 2.3-558-g1e99582 . The affected element is the function CreateCommonPacketFormatStructure of the file source/src/enet_encap/cpf.c of the component CPF Message Handler . Performing a manipulation results in out-of- bounds read. This vulnerability is identified as CVE-2026-38719 . The attack is only possible with local access. There is not any exploit avail.",
+    "why_it_matters": "Vulnerability disclosures and patch guidance affect exposure and can quickly translate into real-world exploitation.",
+    "recommendation": "Identify affected assets, prioritize patching/mitigations based on exploitability and exposure, and validate with scanning and change control.",
+    "sources": [
+      "https://vuldb.com/vuln/364492"
+    ]
+  }
+]

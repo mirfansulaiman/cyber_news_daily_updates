@@ -1,0 +1,102 @@
+[
+  {
+    "title": "18th May – Threat Intelligence Report",
+    "published_wib": "2026-05-18T21:58:29+07:00",
+    "summary": "18th May – Threat Intelligence Report. For the latest discoveries in cyber research for the week of 18th May, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES AI THREATS VULNERABILITIES AND PATCHES Check Point IPS provides protection against this threat (Nginx Heap Overflow (CVE-2026-42945)) THREAT INTELLIGENCE REPORTS Check Point Threat Emulation and Harmony Endpoint provide protection against this threat Subscribe for cpr blogs, news and more Subscribe Now.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "The AI backdoor your security stack is not built to see",
+    "published_wib": "2026-05-18T13:00:36+07:00",
+    "summary": "The AI backdoor your security stack is not built to see. Enterprises deploying LLMs have spent the past two years building defenses around a reasonable assumption: malicious behavior leaves a trace in the input. Scan for suspicious tokens, filter unusual characters, watch for prompt injection patterns. New research from Microsoft and the Institute of Science Tokyo demonstrates that this defensive posture has a blind spot, and the cost of that blind spot could be measured in leaked proprietary data and.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/18/metabackdoor-llm-backdoor-attack/"
+    ]
+  },
+  {
+    "title": "First Shai-Hulud Worm Clones Emerge",
+    "published_wib": "2026-05-18T16:45:15+07:00",
+    "summary": "First Shai-Hulud Worm Clones Emerge. At least one threat actor has adopted the recently released malware source code in attacks against NPM developers. The post First Shai-Hulud Worm Clones Emerge appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/"
+    ]
+  },
+  {
+    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+    "published_wib": "2026-05-18T15:57:26+07:00",
+    "summary": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware. Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai- Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads) \"One of the packages (chalk-tempalte).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html"
+    ]
+  },
+  {
+    "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-05-17, (Mon, May 18th)",
+    "published_wib": "2026-05-19T03:08:00+07:00",
+    "summary": "TeamPCP Supply Chain Campaign: Activity Through 2026-05-17, (Mon, May 18th). Since the last update, the TeamPCP supply chain campaign produced its loudest stretch since the March Trivy disclosure: an officially confirmed Checkmarx Jenkins plugin compromise and a new self-spreading Mini Shai-Hulud worm across npm and PyPI.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/32994"
+    ]
+  },
+  {
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+    "published_wib": "2026-05-18T18:23:41+07:00",
+    "summary": "Developer Workstations Are Now Part of the Software Supply Chain. Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html"
+    ]
+  },
+  {
+    "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+    "published_wib": "2026-05-19T00:28:02+07:00",
+    "summary": "Leaked Shai-Hulud malware fuels new npm infostealer campaign. The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...].",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/"
+    ]
+  },
+  {
+    "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
+    "published_wib": "2026-05-19T06:32:48+07:00",
+    "summary": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them. While also spoofing all the trusted domains - Apple, Microsoft, and Google - in the same attack.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258"
+    ]
+  },
+  {
+    "title": "SHub macOS infostealer variant spoofs Apple security updates",
+    "published_wib": "2026-05-19T04:42:20+07:00",
+    "summary": "SHub macOS infostealer variant spoofs Apple security updates. A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...].",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/"
+    ]
+  },
+  {
+    "title": "SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain",
+    "published_wib": "2026-05-18T20:00:42+07:00",
+    "summary": "SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain. SHub Reaper bypasses Apple's Terminal mitigation, steals credentials and documents, and plants a persistent backdoor for continued access after infection.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/shub-reaper-macos-stealer-spoofs-apple-google-and-microsoft-in-a-single-attack-chain/"
+    ]
+  }
+]
