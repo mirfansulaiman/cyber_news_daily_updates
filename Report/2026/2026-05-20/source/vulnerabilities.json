@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CVE-2026-34241 | Ctrlpanel-gg panel up to 1.1.x newmessage cross site scripting (GHSA-cmrr-q3hw-3vqh)",
+    "published_wib": "2026-05-20T05:33:18+07:00",
+    "summary": "A vulnerability was found in Ctrlpanel-gg panel up to 1.1.x . It has been rated as problematic . Affected by this vulnerability is an unknown functionality. Performing a manipulation of the argument newmessage results in cross site scripting. This vulnerability is cataloged as CVE-2026-34241…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364750"
+    ]
+  },
+  {
+    "title": "CVE-2023-7345 | Ledger ledgerhq/hw-app-eth/Live up to 6.34.6 Data Message type conversion (EUVD-2023-60576)",
+    "published_wib": "2026-05-20T05:33:09+07:00",
+    "summary": "A vulnerability was found in Ledger ledgerhq, hw-app-eth and Live up to 6.34.6 . It has been declared as problematic . Affected is an unknown function of the component Data Message Handler . Such manipulation leads to incorrect type conversion. This vulnerability is listed as CVE-2023-7345…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364749"
+    ]
+  },
+  {
+    "title": "CVE-2024-36343 | AMD EPYC 4004 System Management Mode buffer underflow",
+    "published_wib": "2026-05-20T05:32:58+07:00",
+    "summary": "A vulnerability was found in AMD EPYC 4004, EPYC 4005, Ryzen 6000 Processors with Radeon Graphics, Ryzen 7040 Mobile Processors with Radeon Graphics, Ryzen 7045 Mobile Processors with Radeon Graphics, Ryzen 7000 Desktop Processors, Ryzen 9000HX Mobile Processors, Ryzen AI MAX, Ryzen AI 300 Processors, Ryzen Threadripper 7000 Processors, Ryzen Threadripper P…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364748"
+    ]
+  },
+  {
+    "title": "CVE-2026-5090 | TODDR Template::Plugin::HTML up to 3.102 on Perl HTML Attribute var HTML injection (Issue 327 / EUVD-2026-30995)",
+    "published_wib": "2026-05-20T05:32:47+07:00",
+    "summary": "A vulnerability was found in TODDR Template::Plugin::HTML up to 3.102 on Perl and classified as problematic . This affects an unknown function of the component HTML Attribute Handler . The manipulation of the argument var results in HTML injection. This vulnerability is identified as CVE-2026-5090…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364747"
+    ]
+  },
+  {
+    "title": "CVE-2025-15645 | Ledger Nano X/Flex/Stax up to 2.4.1 MCU Firmware Update reset_handler improper validation of specified quantity in input (EUVD-2025-209901)",
+    "published_wib": "2026-05-20T05:32:44+07:00",
+    "summary": "A vulnerability has been found in Ledger Nano X, Flex and Stax up to 2.4.1 and classified as problematic . The impacted element is an unknown function of the component MCU Firmware Update Handler . The manipulation of the argument reset_handler leads to improper validation of specified quantity in input. This vulnerability is referenced as CVE-2025-15645…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364746"
+    ]
+  },
+  {
+    "title": "CVE-2026-34246 | Ctrlpanel-gg panel up to 1.1.x Admin Role Management Interface RoleController.php datatable role cross site scripting (GHSA-wpqj-xwhq-2mmh / EUVD-2026-30986)",
+    "published_wib": "2026-05-20T05:32:42+07:00",
+    "summary": "A vulnerability, which was classified as problematic , was found in Ctrlpanel-gg panel up to 1.1.x . The affected element is the function datatable of the file app/Http/Controllers/Admin/RoleController.php of the component Admin Role Management Interface…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364745"
+    ]
+  },
+  {
+    "title": "CVE-2026-34358 | Ctrlpanel-gg panel up to 1.1.x PATCH Request store/update access control (GHSA-pxmw-gj52-9p68 / EUVD-2026-30993)",
+    "published_wib": "2026-05-20T05:32:29+07:00",
+    "summary": "A vulnerability, which was classified as critical , has been found in Ctrlpanel-gg panel up to 1.1.x . Impacted is the function store/update of the component PATCH Request Handler . Performing a manipulation results in improper access controls. This vulnerability was named CVE-2026-34358…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364744"
+    ]
+  },
+  {
+    "title": "CVE-2026-34463 | mantisbt Mantis Bug Tracker up to 2.28.1 Project Name bug_report_page.php cross site scripting (GHSA-fvjf-68wh-rwp2)",
+    "published_wib": "2026-05-20T05:32:27+07:00",
+    "summary": "A vulnerability classified as problematic was found in mantisbt Mantis Bug Tracker up to 2.28.1 . This issue affects some unknown processing of the file bug_report_page.php of the component Project Name Handler . Such manipulation leads to cross site scripting. This vulnerability is uniquely identified as CVE-2026-34463…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364743"
+    ]
+  },
+  {
+    "title": "CVE-2026-34390 | mantisbt Mantis Bug Tracker up to 2.28.1 Custom Fields manage_proj_user_add.php access control (GHSA-frf7-jhp9-jxm6)",
+    "published_wib": "2026-05-20T05:32:25+07:00",
+    "summary": "A vulnerability classified as critical has been found in mantisbt Mantis Bug Tracker up to 2.28.1 . This vulnerability affects unknown code of the file manage_proj_user_add.php of the component Custom Fields Handler . This manipulation causes improper access controls. This vulnerability is handled as CVE-2026-34390…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364742"
+    ]
+  },
+  {
+    "title": "CVE-2026-34234 | Ctrlpanel-gg panel up to 1.1.x os command injection (GHSA-jmhr-q9q5-fqwh)",
+    "published_wib": "2026-05-20T05:32:08+07:00",
+    "summary": "A vulnerability described as critical has been identified in Ctrlpanel-gg panel up to 1.1.x . This affects an unknown part. The manipulation results in os command injection. This vulnerability is known as CVE-2026-34234 . It is possible to launch the attack remotely. No exploit is available. Upgrading the affected component is recommended.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/364741"
+    ]
+  }
+]

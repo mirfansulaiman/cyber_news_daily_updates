@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Torq acquires Jit.io to enhance AI-driven security operations",
+    "published_wib": "2026-05-20T06:52:06+07:00",
+    "summary": "Jit.io, founded in 2021, initially offered a security-as-code platform for developers, consolidating various application security and DevSecOps tools.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/torq-acquires-jit-io-to-enhance-ai-driven-security-operations"
+    ]
+  },
+  {
+    "title": "CISA contractor's public GitHub repo exposed sensitive government credentials",
+    "published_wib": "2026-05-20T06:50:05+07:00",
+    "summary": "The repository, named \"Private-CISA\" and maintained by contractor Nightwing, exposed AWS administrative credentials, access keys, tokens, plaintext usernames and passwords for internal CISA systems, and SSH keys.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-contractors-public-github-repo-exposed-sensitive-government-credentials"
+    ]
+  },
+  {
+    "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+    "published_wib": "2026-05-20T04:34:25+07:00",
+    "summary": "The AWS Customer Incident Response Team works with customers to help them recover from active security incidents. As part of this work, the team often uncovers new or trending tactics used by various threat actors that take advantage of specific customer configurations and designs. Understanding these tactics can help inform your architecture decisions, imp…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/"
+    ]
+  },
+  {
+    "title": "My Mother the Car, AI Slop, Nginx, Polyscope, Drupal, , GitHub, Aaran Leyland... - SWN #582",
+    "published_wib": "2026-05-20T04:00:00+07:00",
+    "summary": "My Mother the Car, AI Slop, Nginx, Polyscope, Drupal, , GitHub, Aaran Leyland... - SWN #582",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15018-my-mother-the-car-ai-slop-nginx-polyscope-drupal-github-aaran-leyland-swn-582"
+    ]
+  },
+  {
+    "title": "Discord rolls out end-to-end encryption on voice, video calls",
+    "published_wib": "2026-05-20T03:37:45+07:00",
+    "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/"
+    ]
+  },
+  {
+    "title": "SASE manages your network access, but who manages your SASE?",
+    "published_wib": "2026-05-20T03:21:50+07:00",
+    "summary": "SASE adoption is easier than ever, but expertise gaps still create major security and access risks.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/perspective/sase-manages-your-network-access-but-who-manages-your-sase"
+    ]
+  },
+  {
+    "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+    "published_wib": "2026-05-20T02:49:53+07:00",
+    "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named \"Private-CISA.\"",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo"
+    ]
+  },
+  {
+    "title": "Stealer Spoofs Google, Microsoft & Apple, Then Backdoors macOS",
+    "published_wib": "2026-05-20T02:49:40+07:00",
+    "summary": "The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos"
+    ]
+  },
+  {
+    "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+    "published_wib": "2026-05-20T02:35:32+07:00",
+    "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "AntV data visualization tool the latest to be hit by ongoing npm supply chain attacks",
+    "published_wib": "2026-05-20T02:19:05+07:00",
+    "summary": "The world’s largest open-source registry, node package manager (npm), has been hit by another fast-moving malware attack, this time targeting the widely-used AntV enterprise data visualization tool. Unlike last week’s high-profile npm attack on TanStack , which exploited a complex GitHub Actions cache poisoning weakness, the latest incident early on May 19…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4173291/antv-data-visualization-tool-the-latest-to-be-hit-by-ongoing-npm-supply-chain-attacks-2.html"
+    ]
+  }
+]

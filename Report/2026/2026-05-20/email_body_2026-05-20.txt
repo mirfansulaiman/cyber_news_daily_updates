@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Torq acquires Jit.io to enhance AI-driven security operations
+- CISA contractor's public GitHub repo exposed sensitive government credentials
+- CVE-2026-34241 | Ctrlpanel-gg panel up to 1.1.x newmessage cross site scripting (GHSA-cmrr-q3hw-3vqh)
+- CVE-2023-7345 | Ledger ledgerhq/hw-app-eth/Live up to 6.34.6 Data Message type conversion (EUVD-2023-60576)
+- CVE-2024-36343 | AMD EPYC 4004 System Management Mode buffer underflow
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Torq acquires Jit.io to enhance AI-driven security operations; with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CVE-2026-34241 | Ctrlpanel-gg panel up to 1.1.x newmessage cross site scripting (GHSA-cmrr-q3hw-3vqh); prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware; highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+    "published_wib": "2026-05-20T04:56:18+07:00",
+    "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013"
+    ]
+  },
+  {
+    "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+    "published_wib": "2026-05-20T04:47:31+07:00",
+    "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/"
+    ]
+  },
+  {
+    "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+    "published_wib": "2026-05-20T02:45:39+07:00",
+    "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/"
+    ]
+  },
+  {
+    "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+    "published_wib": "2026-05-19T23:38:12+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline fo…",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html"
+    ]
+  },
+  {
+    "title": "Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’",
+    "published_wib": "2026-05-19T23:06:22+07:00",
+    "summary": "Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software. The post Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’ appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/"
+    ]
+  },
+  {
+    "title": "Biometrics, diagnoses, and bank details exposed in major healthcare breach",
+    "published_wib": "2026-05-19T22:56:38+07:00",
+    "summary": "NYC Health + Hospitals says attackers accessed its systems for months through a third-party vendor compromise, affecting at least 1.8 million people.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/05/biometrics-diagnoses-and-bank-details-exposed-in-major-healthcare-breach"
+    ]
+  },
+  {
+    "title": "Exposing Fox Tempest: A malware-signing service operation",
+    "published_wib": "2026-05-19T22:07:01+07:00",
+    "summary": "Fox Tempest is a financially motivated threat actor operating a malware‑signing‑as‑a‑service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware. The post Exposing Fox Tempest: A malware-signing service operation appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/"
+    ]
+  },
+  {
+    "title": "Microsoft Takes Down Fox Tempest for Providing Ransomware-Enabling Signing Tool",
+    "published_wib": "2026-05-19T22:00:00+07:00",
+    "summary": "Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/"
+    ]
+  },
+  {
+    "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+    "published_wib": "2026-05-19T21:16:41+07:00",
+    "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/"
+    ]
+  },
+  {
+    "title": "A 6-step guide for responding to the Foxconn ransomware/supply chain incident",
+    "published_wib": "2026-05-19T21:01:54+07:00",
+    "summary": "Here’s how to develop a more effective response to supply chain attacks.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/perspective/a-6-step-guide-for-responding-to-the-foxconn-ransomware-supply-chain-incident"
+    ]
+  }
+]
