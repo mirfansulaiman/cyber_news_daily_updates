@@ -37,6 +37,22 @@ Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_upda
 - **Purpose**: Generates a daily newsletter summary highlighting key cyber security news/updates, then stores the output in this repository so it can be easily accessed and tracked over time.
 - **Frequency**: **Daily** (every day).
 
+### Data-only generation (TRAE)
+TRAE generates **ONLY**:
+- `Report/<YEAR>/<ISSUE_DATE>/source/*.json` (meta, highlights, 3 sections)
+- `Report/<YEAR>/<ISSUE_DATE>/email_subject_ISSUE_DATE.txt`
+- `Report/<YEAR>/<ISSUE_DATE>/email_body_ISSUE_DATE.txt`
+
+Then GitHub Actions materializes the PDF + poster JPGs from the JSON parts.
+
+**Rerun rules (cost-optimized):**
+- Default rerun for the same `ISSUE_DATE` is **NO SEARCH** (script exits if outputs exist).
+- To rebuild (and re-fetch RSS), run with `--force-re-run`.
+
+Generator script:
+- `python tools/trae_generate_sources.py`
+
+
 ## Repository Contents
 You will typically find:
 - Daily report/newsletter files (file format and naming convention follow the automation configuration).
