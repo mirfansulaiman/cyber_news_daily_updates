@@ -119,17 +119,20 @@ def load_allowlist() -> list[Feed]:
             url = str(f.get("url") or "").strip()
             if not url:
                 continue
+            lang = str(f.get("language") or "").strip().lower()
+            # Allowlist policy: use ONLY English feeds for consistency.
+            if lang != "en":
+                continue
             feeds.append(
                 Feed(
                     name=str(f.get("name") or url).strip(),
                     url=url,
                     category=cat_name,
-                    language=str(f.get("language") or "").strip().lower(),
+                    language=lang,
                 )
             )
 
-    # Prefer English feeds first; keep non-English as a fallback if needed.
-    feeds.sort(key=lambda x: (0 if x.language == "en" else 1, x.category, x.name))
+    feeds.sort(key=lambda x: (x.category, x.name))
     return feeds
 
 
