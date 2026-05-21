@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Drupal admins rushing to patch maximum severity SQL injection vulnerability",
+    "published_wib": "2026-05-21T06:58:57+07:00",
+    "summary": "Administrators of the Drupal open source content management platform are rushing to install an emergency patch issued today to fix a \u201chighly critical\u201d SQL injection vulnerability in the application\u2019s core. While the vulnerability only affects websites that use the PostgreSQL database, there may be upstream issues with Symfony, a set of PHP packages and web\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4175329/drupal-admins-rushing-to-patch-maximum-severity-sql-injection-vulnerability.html"
+    ]
+  },
+  {
+    "title": "WantToCry ransomware evades detection through SMB abuse, remote encryption",
+    "published_wib": "2026-05-21T05:13:09+07:00",
+    "summary": "More than 1.5 million exposed SMB ports may be susceptible to brute force attacks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/wanttocry-ransomware-evades-detection-through-smb-abuse-remote-encryption"
+    ]
+  },
+  {
+    "title": "VU#980487: Local privilege escalation in Linux Kernel (Dirty Frag)",
+    "published_wib": "2026-05-21T04:23:46.092345+07:00",
+    "summary": "Overview A privilege escalation vulnerability, nicknamed \"Dirty Frag,\" has been discovered in the Linux kernel versions 4.10 and later. This vulnerability is a result of chaining together two previously discovered vulnerabilities, xfrm-ESP Page-Cache Write CVE-2026-43284 and the RxRPC Page-Cache Write CVE-2026-43500\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/980487"
+    ]
+  },
+  {
+    "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+    "published_wib": "2026-05-21T04:19:17+07:00",
+    "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/"
+    ]
+  },
+  {
+    "title": "Terra Security expands platform to include network infrastructure exploitation validation",
+    "published_wib": "2026-05-21T04:11:41+07:00",
+    "summary": "Terra's platform now allows security teams to validate vulnerabilities across web applications, AI systems, and network infrastructure from a single console.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/terra-security-expands-platform-to-include-network-infrastructure-exploitation-validation"
+    ]
+  },
+  {
+    "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+    "published_wib": "2026-05-21T03:35:35+07:00",
+    "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud"
+    ]
+  },
+  {
+    "title": "Discord implements end-to-end encryption for voice and video calls",
+    "published_wib": "2026-05-21T00:16:43+07:00",
+    "summary": "The popular platform, which serves an estimated 690 million registered users, extended its open-source DAVE encryption protocol to cover all its clients, including desktop, mobile, web browsers, and gaming consoles.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/discord-implements-end-to-end-encryption-for-voice-and-video-calls"
+    ]
+  },
+  {
+    "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+    "published_wib": "2026-05-21T00:06:54+07:00",
+    "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and secu\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html"
+    ]
+  },
+  {
+    "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
+    "published_wib": "2026-05-20T23:12:08+07:00",
+    "summary": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os"
+    ]
+  },
+  {
+    "title": "CVE-2026-46333: Local Root Privilege Escalation and Credential Disclosure in the Linux Kernel ptrace Path",
+    "published_wib": "2026-05-20T22:40:19+07:00",
+    "summary": "The Qualys Threat Research Unit (TRU) has discovered and published the full advisory for CVE-2026-46333, a logic flaw in the Linux kernel\u2019s __ptrace_may_access() function that permits an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major distributions. The bug has resided in m\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/vulnerabilities-threat-research/2026/05/20/cve-2026-46333-local-root-privilege-escalation-and-credential-disclosure-in-the-linux-kernel-ptrace-path"
+    ]
+  }
+]

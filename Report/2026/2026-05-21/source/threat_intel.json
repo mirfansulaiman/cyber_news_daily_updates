@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+    "published_wib": "2026-05-21T04:36:24+07:00",
+    "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/"
+    ]
+  },
+  {
+    "title": "APIs under pressure: How AI is rewriting the rules of enterprise security",
+    "published_wib": "2026-05-21T04:35:35+07:00",
+    "summary": "The rapid growth of AI has created an explosion of APIs that will require new techniques to manage.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/resource/apis-under-pressure-how-ai-is-rewriting-the-rules-of-enterprise-security"
+    ]
+  },
+  {
+    "title": "1Password and OpenAI collaborate on secure credential access for AI coding agents",
+    "published_wib": "2026-05-21T04:21:54+07:00",
+    "summary": "The new 1Password Environments MCP Server for Codex establishes a secure runtime environment where secrets are mounted, utilized, and then discarded after use, requiring user authentication for each access.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/1password-and-openai-collaborate-on-secure-credential-access-for-ai-coding-agents"
+    ]
+  },
+  {
+    "title": "DataDome launches priority protect for virtual waiting rooms",
+    "published_wib": "2026-05-21T04:13:45+07:00",
+    "summary": "The product enhances DataDome's existing bot detection capabilities by classifying every request in real time and applying distinct access policies for different traffic types.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/datadome-launches-priority-protect-for-virtual-waiting-rooms"
+    ]
+  },
+  {
+    "title": "Investigating unauthorized access to GitHub\u2019s internal repositories",
+    "published_wib": "2026-05-21T04:07:38+07:00",
+    "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub\u2019s internal repositories appeared first on The GitHub Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/"
+    ]
+  },
+  {
+    "title": "Why Policy in Amazon Bedrock AgentCore chose Cedar for securing agentic workflows",
+    "published_wib": "2026-05-21T03:56:03+07:00",
+    "summary": "Agents have agency: they adapt and find multiple ways to solve problems. This autonomy creates a fundamental security challenge: the large language model (LLM) at the heart of the agent is non-deterministic, and its decisions can\u2019t be predicted or guaranteed in advance. It can hallucinate harmful actions with complete confidence. It\u2019s vulnerable to prompt i\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/"
+    ]
+  },
+  {
+    "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
+    "published_wib": "2026-05-21T03:52:25+07:00",
+    "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai"
+    ]
+  },
+  {
+    "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+    "published_wib": "2026-05-21T03:34:15+07:00",
+    "summary": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662"
+    ]
+  },
+  {
+    "title": "New Mini Shai-Hulud attack targets npm ecosystem",
+    "published_wib": "2026-05-21T03:31:41+07:00",
+    "summary": "Mini Shai-Hulud campaign hits 323 npm packages, GitHub Actions and VS Code tools.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/new-mini-shai-hulud-attack-targets-npm-ecosystem"
+    ]
+  },
+  {
+    "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 20)",
+    "published_wib": "2026-05-21T02:30:33+07:00",
+    "summary": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated May 20) appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+    ]
+  }
+]

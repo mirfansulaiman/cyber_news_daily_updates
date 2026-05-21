@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Drupal admins rushing to patch maximum severity SQL injection vulnerability
+- WantToCry ransomware evades detection through SMB abuse, remote encryption
+- Ukraine identifies infostealer operator tied to 28,000 stolen accounts
+- APIs under pressure: How AI is rewriting the rules of enterprise security
+- VU#980487: Local privilege escalation in Linux Kernel (Dirty Frag)
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Ukraine identifies infostealer operator tied to 28,000 stolen accounts; with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Drupal admins rushing to patch maximum severity SQL injection vulnerability; prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Carding forum B1ack's Stash releases millions of stolen credit card records; highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

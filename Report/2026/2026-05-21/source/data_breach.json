@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Carding forum B1ack's Stash releases millions of stolen credit card records",
+    "published_wib": "2026-05-21T04:16:34+07:00",
+    "summary": "The released data is unusually comprehensive, including full card numbers, expiration dates, CVV2 codes, cardholder names, billing addresses, email addresses, phone numbers, and IP addresses.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/carding-forum-b1acks-stash-releases-millions-of-stolen-credit-card-records"
+    ]
+  },
+  {
+    "title": "Trump Mobile phone provider reportedly leaking customer data",
+    "published_wib": "2026-05-21T03:58:41+07:00",
+    "summary": "A pair of YouTubers say their personal information, including mailing and email addresses, was leaked after they purchased the Trump Mobile T1 phone.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/trump-mobile-phone-provider-leaking-customer-data"
+    ]
+  },
+  {
+    "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
+    "published_wib": "2026-05-21T03:51:32+07:00",
+    "summary": "Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor \u2014 TeamPCP \u2014 took credit.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen"
+    ]
+  },
+  {
+    "title": "Processes and Culture Top Reasons Behind Data Breaches",
+    "published_wib": "2026-05-21T00:42:30+07:00",
+    "summary": "Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches"
+    ]
+  },
+  {
+    "title": "Grafana breach caused by missed token rotation after TanStack attack",
+    "published_wib": "2026-05-20T22:46:37+07:00",
+    "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/"
+    ]
+  },
+  {
+    "title": "Fake malware-signing service Fox Tempest dismantled by Microsoft",
+    "published_wib": "2026-05-20T22:33:02+07:00",
+    "summary": "The service let malware authors sign malicious files with fraudulent Microsoft-issued certificates to bypass security checks.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/05/fake-malware-signing-service-fox-tempest-dismantled-by-microsoft"
+    ]
+  },
+  {
+    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+    "published_wib": "2026-05-20T21:36:44+07:00",
+    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attributed the activity to a threat actor it calls Fox Tempest, whic\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html"
+    ]
+  },
+  {
+    "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+    "published_wib": "2026-05-20T21:02:12+07:00",
+    "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/"
+    ]
+  },
+  {
+    "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
+    "published_wib": "2026-05-20T20:34:54+07:00",
+    "summary": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context. The post 1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/"
+    ]
+  },
+  {
+    "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+    "published_wib": "2026-05-20T18:38:43+07:00",
+    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"
+    ]
+  }
+]
