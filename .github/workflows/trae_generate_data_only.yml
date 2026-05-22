@@ -1,0 +1,67 @@
+name: "TRAE — Generate Daily Sources (Data Only)"
+
+on:
+  # 07:00 WIB == 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      force_re_run:
+        description: "Force re-run (re-fetch RSS and overwrite outputs)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      issue_date:
+        description: "Override ISSUE_DATE (YYYY-MM-DD), optional"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trae-generate-data-only
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run TRAE generator (data-only)
+        env:
+          FORCE_RE_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.force_re_run || 'false' }}
+          ISSUE_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.issue_date || '' }}
+        run: |
+          set -euo pipefail
+          ARGS=()
+          if [ -n "${ISSUE_DATE}" ]; then
+            ARGS+=(--issue-date "${ISSUE_DATE}")
+          fi
+          if [ "${FORCE_RE_RUN}" = "true" ]; then
+            ARGS+=(--force-re-run)
+          fi
+          python tools/trae_generate_sources.py "${ARGS[@]}"
+
+      - name: Commit & push generated data
+        run: |
+          set -euo pipefail
+          if git status --porcelain | grep .; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add newsletter_state.json Report
+            git commit -m "[trae] generate data-only sources"
+            git push
+          else
+            echo "No changes"
+          fi

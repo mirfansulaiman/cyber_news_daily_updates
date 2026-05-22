@@ -603,11 +603,16 @@ def build_email(issue_date: str, vol: str, highlights: list[str], ti: list[dict]
 
     def section_sentence(name: str, items: list[dict], default_focus: str) -> str:
         if not items:
-            return f"{name}: No items were captured from the allowed RSS sources in the time window."
+            # Keep template expectation: max 2 sentences
+            return (
+                f"{name}: No items were captured from the allowed RSS sources in the time window. "
+                "Consider running a forced re-run if a prior run was incomplete."
+            )
         top = items[0]["title"]
         # remove [+24h Old] in summary sentence to reduce noise
         top = top.replace("[+24h Old] ", "")
-        return f"{name}: {len(items)} items, led by {top}; {default_focus}."
+        # Template expectation: <2 sentence>
+        return f"{name}: {len(items)} items, led by {top}. {default_focus}."
 
     body = "\n".join(
         [
@@ -710,6 +715,22 @@ def main(argv: list[str]) -> int:
         pool_48h = [c for c in all_items if in_window(c.published_utc, 48)]
         ti_sel, vul_sel, db_sel = pick_sections(pool_48h, cutoff_24h_utc)
 
+    # Hard validation: do not write partial outputs (prevents downstream broken artifacts).
+    if len(ti_sel) < 10 or len(vul_sel) < 10 or len(db_sel) < 10:
+        print(
+            "[error] Not enough unique RSS items to fill 10/10/10 within the 48-hour window.",
+            file=sys.stderr,
+        )
+        print(
+            f"[error] Counts: threat_intel={len(ti_sel)}, vulnerabilities={len(vul_sel)}, data_breach={len(db_sel)}",
+            file=sys.stderr,
+        )
+        print(
+            "[error] Aborting without writing outputs. Try --force-re-run later, or investigate feed availability.",
+            file=sys.stderr,
+        )
+        return 3
+
     # Materialize JSON parts
     ensure_dir(source_dir)
     ensure_dir(issue_root)
@@ -739,6 +760,13 @@ def main(argv: list[str]) -> int:
         prefix_old_title(c.title, c.published_utc.astimezone(WIB), cutoff_24h_wib)
         for c in combined[:5]
     ]
+
+    if len(highlights) < 5:
+        print(
+            f"[error] Not enough items to build 5 highlights (got {len(highlights)}). Aborting.",
+            file=sys.stderr,
+        )
+        return 3
 
     subject, body = build_email(
         issue_date=issue_date.isoformat(),
