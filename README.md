@@ -5,31 +5,31 @@ This repository is used to store **daily reports** related to cyber security new
 ## Support Me by Ko-fi
  ![https://ko-fi.com/mirfansulaiman](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
-## Today Updates: [Vol. 001 | 2026-05-21 07:00 WIB]
+## Today Updates: [Vol. 001 | 2026-05-22 07:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Drupal admins rushing to patch maximum severity SQL injection vulnerability and WantToCry ransomware evades detection through SMB abuse, remote encryption. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Wahlap data leak exposes 18.9 million records from WeChat mini-program ecosystem and Deleted Google API keys remain active for up to 23 minutes, study finds. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Ukraine identifies infostealer operator tied to 28,000 stolen accounts. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
+Endpoint posture is also under pressure: New Linux malware 'Showboat' targets Middle East telecom provider. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
 
-Identity and edge access risks remain elevated: APIs under pressure: How AI is rewriting the rules of enterprise security, plus VU#980487: Local privilege escalation in Linux Kernel (Dirty Frag). Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
+Identity and edge access risks remain elevated: 'First VPN' service used by cybercriminals dismantled in international operation, plus Nvidia releases driver updates to fix 14 critical vulnerabilities. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-21/poster_2026-05-21_issue-001.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-22/poster_2026-05-22_issue-001.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-21/poster_vulnerabilities_2026-05-21_issue-001.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-22/poster_vulnerabilities_2026-05-22_issue-001.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-21/poster_threat-intel_2026-05-21_issue-001.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-22/poster_threat-intel_2026-05-22_issue-001.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-21/poster_data-breach_2026-05-21_issue-001.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-22/poster_data-breach_2026-05-22_issue-001.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-21/cyber_newsletter_2026-05-21.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-22/cyber_newsletter_2026-05-22.pdf
 
 
 ## Task Automation
