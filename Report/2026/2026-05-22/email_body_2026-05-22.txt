@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Wahlap data leak exposes 18.9 million records from WeChat mini-program ecosystem
+- Deleted Google API keys remain active for up to 23 minutes, study finds
+- New Linux malware 'Showboat' targets Middle East telecom provider
+- 'First VPN' service used by cybercriminals dismantled in international operation
+- Nvidia releases driver updates to fix 14 critical vulnerabilities
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Deleted Google API keys remain active for up to 23 minutes, study finds. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by 'First VPN' service used by cybercriminals dismantled in international operation. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Wahlap data leak exposes 18.9 million records from WeChat mini-program ecosystem. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

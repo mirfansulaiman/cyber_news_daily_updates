@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Deleted Google API keys remain active for up to 23 minutes, study finds",
+    "published_wib": "2026-05-22T06:50:09+07:00",
+    "summary": "While the Google Cloud Platform console indicates immediate deletion, researchers found that keys take an average of 16 minutes to become fully inactive, with the longest observed delay reaching 23 minutes.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/deleted-google-api-keys-remain-active-for-up-to-23-minutes-study-finds"
+    ]
+  },
+  {
+    "title": "New Linux malware 'Showboat' targets Middle East telecom provider",
+    "published_wib": "2026-05-22T06:45:40+07:00",
+    "summary": "Showboat is believed to be utilized by Chinese-affiliated threat actors, with command-and-control infrastructure linked to Chengdu, China.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-linux-malware-showboat-targets-middle-east-telecom-provider"
+    ]
+  },
+  {
+    "title": "Dems slam Trump for making cybersecurity hold out the tin cup while splurging on ballroom and Jan. 6 'slush fund'",
+    "published_wib": "2026-05-22T06:03:16+07:00",
+    "summary": "'Budgets are moral documents,' Rep. Delia Ramirez said",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/22/dems-slam-trump-cyber-cuts-amid-ballroom-jan-6-slush-fund/5244618"
+    ]
+  },
+  {
+    "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
+    "published_wib": "2026-05-22T04:50:25+07:00",
+    "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 afte\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/"
+    ]
+  },
+  {
+    "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
+    "published_wib": "2026-05-22T04:11:40+07:00",
+    "summary": "Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms"
+    ]
+  },
+  {
+    "title": "FCC, Github, MiniShai-hulud, Stated of Supply Chain, Itron, CRA, NIS2, and more!! - PSW #927",
+    "published_wib": "2026-05-22T04:00:00+07:00",
+    "summary": "FCC, Github, MiniShai-hulud, Stated of Supply Chain, Itron, CRA, NIS2, and more!! - PSW #927",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/14954-fcc-github-minishai-hulud-stated-of-supply-chain-itron-cra-nis2-and-more-psw-927"
+    ]
+  },
+  {
+    "title": "Threat hunters find Google API keys still usable 23 minutes after deletion",
+    "published_wib": "2026-05-22T03:23:00+07:00",
+    "summary": "Plenty of time for bad actors to grab data or hit you with a giant bill",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/devops/2026/05/21/threat-hunters-find-google-api-keys-still-usable-23-minutes-after-deletion/5244504"
+    ]
+  },
+  {
+    "title": "Google API Keys Remain Active After Deletion",
+    "published_wib": "2026-05-22T03:07:47+07:00",
+    "summary": "A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion"
+    ]
+  },
+  {
+    "title": "AWS KY3P report now available for third-party supplier due diligence",
+    "published_wib": "2026-05-22T02:58:03+07:00",
+    "summary": "We\u2019re excited to announce that Amazon Web Services (AWS) has completed the S&P Global Know Your Third Party (KY3P) assessment of its security posture. This assessment demonstrates our continued commitment to meet the heightened expectations of cloud service providers. Customers can now use the AWS KY3P assessment to reduce their supplier due diligence burde\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/"
+    ]
+  },
+  {
+    "title": "HackerOne takes an axe to its bug bounty rewards",
+    "published_wib": "2026-05-22T02:27:24+07:00",
+    "summary": "Critical flaw payouts slashed by more than 75%",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/21/hackerone-takes-an-axe-to-its-bug-bounty-rewards/5244458"
+    ]
+  }
+]

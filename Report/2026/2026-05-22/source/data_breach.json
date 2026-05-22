@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Wahlap data leak exposes 18.9 million records from WeChat mini-program ecosystem",
+    "published_wib": "2026-05-22T06:53:05+07:00",
+    "summary": "Security researchers discovered an open Elasticsearch instance belonging to Wahlap, a prominent arcade game manufacturer that collaborates with industry giants like Sega.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/wahlap-data-leak-exposes-18-9-million-records-from-wechat-mini-program-ecosystem"
+    ]
+  },
+  {
+    "title": "Senator urges classified briefing after CISA data leak on GitHub",
+    "published_wib": "2026-05-22T02:08:44+07:00",
+    "summary": "A GitHub leak exposed CISA credentials, sparking concerns over secrets management and leadership.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/news/senator-urges-classified-briefing-after-cisa-data-leak-on-github"
+    ]
+  },
+  {
+    "title": "Cybercriminal VPN Dismantled in Europol Crackdown",
+    "published_wib": "2026-05-21T22:30:00+07:00",
+    "summary": "First VPN, a service used by ransomware actors and fraudsters, was dismantled by Europol",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/"
+    ]
+  },
+  {
+    "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+    "published_wib": "2026-05-21T22:11:08+07:00",
+    "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/"
+    ]
+  },
+  {
+    "title": "GitHub Breach Traced to Malicious 'Nx Console' VS Code Extension",
+    "published_wib": "2026-05-21T21:45:00+07:00",
+    "summary": "A threat actor compromised an Nx developer and posed as a legitimate maintainer to publish a malicious extension on Visual Studio Marketplace",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/"
+    ]
+  },
+  {
+    "title": "GitHub, Grafana Labs breaches traced back to TanStack supply chain compromise",
+    "published_wib": "2026-05-21T20:42:10+07:00",
+    "summary": "GitHub CISO Alexis Wales has named the malicious VS Code extension behind the breach they suffered at the hands of the threat group TeamPCP: Nx Console, a popular developer tool with 2.2 million installs. A malicious version of the otherwise benign extension was used to steal secrets and developer credentials, which were then used to move through CI/CD pipe\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/21/github-grafana-breach-root-cause-nx-console/"
+    ]
+  },
+  {
+    "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
+    "published_wib": "2026-05-21T19:20:00+07:00",
+    "summary": "Leakage blamed on treacherous friends exposed unencrypted credentials, email addresses",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024"
+    ]
+  },
+  {
+    "title": "Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes",
+    "published_wib": "2026-05-21T19:00:00+07:00",
+    "summary": "Qualys finds nine-year-old Linux ptrace flaw exposing SSH keys and password hashes locally",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/"
+    ]
+  },
+  {
+    "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+    "published_wib": "2026-05-21T18:52:14+07:00",
+    "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust. That is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html"
+    ]
+  },
+  {
+    "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+    "published_wib": "2026-05-21T18:17:15+07:00",
+    "summary": "The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions. The post Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/"
+    ]
+  }
+]

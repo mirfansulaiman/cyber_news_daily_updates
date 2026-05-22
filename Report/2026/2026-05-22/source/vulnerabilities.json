@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'First VPN' service used by cybercriminals dismantled in international operation",
+    "published_wib": "2026-05-22T06:39:41+07:00",
+    "summary": "First VPN marketed itself on Russian-speaking cybercrime forums as a reliable tool for anonymity, offering features like anonymous payments and concealed infrastructure to help users evade law enforcement.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/first-vpn-service-used-by-cybercriminals-dismantled-in-international-operation"
+    ]
+  },
+  {
+    "title": "Nvidia releases driver updates to fix 14 critical vulnerabilities",
+    "published_wib": "2026-05-22T06:37:21+07:00",
+    "summary": "The vulnerabilities affect GeForce, RTX, Quadro, Tesla, and NVS product lines, as well as vGPU and Cloud Gaming software.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/nvidia-releases-driver-updates-to-fix-14-critical-vulnerabilities"
+    ]
+  },
+  {
+    "title": "Critical vulnerability in Cisco Secure Workload rated at maximum severity",
+    "published_wib": "2026-05-22T05:39:20+07:00",
+    "summary": "A critical vulnerability in the on-premises version of the Cisco Secure Workload security platform could allow a threat actor to obtain the privileges of a site admin, enabling them to compromise endpoints and read or modify configuration data. \u201cCSOs need to drop what they are doing and patch this immediately,\u201d warned consultant Robert Enderle , who heads t\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.csoonline.com/article/4175913/critical-vulnerability-in-cisco-secure-workload-rated-at-maximum-severity.html"
+    ]
+  },
+  {
+    "title": "Microsoft patches two zero-day flaws in Defender",
+    "published_wib": "2026-05-22T05:05:47+07:00",
+    "summary": "Microsoft released emergency fixes for two zero-day vulnerabilities in the malware protection components of Microsoft Defender. The flaws allow local attackers to gain system-level privileges or cause the anti-malware service to stop working correctly. Both conditions are valuable in a malware attack, first to prevent detection if the system relies only on\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4175970/microsoft-patches-two-zero-day-flaws-in-defender.html"
+    ]
+  },
+  {
+    "title": "Unpatched ChromaDB flaw leaves servers open to remote code execution",
+    "published_wib": "2026-05-22T04:29:13+07:00",
+    "summary": "Researchers have published details about a critical vulnerability in ChromaDB that could allow unauthenticated attackers to execute arbitrary code and access sensitive data on machines running the open-source vector database. The issue, tracked as CVE-2026-45829, is located in ChromaDB\u2019s API server and was published by researchers at HiddenLayer after repor\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4175958/unpatched-chromadb-flaw-leaves-servers-open-to-remote-code-execution.html"
+    ]
+  },
+  {
+    "title": "CVE-2026-47114 | IINA up to 1.4.2 URL argument injection (EUVD-2026-31331)",
+    "published_wib": "2026-05-22T04:06:32+07:00",
+    "summary": "A vulnerability classified as critical was found in IINA up to 1.4.2 . Affected is an unknown function of the component URL Handler . Such manipulation leads to argument injection. This vulnerability is listed as CVE-2026-47114 . The attack may be performed from remote. There is no available exploit. Upgrading the affected component is advised.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365079"
+    ]
+  },
+  {
+    "title": "CVE-2026-8417 | Concrete CMS up to 9.5.0 do_update cross-site request forgery (EUVD-2026-31334)",
+    "published_wib": "2026-05-22T04:06:15+07:00",
+    "summary": "A vulnerability classified as problematic has been found in Concrete CMS up to 9.5.0 . This impacts the function do_update of the file /dashboard/extend/update/do_update/ . This manipulation causes cross-site request forgery. This vulnerability is tracked as CVE-2026-8417 . The attack is possible to be carried out remotely. No exploit exists.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365078"
+    ]
+  },
+  {
+    "title": "CVE-2026-4843 | mrdollar4444 GSheet for Woo Importer Plugin up to 2.3.1 on WordPress Configuration process_ajax_restore_action authorization (efa-9427-380 / EUVD-2026-31333)",
+    "published_wib": "2026-05-22T04:06:02+07:00",
+    "summary": "A vulnerability described as critical has been identified in mrdollar4444 GSheet for Woo Importer Plugin up to 2.3.1 on WordPress. This affects the function process_ajax_restore_action of the component Configuration Handler . The manipulation results in missing authorization. This vulnerability is identified as CVE-2026-4843\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365077"
+    ]
+  },
+  {
+    "title": "CVE-2026-8135 | Concrete CMS up to 9.5.0 REST API json_decode deserialization (EUVD-2026-31336)",
+    "published_wib": "2026-05-22T04:05:54+07:00",
+    "summary": "A vulnerability marked as problematic has been reported in Concrete CMS up to 9.5.0 . The impacted element is the function json_decode of the component REST API . The manipulation leads to deserialization. This vulnerability is referenced as CVE-2026-8135 . Remote exploitation of the attack is possible. No exploit is available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365076"
+    ]
+  },
+  {
+    "title": "CVE-2026-8134 | Concrete CMS up to 9.5.0 File Upload ptComposerFormLayoutSetControlCustomTemplate filename control (EUVD-2026-31335)",
+    "published_wib": "2026-05-22T04:05:02+07:00",
+    "summary": "A vulnerability labeled as problematic has been found in Concrete CMS up to 9.5.0 . The affected element is an unknown function of the component File Upload Handler\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365075"
+    ]
+  }
+]
