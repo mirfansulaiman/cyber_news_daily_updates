@@ -22,7 +22,7 @@
   {
     "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
     "published_wib": "2026-05-23T00:35:02+07:00",
-    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting…",
     "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
     "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
@@ -42,7 +42,7 @@
   {
     "title": "Police take down VPN service (this time with a good reason)",
     "published_wib": "2026-05-23T00:08:03+07:00",
-    "summary": "European authorities have cracked down on a VPN that has been used for various criminal activities. The operation, led by investigators in France and the Netherlands with help from Europol and Eurojust, has dismantled First VPN, a service that has been heavily promoted within Russia as a way of evading law enforcement. Criminals used it to conceal their ide",
+    "summary": "European authorities have cracked down on a VPN that has been used for various criminal activities. The operation, led by investigators in France and the Netherlands with help from Europol and Eurojust, has dismantled First VPN, a service that has been heavily promoted within Russia as a way of evading law enforcement. Criminals used it to conceal their ide…",
     "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
     "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
@@ -52,7 +52,7 @@
   {
     "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "published_wib": "2026-05-22T23:34:24+07:00",
-    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain",
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain…",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
