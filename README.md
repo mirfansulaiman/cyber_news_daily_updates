@@ -13,6 +13,32 @@ This repository stores **daily cybersecurity newsletters** (English) generated f
 Waiting for the first successful artifact generation run.
 <!-- AUTO-GENERATED:END -->
 
+## Today Updates: [Vol. 001 | 2026-05-23 07:00 WIB]
+
+Today's highlights are led by exploit-ready vulnerabilities: 2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT and A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+
+Endpoint posture is also under pressure: Ubiquiti patches three critical vulnerabilities in UniFi OS. Public privilege-escalation PoCs can rapidly turn initial access into full SYSTEM/root control, so monitoring and least-privilege hardening remain critical.
+
+Identity and edge access risks remain elevated: Cisco warns of AI inaccuracies in security incident reports, plus Organizations knowingly ship vulnerable code amid shrinking exploit windows. Prioritize OAuth/conditional-access hardening and minimize management-plane exposure on network control components.
+
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-23/poster_2026-05-23_issue-001.jpg)
+
+### TOP 10 - VULNERABILITIES
+
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-23/poster_vulnerabilities_2026-05-23_issue-001.jpg)
+
+### TOP 10 - THREAT INTEL
+
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-23/poster_threat-intel_2026-05-23_issue-001.jpg)
+
+### TOP 10 - DATA BREACH & CYBERCRIME
+
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-23/poster_data-breach_2026-05-23_issue-001.jpg)
+
+### PDF Report
+
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-05-23/cyber_newsletter_2026-05-23.pdf
+
 ## Task Automation
 
 ### Data-only generation (TRAE)
