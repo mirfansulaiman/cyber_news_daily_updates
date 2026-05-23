@@ -31,6 +31,124 @@ jobs:
           set -euo pipefail
           python tools/generate_from_json_parts.py --root Report
 
+      - name: Update README (after PDF/JPG generated)
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          OWNER = "mirfansulaiman"
+          REPO = "cyber_news_daily_updates"
+          BRANCH = "main"
+          RAW_BASE = f"https://raw.githubusercontent.com/{OWNER}/{REPO}/{BRANCH}"
+
+          report_root = Path("Report")
+
+          meta_paths = sorted(report_root.glob("*/????-??-??/source/meta.json"))
+          if not meta_paths:
+            raise SystemExit("No meta.json found under Report/**/source/. Cannot update README.")
+
+          issues = []
+          for mp in meta_paths:
+            try:
+              meta = json.loads(mp.read_text(encoding="utf-8"))
+              issue_date = str(meta.get("issue_date") or "").strip()
+              vol = str(meta.get("vol") or "").strip()
+              if issue_date:
+                issues.append((issue_date, vol, mp))
+            except Exception:
+              continue
+
+          if not issues:
+            raise SystemExit("meta.json files exist but none are parseable with issue_date.")
+
+          issue_date, vol, meta_path = max(issues, key=lambda x: x[0])
+          year = issue_date[:4]
+          issue_tag = f"issue-{vol}"
+
+          issue_dir = report_root / year / issue_date
+          source_dir = issue_dir / "source"
+
+          highlights = json.loads((source_dir / "highlights.json").read_text(encoding="utf-8"))
+          ti = json.loads((source_dir / "threat_intel.json").read_text(encoding="utf-8"))
+          vul = json.loads((source_dir / "vulnerabilities.json").read_text(encoding="utf-8"))
+          db = json.loads((source_dir / "data_breach.json").read_text(encoding="utf-8"))
+
+          def top_title(arr, default="(n/a)"):
+            try:
+              t = (arr[0] or {}).get("title") if isinstance(arr, list) else None
+              return str(t or default).strip()
+            except Exception:
+              return default
+
+          vul_top = top_title(vul)
+          ti_top = top_title(ti)
+          db_top = top_title(db)
+
+          cover = f"{RAW_BASE}/Report/{year}/{issue_date}/poster_{issue_date}_{issue_tag}.jpg"
+          poster_vul = f"{RAW_BASE}/Report/{year}/{issue_date}/poster_vulnerabilities_{issue_date}_{issue_tag}.jpg"
+          poster_ti = f"{RAW_BASE}/Report/{year}/{issue_date}/poster_threat-intel_{issue_date}_{issue_tag}.jpg"
+          poster_db = f"{RAW_BASE}/Report/{year}/{issue_date}/poster_data-breach_{issue_date}_{issue_tag}.jpg"
+          pdf = f"{RAW_BASE}/Report/{year}/{issue_date}/cyber_newsletter_{issue_date}.pdf"
+
+          # Build a simple English summary (heuristic, based on generated JSON).
+          snippet_lines = []
+          snippet_lines.append(f"## Today Updates: [Vol. {vol} | {issue_date} 07:00 WIB]")
+          snippet_lines.append("")
+          if isinstance(highlights, list) and highlights:
+            h2 = "; ".join([str(x).strip() for x in highlights[:2] if str(x).strip()])
+            snippet_lines.append(f"Today's highlights include: {h2}.")
+            snippet_lines.append("")
+          snippet_lines.append(f"Today's highlights are led by exploit-ready vulnerabilities: {vul_top}. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.")
+          snippet_lines.append("")
+          snippet_lines.append(f"Endpoint posture is also under pressure: {ti_top}. Threat-actor tradecraft and active campaigns can quickly shift, so keep detections, hunting, and email/web controls updated.")
+          snippet_lines.append("")
+          snippet_lines.append(f"Breaches and cybercrime activity remain elevated: {db_top}. Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA and data-loss controls.")
+          snippet_lines.append("")
+          snippet_lines.append(f"![Cover Poster]({cover})")
+          snippet_lines.append("")
+          snippet_lines.append("### TOP 10 - VULNERABILITIES")
+          snippet_lines.append("")
+          snippet_lines.append(f"![Top 10 Vulnerabilities]({poster_vul})")
+          snippet_lines.append("")
+          snippet_lines.append("### TOP 10 - THREAT INTEL")
+          snippet_lines.append("")
+          snippet_lines.append(f"![Top 10 Threat Intel]({poster_ti})")
+          snippet_lines.append("")
+          snippet_lines.append("### TOP 10 - DATA BREACH & CYBERCRIME")
+          snippet_lines.append("")
+          snippet_lines.append(f"![Top 10 Data Breach & Cybercrime]({poster_db})")
+          snippet_lines.append("")
+          snippet_lines.append("### PDF Report")
+          snippet_lines.append("")
+          snippet_lines.append(f"Download: {pdf}")
+          snippet_lines.append("")
+
+          snippet = "\n".join(snippet_lines).rstrip() + "\n"
+
+          start = "<!-- AUTO-GENERATED:START -->"
+          end = "<!-- AUTO-GENERATED:END -->"
+          block = f"{start}\n{snippet}{end}"
+
+          readme_path = Path("README.md")
+          if readme_path.exists():
+            text = readme_path.read_text(encoding="utf-8")
+          else:
+            text = "# Cyber News Daily Updates\n\n"
+
+          if start in text and end in text:
+            new_text = re.sub(rf"{re.escape(start)}[\\s\\S]*?{re.escape(end)}", block, text)
+          else:
+            lines = text.splitlines()
+            insert_at = 1 if lines and lines[0].startswith("#") else 0
+            new_text = "\n".join(lines[:insert_at] + ["", block, ""] + lines[insert_at:]).rstrip() + "\n"
+
+          readme_path.write_text(new_text, encoding="utf-8")
+          print(f"README updated for {issue_date} (Vol.{vol}).")
+          PY
+
       - name: Commit generated artifacts
         run: |
           set -euo pipefail
@@ -38,7 +156,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
-            git commit -m "[generate] materialize report artifacts"
+            git commit -m "[generate] materialize report artifacts + README"
             git push
           else
             echo "No changes"
