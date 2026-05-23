@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ubiquiti patches three critical vulnerabilities in UniFi OS",
+    "published_wib": "2026-05-23T04:14:04+07:00",
+    "summary": "The vulnerabilities, identified as CVE-2026-34908, CVE-2026-34909, and CVE-2026-34910, allow for unauthorized system changes, path traversal for accessing underlying system files, and command injection attacks, respectively.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ubiquiti-patches-three-critical-vulnerabilities-in-unifi-os"
+    ]
+  },
+  {
+    "title": "Organizations knowingly ship vulnerable code amid shrinking exploit windows",
+    "published_wib": "2026-05-23T04:09:56+07:00",
+    "summary": "New research from Checkmarx reveals that 75% of organizations admit to frequently or sometimes deploying code they are aware is vulnerable.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/organizations-knowingly-ship-vulnerable-code-amid-shrinking-exploit-windows"
+    ]
+  },
+  {
+    "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+    "published_wib": "2026-05-23T00:15:26+07:00",
+    "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/"
+    ]
+  },
+  {
+    "title": "Microsoft recognized as a Leader in The Forrester Wave for Workforce Identity Security Platforms",
+    "published_wib": "2026-05-23T00:00:00+07:00",
+    "summary": "Microsoft has been recognized as a Leader in The Forrester Wave: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories. The post Microsoft recognized as a Leader in The Forrester Wave for Workforce Identity Security Platforms appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity  Week 21",
+    "published_wib": "2026-05-22T22:08:13+07:00",
+    "summary": "Cops seize First VPN and share intel on users, Reaper spoofs multiple brands to infect Macs, and two Microsoft Defender zero-days exploited in the wild.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/"
+    ]
+  },
+  {
+    "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
+    "published_wib": "2026-05-22T21:07:06+07:00",
+    "summary": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout. The post In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/"
+    ]
+  },
+  {
+    "title": "$20 per zero-day is already the WordPress plugin reality",
+    "published_wib": "2026-05-22T21:00:28+07:00",
+    "summary": "Vulnerability researchers have spent the past year arguing about whether AI agents can find real bugs at scale or whether they mostly generate noise. A pipeline built in three days by researchers from TrendAI and CHT Security supplies an answer, along with a price tag that the security industry will have to reckon with. The system, presented at Ekoparty Mia",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/22/ai-wordpress-plugin-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+    "published_wib": "2026-05-22T20:39:19+07:00",
+    "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+    "published_wib": "2026-05-22T20:14:40+07:00",
+    "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/"
+    ]
+  },
+  {
+    "title": "Update Chrome now: Critical bugs could let attackers run code",
+    "published_wib": "2026-05-22T19:10:36+07:00",
+    "summary": "This Chrome update fixes critical flaws attackers could exploit through malicious websites, but not the \"Browser Fetch\" vulnerability.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code"
+    ]
+  }
+]

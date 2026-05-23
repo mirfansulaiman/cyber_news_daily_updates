@@ -1,0 +1,102 @@
+[
+  {
+    "title": "2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT",
+    "published_wib": "2026-05-23T04:20:00+07:00",
+    "summary": "2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/05/22/index.html"
+    ]
+  },
+  {
+    "title": "A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
+    "published_wib": "2026-05-23T04:18:53+07:00",
+    "summary": "Hey, Gemini, how much can we earn from one pump-and-dump cycle?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390"
+    ]
+  },
+  {
+    "title": "Cisco warns of AI inaccuracies in security incident reports",
+    "published_wib": "2026-05-23T04:12:21+07:00",
+    "summary": "Cisco's research highlights several key issues with AI-generated reports, including inconsistency and standardization challenges due to LLMs using different data for each query and producing slightly different outcomes even with the same data.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/cisco-warns-of-ai-inaccuracies-in-security-incident-reports"
+    ]
+  },
+  {
+    "title": "Kash Patel's merchandise site hacked to distribute malware",
+    "published_wib": "2026-05-23T04:08:24+07:00",
+    "summary": "The attack on Based Apparel, reportedly an attempt to distribute infostealer malware designed to steal user credentials, was first brought to light by a user on X.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/kash-patels-merchandise-site-hacked-to-distribute-malware"
+    ]
+  },
+  {
+    "title": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
+    "published_wib": "2026-05-23T04:00:00+07:00",
+    "summary": "TVs, Old York, Flipper One, Ubiquity, Underminr, CISOs, GitHub, Josh Marpet... - SWN #583",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15020-tvs-old-york-flipper-one-ubiquity-underminr-cisos-github-josh-marpet-swn-583"
+    ]
+  },
+  {
+    "title": "Zscaler acquires Symmetry Systems to enhance AI security",
+    "published_wib": "2026-05-23T03:59:25+07:00",
+    "summary": "The acquisition of Symmetry Systems is expected to bolster Zscaler's cybersecurity offerings, particularly in protecting artificial intelligence applications.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/zscaler-acquires-symmetry-systems-to-enhance-ai-security"
+    ]
+  },
+  {
+    "title": "Belarus-linked Ghostwriter group targets Ukraine using Prometheus learning platform lures",
+    "published_wib": "2026-05-23T03:53:04+07:00",
+    "summary": "Ghostwriter, also known as UAC-0057 and UNC1151, employs a multi-stage attack.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/belarus-linked-ghostwriter-group-targets-ukraine-using-prometheus-learning-platform-lures"
+    ]
+  },
+  {
+    "title": "Middle East malicious infrastructure report highlights concentration of C2 servers",
+    "published_wib": "2026-05-23T03:51:28+07:00",
+    "summary": "The Hunt.io report identified over 1,350 C2 servers across 98 providers in 14 Middle Eastern countries. Saudi Telecom Company (STC) alone accounted for more than 72% of this regional activity, often through compromised customer systems.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/middle-east-malicious-infrastructure-report-highlights-concentration-of-c2-servers"
+    ]
+  },
+  {
+    "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
+    "published_wib": "2026-05-23T01:57:14+07:00",
+    "summary": "Will Jason Statham save us?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342"
+    ]
+  },
+  {
+    "title": "FBI warns of Kali Oauth stealers",
+    "published_wib": "2026-05-23T00:51:17+07:00",
+    "summary": "The FBI has warned of the danger from a new wave of phishing attack s generated by a tool called Kali365. It enables cyber criminals to obtain Microsoft 365 access tokens and bypass multi-factor authentication (MFA) protocols without intercepting the users credentials by capturing Oauth tokens linked to the victims Microsoft 365 account. The scam works in",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4176464/fbi-warns-of-kali-oauth-stealers.html"
+    ]
+  }
+]

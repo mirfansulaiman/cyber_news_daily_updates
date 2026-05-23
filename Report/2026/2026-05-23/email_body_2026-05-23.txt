@@ -1,0 +1,20 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- 2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT
+- A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets
+- Ubiquiti patches three critical vulnerabilities in UniFi OS
+- Cisco warns of AI inaccuracies in security incident reports
+- Organizations knowingly ship vulnerable code amid shrinking exploit windows
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by 2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Ubiquiti patches three critical vulnerabilities in UniFi OS. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Former executives plead guilty in global tech support fraud scheme. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
+

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Former executives plead guilty in global tech support fraud scheme",
+    "published_wib": "2026-05-23T03:44:37+07:00",
+    "summary": "Former CEO Adam Young and former CSO Harrison Gevirtz admitted to a misprision of a felony charge. They operated C.A. Cloud Attribution, Ltd. between early 2017 and April 2022, providing services to customers known to be engaged in telemarketing and tech support fraud scams.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/former-executives-plead-guilty-in-global-tech-support-fraud-scheme"
+    ]
+  },
+  {
+    "title": "Dutch authorities arrest two in connection with sanctioned web hosting company",
+    "published_wib": "2026-05-23T03:42:45+07:00",
+    "summary": "The Dutch financial crime investigators (FIOD) arrested a 57-year-old company director and a 39-year-old who headed a separate firm providing internet connectivity.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/dutch-authorities-arrest-two-in-connection-with-sanctioned-web-hosting-company"
+    ]
+  },
+  {
+    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "published_wib": "2026-05-23T00:35:02+07:00",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
+    ]
+  },
+  {
+    "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+    "published_wib": "2026-05-23T00:24:52+07:00",
+    "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
+    ]
+  },
+  {
+    "title": "Police take down VPN service (this time with a good reason)",
+    "published_wib": "2026-05-23T00:08:03+07:00",
+    "summary": "European authorities have cracked down on a VPN that has been used for various criminal activities. The operation, led by investigators in France and the Netherlands with help from Europol and Eurojust, has dismantled First VPN, a service that has been heavily promoted within Russia as a way of evading law enforcement. Criminals used it to conceal their ide",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4176442/police-take-down-vpn-service-this-time-with-a-good-reason-2.html"
+    ]
+  },
+  {
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "published_wib": "2026-05-22T23:34:24+07:00",
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
+    ]
+  },
+  {
+    "title": "Former US execs plead guilty to aiding tech support scammers",
+    "published_wib": "2026-05-22T22:32:18+07:00",
+    "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
+    ]
+  },
+  {
+    "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
+    "published_wib": "2026-05-22T20:17:25+07:00",
+    "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks"
+    ]
+  },
+  {
+    "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+    "published_wib": "2026-05-22T20:09:18+07:00",
+    "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
+    ]
+  },
+  {
+    "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
+    "published_wib": "2026-05-22T19:11:03+07:00",
+    "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/"
+    ]
+  }
+]
