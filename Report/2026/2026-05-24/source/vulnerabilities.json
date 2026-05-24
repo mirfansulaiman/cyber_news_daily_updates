@@ -1,0 +1,102 @@
+[
+  {
+    "title": "\u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+    "published_wib": "2026-05-23T18:00:00+07:00",
+    "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post \u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/"
+    ]
+  },
+  {
+    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+    "published_wib": "2026-05-23T14:35:13+07:00",
+    "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
+    ]
+  },
+  {
+    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+    "published_wib": "2026-05-23T14:23:48+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported ver\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html"
+    ]
+  },
+  {
+    "title": "Google leaks details for Chromium bug that can turn browsers into bots",
+    "published_wib": "2026-05-23T07:08:01+07:00",
+    "summary": "Chromium \u2014 the open-source browser that underpins Google Chrome, Microsoft Edge, and Opera, among others \u2014 contains an unpatched vulnerability that attackers can exploit to execute JavaScript code persistently across browser restarts. As a result, the flaw can be used to hijack users\u2019 browsers for distributed denial-of-service attacks, run crypto miners, an\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4176504/google-leaks-details-for-chromium-bug-that-can-turn-browsers-into-bots.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ubiquiti patches three critical vulnerabilities in UniFi OS",
+    "published_wib": "2026-05-23T04:14:04+07:00",
+    "summary": "The vulnerabilities, identified as CVE-2026-34908, CVE-2026-34909, and CVE-2026-34910, allow for unauthorized system changes, path traversal for accessing underlying system files, and command injection attacks, respectively.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ubiquiti-patches-three-critical-vulnerabilities-in-unifi-os"
+    ]
+  },
+  {
+    "title": "[+24h Old] Organizations knowingly ship vulnerable code amid shrinking exploit windows",
+    "published_wib": "2026-05-23T04:09:56+07:00",
+    "summary": "New research from Checkmarx reveals that 75% of organizations admit to frequently or sometimes deploying code they are aware is vulnerable.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/organizations-knowingly-ship-vulnerable-code-amid-shrinking-exploit-windows"
+    ]
+  },
+  {
+    "title": "[+24h Old] Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+    "published_wib": "2026-05-23T00:15:26+07:00",
+    "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms",
+    "published_wib": "2026-05-23T00:00:00+07:00",
+    "summary": "Microsoft has been recognized as a Leader in The Forrester Wave\u2122: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories. The post Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/"
+    ]
+  },
+  {
+    "title": "[+24h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 21",
+    "published_wib": "2026-05-22T22:08:13+07:00",
+    "summary": "Cops seize First VPN and share intel on users, Reaper spoofs multiple brands to infect Macs, and two Microsoft Defender zero-days exploited in the wild.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/"
+    ]
+  },
+  {
+    "title": "[+24h Old] In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
+    "published_wib": "2026-05-22T21:07:06+07:00",
+    "summary": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout. The post In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Laravel Lang packages hijacked to deploy credential-stealing malware
+- npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks
+- Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware
+- Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes
+- Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Laravel Lang packages hijacked to deploy credential-stealing malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Former executives plead guilty in global tech support fraud scheme. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
