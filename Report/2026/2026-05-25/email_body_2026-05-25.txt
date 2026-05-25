@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Wireshark 4.6.6 Released, (Sun, May 24th)
+- Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign
+- CVE-2026-9486 | SourceCodester Student Grades Management System 1.0 cross-site request forgery
+- CVE-2026-9485 | SourceCodester Student Grades Management System 1.0 students.php Remarks cross site scripting
+- CVE-2026-9484 | SourceCodester Student Grades Management System 1.0 classroom.php getClassroomStudents/removeStudentFromClassroom classroom_id improper authorization
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by CVE-2026-9474 | yashpokharna2555 StudentManagementSystem up to cb2f558ddf8d19396de0f92abf2d224d46a0a203 /studentdel.php confirm_logged_in ID sql injection. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Wireshark 4.6.6 Released, (Sun, May 24th). prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by CVE-2026-9473 | c-rick jimeng-mcp 1.10.0 src/api.ts filePath path traversal (Issue 15). highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

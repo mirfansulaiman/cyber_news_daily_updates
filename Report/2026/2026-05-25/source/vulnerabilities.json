@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Wireshark 4.6.6 Released, (Sun, May 24th)",
+    "published_wib": "2026-05-24T23:38:21+07:00",
+    "summary": "Wireshark release 4.6.6 fixes 1 vulnerability and 11 bugs.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33010"
+    ]
+  },
+  {
+    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "published_wib": "2026-05-24T21:12:32+07:00",
+    "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"
+    ]
+  },
+  {
+    "title": "CVE-2026-9486 | SourceCodester Student Grades Management System 1.0 cross-site request forgery",
+    "published_wib": "2026-05-24T16:31:59+07:00",
+    "summary": "A vulnerability labeled as problematic has been found in SourceCodester Student Grades Management System 1.0 . This affects an unknown part. The manipulation results in cross-site request forgery. This vulnerability is identified as CVE-2026-9486 . The attack can be executed remotely. Additionally, an exploit exists.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365467"
+    ]
+  },
+  {
+    "title": "CVE-2026-9485 | SourceCodester Student Grades Management System 1.0 students.php Remarks cross site scripting",
+    "published_wib": "2026-05-24T16:31:57+07:00",
+    "summary": "A vulnerability identified as problematic has been detected in SourceCodester Student Grades Management System 1.0 . Affected by this issue is some unknown functionality of the file students.php . The manipulation of the argument Remarks leads to cross site scripting. This vulnerability is referenced as CVE-2026-9485…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365466"
+    ]
+  },
+  {
+    "title": "CVE-2026-9484 | SourceCodester Student Grades Management System 1.0 classroom.php getClassroomStudents/removeStudentFromClassroom classroom_id improper authorization",
+    "published_wib": "2026-05-24T16:31:40+07:00",
+    "summary": "A vulnerability categorized as critical has been discovered in SourceCodester Student Grades Management System 1.0 . Affected by this vulnerability is the function getClassroomStudents/removeStudentFromClassroom of the file classroom.php…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365465"
+    ]
+  },
+  {
+    "title": "CVE-2026-9483 | SourceCodester Student Grades Management System 1.0 grades.php student_id improper authorization",
+    "published_wib": "2026-05-24T16:31:37+07:00",
+    "summary": "A vulnerability was found in SourceCodester Student Grades Management System 1.0 . It has been rated as critical . Affected is an unknown function of the file grades.php . Performing a manipulation of the argument student_id results in improper authorization. This vulnerability was named CVE-2026-9483…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365464"
+    ]
+  },
+  {
+    "title": "CVE-2026-9482 | Edimax EW-7438RPn 1.31 /goform/formSDHCP submit-url stack-based overflow",
+    "published_wib": "2026-05-24T16:23:52+07:00",
+    "summary": "A vulnerability was found in Edimax EW-7438RPn 1.31 . It has been declared as critical . This impacts the function formSDHCP of the file /goform/formSDHCP . Such manipulation of the argument submit-url leads to stack-based buffer overflow. This vulnerability is uniquely identified as CVE-2026-9482…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365463"
+    ]
+  },
+  {
+    "title": "CVE-2026-9479 | Edimax EW-7438RPn 1.31 /goform/formLogout submit-url stack-based overflow",
+    "published_wib": "2026-05-24T16:23:44+07:00",
+    "summary": "A vulnerability has been found in Edimax EW-7438RPn 1.31 and classified as critical . The affected element is the function formLogout of the file /goform/formLogout . The manipulation of the argument submit-url leads to stack-based buffer overflow. This vulnerability is traded as CVE-2026-9479…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365460"
+    ]
+  },
+  {
+    "title": "CVE-2026-9478 | Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setParentalRules enable os command injection",
+    "published_wib": "2026-05-24T16:21:00+07:00",
+    "summary": "A vulnerability, which was classified as critical , was found in Totolink A8000RU 7.1cu.643_b20200521 . Impacted is the function setParentalRules of the file /cgi-bin/cstecgi.cgi of the component Web Management Interface . Executing a manipulation of the argument enable can lead to os command injection. This vulnerability appears as CVE-2026-9478…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365459"
+    ]
+  },
+  {
+    "title": "CVE-2026-9477 | Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setAccessDeviceCfg mac os command injection",
+    "published_wib": "2026-05-24T16:20:50+07:00",
+    "summary": "A vulnerability, which was classified as critical , has been found in Totolink A8000RU 7.1cu.643_b20200521 . This issue affects the function setAccessDeviceCfg of the file /cgi-bin/cstecgi.cgi of the component Web Management Interface…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/365458"
+    ]
+  }
+]

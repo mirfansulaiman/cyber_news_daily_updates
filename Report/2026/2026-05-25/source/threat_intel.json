@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CVE-2026-9474 | yashpokharna2555 StudentManagementSystem up to cb2f558ddf8d19396de0f92abf2d224d46a0a203 /studentdel.php confirm_logged_in ID sql injection",
+    "published_wib": "2026-05-24T16:17:34+07:00",
+    "summary": "A vulnerability described as critical has been identified in yashpokharna2555 StudentManagementSystem up to cb2f558ddf8d19396de0f92abf2d224d46a0a203 . Affected by this issue is the function confirm_logged_in of the file /studentdel.php . The manipulation of the argument ID results in sql injection. This vulnerability is cataloged as CVE-2026-9474…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365455"
+    ]
+  },
+  {
+    "title": "CVE-2026-9472 | dazeb markdown-downloader up to 3d4394b34b6c99d81af817623af55e3384df5a6a src/index.ts path traversal (Issue 12)",
+    "published_wib": "2026-05-24T16:12:55+07:00",
+    "summary": "A vulnerability labeled as critical has been found in dazeb markdown-downloader up to 3d4394b34b6c99d81af817623af55e3384df5a6a . Affected is the function download_markdown/list_downloaded_files/create_subdirectory of the file src/index.ts . Executing a manipulation can lead to path traversal. This vulnerability is tracked as CVE-2026-9472…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365453"
+    ]
+  },
+  {
+    "title": "CVE-2026-9470 | yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 student_trans.php confirm_logged_in FIRST_NAME/Last_Name/EMAIL sql injection",
+    "published_wib": "2026-05-24T16:11:11+07:00",
+    "summary": "A vulnerability categorized as critical has been discovered in yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 . This affects the function confirm_logged_in of the file student_trans.php . Such manipulation of the argument FIRST_NAME/Last_Name/EMAIL leads to sql injection. This vulnerability is referenced as CVE-2026-9470…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365451"
+    ]
+  },
+  {
+    "title": "CVE-2026-9468 | dazeb cline-mcp-memory-bank up to 55c81b9cf6c16700983c84dc4cdea3cafa19a75f src/index.ts handleInitializeMemoryBank projectPath path traversal",
+    "published_wib": "2026-05-24T16:06:15+07:00",
+    "summary": "A vulnerability was found in dazeb cline-mcp-memory-bank up to 55c81b9cf6c16700983c84dc4cdea3cafa19a75f . It has been declared as critical . The affected element is the function handleInitializeMemoryBank of the file src/index.ts . The manipulation of the argument projectPath results in path traversal. This vulnerability was named CVE-2026-9468…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365449"
+    ]
+  },
+  {
+    "title": "CVE-2026-9466 | Tiandy Easy7 Integrated Management Platform 7.17.0 API Endpoint updateUserPassword password recovery",
+    "published_wib": "2026-05-24T16:00:47+07:00",
+    "summary": "A vulnerability was found in Tiandy Easy7 Integrated Management Platform 7.17.0 and classified as critical . This issue affects some unknown processing of the file /rest/user/updateUserPassword of the component API Endpoint . Executing a manipulation can lead to weak password recovery. This vulnerability is handled as CVE-2026-9466…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365447"
+    ]
+  },
+  {
+    "title": "CVE-2026-9464 | YunaiV yudao-cloud 2026.03 Admin API Endpoint create IotDataSinkHttpConfig server-side request forgery",
+    "published_wib": "2026-05-24T15:17:03+07:00",
+    "summary": "A vulnerability, which was classified as critical , was found in YunaiV yudao-cloud 2026.03 . This affects the function IotDataSinkHttpConfig of the file /admin-api/iot/data-sink/create of the component Admin API Endpoint . Such manipulation leads to server-side request forgery. This vulnerability is traded as CVE-2026-9464…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365445"
+    ]
+  },
+  {
+    "title": "CVE-2026-9462 | Edimax EW-7438RPn 1.31 formWpsProxyEnable submit-url stack-based overflow",
+    "published_wib": "2026-05-24T15:08:27+07:00",
+    "summary": "A vulnerability classified as critical was found in Edimax EW-7438RPn 1.31 . Affected by this vulnerability is the function formWpsProxyEnable of the file /goform/formWpsProxyEnable . The manipulation of the argument submit-url results in stack-based buffer overflow. This vulnerability is reported as CVE-2026-9462…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365443"
+    ]
+  },
+  {
+    "title": "CVE-2026-9457 | Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi UploadFirmwareFile FileName os command injection",
+    "published_wib": "2026-05-24T15:02:41+07:00",
+    "summary": "A vulnerability identified as critical has been detected in Totolink A8000RU 7.1cu.643_b20200521 . The affected element is the function UploadFirmwareFile of the file /cgi-bin/cstecgi.cgi of the component Web Management Interface . This manipulation of the argument FileName causes os command injection. This vulnerability is tracked as CVE-2026-9457…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365438"
+    ]
+  },
+  {
+    "title": "Week in review: GitHub breached via poisoned VS Code extension, critical NGINX flaw exploited",
+    "published_wib": "2026-05-24T15:00:37+07:00",
+    "summary": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub, Grafana Labs breaches traced back to TanStack supply chain compromise GitHub CISO Alexis Wales has named the malicious VS Code extension behind the breach they suffered at the hands of the threat group TeamPCP: Nx Console, a popular developer tool with…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/24/week-in-review-github-breached-via-poisoned-vs-code-extension-critical-nginx-flaw-exploited/"
+    ]
+  },
+  {
+    "title": "CVE-2026-9452 | FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 /src/tools/exec.ts ExecTool.execute os command injection",
+    "published_wib": "2026-05-24T14:59:31+07:00",
+    "summary": "A vulnerability was found in FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 and classified as critical . Affected by this issue is the function ExecTool.execute of the file /src/tools/exec.ts . Such manipulation leads to os command injection. This vulnerability is uniquely identified as CVE-2026-9452…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://vuldb.com/vuln/365433"
+    ]
+  }
+]
