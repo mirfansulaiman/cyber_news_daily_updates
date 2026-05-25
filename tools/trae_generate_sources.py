@@ -469,6 +469,7 @@ def required_outputs(report_dir: Path, issue_date: str) -> list[Path]:
         src / "threat_intel.json",
         src / "vulnerabilities.json",
         src / "data_breach.json",
+        src / "readme_summary.json",
     ]
 
 
@@ -625,6 +626,83 @@ def build_email(issue_date: str, vol: str, highlights: list[str], ti: list[dict]
     )
 
     return subject.strip() + "\n", body.strip() + "\n"
+
+
+def _pick_best_item(items: list[dict], keywords: tuple[str, ...]) -> Optional[dict]:
+    if not items:
+        return None
+    if not keywords:
+        return items[0]
+    for it in items:
+        blob = f"{it.get('title','')} {it.get('summary','')}".lower()
+        if any(k in blob for k in keywords):
+            return it
+    return items[0]
+
+
+def build_readme_summaries(
+    *,
+    ti_json: list[dict],
+    vul_json: list[dict],
+    db_json: list[dict],
+) -> dict:
+    # These strings are inserted after fixed leading clauses in README.md.
+    v1 = strip_age_prefix(str(vul_json[0].get("title") or "")) if vul_json else ""
+    v2 = strip_age_prefix(str(vul_json[1].get("title") or "")) if len(vul_json) > 1 else ""
+    led_by_vulns = (
+        f"{v1} and {v2}. "
+        "Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure."
+    ).strip()
+
+    ti_best = _pick_best_item(
+        ti_json,
+        (
+            "malware",
+            "botnet",
+            "campaign",
+            "apt",
+            "phishing",
+            "infostealer",
+            "backdoor",
+            "supply chain",
+        ),
+    )
+    ti_title = strip_age_prefix(str((ti_best or {}).get("title") or "")).strip()
+    endpoint_pressure = (
+        f"{ti_title}. "
+        "Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD."
+    ).strip()
+
+    db_best = _pick_best_item(
+        db_json,
+        (
+            "credential",
+            "account",
+            "login",
+            "auth",
+            "oauth",
+            "mfa",
+            "vpn",
+            "gateway",
+            "edge",
+            "remote access",
+            "breach",
+            "leak",
+            "ransomware",
+            "extortion",
+        ),
+    )
+    db_title = strip_age_prefix(str((db_best or {}).get("title") or "")).strip()
+    identity_edge = (
+        f"{db_title}. "
+        "Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access."
+    ).strip()
+
+    return {
+        "highlights_led_by_exploit_ready_vulns": led_by_vulns,
+        "endpoint_posture_under_pressure": endpoint_pressure,
+        "identity_and_edge_access_risks": identity_edge,
+    }
 
 
 def _load_prev_issue_parts(report_root: Path, issue_date: dt.date) -> dict[str, list[dict]]:
@@ -870,6 +948,10 @@ def main(argv: list[str]) -> int:
         db=db_json,
     )
 
+    readme_summary = build_readme_summaries(ti_json=ti_json, vul_json=vul_json, db_json=db_json)
+    readme_summary["issue_date"] = issue_date.isoformat()
+    readme_summary["vol"] = meta["vol"]
+
     (issue_root / f"email_subject_{issue_date.isoformat()}.txt").write_text(subject, encoding="utf-8")
     (issue_root / f"email_body_{issue_date.isoformat()}.txt").write_text(body, encoding="utf-8")
 
@@ -878,6 +960,7 @@ def main(argv: list[str]) -> int:
     (source_dir / "threat_intel.json").write_text(json.dumps(ti_json, indent=2) + "\n", encoding="utf-8")
     (source_dir / "vulnerabilities.json").write_text(json.dumps(vul_json, indent=2) + "\n", encoding="utf-8")
     (source_dir / "data_breach.json").write_text(json.dumps(db_json, indent=2) + "\n", encoding="utf-8")
+    (source_dir / "readme_summary.json").write_text(json.dumps(readme_summary, indent=2) + "\n", encoding="utf-8")
 
     state_path.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
