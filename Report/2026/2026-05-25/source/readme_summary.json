@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Wireshark 4.6.6 Released, (Sun, May 24th) and Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Laravel Lang packages hijacked to deploy credential-stealing malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Dutch authorities arrest two in connection with sanctioned web hosting company. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-05-25",
+  "vol": "001"
+}
