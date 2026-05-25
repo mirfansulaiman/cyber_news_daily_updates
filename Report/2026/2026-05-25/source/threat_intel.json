@@ -1,102 +1,102 @@
 [
   {
-    "title": "CVE-2026-9474 | yashpokharna2555 StudentManagementSystem up to cb2f558ddf8d19396de0f92abf2d224d46a0a203 /studentdel.php confirm_logged_in ID sql injection",
-    "published_wib": "2026-05-24T16:17:34+07:00",
-    "summary": "A vulnerability described as critical has been identified in yashpokharna2555 StudentManagementSystem up to cb2f558ddf8d19396de0f92abf2d224d46a0a203 . Affected by this issue is the function confirm_logged_in of the file /studentdel.php . The manipulation of the argument ID results in sql injection. This vulnerability is cataloged as CVE-2026-9474…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365455"
-    ]
-  },
-  {
-    "title": "CVE-2026-9472 | dazeb markdown-downloader up to 3d4394b34b6c99d81af817623af55e3384df5a6a src/index.ts path traversal (Issue 12)",
-    "published_wib": "2026-05-24T16:12:55+07:00",
-    "summary": "A vulnerability labeled as critical has been found in dazeb markdown-downloader up to 3d4394b34b6c99d81af817623af55e3384df5a6a . Affected is the function download_markdown/list_downloaded_files/create_subdirectory of the file src/index.ts . Executing a manipulation can lead to path traversal. This vulnerability is tracked as CVE-2026-9472…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365453"
-    ]
-  },
-  {
-    "title": "CVE-2026-9470 | yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 student_trans.php confirm_logged_in FIRST_NAME/Last_Name/EMAIL sql injection",
-    "published_wib": "2026-05-24T16:11:11+07:00",
-    "summary": "A vulnerability categorized as critical has been discovered in yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 . This affects the function confirm_logged_in of the file student_trans.php . Such manipulation of the argument FIRST_NAME/Last_Name/EMAIL leads to sql injection. This vulnerability is referenced as CVE-2026-9470…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365451"
-    ]
-  },
-  {
-    "title": "CVE-2026-9468 | dazeb cline-mcp-memory-bank up to 55c81b9cf6c16700983c84dc4cdea3cafa19a75f src/index.ts handleInitializeMemoryBank projectPath path traversal",
-    "published_wib": "2026-05-24T16:06:15+07:00",
-    "summary": "A vulnerability was found in dazeb cline-mcp-memory-bank up to 55c81b9cf6c16700983c84dc4cdea3cafa19a75f . It has been declared as critical . The affected element is the function handleInitializeMemoryBank of the file src/index.ts . The manipulation of the argument projectPath results in path traversal. This vulnerability was named CVE-2026-9468…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365449"
-    ]
-  },
-  {
-    "title": "CVE-2026-9466 | Tiandy Easy7 Integrated Management Platform 7.17.0 API Endpoint updateUserPassword password recovery",
-    "published_wib": "2026-05-24T16:00:47+07:00",
-    "summary": "A vulnerability was found in Tiandy Easy7 Integrated Management Platform 7.17.0 and classified as critical . This issue affects some unknown processing of the file /rest/user/updateUserPassword of the component API Endpoint . Executing a manipulation can lead to weak password recovery. This vulnerability is handled as CVE-2026-9466…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365447"
-    ]
-  },
-  {
-    "title": "CVE-2026-9464 | YunaiV yudao-cloud 2026.03 Admin API Endpoint create IotDataSinkHttpConfig server-side request forgery",
-    "published_wib": "2026-05-24T15:17:03+07:00",
-    "summary": "A vulnerability, which was classified as critical , was found in YunaiV yudao-cloud 2026.03 . This affects the function IotDataSinkHttpConfig of the file /admin-api/iot/data-sink/create of the component Admin API Endpoint . Such manipulation leads to server-side request forgery. This vulnerability is traded as CVE-2026-9464…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365445"
-    ]
-  },
-  {
-    "title": "CVE-2026-9462 | Edimax EW-7438RPn 1.31 formWpsProxyEnable submit-url stack-based overflow",
-    "published_wib": "2026-05-24T15:08:27+07:00",
-    "summary": "A vulnerability classified as critical was found in Edimax EW-7438RPn 1.31 . Affected by this vulnerability is the function formWpsProxyEnable of the file /goform/formWpsProxyEnable . The manipulation of the argument submit-url results in stack-based buffer overflow. This vulnerability is reported as CVE-2026-9462…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365443"
-    ]
-  },
-  {
-    "title": "CVE-2026-9457 | Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi UploadFirmwareFile FileName os command injection",
-    "published_wib": "2026-05-24T15:02:41+07:00",
-    "summary": "A vulnerability identified as critical has been detected in Totolink A8000RU 7.1cu.643_b20200521 . The affected element is the function UploadFirmwareFile of the file /cgi-bin/cstecgi.cgi of the component Web Management Interface . This manipulation of the argument FileName causes os command injection. This vulnerability is tracked as CVE-2026-9457…",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://vuldb.com/vuln/365438"
-    ]
-  },
-  {
-    "title": "Week in review: GitHub breached via poisoned VS Code extension, critical NGINX flaw exploited",
-    "published_wib": "2026-05-24T15:00:37+07:00",
-    "summary": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub, Grafana Labs breaches traced back to TanStack supply chain compromise GitHub CISO Alexis Wales has named the malicious VS Code extension behind the breach they suffered at the hands of the threat group TeamPCP: Nx Console, a popular developer tool with…",
+    "title": "[+24h Old] Laravel Lang packages hijacked to deploy credential-stealing malware",
+    "published_wib": "2026-05-24T03:48:23+07:00",
+    "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
     "sources": [
-      "https://www.helpnetsecurity.com/2026/05/24/week-in-review-github-breached-via-poisoned-vs-code-extension-critical-nginx-flaw-exploited/"
+      "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
     ]
   },
   {
-    "title": "CVE-2026-9452 | FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 /src/tools/exec.ts ExecTool.execute os command injection",
-    "published_wib": "2026-05-24T14:59:31+07:00",
-    "summary": "A vulnerability was found in FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 and classified as critical . Affected by this issue is the function ExecTool.execute of the file /src/tools/exec.ts . Such manipulation leads to os command injection. This vulnerability is uniquely identified as CVE-2026-9452…",
+    "title": "[+24h Old] npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+    "published_wib": "2026-05-23T23:35:10+07:00",
+    "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor auth…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+    "published_wib": "2026-05-23T23:07:51+07:00",
+    "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targe…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+    "published_wib": "2026-05-23T16:51:13+07:00",
+    "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of t…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] An Example of Stack String in High Level Language, (Sat, May 23rd)",
+    "published_wib": "2026-05-23T12:49:17+07:00",
+    "summary": "This week, I'm attending the SEC670[1] training (\u00e2\u20ac\u0153Red Teaming Tools - Developing Windows Implants, Shellcode, Command and Control\u00e2\u20ac\u009d). From my point of view, this training fits perfectly with FOR610 or FOR710 (malware analysis) because it addresses malware from the opposite: Instead of performing reverse engineering, you write malicious code! Always inter…",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://vuldb.com/vuln/365433"
+      "https://isc.sans.edu/diary/rss/33008"
+    ]
+  },
+  {
+    "title": "[+24h Old] Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+    "published_wib": "2026-05-23T21:23:44+07:00",
+    "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "published_wib": "2026-05-23T18:55:35+07:00",
+    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
+    "published_wib": "2026-05-23T17:59:00+07:00",
+    "summary": "Or is it just life today, with AI constantly digging through code repositories in search of security holes?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742"
+    ]
+  },
+  {
+    "title": "[+48h Old] 2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT",
+    "published_wib": "2026-05-23T04:20:00+07:00",
+    "summary": "2026-05-22: SmartApeSG ClickFix --> Unidentified RAT --> NetSupport RAT",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/05/22/index.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
+    "published_wib": "2026-05-23T04:18:53+07:00",
+    "summary": "Hey, Gemini, how much can we earn from one pump-and-dump cycle?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390"
     ]
   }
 ]

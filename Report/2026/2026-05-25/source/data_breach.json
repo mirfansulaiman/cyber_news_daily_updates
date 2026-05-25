@@ -1,102 +1,102 @@
 [
   {
-    "title": "CVE-2026-9473 | c-rick jimeng-mcp 1.10.0 src/api.ts filePath path traversal (Issue 15)",
-    "published_wib": "2026-05-24T16:14:54+07:00",
-    "summary": "A vulnerability marked as critical has been reported in c-rick jimeng-mcp 1.10.0 . Affected by this vulnerability is the function getFileContent/uploadCoverFile/generateImage/generateVideo of the file src/api.ts . The manipulation of the argument filePath leads to path traversal. This vulnerability is listed as CVE-2026-9473…",
+    "title": "[+48h Old] Former executives plead guilty in global tech support fraud scheme",
+    "published_wib": "2026-05-23T03:44:37+07:00",
+    "summary": "Former CEO Adam Young and former CSO Harrison Gevirtz admitted to a misprision of a felony charge. They operated C.A. Cloud Attribution, Ltd. between early 2017 and April 2022, providing services to customers known to be engaged in telemarketing and tech support fraud scams.",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365454"
+      "https://www.scworld.com/brief/former-executives-plead-guilty-in-global-tech-support-fraud-scheme"
     ]
   },
   {
-    "title": "CVE-2026-9471 | yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 /student.php FIRST_NAME cross site scripting",
-    "published_wib": "2026-05-24T16:11:14+07:00",
-    "summary": "A vulnerability identified as problematic has been detected in yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 . This impacts an unknown function of the file /student.php . Performing a manipulation of the argument FIRST_NAME results in cross site scripting. This vulnerability is identified as CVE-2026-9471…",
+    "title": "[+48h Old] Dutch authorities arrest two in connection with sanctioned web hosting company",
+    "published_wib": "2026-05-23T03:42:45+07:00",
+    "summary": "The Dutch financial crime investigators (FIOD) arrested a 57-year-old company director and a 39-year-old who headed a separate firm providing internet connectivity.",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365452"
+      "https://www.scworld.com/brief/dutch-authorities-arrest-two-in-connection-with-sanctioned-web-hosting-company"
     ]
   },
   {
-    "title": "CVE-2026-9469 | yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 /success.php User sql injection",
-    "published_wib": "2026-05-24T16:08:21+07:00",
-    "summary": "A vulnerability was found in yashpokharna2555 StudentManagementSystem cb2f558ddf8d19396de0f92abf2d224d46a0a203 . It has been rated as critical . The impacted element is an unknown function of the file /success.php . This manipulation of the argument User causes sql injection. The identification of this vulnerability is CVE-2026-9469…",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "title": "[+48h Old] First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "published_wib": "2026-05-23T00:35:02+07:00",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with seve…",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
-      "https://vuldb.com/vuln/365450"
+      "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
     ]
   },
   {
-    "title": "CVE-2026-9467 | debugmcp mcp-debugger up to 0.20.0 src/server.ts handleGetSourceContext path traversal",
-    "published_wib": "2026-05-24T16:03:27+07:00",
-    "summary": "A vulnerability was found in debugmcp mcp-debugger up to 0.20.0 . It has been classified as critical . Impacted is the function handleGetSourceContext of the file src/server.ts . The manipulation leads to path traversal. This vulnerability is uniquely identified as CVE-2026-9467…",
+    "title": "[+48h Old] Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+    "published_wib": "2026-05-23T00:24:52+07:00",
+    "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365448"
+      "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
     ]
   },
   {
-    "title": "CVE-2026-9465 | Tiandy Easy7 Integrated Management Platform 7.17.0 GetDBDataEx.jsp strTBName sql injection",
-    "published_wib": "2026-05-24T16:00:44+07:00",
-    "summary": "A vulnerability has been found in Tiandy Easy7 Integrated Management Platform 7.17.0 and classified as critical . This vulnerability affects unknown code of the file /Easy7/apps/WebService/GetDBDataEx.jsp . Performing a manipulation of the argument strTBName results in sql injection. This vulnerability is known as CVE-2026-9465…",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "title": "[+48h Old] Police take down VPN service (this time with a good reason)",
+    "published_wib": "2026-05-23T00:08:03+07:00",
+    "summary": "European authorities have cracked down on a VPN that has been used for various criminal activities. The operation, led by investigators in France and the Netherlands with help from Europol and Eurojust, has dismantled First VPN, a service that has been heavily promoted within Russia as a way of evading law enforcement. Criminals used it to conceal their ide…",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
-      "https://vuldb.com/vuln/365446"
+      "https://www.csoonline.com/article/4176442/police-take-down-vpn-service-this-time-with-a-good-reason-2.html"
     ]
   },
   {
-    "title": "CVE-2026-9463 | Edimax EW-7438RPn 1.31 /goform/formLicence submit-url stack-based overflow",
-    "published_wib": "2026-05-24T15:08:29+07:00",
-    "summary": "A vulnerability, which was classified as critical , has been found in Edimax EW-7438RPn 1.31 . Affected by this issue is the function formLicence of the file /goform/formLicence . This manipulation of the argument submit-url causes stack-based buffer overflow. This vulnerability appears as CVE-2026-9463…",
+    "title": "[+48h Old] Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "published_wib": "2026-05-22T23:34:24+07:00",
+    "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain…",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365444"
+      "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/"
     ]
   },
   {
-    "title": "CVE-2026-9459 | Edimax EW-7438RPn 1.31 formConnectionSetting max_Conn/timeOut stack-based overflow",
-    "published_wib": "2026-05-24T15:08:19+07:00",
-    "summary": "A vulnerability marked as critical has been reported in Edimax EW-7438RPn 1.31 . This affects the function formConnectionSetting of the file /goform/formConnectionSetting . Performing a manipulation of the argument max_Conn/timeOut results in stack-based buffer overflow. This vulnerability is cataloged as CVE-2026-9459…",
+    "title": "[+48h Old] Former US execs plead guilty to aiding tech support scammers",
+    "published_wib": "2026-05-22T22:32:18+07:00",
+    "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365440"
+      "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
     ]
   },
   {
-    "title": "CVE-2026-9454 | Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setOpenVpnCertGenerationCfg servername os command injection",
-    "published_wib": "2026-05-24T15:02:33+07:00",
-    "summary": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521 . It has been declared as critical . This vulnerability affects the function setOpenVpnCertGenerationCfg of the file /cgi-bin/cstecgi.cgi of the component Web Management Interface…",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "title": "[+48h Old] Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
+    "published_wib": "2026-05-22T20:17:25+07:00",
+    "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
-      "https://vuldb.com/vuln/365435"
+      "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks"
     ]
   },
   {
-    "title": "CVE-2026-9453 | FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 SkillsLoader skills-loader.ts which requires.bins command injection",
-    "published_wib": "2026-05-24T14:59:33+07:00",
-    "summary": "A vulnerability was found in FoundDream miniclawd up to 2d65665046e2222eeea76cafc8570ed546a8c125 . It has been classified as critical . This affects the function which of the file /src/application/skills-loader.ts of the component SkillsLoader…",
+    "title": "[+48h Old] Why Chargebacks are Just One Piece of the Fraud Puzzle",
+    "published_wib": "2026-05-22T20:09:18+07:00",
+    "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365434"
+      "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
     ]
   },
   {
-    "title": "CVE-2026-9451 | code-projects Employee Management System 1.0 applyleaveprocess.php ID sql injection",
-    "published_wib": "2026-05-24T14:54:31+07:00",
-    "summary": "A vulnerability has been found in code-projects Employee Management System 1.0 and classified as critical . Affected by this vulnerability is an unknown functionality of the file /process/applyleaveprocess.php . This manipulation of the argument ID causes sql injection. This vulnerability is handled as CVE-2026-9451…",
+    "title": "[+48h Old] Canadian Man Arrested for Operating Kimwolf Botnet",
+    "published_wib": "2026-05-22T19:11:03+07:00",
+    "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek .",
     "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
-      "https://vuldb.com/vuln/365432"
+      "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/"
     ]
   }
 ]
