@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Generate PDF + posters from Report/**/source JSON files, and keep README.md updated.
+"""Generate PDF + posters from Report/**/source JSON files.
 
 Tujuan:
 - Menghindari upload file biner via MCP GitHub.
 - Push hanya data (JSON) + email drafts.
 - Biarkan GitHub Actions membangkitkan PDF/JPG dan commit ke repo.
-- Update README.md secara konsisten (tanpa label "IMAGE POSTER SUMMARY:")
-  dan mengganti ringkasan menjadi 3 paragraf berdasarkan highlights poster utama.
+- Update README.md ditangani oleh workflow (bukan oleh script ini).
 
 Input per issue folder:
 Report/<YEAR>/<ISSUE_DATE>/source/
@@ -15,6 +14,7 @@ Report/<YEAR>/<ISSUE_DATE>/source/
   - threat_intel.json
   - vulnerabilities.json
   - data_breach.json
+  - readme_summary.json (untuk memastikan README bisa terisi lengkap)
 
 Output per issue folder:
   - cyber_newsletter_<ISSUE_DATE>.pdf
@@ -30,6 +30,7 @@ Catatan:
 from __future__ import annotations
 
 import argparse
+import datetime as dt
 import json
 import os
 import random
@@ -86,6 +87,19 @@ class Item:
 
 def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def parse_issue_date(s: str) -> dt.date:
+    return dt.date.fromisoformat(s)
+
+
+def list_issue_dirs(report_root: Path) -> list[Path]:
+    return sorted(report_root.glob("*/????-??-??"))
+
+
+def issue_dir_date(issue_dir: Path) -> dt.date:
+    # issue_dir = Report/<YEAR>/<YYYY-MM-DD>
+    return parse_issue_date(issue_dir.name)
 
 
 def register_fonts() -> str:
@@ -459,11 +473,34 @@ def process_issue_folder(issue_dir: Path):
     if not source.exists():
         return False
 
+    # Pastikan semua input data JSON tersedia sebelum generate (hindari run parsial).
+    required = [
+        source / "meta.json",
+        source / "highlights.json",
+        source / "threat_intel.json",
+        source / "vulnerabilities.json",
+        source / "data_breach.json",
+        source / "readme_summary.json",
+    ]
+    missing = [p for p in required if not p.exists()]
+    if missing:
+        print("[skip] incomplete source inputs in", issue_dir, "missing:", ", ".join(p.name for p in missing))
+        return False
+
     meta = load_json(source / "meta.json")
     highlights = load_json(source / "highlights.json")
     ti = [Item(**x) for x in load_json(source / "threat_intel.json")]
     vul = [Item(**x) for x in load_json(source / "vulnerabilities.json")]
     db = [Item(**x) for x in load_json(source / "data_breach.json")]
+
+    # Validasi counts minimal agar PDF/poster konsisten.
+    if len(highlights) < 5 or len(ti) != 10 or len(vul) != 10 or len(db) != 10:
+        print(
+            "[skip] invalid counts in",
+            issue_dir,
+            f"highlights={len(highlights)} ti={len(ti)} vul={len(vul)} db={len(db)}",
+        )
+        return False
 
     issue_date = meta["issue_date"]
     vol = meta["vol"]
@@ -530,6 +567,10 @@ def process_issue_folder(issue_dir: Path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", required=True, help="Path to Report/ root")
+    ap.add_argument("--issue-date", default=None, help="Generate hanya untuk 1 tanggal (YYYY-MM-DD)")
+    ap.add_argument("--from-date", default=None, help="Awal range tanggal (YYYY-MM-DD)")
+    ap.add_argument("--to-date", default=None, help="Akhir range tanggal (YYYY-MM-DD)")
+    ap.add_argument("--all", action="store_true", help="Generate untuk semua tanggal yang ada di Report/")
     args = ap.parse_args()
 
     root = Path(args.root)
@@ -538,8 +579,29 @@ def main():
 
     processed: list[tuple[str, str]] = []  # (issue_date, vol)
 
-    # Iterate Report/<YEAR>/<ISSUE_DATE>/ folders
-    for issue_dir in sorted(root.glob("*/????-??-??")):
+    issue_dirs = list_issue_dirs(root)
+    if not issue_dirs:
+        print("no issues found under", root)
+        return
+
+    target_dirs: list[Path]
+    if args.all:
+        target_dirs = issue_dirs
+    elif args.issue_date:
+        d = parse_issue_date(args.issue_date)
+        target_dirs = [p for p in issue_dirs if issue_dir_date(p) == d]
+    elif args.from_date or args.to_date:
+        d_from = parse_issue_date(args.from_date) if args.from_date else issue_dir_date(issue_dirs[0])
+        d_to = parse_issue_date(args.to_date) if args.to_date else issue_dir_date(issue_dirs[-1])
+        if d_from > d_to:
+            d_from, d_to = d_to, d_from
+        target_dirs = [p for p in issue_dirs if d_from <= issue_dir_date(p) <= d_to]
+    else:
+        # Default: hanya generate untuk tanggal laporan terakhir yang ada di repo.
+        target_dirs = [issue_dirs[-1]]
+
+    # Iterate selected issue folders
+    for issue_dir in target_dirs:
         changed = process_issue_folder(issue_dir)
         if changed:
             src_meta = issue_dir / "source" / "meta.json"
@@ -547,11 +609,12 @@ def main():
             processed.append((meta["issue_date"], meta["vol"]))
             print("generated", issue_dir)
 
-    # Update README for latest issue date
+    # README update ditangani oleh workflow terpisah.
     if processed:
         latest_issue_date, latest_vol = sorted(processed, key=lambda x: x[0])[-1]
-        update_readme_today_updates(Path("README.md"), latest_issue_date, latest_vol)
-        print("updated README for", latest_issue_date, latest_vol)
+        print("latest processed:", latest_issue_date, latest_vol)
+    else:
+        print("no issue generated (inputs incomplete or no matching targets)")
 
 
 if __name__ == "__main__":
