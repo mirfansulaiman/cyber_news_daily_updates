@@ -375,8 +375,8 @@ def score_category(c: Candidate) -> tuple[str, int]:
 
     best = max(scores.items(), key=lambda kv: kv[1])
     if best[1] == 0:
-        # default bucket
-        return ("threat_intel", 0)
+        # No clear signal → do not force into a section (helps relevance).
+        return ("other", 0)
     return best[0], best[1]
 
 
@@ -534,33 +534,26 @@ def dedup_candidates(cands: list[Candidate]) -> list[Candidate]:
 
 
 def pick_sections(cands: list[Candidate], issue_cutoff_24h_utc: dt.datetime) -> tuple[list[Candidate], list[Candidate], list[Candidate]]:
-    scored = []
+    # NOTE: We intentionally do NOT cross-fill sections using leftovers. If a section
+    # is short, it will be backfilled from previous issue outputs (data-only) to
+    # preserve topical relevance.
+    buckets: dict[str, list[tuple[int, Candidate]]] = {
+        "threat_intel": [],
+        "vulnerabilities": [],
+        "data_breach": [],
+        "other": [],
+    }
+
     for c in cands:
         sec, score = score_category(c)
-        scored.append((sec, score, c))
+        buckets.setdefault(sec, []).append((score, c))
 
-    # stable ordering: prioritize newer items, then higher score
-    scored.sort(key=lambda x: (x[2].published_utc, x[1]), reverse=True)
+    def finalize(key: str) -> list[Candidate]:
+        ranked = buckets.get(key, [])
+        ranked.sort(key=lambda sc: (sc[1].published_utc, sc[0]), reverse=True)
+        return [c for _s, c in ranked[:10]]
 
-    buckets: dict[str, list[Candidate]] = {"threat_intel": [], "vulnerabilities": [], "data_breach": []}
-    leftovers: list[tuple[str, int, Candidate]] = []
-
-    for sec, score, c in scored:
-        if len(buckets[sec]) < 10:
-            buckets[sec].append(c)
-        else:
-            leftovers.append((sec, score, c))
-
-    # Fill any bucket shortfalls from leftovers (regardless of original label)
-    if any(len(buckets[s]) < 10 for s in buckets):
-        for _sec, _score, c in leftovers:
-            target = min(buckets.keys(), key=lambda k: len(buckets[k]))
-            if len(buckets[target]) < 10:
-                buckets[target].append(c)
-            if all(len(buckets[s]) >= 10 for s in buckets):
-                break
-
-    return buckets["threat_intel"], buckets["vulnerabilities"], buckets["data_breach"]
+    return finalize("threat_intel"), finalize("vulnerabilities"), finalize("data_breach")
 
 
 def build_section_json(section_key: str, items: list[Candidate], cutoff_24h_wib: dt.datetime) -> list[dict]:
@@ -766,6 +759,7 @@ def main(argv: list[str]) -> int:
 
     # Build 24h-only pool and check if it can fill 10/10/10.
     pool_24h = [c for c in all_items if in_window(c.published_utc, 24)]
+
     ti24, vul24, db24 = pick_sections(pool_24h, cutoff_24h_utc)
 
     if len(ti24) >= 10 and len(vul24) >= 10 and len(db24) >= 10:
