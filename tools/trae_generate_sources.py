@@ -1,33 +1,18 @@
 #!/usr/bin/env python3
-"""TRAE — Daily Cybersecurity Newsletter (DATA ONLY)
+"""TRAE — Daily Cybersecurity Newsletter (DATA ONLY).
 
-This script generates ONLY:
-- Report/<YEAR>/<ISSUE_DATE>/source/{meta.json,highlights.json,threat_intel.json,vulnerabilities.json,data_breach.json}
-- Report/<YEAR>/<ISSUE_DATE>/{email_subject_ISSUE_DATE.txt,email_body_ISSUE_DATE.txt}
+Generates only JSON parts + email drafts (no PDF/posters). Sources are limited to the
+netsecid RSS allowlist (English + active feeds only).
 
-It intentionally does NOT generate PDFs or poster images. Those are materialized by
-GitHub Actions from the JSON parts under Report/**/source/**.
+Windowing rules:
+- Default window: last 24h relative to ISSUE_DATE 07:00 WIB.
+- Fallback window: last 48h.
+- If still insufficient to fill 10/10/10, backfill from previous issue day's JSON
+  outputs (local read only, no web fetch).
 
-Cost-optimized rules implemented:
-- Sources are strictly limited to the RSS/Atom allowlist at:
-  https://raw.githubusercontent.com/netsecid/cybersecurity-rss-sources/main/feeds/all.json
-- Default rerun (same ISSUE_DATE) is NO-SEARCH: if required files exist, exit.
-  If files are missing, exit with an error and ask for --force-re-run.
-- News window: last 24 hours relative to ISSUE_DATE 07:00 WIB; fallback to 48h if
-  there are not enough items to fill 10/10/10.
-- If an item is older than 24h from issue time, its title gets prefix "[+24h Old] ".
-
-The newsletter content (summaries, why_it_matters, recommendation) is generated in
-English using lightweight heuristics based on RSS titles/descriptions.
-
-Usage:
-  python tools/trae_generate_sources.py
-  python tools/trae_generate_sources.py --force-re-run
-  python tools/trae_generate_sources.py --issue-date 2026-05-20 --force-re-run
-
-Exit codes:
-  0 = success / already up-to-date
-  2 = missing outputs in no-search mode (use --force-re-run)
+Age tags:
+- >24h from issue time: "[+24h Old] "
+- >48h from issue time: "[+48h Old] "
 """
 
 from __future__ import annotations
@@ -452,10 +437,20 @@ def build_why_and_reco(section: str, c: Candidate) -> tuple[str, str]:
     return why, reco
 
 
-def prefix_old_title(title: str, published_wib: dt.datetime, cutoff_24h: dt.datetime) -> str:
+_AGE_PREFIX_RE = re.compile(r"^\[\+(?:24h|48h)\s+Old\]\s+", flags=re.IGNORECASE)
+
+
+def strip_age_prefix(title: str) -> str:
+    return _AGE_PREFIX_RE.sub("", title or "").strip()
+
+
+def apply_age_prefix(title: str, published_wib: dt.datetime, cutoff_24h: dt.datetime, cutoff_48h: dt.datetime) -> str:
+    base = strip_age_prefix(title)
+    if published_wib < cutoff_48h:
+        return "[+48h Old] " + base
     if published_wib < cutoff_24h:
-        return "[+24h Old] " + title
-    return title
+        return "[+24h Old] " + base
+    return base
 
 
 def ensure_dir(p: Path) -> None:
@@ -572,7 +567,9 @@ def build_section_json(section_key: str, items: list[Candidate], cutoff_24h_wib:
     out = []
     for c in items:
         published_wib = c.published_utc.astimezone(WIB)
-        title = prefix_old_title(c.title, published_wib, cutoff_24h_wib)
+        # 48h tag is applied only if the item is older than 48h from issue time.
+        cutoff_48h_wib = cutoff_24h_wib - dt.timedelta(hours=24)
+        title = apply_age_prefix(c.title, published_wib, cutoff_24h_wib, cutoff_48h_wib)
         summary = build_summary(c)
         why, reco = build_why_and_reco(section_key, c)
         out.append(
@@ -610,7 +607,7 @@ def build_email(issue_date: str, vol: str, highlights: list[str], ti: list[dict]
             )
         top = items[0]["title"]
         # remove [+24h Old] in summary sentence to reduce noise
-        top = top.replace("[+24h Old] ", "")
+        top = top.replace("[+24h Old] ", "").replace("[+48h Old] ", "")
         # Template expectation: <2 sentence>
         return f"{name}: {len(items)} items, led by {top}. {default_focus}."
 
@@ -637,6 +634,67 @@ def build_email(issue_date: str, vol: str, highlights: list[str], ti: list[dict]
     return subject.strip() + "\n", body.strip() + "\n"
 
 
+def _load_prev_issue_parts(report_root: Path, issue_date: dt.date) -> dict[str, list[dict]]:
+    """Load previous day's JSON parts (if present) for backfill.
+
+    This is a local read only: it does NOT fetch web content and stays within repo.
+    """
+    prev_date = issue_date - dt.timedelta(days=1)
+    prev_dir = report_root / str(prev_date.year) / prev_date.isoformat() / "source"
+    if not prev_dir.exists():
+        return {}
+    out: dict[str, list[dict]] = {}
+    for key, fname in [
+        ("threat_intel", "threat_intel.json"),
+        ("vulnerabilities", "vulnerabilities.json"),
+        ("data_breach", "data_breach.json"),
+    ]:
+        p = prev_dir / fname
+        if p.exists():
+            try:
+                out[key] = json.loads(p.read_text(encoding="utf-8"))
+            except Exception:
+                out[key] = []
+    return out
+
+
+def _backfill_section(
+    *,
+    current: list[dict],
+    prev: list[dict],
+    need: int,
+    cutoff_24h_wib: dt.datetime,
+    cutoff_48h_wib: dt.datetime,
+    seen_urls: set[str],
+) -> list[dict]:
+    if need <= 0:
+        return current
+
+    for it in prev or []:
+        if len(current) >= 10:
+            break
+        try:
+            src0 = canonical_url((it.get("sources") or [""])[0])
+        except Exception:
+            src0 = ""
+        if src0 and src0 in seen_urls:
+            continue
+
+        try:
+            pub_wib = dt.datetime.fromisoformat(str(it.get("published_wib") or ""))
+        except Exception:
+            continue
+
+        # Re-apply age prefix relative to *today's* issue time.
+        it2 = dict(it)
+        it2["title"] = apply_age_prefix(str(it2.get("title") or ""), pub_wib, cutoff_24h_wib, cutoff_48h_wib)
+        current.append(it2)
+        if src0:
+            seen_urls.add(src0)
+
+    return current
+
+
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force-re-run", action="store_true", help="Regenerate even if ISSUE_DATE already exists")
@@ -652,6 +710,7 @@ def main(argv: list[str]) -> int:
 
     issue_dt = issue_base(issue_date)
     cutoff_24h_wib = issue_dt - dt.timedelta(hours=24)
+    cutoff_48h_wib = issue_dt - dt.timedelta(hours=48)
     cutoff_24h_utc = cutoff_24h_wib.astimezone(dt.timezone.utc)
 
     repo_root = Path(__file__).resolve().parents[1]
@@ -715,23 +774,7 @@ def main(argv: list[str]) -> int:
         pool_48h = [c for c in all_items if in_window(c.published_utc, 48)]
         ti_sel, vul_sel, db_sel = pick_sections(pool_48h, cutoff_24h_utc)
 
-    # Hard validation: do not write partial outputs (prevents downstream broken artifacts).
-    if len(ti_sel) < 10 or len(vul_sel) < 10 or len(db_sel) < 10:
-        print(
-            "[error] Not enough unique RSS items to fill 10/10/10 within the 48-hour window.",
-            file=sys.stderr,
-        )
-        print(
-            f"[error] Counts: threat_intel={len(ti_sel)}, vulnerabilities={len(vul_sel)}, data_breach={len(db_sel)}",
-            file=sys.stderr,
-        )
-        print(
-            "[error] Aborting without writing outputs. Try --force-re-run later, or investigate feed availability.",
-            file=sys.stderr,
-        )
-        return 3
-
-    # Materialize JSON parts
+    # Materialize JSON parts (may be <10; we will backfill from previous issue if needed)
     ensure_dir(source_dir)
     ensure_dir(issue_root)
     ensure_dir(year_dir)
@@ -751,15 +794,71 @@ def main(argv: list[str]) -> int:
     vul_json = build_section_json("vulnerabilities", vul_sel[:10], cutoff_24h_wib)
     db_json = build_section_json("data_breach", db_sel[:10], cutoff_24h_wib)
 
-    # Highlights: 5 newest among selected (with prefix if old)
-    combined = []
-    for src in ti_sel[:10] + vul_sel[:10] + db_sel[:10]:
-        combined.append(src)
-    combined.sort(key=lambda x: x.published_utc, reverse=True)
-    highlights = [
-        prefix_old_title(c.title, c.published_utc.astimezone(WIB), cutoff_24h_wib)
-        for c in combined[:5]
-    ]
+    # Backfill from previous day's outputs if RSS pool is insufficient to reach 10/10/10.
+    if len(ti_json) < 10 or len(vul_json) < 10 or len(db_json) < 10:
+        prev_parts = _load_prev_issue_parts(report_root, issue_date)
+        seen_urls: set[str] = set()
+        for sec in (ti_json + vul_json + db_json):
+            try:
+                u = canonical_url((sec.get("sources") or [""])[0])
+            except Exception:
+                u = ""
+            if u:
+                seen_urls.add(u)
+
+        ti_json = _backfill_section(
+            current=ti_json,
+            prev=prev_parts.get("threat_intel", []),
+            need=10 - len(ti_json),
+            cutoff_24h_wib=cutoff_24h_wib,
+            cutoff_48h_wib=cutoff_48h_wib,
+            seen_urls=seen_urls,
+        )
+        vul_json = _backfill_section(
+            current=vul_json,
+            prev=prev_parts.get("vulnerabilities", []),
+            need=10 - len(vul_json),
+            cutoff_24h_wib=cutoff_24h_wib,
+            cutoff_48h_wib=cutoff_48h_wib,
+            seen_urls=seen_urls,
+        )
+        db_json = _backfill_section(
+            current=db_json,
+            prev=prev_parts.get("data_breach", []),
+            need=10 - len(db_json),
+            cutoff_24h_wib=cutoff_24h_wib,
+            cutoff_48h_wib=cutoff_48h_wib,
+            seen_urls=seen_urls,
+        )
+
+    # Hard validation: do not write partial outputs (prevents downstream broken artifacts).
+    if len(ti_json) < 10 or len(vul_json) < 10 or len(db_json) < 10:
+        print(
+            "[error] Not enough items to fill 10/10/10 after 48h RSS fallback + previous-day backfill.",
+            file=sys.stderr,
+        )
+        print(
+            f"[error] Counts: threat_intel={len(ti_json)}, vulnerabilities={len(vul_json)}, data_breach={len(db_json)}",
+            file=sys.stderr,
+        )
+        print(
+            "[error] Aborting without writing outputs.",
+            file=sys.stderr,
+        )
+        return 3
+
+    # Highlights: 5 newest among final 30 items (with age prefix applied)
+    combined_items: list[tuple[dt.datetime, str]] = []
+    for it in (ti_json + vul_json + db_json):
+        try:
+            pub = dt.datetime.fromisoformat(str(it.get("published_wib") or ""))
+        except Exception:
+            continue
+        title = apply_age_prefix(str(it.get("title") or ""), pub, cutoff_24h_wib, cutoff_48h_wib)
+        combined_items.append((pub, title))
+
+    combined_items.sort(key=lambda x: x[0], reverse=True)
+    highlights = [t for _p, t in combined_items[:5]]
 
     if len(highlights) < 5:
         print(
