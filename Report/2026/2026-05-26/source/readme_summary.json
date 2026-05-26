@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Cisco refines its risk-based vulnerability disclosure for the AI era and 25th May \u2013 Threat Intelligence Report. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-05-26",
+  "vol": "001"
+}

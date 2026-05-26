@@ -1,1 +1,102 @@
-[{"title":"Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks","published_wib":"2026-05-25T20:21:49+07:00","summary":"Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed co…","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"]},{"title":"Oncology Institute Discloses Data Breach","published_wib":"2026-05-25T19:17:02+07:00","summary":"The affected third-party vendor has not been named, but one possible candidate is TriZetto. The post Oncology Institute Discloses Data Breach appeared first on SecurityWeek .","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/"]},{"title":"266,000 Affected by Data Breach at Radiology Associates of Richmond","published_wib":"2026-05-25T18:17:07+07:00","summary":"Threat actors stole files containing names and protected health information from the healthcare organization’s systems. The post 266,000 Affected by Data Breach at Radiology Associates of Richmond appeared first on SecurityWeek .","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/"]},{"title":"DocketWise Data Breach Impacts 143,000","published_wib":"2026-05-25T16:37:27+07:00","summary":"Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories. The post DocketWise Data Breach Impacts 143,000 appeared first on SecurityWeek .","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.securityweek.com/docketwise-data-breach-impacts-143000/"]},{"title":"Fake Streams, Counterfeit Merch and Other Scams: How Fraudsters Target F1 Fans","published_wib":"2026-05-25T16:00:00+07:00","summary":"From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details how","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/"]},{"title":"Lessons for organizations from the Verizon 2026 Data Breach Investigations Report","published_wib":"2026-05-25T12:30:54+07:00","summary":"This is my favourite time of the year, not just because spring is here and the promise of summer is on the way. But also, because one of my must reads each year gets published. There are a few must read reports that I have on my reading list for each year and the Verizon Data Breach Investigations Report is on top of that list. The latest Verizon 2026 Data…","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/"]},{"title":"[+48h Old] Former executives plead guilty in global tech support fraud scheme","published_wib":"2026-05-23T03:44:37+07:00","summary":"Former CEO Adam Young and former CSO Harrison Gevirtz admitted to a misprision of a felony charge. They operated C.A. Cloud Attribution, Ltd. between early 2017 and April 2022, providing services to customers known to be engaged in telemarketing and tech support fraud scams.","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.scworld.com/brief/former-executives-plead-guilty-in-global-tech-support-fraud-scheme"]},{"title":"[+48h Old] Dutch authorities arrest two in connection with sanctioned web hosting company","published_wib":"2026-05-23T03:42:45+07:00","summary":"The Dutch financial crime investigators (FIOD) arrested a 57-year-old company director and a 39-year-old who headed a separate firm providing internet connectivity.","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.scworld.com/brief/dutch-authorities-arrest-two-in-connection-with-sanctioned-web-hosting-company"]},{"title":"[+48h Old] First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups","published_wib":"2026-05-23T00:35:02+07:00","summary":"Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with seve…","why_it_matters":"Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.","recommendation":"Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.","sources":["https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"]},{"title":"[+48h Old] Netherlands seizes 800 servers of hosting firm enabling cyberattacks","published_wib":"2026-05-23T00:24:52+07:00","summary":"Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]","why_it_matters":"Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.","recommendation":"Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.","sources":["https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"]}]
+[
+  {
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "published_wib": "2026-05-25T20:21:49+07:00",
+    "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed co\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
+    ]
+  },
+  {
+    "title": "Oncology Institute Discloses Data Breach",
+    "published_wib": "2026-05-25T19:17:02+07:00",
+    "summary": "The affected third-party vendor has not been named, but one possible candidate is TriZetto. The post Oncology Institute Discloses Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/"
+    ]
+  },
+  {
+    "title": "266,000 Affected by Data Breach at Radiology Associates of Richmond",
+    "published_wib": "2026-05-25T18:17:07+07:00",
+    "summary": "Threat actors stole files containing names and protected health information from the healthcare organization\u2019s systems. The post 266,000 Affected by Data Breach at Radiology Associates of Richmond appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/"
+    ]
+  },
+  {
+    "title": "DocketWise Data Breach Impacts 143,000",
+    "published_wib": "2026-05-25T16:37:27+07:00",
+    "summary": "Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories. The post DocketWise Data Breach Impacts 143,000 appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/docketwise-data-breach-impacts-143000/"
+    ]
+  },
+  {
+    "title": "Fake Streams, Counterfeit Merch and Other Scams: How Fraudsters Target F1 Fans",
+    "published_wib": "2026-05-25T16:00:00+07:00",
+    "summary": "From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details how",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/"
+    ]
+  },
+  {
+    "title": "Lessons for organizations from the Verizon 2026 Data Breach Investigations Report",
+    "published_wib": "2026-05-25T12:30:54+07:00",
+    "summary": "This is my favourite time of the year, not just because spring is here and the promise of summer is on the way. But also, because one of my must reads each year gets published. There are a few must read reports that I have on my reading list for each year and the Verizon Data Breach Investigations Report is on top of that list. The latest Verizon 2026 Data\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Former executives plead guilty in global tech support fraud scheme",
+    "published_wib": "2026-05-23T03:44:37+07:00",
+    "summary": "Former CEO Adam Young and former CSO Harrison Gevirtz admitted to a misprision of a felony charge. They operated C.A. Cloud Attribution, Ltd. between early 2017 and April 2022, providing services to customers known to be engaged in telemarketing and tech support fraud scams.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/former-executives-plead-guilty-in-global-tech-support-fraud-scheme"
+    ]
+  },
+  {
+    "title": "[+48h Old] Dutch authorities arrest two in connection with sanctioned web hosting company",
+    "published_wib": "2026-05-23T03:42:45+07:00",
+    "summary": "The Dutch financial crime investigators (FIOD) arrested a 57-year-old company director and a 39-year-old who headed a separate firm providing internet connectivity.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/dutch-authorities-arrest-two-in-connection-with-sanctioned-web-hosting-company"
+    ]
+  },
+  {
+    "title": "[+48h Old] First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "published_wib": "2026-05-23T00:35:02+07:00",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with seve\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+    "published_wib": "2026-05-23T00:24:52+07:00",
+    "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
+    ]
+  }
+]
