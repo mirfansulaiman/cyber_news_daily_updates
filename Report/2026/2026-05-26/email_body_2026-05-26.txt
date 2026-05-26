@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cisco refines its risk-based vulnerability disclosure for the AI era
+- 25th May – Threat Intelligence Report
+- ⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos
+- 2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services
+- Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cisco refines its risk-based vulnerability disclosure for the AI era. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
