@@ -68,10 +68,32 @@ DASH_REPLACEMENTS = {
     "\u00ad": "-",
 }
 
+# Some RSS feeds include broken HTML-entity sequences like "GitHub&#;x26;#;39;s".
+# ReportLab's Paragraph parser treats "&...;" as markup/entities and will crash on
+# malformed sequences. We normalize the most common ones and then escape the rest.
+MALFORMED_ENTITY_REPLACEMENTS = {
+    "&#;x26;#;39": "'",  # &apos;
+    "&#;x26;#;34": '"',  # &quot;
+    "&#;x26;#;38": "&",  # &amp;
+    "&#;x26;#;60": "<",  # &lt;
+    "&#;x26;#;62": ">",  # &gt;
+}
+
 
 def normalize_text(text: str) -> str:
     for old, new in DASH_REPLACEMENTS.items():
         text = text.replace(old, new)
+    return text
+
+
+def reportlab_safe_text(text: str) -> str:
+    """Make arbitrary text safe for ReportLab Paragraph (no markup)."""
+    text = normalize_text(text)
+    for old, new in MALFORMED_ENTITY_REPLACEMENTS.items():
+        text = text.replace(old, new)
+    # Escape characters with special meaning in ReportLab's mini-markup/XML.
+    # Important: escape ampersands first.
+    text = text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     return text
 
 
@@ -188,23 +210,43 @@ def build_pdf(out_pdf: Path, issue_date: str, vol: str, highlights: list[str], s
 
     story = []
     story.append(Spacer(1, 0.9 * inch))
-    story.append(Paragraph(normalize_text("Cybersecurity Daily Newsletter"), styles["title"]))
-    story.append(Paragraph(normalize_text(f"Vol. {vol} | {issue_date} 07:00 WIB"), styles["subtitle"]))
+    story.append(Paragraph(reportlab_safe_text("Cybersecurity Daily Newsletter"), styles["title"]))
+    story.append(Paragraph(reportlab_safe_text(f"Vol. {vol} | {issue_date} 07:00 WIB"), styles["subtitle"]))
     story.append(Spacer(1, 0.2 * inch))
     story.append(Paragraph(normalize_text("<b>Top 5 Highlights</b>"), styles["h1"]))
     for h in highlights[:5]:
-        story.append(Paragraph(normalize_text(f"• {h}"), styles["body"]))
+        story.append(Paragraph(reportlab_safe_text(f"• {h}"), styles["body"]))
     story.append(PageBreak())
 
     def add_section(title: str, items: list[Item]):
-        story.append(Paragraph(normalize_text(title), styles["h1"]))
+        story.append(Paragraph(reportlab_safe_text(title), styles["h1"]))
         for idx, it in enumerate(items, 1):
-            story.append(Paragraph(normalize_text(f"<b>{idx:02d}. {it.title}</b>"), styles["item_title"]))
-            story.append(Paragraph(normalize_text(it.summary), styles["body"]))
-            story.append(Paragraph(normalize_text(f"<b>Why it matters:</b> {it.why_it_matters}"), styles["body"]))
-            story.append(Paragraph(normalize_text(f"<b>Recommendation:</b> {it.recommendation}"), styles["body"]))
-            srcs = " | ".join(it.sources[:3])
-            story.append(Paragraph(normalize_text(f"<font color='#4a5568'>Sources:</font> {srcs}"), styles["meta"]))
+            story.append(
+                Paragraph(
+                    normalize_text(f"<b>{idx:02d}. {reportlab_safe_text(it.title)}</b>"),
+                    styles["item_title"],
+                )
+            )
+            story.append(Paragraph(reportlab_safe_text(it.summary), styles["body"]))
+            story.append(
+                Paragraph(
+                    normalize_text(f"<b>Why it matters:</b> {reportlab_safe_text(it.why_it_matters)}"),
+                    styles["body"],
+                )
+            )
+            story.append(
+                Paragraph(
+                    normalize_text(f"<b>Recommendation:</b> {reportlab_safe_text(it.recommendation)}"),
+                    styles["body"],
+                )
+            )
+            srcs = " | ".join(reportlab_safe_text(s) for s in it.sources[:3])
+            story.append(
+                Paragraph(
+                    normalize_text(f"<font color='#4a5568'>Sources:</font> {srcs}"),
+                    styles["meta"],
+                )
+            )
 
     add_section("Threat Intelligence (10)", sections["threat_intelligence"])
     add_section("Latest Vulnerabilities (10)", sections["latest_vulnerabilities"])
