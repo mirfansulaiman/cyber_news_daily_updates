@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ShinyHunters extorts Charter Communications after data breach",
+    "published_wib": "2026-05-27T05:41:06+07:00",
+    "summary": "The incident came to light after Charter was listed on ShinyHunters' data leak site, where the group claimed to have stolen 40 million records.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/shinyhunters-extorts-charter-communications-after-data-breach"
+    ]
+  },
+  {
+    "title": "Iranian-backed hackers linked to Los Angeles transit system breach",
+    "published_wib": "2026-05-27T05:37:29+07:00",
+    "summary": "The hacktivist group Ababil of Minab initially claimed responsibility for the breach, stating they had stolen and subsequently deleted data from the Los Angeles County Metropolitan Transportation Authority (LACMTA) systems.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/iranian-backed-hackers-linked-to-los-angeles-transit-system-breach"
+    ]
+  },
+  {
+    "title": "Charter confirms data breach after ShinyHunters extortion threat",
+    "published_wib": "2026-05-27T02:46:01+07:00",
+    "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/"
+    ]
+  },
+  {
+    "title": "When ransomware shutters the ER, cyber resilience can help teams mitigate the damage",
+    "published_wib": "2026-05-27T01:45:53+07:00",
+    "summary": "Here\u2019s five ways to implement a cyber resilience plan well before a medical facility experiences a crisis.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/perspective/when-ransomware-shutters-the-er-cyber-resilience-can-help-teams-mitigate-the-damage"
+    ]
+  },
+  {
+    "title": "MyPillow must decide whether to be firm or soft as ransomware crims demand pay",
+    "published_wib": "2026-05-27T01:02:48+07:00",
+    "summary": "Guess they could deny the alleged intrusion \u2026 like the 2020 election results",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/26/mypillow-appears-on-play-ransomware-leak-site/5246513"
+    ]
+  },
+  {
+    "title": "Experts pour cold borscht on Farage's Russian hack claim",
+    "published_wib": "2026-05-26T19:12:51+07:00",
+    "summary": "Reform UK leader alleges Moscow broke into his phone and leaked \u00a35M gift story, but security specialists await evidence",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/26/experts-question-nigel-farages-russian-phone-hacking-claims/5246114"
+    ]
+  },
+  {
+    "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
+    "published_wib": "2026-05-26T18:59:40+07:00",
+    "summary": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth. The post 185,000 Likely Impacted by 7-Eleven Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/"
+    ]
+  },
+  {
+    "title": "Personal information of 185,000 people exposed after cyberattack on 7-Eleven",
+    "published_wib": "2026-05-26T18:49:02+07:00",
+    "summary": "Data belonging to about 185,000 people was exposed following a cyberattack on convenience store chain 7-Eleven that was later claimed by the ShinyHunters extortion gang, according to Have I Been Pwned. The exposed information includes email addresses, names, physical addresses, dates of birth, and phone numbers, while a small number of records also containe\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/26/7-eleven-data-breach-shinyhunters/"
+    ]
+  },
+  {
+    "title": "TrapDoor malware campaign puts developer workstations in CISO spotlight",
+    "published_wib": "2026-05-26T18:34:29+07:00",
+    "summary": "A malicious package campaign across npm, PyPI, and Crates.io has put developer workstations back under scrutiny, after researchers said it targeted developer workflows and AI coding assistant files. Researchers at Socket said the campaign, which they are tracking as TrapDoor, \u201cspans more than 34 malicious packages and 384+ related versions and artifacts\u201d ac\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4177019/trapdoor-malware-campaign-puts-developer-workstations-in-ciso-spotlight.html"
+    ]
+  },
+  {
+    "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
+    "published_wib": "2026-05-26T17:26:56+07:00",
+    "summary": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers. The post Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+    "published_wib": "2026-05-27T04:35:34+07:00",
+    "summary": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots. The post From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/"
+    ]
+  },
+  {
+    "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
+    "published_wib": "2026-05-27T02:47:14+07:00",
+    "summary": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos"
+    ]
+  },
+  {
+    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+    "published_wib": "2026-05-26T22:48:41+07:00",
+    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter T\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html"
+    ]
+  },
+  {
+    "title": "GitHub Actions abused by Megalodon attack to slip malicious commits into 5,500 repos",
+    "published_wib": "2026-05-26T21:02:09+07:00",
+    "summary": "A large-scale automated GitHub backdooring campaign was caught pushing thousands of malicious commits into public repositories while posing as routine CI/CD upkeep. Researchers at SafeDep observed the campaign, Megalodon, touching more than five thousand repositories over a six-hour window on May 18. The attack was in the form of a malicious commit, \u201cacac5a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4177124/github-actions-abused-by-megalodon-attack-to-slip-malicious-commits-into-5500-repos.html"
+    ]
+  },
+  {
+    "title": "BTMOB Android RAT Spreads Through No-Code Builder Tooling",
+    "published_wib": "2026-05-26T21:00:00+07:00",
+    "summary": "BTMOB Android RAT sold as a service with a no-code builder for fast, regional phishing lures",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/"
+    ]
+  },
+  {
+    "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
+    "published_wib": "2026-05-26T20:26:17+07:00",
+    "summary": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran. The post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/"
+    ]
+  },
+  {
+    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+    "published_wib": "2026-05-26T18:58:00+07:00",
+    "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop. According to recent updates from The Hacker News, bad actors are using AI t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html"
+    ]
+  },
+  {
+    "title": "Major Cyber Attacks in May 2026: Fake Invitations, Agent Tesla, BlobPhish, and More",
+    "published_wib": "2026-05-26T18:51:43+07:00",
+    "summary": "May 2026 showed how fast routine business activity can turn into real security exposure. ANY.RUN observed phishing campaigns, fileless malware delivery, credential theft, OTP interception, and remote access abuse targeting organizations across industries. From fake invitations and banking portals to compromised B2B websites and Word Online lures, the month\u2019\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/major-cyber-attacks-may-2026/"
+    ]
+  },
+  {
+    "title": "700+ education and tech websites hijacked in huge ClickFix malware campaign",
+    "published_wib": "2026-05-26T17:46:28+07:00",
+    "summary": "Hackers are abusing a Ghost CMS website flaw to serve fake Cloudflare verification pages that pressure users into infecting their own PCs.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/bugs/2026/05/700-education-and-tech-websites-hijacked-in-huge-clickfix-malware-campaign"
+    ]
+  },
+  {
+    "title": "Iran-Linked Hackers Target US Aviation with Phishing and SEO Poisoning Campaign",
+    "published_wib": "2026-05-26T16:10:00+07:00",
+    "summary": "Iran's Nimbus Manticore pushes AI-built MiniFast backdoor via phishing and SEO poisoning",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/"
+    ]
+  }
+]

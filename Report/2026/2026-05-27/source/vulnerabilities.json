@@ -1,0 +1,102 @@
+[
+  {
+    "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+    "published_wib": "2026-05-27T03:07:31+07:00",
+    "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/"
+    ]
+  },
+  {
+    "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+    "published_wib": "2026-05-27T02:18:01+07:00",
+    "summary": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled"
+    ]
+  },
+  {
+    "title": "Welcoming the AWS Customer Incident Response Team",
+    "published_wib": "2026-05-27T02:04:17+07:00",
+    "summary": "May 26, 2026: This post was originally published in July 2022. It has been updated to reflect current engagement options, new threat intelligence resources such as the Threat Technique Catalog for AWS (TTC), additional open-source tools, and the distinction between AWS CIRT support and the AWS Security Incident Response managed service. Welcome back, or wel\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/"
+    ]
+  },
+  {
+    "title": "Drupal bug added to CISA list of known exploited vulnerabilities",
+    "published_wib": "2026-05-27T02:04:15+07:00",
+    "summary": "Drupal SQL injection flaw CVE-2026-9082 added to CISA KEV as active attacks target sites.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/drupal-bug-added-to-cisa-list-of-known-exploited-vulnerabilities"
+    ]
+  },
+  {
+    "title": "Microsoft Issues Out-of-Band SharePoint Patch",
+    "published_wib": "2026-05-27T01:25:44+07:00",
+    "summary": "SharePoint access often means access to the keys of the kingdom, something attackers and defenders understand all too well.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch"
+    ]
+  },
+  {
+    "title": "Well-architected best practices for software supply chain security",
+    "published_wib": "2026-05-27T00:03:30+07:00",
+    "summary": "There have been multiple notable supply chain attacks using the npm Registry since September: Shai-Hulud, Chalk/Debug, one abusing tea.xyz tokens, and recently axios. Thanks to community efforts involving the Amazon Inspector team, the Open Source Security Foundation, and others, the affected packages were quickly flagged, which reduced the impact of these\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/"
+    ]
+  },
+  {
+    "title": "Chinese Threat Actors Ditch Static Phishing Pages for Live Credential Interception",
+    "published_wib": "2026-05-26T21:45:00+07:00",
+    "summary": "Almost all organizations impersonated by Chinese phishing platforms are non-Chinese entities, suggesting operators deliberately avoid domestic targets",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-phishing-live-credential/"
+    ]
+  },
+  {
+    "title": "Anthropic: Claude Mythos identified 10,000+ software flaws",
+    "published_wib": "2026-05-26T21:30:02+07:00",
+    "summary": "Anthropic and its Project Glasswing partners have identified more than 10,000 high- or critical-severity vulnerabilities in critical software systems, the company announced in an update on the project\u2019s progress. Mythos identifies thousands of high-severity vulnerabilities In April 2026, Anthropic introduced Claude Mythos Preview, a new large language model\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/26/anthropic-project-glasswing-update/"
+    ]
+  },
+  {
+    "title": "Chinese phishing gangs grow into a force to be reckoned with",
+    "published_wib": "2026-05-26T21:09:04+07:00",
+    "summary": "Chinese-language phishing-as-a-service (PhaaS) communities are expanding in an area historically dominated by Russian-speaking cybercriminal groups. The Google Threat Intelligence Group (GTIG) analyzed a dozen active PhaaS offerings operating in Chinese-language underground communities and found mature services, with several likely linked to broader crimina\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/26/chinese-language-phishing-services/"
+    ]
+  },
+  {
+    "title": "EXPOSURE 2026 prepares cybersecurity professionals for the AI era",
+    "published_wib": "2026-05-26T21:07:00+07:00",
+    "summary": "Cybersecurity leaders and practitioners brought their burning AI cybersecurity questions to EXPOSURE 2026. They left with clear answers and a blueprint for building an exposure management program. Get a recap and see highlights from the event in words and pictures. Key takeaways As frontier AI models simultaneously accelerate the pace of vulnerability disco\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.tenable.com/blog/exposure-2026-prepares-cybersecurity-professionals-for-the-ai-era"
+    ]
+  }
+]

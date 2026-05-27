@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ShinyHunters extorts Charter Communications after data breach
+- Iranian-backed hackers linked to Los Angeles transit system breach
+- From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities
+- KnowledgeDeliver flaw exploited as a zero-day to install web shells
+- Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by KnowledgeDeliver flaw exploited as a zero-day to install web shells. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by ShinyHunters extorts Charter Communications after data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
