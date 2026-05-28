@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Another IT governance headache: AI-enabled sanction evasion
+- Out of the Crypt: The Evolving Cyber Extortion Economy
+- AI models more vulnerable than claimed when faced with iterative attacks
+- XM Cyber expands platform to enforce least-privilege access
+- High-severity Starlette vulnerability 'BadHost' could expose sensitive data
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Doppel launches AI email security to disrupt phishing campaigns. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Another IT governance headache: AI-enabled sanction evasion. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Out of the Crypt: The Evolving Cyber Extortion Economy. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

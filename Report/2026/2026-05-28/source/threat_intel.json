@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Doppel launches AI email security to disrupt phishing campaigns",
+    "published_wib": "2026-05-28T04:37:37+07:00",
+    "summary": "Doppel Email Security utilizes autonomous agents and its Doppel 360 Threat Graph to investigate threats within the inbox.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/doppel-launches-ai-email-security-to-disrupt-phishing-campaigns"
+    ]
+  },
+  {
+    "title": "FBI warns law firms of in-person data theft by Silent Ransom Group",
+    "published_wib": "2026-05-28T04:33:10+07:00",
+    "summary": "SRG actors initiate attacks by posing as IT support staff, contacting victims via phone calls or phishing emails to solicit a remote desktop session.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/fbi-warns-law-firms-of-in-person-data-theft-by-silent-ransom-group"
+    ]
+  },
+  {
+    "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+    "published_wib": "2026-05-28T04:31:25+07:00",
+    "summary": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/"
+    ]
+  },
+  {
+    "title": "AI chatbot recommendations lure users to cryptojacking malware sites",
+    "published_wib": "2026-05-28T01:57:15+07:00",
+    "summary": "Cybercriminals are using AI chatbot interactions alongside poisoned search results to direct users to malicious download sites in an active cryptojacking campaign, Microsoft has warned. The campaign impersonates legitimate software tools such as CrystalDiskInfo, HWMonitor, Display Driver Uninstaller (DDU), FurMark, K-Lite Codec Pack, and PDFgear. Screenshot\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/27/ai-chatbot-cryptojacking-campaign/"
+    ]
+  },
+  {
+    "title": "CrowdStrike, Google shatter Glassworm botnet",
+    "published_wib": "2026-05-28T00:56:14+07:00",
+    "summary": "Developer-targeted, supply-chain attacks all the rage these days",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337"
+    ]
+  },
+  {
+    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+    "published_wib": "2026-05-27T23:10:21+07:00",
+    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html"
+    ]
+  },
+  {
+    "title": "CrowdStrike, Google Take Down Glassworm Botnet",
+    "published_wib": "2026-05-27T21:00:00+07:00",
+    "summary": "Operators of the malicious Glassworm botnet have been targeting software developers since at least early 2025",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/crowdstrike-google-takedown/"
+    ]
+  },
+  {
+    "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+    "published_wib": "2026-05-27T20:28:42+07:00",
+    "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/"
+    ]
+  },
+  {
+    "title": "eSentire launches new Atlas AI Operatives for autonomous threat detection and response",
+    "published_wib": "2026-05-27T20:05:38+07:00",
+    "summary": "eSentire has unveiled new preempt, detect, and respond capabilities within the Atlas Platform, a unified agentic AI platform with purpose-built AI Operatives that work together in a continuous security lifecycle. Controlled autonomy SecOps The Atlas Platform delivers purpose-built and adaptive AI operative infrastructure in a continuous closed loop across a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/27/esentire-atlas-platform-capabilities/"
+    ]
+  },
+  {
+    "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+    "published_wib": "2026-05-27T18:52:55+07:00",
+    "summary": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries. The post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/"
+    ]
+  }
+]

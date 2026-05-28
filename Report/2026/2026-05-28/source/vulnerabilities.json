@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Another IT governance headache: AI-enabled sanction evasion",
+    "published_wib": "2026-05-28T06:24:11+07:00",
+    "summary": "Over the next three to five years, both governments and the private sector will need to rapidly adapt identification and mitigation protocols as adversaries move from AI-assisted to AI-enabled sanctions evasion and proliferation financing (PF), a new research paper warns. The report , Algorithms of Evasion: The Rise of AI-Enabled Proliferation Financing, fr\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4177936/another-it-governance-headache-ai-enabled-sanction-evasion-3.html"
+    ]
+  },
+  {
+    "title": "AI models more vulnerable than claimed when faced with iterative attacks",
+    "published_wib": "2026-05-28T04:48:19+07:00",
+    "summary": "CISOs relying on LLM runtime guardrails and official safety scores when making security decisions about their organizations\u2019 AI usage and model selection are due for a wakeup call. According to a new study from Cisco, frontier models from OpenAI, Anthropic, Google, xAI, and Amazon have significantly worse risk profiles when pressured in multi-turn attacks c\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4177903/ai-models-more-vulnerable-than-claimed-when-faced-with-iterative-attacks.html"
+    ]
+  },
+  {
+    "title": "XM Cyber expands platform to enforce least-privilege access",
+    "published_wib": "2026-05-28T04:46:27+07:00",
+    "summary": "XM Cyber Inc. announced an expansion of its platform with new capabilities designed to help enterprises enforce least-privilege access across Active Directory, Microsoft Entra, and multicloud environments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/xm-cyber-expands-platform-to-enforce-least-privilege-access"
+    ]
+  },
+  {
+    "title": "High-severity Starlette vulnerability 'BadHost' could expose sensitive data",
+    "published_wib": "2026-05-28T04:42:52+07:00",
+    "summary": "The flaw, tracked as CVE-2026-48710, arises from the framework's handling of malformed Host headers.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/high-severity-starlette-vulnerability-badhost-could-expose-sensitive-data"
+    ]
+  },
+  {
+    "title": "Xage Security enhances zero-trust platform for AI agents",
+    "published_wib": "2026-05-28T04:42:17+07:00",
+    "summary": "The updated platform introduces Xage Agent Sentry and Xage Resource Gateway, which aim to secure AI agents and the resources they access at multiple levels, including network interactions, local events, and operating system calls.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/xage-security-enhances-zero-trust-platform-for-ai-agents"
+    ]
+  },
+  {
+    "title": "Reconstructing an Akira Ransomware Kill Chain from Perimeter and Endpoint Logs, (Wed, May 27th)",
+    "published_wib": "2026-05-28T04:14:03+07:00",
+    "summary": "Most Akira write-ups focus on the ransom note or the encryption routine. By the time those show up the interesting forensic work is over. The questions that matter to defenders sit earlier. How did they get in. When did they get domain admin. What did they touch before the binary fired. Those answers live in the days before impact. They sit in two log sourc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33024"
+    ]
+  },
+  {
+    "title": "CVE-2026-49009 | Northern.tech Mender Server up to 4.0.1/4.0.2/4.1.0/4.1.1 path traversal",
+    "published_wib": "2026-05-28T03:02:12+07:00",
+    "summary": "A vulnerability marked as critical has been reported in Northern.tech Mender Server up to 4.0.1/4.0.2/4.1.0/4.1.1 . This affects an unknown function. This manipulation causes path traversal. This vulnerability is tracked as CVE-2026-49009 . The attack is possible to be carried out remotely. No exploit exists.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366518"
+    ]
+  },
+  {
+    "title": "CVE-2026-33552 | Northern.tech Mender Enterprise Server up to 4.1.0 access control",
+    "published_wib": "2026-05-28T03:01:47+07:00",
+    "summary": "A vulnerability labeled as critical has been found in Northern.tech Mender Enterprise Server up to 4.1.0 . The impacted element is an unknown function. The manipulation results in improper access controls. This vulnerability is identified as CVE-2026-33552\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366517"
+    ]
+  },
+  {
+    "title": "CVE-2026-9759 | Wireshark up to 4.4.15/4.6.5 ROHC Protocol Dissector null pointer dereference (EUVD-2026-32629)",
+    "published_wib": "2026-05-28T03:01:37+07:00",
+    "summary": "A vulnerability identified as problematic has been detected in Wireshark up to 4.4.15/4.6.5 . The affected element is an unknown function of the component ROHC Protocol Dissector . The manipulation leads to null pointer dereference. This vulnerability is referenced as CVE-2026-9759\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366516"
+    ]
+  },
+  {
+    "title": "CVE-2026-45104 | MapServer up to 8.6.2 array index",
+    "published_wib": "2026-05-28T03:01:19+07:00",
+    "summary": "A vulnerability categorized as problematic has been discovered in MapServer up to 8.6.2 . Impacted is an unknown function. Executing a manipulation can lead to improper validation of array index. The identification of this vulnerability is CVE-2026-45104\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366515"
+    ]
+  }
+]

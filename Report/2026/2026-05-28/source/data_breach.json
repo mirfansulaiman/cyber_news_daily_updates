@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Out of the Crypt: The Evolving Cyber Extortion Economy",
+    "published_wib": "2026-05-28T05:00:46+07:00",
+    "summary": "Unit 42 explores trends in data theft and extortion, outlining key strategies for organizations as frontier AI models advance. The post Out of the Crypt: The Evolving Cyber Extortion Economy appeared first on Unit 42 .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/cyber-extortion-economy/"
+    ]
+  },
+  {
+    "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
+    "published_wib": "2026-05-28T03:38:01+07:00",
+    "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and socially engineering its way into servers and databases.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data"
+    ]
+  },
+  {
+    "title": "Latin American Cybercriminals Hoover Up Government Data",
+    "published_wib": "2026-05-27T23:19:03+07:00",
+    "summary": "A purported leak exposing 5.8 million records of Uruguayan citizens is the latest incident where cybercriminals targeted government agencies to monetize citizen data.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data"
+    ]
+  },
+  {
+    "title": "Extortion crews are visiting law firms pretending to be tech support, FBI warns",
+    "published_wib": "2026-05-27T23:15:52+07:00",
+    "summary": "Cybercriminals still allowed to walk into office blocks and convince staff to let them plug in their own thumb drives",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/27/fbi-crooks-enter-legal-offices-and-steal-data-via-usb-drive/5247212"
+    ]
+  },
+  {
+    "title": "FBI warns of in-person data theft attacks from extortion gang",
+    "published_wib": "2026-05-27T18:51:12+07:00",
+    "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+    "published_wib": "2026-05-27T17:30:00+07:00",
+    "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/"
+    ]
+  },
+  {
+    "title": "Dutch police arrests suspect linked to Ajax football club hack",
+    "published_wib": "2026-05-27T16:09:03+07:00",
+    "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/"
+    ]
+  },
+  {
+    "title": "DSPM buyer\u2019s guide: Top 10 data security posture management tools",
+    "published_wib": "2026-05-27T14:00:00+07:00",
+    "summary": "Data security posture management (DSPM) explained Data security posture management (DSPM) tools help security teams examine their entire data environment to find shadow data, reducing the risk of data loss. Tracking down sensitive data across both cloud and on-premises systems can be vexing. Each environment presents its own challenges. Given the dynamic an\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/2075321/top-12-data-security-posture-management-tools.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Charter confirms data breach after ShinyHunters extortion threat",
+    "published_wib": "2026-05-27T02:46:01+07:00",
+    "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/"
+    ]
+  },
+  {
+    "title": "[+24h Old] MyPillow must decide whether to be firm or soft as ransomware crims demand pay",
+    "published_wib": "2026-05-27T01:02:48+07:00",
+    "summary": "Guess they could deny the alleged intrusion \u2026 like the 2020 election results",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/26/mypillow-appears-on-play-ransomware-leak-site/5246513"
+    ]
+  }
+]
