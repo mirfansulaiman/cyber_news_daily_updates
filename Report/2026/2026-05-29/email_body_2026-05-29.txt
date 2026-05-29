@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- GreyVibe hackers use ChatGPT, Gemini to power cyberattacks
+- Troops’ phones gave away location data to foreign adversaries
+- BTMOB Android malware service generates custom phishing payloads
+- CVE-2026-9645 | ScadaBR 1.2.0 os command injection (EUVD-2026-33028)
+- CVE-2026-44655 | mantisbt Mantis Bug Tracker up to 2.28.1 Project Name cross site scripting (EUVD-2026-33025)
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by GreyVibe hackers use ChatGPT, Gemini to power cyberattacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Troops’ phones gave away location data to foreign adversaries. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FBI warns of fake FIFA websites running World Cup fraud schemes. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

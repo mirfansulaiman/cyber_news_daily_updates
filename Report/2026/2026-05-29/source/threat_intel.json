@@ -1,0 +1,102 @@
+[
+  {
+    "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+    "published_wib": "2026-05-29T05:24:49+07:00",
+    "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/"
+    ]
+  },
+  {
+    "title": "BTMOB Android malware service generates custom phishing payloads",
+    "published_wib": "2026-05-29T04:10:11+07:00",
+    "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/"
+    ]
+  },
+  {
+    "title": "Linux Supply Chain How-To - PSW #928",
+    "published_wib": "2026-05-29T04:00:00+07:00",
+    "summary": "Linux Supply Chain How-To - PSW #928",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/14956-linux-supply-chain-how-to-psw-928"
+    ]
+  },
+  {
+    "title": "New BTMOB Android Malware Enables Full Device Takeover",
+    "published_wib": "2026-05-28T20:05:04+07:00",
+    "summary": "Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access. The post New BTMOB Android Malware Enables Full Device Takeover appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/"
+    ]
+  },
+  {
+    "title": "GlassWorm falls, but the repo problem is far from solved",
+    "published_wib": "2026-05-28T19:20:55+07:00",
+    "summary": "Taking down a sprawling malware operation once signaled progress in securing the open-source ecosystem. Now, it barely registers. The GlassWorm campaign disruption comes at a moment when attackers can quickly reconstitute, and defenders are increasingly grappling with a new challenge: distinguishing real threats from automated noise. \u201cI think coordinated ac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4178215/glassworm-falls-but-the-repo-problem-is-far-from-solved.html"
+    ]
+  },
+  {
+    "title": "New Threat Actor Jinx-0164 Targets Crypto Developers on macOS",
+    "published_wib": "2026-05-28T18:30:00+07:00",
+    "summary": "New actor Jinx-0164 hit crypto developers with fake recruiter lures and macOS malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/jinx-0164-crypto-developers-macos/"
+    ]
+  },
+  {
+    "title": "Fake ChatGPT download site infects Windows and Mac users with malware",
+    "published_wib": "2026-05-28T17:18:26+07:00",
+    "summary": "Searching for ChatGPT? This fake download site serves malware to both Windows and Mac users, using separate payloads tailored to each platform.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/05/fake-chatgpt-download-site-infects-windows-and-mac-users-with-malware"
+    ]
+  },
+  {
+    "title": "Download pumping: New npm deception technique for supply chain attacks",
+    "published_wib": "2026-05-28T17:00:00+07:00",
+    "summary": "Learn how attackers exploit automated bot traffic as part of software supply chain attacks to artificially inflate download counters and mask malicious payloads as legitimate. Key takeaways Volume doesn\u2019t equal trust. Packages with numerous versions and high download counts might seem legitimate, but attackers can easily manipulate those metrics. Attackers\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.tenable.com/blog/how-cyberattackers-inflate-malicious-package-npm-download-counts"
+    ]
+  },
+  {
+    "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
+    "published_wib": "2026-05-28T16:06:11+07:00",
+    "summary": "An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model"
+    ]
+  },
+  {
+    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+    "published_wib": "2026-05-28T14:54:48+07:00",
+    "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
+    ]
+  }
+]

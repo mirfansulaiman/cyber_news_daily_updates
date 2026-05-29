@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+    "published_wib": "2026-05-29T02:08:10+07:00",
+    "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/"
+    ]
+  },
+  {
+    "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
+    "published_wib": "2026-05-28T22:00:00+07:00",
+    "summary": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key encryption with an aggressive self-propagation module to deploy itself across an entire network using series of simultaneous lateral movement techniques per target. The post The Gen\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/"
+    ]
+  },
+  {
+    "title": "Man arrested in Netherlands for hacking Ajax football club",
+    "published_wib": "2026-05-28T21:55:48+07:00",
+    "summary": "The suspect, apprehended in Buren, is believed to have repeatedly accessed Ajax's computer systems without authorization earlier this year.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/man-arrested-in-netherlands-for-hacking-ajax-football-club"
+    ]
+  },
+  {
+    "title": "Carnival Data Breach Exposed 6 Million People",
+    "published_wib": "2026-05-28T21:45:28+07:00",
+    "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/"
+    ]
+  },
+  {
+    "title": "Cybercriminals sail away with data from 6 million Carnival customers",
+    "published_wib": "2026-05-28T21:04:03+07:00",
+    "summary": "Carnival Corporation, one of the world\u2019s largest cruise operators, confirmed a data breach weeks after the ShinyHunters hacking group claimed it had stolen millions of customer records. Carnival acknowledged a phishing incident involving a single employee account and stated that it was investigating the scope of the unauthorized activity. \u201cOn April 14, 2026\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/28/carnival-corporation-data-breach/"
+    ]
+  },
+  {
+    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+    "published_wib": "2026-05-28T20:33:16+07:00",
+    "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
+    ]
+  },
+  {
+    "title": "Qumulo NeuralProtect uses AI to detect and stop ransomware before encryption",
+    "published_wib": "2026-05-28T19:22:16+07:00",
+    "summary": "Qumulo has unveiled Qumulo NeuralProtect, a ransomware resilience solution built to protect data at the storage layer by detecting and stopping threats before data is encrypted, corrupted, or lost. Integrated directly into the Qumulo Data Platform, NeuralProtect inspects every file at the precise point-of-write using a series of AI-driven analysis models to\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/28/qumulo-neuralprotect-uses-ai-to-detect-and-stop-ransomware-before-encryption/"
+    ]
+  },
+  {
+    "title": "Carnival confirms ShinyHunters cruised off with 6M customer records after April breach",
+    "published_wib": "2026-05-28T19:10:00+07:00",
+    "summary": "Travel and leisure giant was just one of many victims of the cybercrooks' crime spree this year",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/28/carnival-shinyhunters-cruised-off-with-6m-customer-records/5247808"
+    ]
+  },
+  {
+    "title": "Carnival confirms data breach impacting nearly 6 million",
+    "published_wib": "2026-05-28T19:04:52+07:00",
+    "summary": "Cruise giant Carnival has suffered yet another data breach, with ShinyHunters claiming to have stolen personal data affecting nearly 6 million people.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/05/carnival-confirms-data-breach-impacting-nearly-6-million"
+    ]
+  },
+  {
+    "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+    "published_wib": "2026-05-28T17:49:27+07:00",
+    "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/"
+    ]
+  }
+]

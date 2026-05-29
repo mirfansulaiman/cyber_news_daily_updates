@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Troops\u2019 phones gave away location data to foreign adversaries",
+    "published_wib": "2026-05-29T04:35:36+07:00",
+    "summary": "Lawmakers push DoD to tighten smartphone controls after adversaries exploited commercial tracking data",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108"
+    ]
+  },
+  {
+    "title": "CVE-2026-9645 | ScadaBR 1.2.0 os command injection (EUVD-2026-33028)",
+    "published_wib": "2026-05-29T04:06:57+07:00",
+    "summary": "A vulnerability categorized as critical has been discovered in ScadaBR 1.2.0 . Affected is an unknown function. The manipulation results in os command injection. This vulnerability was named CVE-2026-9645 . The attack may be performed from remote. There is no available exploit.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366949"
+    ]
+  },
+  {
+    "title": "CVE-2026-44655 | mantisbt Mantis Bug Tracker up to 2.28.1 Project Name cross site scripting (EUVD-2026-33025)",
+    "published_wib": "2026-05-29T04:06:47+07:00",
+    "summary": "A vulnerability was found in mantisbt Mantis Bug Tracker up to 2.28.1 . It has been rated as problematic . This impacts an unknown function of the component Project Name Handler . The manipulation leads to cross site scripting. This vulnerability is uniquely identified as CVE-2026-44655\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366948"
+    ]
+  },
+  {
+    "title": "CVE-2026-9646 | ScadaBR 1.2.0 URL cross site scripting (EUVD-2026-33029)",
+    "published_wib": "2026-05-29T04:06:39+07:00",
+    "summary": "A vulnerability was found in ScadaBR 1.2.0 . It has been declared as problematic . This affects an unknown function of the component URL Handler . Executing a manipulation can lead to basic cross site scripting. This vulnerability is handled as CVE-2026-9646 . The attack can be executed remotely. There is not any exploit available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366947"
+    ]
+  },
+  {
+    "title": "CVE-2026-49093 | Elastic Kibana up to 9.3.2 Outbound Requests server-side request forgery (EUVD-2026-33035)",
+    "published_wib": "2026-05-29T04:06:27+07:00",
+    "summary": "A vulnerability was found in Elastic Kibana up to 9.3.2 . It has been classified as critical . The impacted element is an unknown function of the component Outbound Requests Handler . Performing a manipulation results in server-side request forgery. This vulnerability is known as CVE-2026-49093\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366946"
+    ]
+  },
+  {
+    "title": "CVE-2026-49095 | Elastic Kibana up to 8.19.15/9.3.4/9.4.1 Configuration input validation (EUVD-2026-33033)",
+    "published_wib": "2026-05-29T04:06:25+07:00",
+    "summary": "A vulnerability was found in Elastic Kibana up to 8.19.15/9.3.4/9.4.1 and classified as problematic . The affected element is an unknown function of the component Configuration Handler . Such manipulation leads to improper input validation. This vulnerability is traded as CVE-2026-49095 . The attack may be launched remotely. There is no exploit available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366945"
+    ]
+  },
+  {
+    "title": "CVE-2026-42400 | Elastic Kibana up to 8.19.15/9.3.4/9.4.1 resource consumption",
+    "published_wib": "2026-05-29T04:06:18+07:00",
+    "summary": "A vulnerability has been found in Elastic Kibana up to 8.19.15/9.3.4/9.4.1 and classified as problematic . Impacted is an unknown function. This manipulation causes resource consumption. This vulnerability appears as CVE-2026-42400 . The attack may be initiated remotely. There is no available exploit.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366944"
+    ]
+  },
+  {
+    "title": "CVE-2026-42071 | mantisbt Mantis Bug Tracker up to 2.28.1 REST API Endpoint files mc_issue_attachment_get authorization (EUVD-2026-33027)",
+    "published_wib": "2026-05-29T04:06:10+07:00",
+    "summary": "A vulnerability, which was classified as critical , was found in mantisbt Mantis Bug Tracker up to 2.28.1 . This issue affects the function mc_issue_attachment_get of the file /api/rest/issues/{id}/files of the component REST API Endpoint . The manipulation results in missing authorization. This vulnerability is reported as CVE-2026-42071\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366943"
+    ]
+  },
+  {
+    "title": "CVE-2026-42070 | mantisbt Mantis Bug Tracker up to 2.28.1 Setting mc_issue_update authorization (EUVD-2026-33026)",
+    "published_wib": "2026-05-29T04:06:03+07:00",
+    "summary": "A vulnerability, which was classified as critical , has been found in mantisbt Mantis Bug Tracker up to 2.28.1 . This vulnerability affects the function mc_issue_update of the component Setting Handler . The manipulation leads to incorrect authorization. This vulnerability is documented as CVE-2026-42070\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366942"
+    ]
+  },
+  {
+    "title": "CVE-2026-49094 | Elastic Kibana up to 8.19.15 Management Endpoint resource consumption (EUVD-2026-33034)",
+    "published_wib": "2026-05-29T04:05:27+07:00",
+    "summary": "A vulnerability classified as problematic was found in Elastic Kibana up to 8.19.15 . This affects an unknown part of the component Management Endpoint . Executing a manipulation can lead to resource consumption. This vulnerability is registered as CVE-2026-49094 . It is possible to launch the attack remotely. No exploit is available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/366941"
+    ]
+  }
+]
