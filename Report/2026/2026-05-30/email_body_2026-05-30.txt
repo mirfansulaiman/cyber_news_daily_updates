@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Microsoft and security researcher’s dueling posts about cybersecurity disclosures get nasty
+- Name That Toon: Mark of (Cybersecurity) Progress
+- No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out
+- ChatGPT share links abused to host fake outage pages to deliver malware
+- Zapier security flaws could have exposed millions of user accounts
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Name That Toon: Mark of (Cybersecurity) Progress. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Microsoft and security researcher’s dueling posts about cybersecurity disclosures get nasty. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by California AG sues 23andMe over 2023 breach exposing health data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

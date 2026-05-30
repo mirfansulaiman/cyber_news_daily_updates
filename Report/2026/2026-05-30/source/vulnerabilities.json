@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Microsoft and security researcher\u2019s dueling posts about cybersecurity disclosures get nasty",
+    "published_wib": "2026-05-30T06:53:22+07:00",
+    "summary": "Microsoft and a prominent cybersecurity researcher have gotten into a very public and rather personal exchange of unpleasantries about what responsible cybersecurity disclosures should mean in 2026. A cybersecurity researcher going by the name Nightmare Eclipse, who has disclosed several cybersecurity holes before patches were available, posted that he had\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4178869/microsoft-and-security-researchers-dueling-posts-about-cybersecurity-disclosures-get-nasty.html"
+    ]
+  },
+  {
+    "title": "No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out",
+    "published_wib": "2026-05-30T01:26:48+07:00",
+    "summary": "Researcher reported the vuln in March. Maintainers haven't responded to his messages since",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/29/no-fix-yet-for-critical-gogs-rce-bug-exploit-module-is-out/5248691"
+    ]
+  },
+  {
+    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+    "published_wib": "2026-05-30T01:07:12+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html"
+    ]
+  },
+  {
+    "title": "Certifiably random: Swiss researchers claim perfect random number source",
+    "published_wib": "2026-05-29T22:18:03+07:00",
+    "summary": "Researchers in Switzerland claim to have built a perfect random number generator from two quantum superconducting chips, a 30-meter-long pipe, and some software. The resulting device could be used to generate cryptographic keys, or to offer a \u201cpublic randomness service\u201d for lotteries or blockchain applications, they say. They\u2019re not the first to make the cl\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4178750/certifiably-random-swiss-researchers-claim-perfect-random-number-source.html"
+    ]
+  },
+  {
+    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+    "published_wib": "2026-05-29T21:39:56+07:00",
+    "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two clo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html"
+    ]
+  },
+  {
+    "title": "Dutch police disrupts botnet composed of 17 million devices",
+    "published_wib": "2026-05-29T21:26:20+07:00",
+    "summary": "The Dutch National Police and the country\u2019s National Cyber Security Center (NCSC) have taken offline 200 servers controlling a botnet of 17 million devices, the law enforcement agency announced on Thursday. The investigation was launched after the NCSC received a report by a security researcher, and showed that the botnet consisted of at least 17 million in\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/29/dutch-police-disrupts-botnet-composed-of-17-million-devices/"
+    ]
+  },
+  {
+    "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
+    "published_wib": "2026-05-29T20:00:01+07:00",
+    "summary": "Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises"
+    ]
+  },
+  {
+    "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+    "published_wib": "2026-05-29T19:59:37+07:00",
+    "summary": "The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names. The post Gogs Zero-Day Exposes Servers to Remote Code Execution appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/"
+    ]
+  },
+  {
+    "title": "'The Com' Cyberattacks Support Violence & Sexploitation",
+    "published_wib": "2026-05-29T19:00:00+07:00",
+    "summary": "Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation"
+    ]
+  },
+  {
+    "title": "New infostealer reaches enterprise devices through FortiClient EMS vulnerability",
+    "published_wib": "2026-05-29T18:45:59+07:00",
+    "summary": "Attackers are delivering a broad-spectrum infostealer to enterprise computers by exploiting a known vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS). \u201cThe [malicious] payload was presented as a Fortinet endpoint update and executed through FortiClient-managed VPN scripting workflows,\u201d Arctic Wold researchers noted. About CVE-\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/"
+    ]
+  }
+]

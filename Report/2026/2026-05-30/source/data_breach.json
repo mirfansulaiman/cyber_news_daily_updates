@@ -1,0 +1,102 @@
+[
+  {
+    "title": "California AG sues 23andMe over 2023 breach exposing health data",
+    "published_wib": "2026-05-30T01:08:47+07:00",
+    "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/"
+    ]
+  },
+  {
+    "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
+    "published_wib": "2026-05-29T23:12:26+07:00",
+    "summary": "California AG claims genetics biz downplayed 2023 mega-leak while paying ransom to attacker",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565"
+    ]
+  },
+  {
+    "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
+    "published_wib": "2026-05-29T21:49:58+07:00",
+    "summary": "The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April. The post Charter Communications Data Breach Could Impact Nearly 5 Million appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/"
+    ]
+  },
+  {
+    "title": "Silent Ransom Group Uses In-Person IT Impersonation to Breach Systems",
+    "published_wib": "2026-05-29T20:00:00+07:00",
+    "summary": "Threat actors from the Silent Ransom Group, aka Luna Moth, are escalating attacks by impersonating IT staff in phone calls and even showing up in person to gain direct access to victim systems",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/silent-ransom-group-it/"
+    ]
+  },
+  {
+    "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
+    "published_wib": "2026-05-29T18:12:15+07:00",
+    "summary": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. The post California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/"
+    ]
+  },
+  {
+    "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+    "published_wib": "2026-05-29T18:07:07+07:00",
+    "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/"
+    ]
+  },
+  {
+    "title": "ShinyHunters adds Charter to trophy shelf after 4.9M customer records leak",
+    "published_wib": "2026-05-29T17:22:31+07:00",
+    "summary": "Telco giant says no sensitive data was taken, though names, addresses, phones, and emails are now out there",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/05/29/shinyhunters-adds-charter-to-trophy-shelf-after-49m-customer-records-leak/5248281"
+    ]
+  },
+  {
+    "title": "Charter Communications data breach affects 4.9 million accounts",
+    "published_wib": "2026-05-29T15:29:40+07:00",
+    "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/"
+    ]
+  },
+  {
+    "title": "Humanix expands detection to identify live violations of security procedures",
+    "published_wib": "2026-05-29T14:09:02+07:00",
+    "summary": "Humanix has announced a capability to identify live violations of organization-defined procedures governing IT support workflows. Designed to prevent unauthorized access, these procedures typically require help desk and service desk agents to follow identity verification steps before fulfilling sensitive requests, such as credential resets. Attackers have l\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/05/29/humanix-violations-detection/"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI warns of fake FIFA websites running World Cup fraud schemes",
+    "published_wib": "2026-05-29T02:08:10+07:00",
+    "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/"
+    ]
+  }
+]
