@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks and Exploit Code Published for Critical Flowise RCE Vulnerability. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Russia-aligned crime group Greyvibe extensively uses AI in attacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "California AG sues 23andMe over 2023 breach exposing health data. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-05-31",
+  "vol": "001"
+}

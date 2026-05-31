@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks
+- Exploit Code Published for Critical Flowise RCE Vulnerability
+- New CIFSwitch Linux flaw gives root on multiple distributions
+- PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation
+- Russia-aligned crime group Greyvibe extensively uses AI in attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Russia-aligned crime group Greyvibe extensively uses AI in attacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by California AG sues 23andMe over 2023 breach exposing health data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

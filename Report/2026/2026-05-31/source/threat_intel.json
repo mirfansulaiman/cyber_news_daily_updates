@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Russia-aligned crime group Greyvibe extensively uses AI in attacks",
+    "published_wib": "2026-05-30T07:22:14+07:00",
+    "summary": "Researchers have uncovered a previously undocumented Russian group that makes extensive use of large language models (LLMs) in its attacks against private, government, and military organizations in Ukraine. It uses a variety of attack vectors along with custom malware, with the goal of intelligence gathering for the ongoing war. Dubbed Greyvibe by researche\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4178879/russia-aligned-crime-group-greyvibe-extensively-uses-ai-in-attacks.html"
+    ]
+  },
+  {
+    "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
+    "published_wib": "2026-05-30T07:06:20+07:00",
+    "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity. The post Malicious npm packages abuse dependency confusion to profile dev\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Name That Toon: Mark of (Cybersecurity) Progress",
+    "published_wib": "2026-05-30T03:22:04+07:00",
+    "summary": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress"
+    ]
+  },
+  {
+    "title": "[+24h Old] ChatGPT share links abused to host fake outage pages to deliver malware",
+    "published_wib": "2026-05-30T01:21:36+07:00",
+    "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Zapier security flaws could have exposed millions of user accounts",
+    "published_wib": "2026-05-30T01:12:48+07:00",
+    "summary": "The flaws, disclosed by Token Security, did not require malware or insider access, only a free Zapier account.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/zapier-security-flaws-could-have-exposed-millions-of-user-accounts"
+    ]
+  },
+  {
+    "title": "[+24h Old] In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+    "published_wib": "2026-05-29T23:20:49+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 22",
+    "published_wib": "2026-05-29T21:38:21+07:00",
+    "summary": "Authorities dismantle Russian-aligned hosting firm, FBI warns of in-person data thefts, and TrapDoor steals credentials via software supply chain attack.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-22-7/"
+    ]
+  },
+  {
+    "title": "[+24h Old] From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+    "published_wib": "2026-05-29T21:32:02+07:00",
+    "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Dutch govt disrupts malware botnet with 17 million infected devices",
+    "published_wib": "2026-05-29T21:26:36+07:00",
+    "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Dutch cops wrest 17M devices from mystery botnet's clutches",
+    "published_wib": "2026-05-29T20:00:00+07:00",
+    "summary": "Hosting provider pulled the plug after police traced 200 servers to the Netherlands",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312"
+    ]
+  }
+]
