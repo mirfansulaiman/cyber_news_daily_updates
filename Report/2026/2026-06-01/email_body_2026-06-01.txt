@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- WP Maps Pro bug exploited to create admin accounts on WordPress sites
+- Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices
+- Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw
+- [+24h Old] Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks
+- [+24h Old] Exploit Code Published for Critical Flowise RCE Vulnerability
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by WP Maps Pro bug exploited to create admin accounts on WordPress sites. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by California AG sues 23andMe over 2023 breach exposing health data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
