@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Malware hides in Steam comments to infect WordPress sites",
+    "published_wib": "2026-06-02T06:07:51+07:00",
+    "summary": "The malware campaign, discovered in July 2025, has affected approximately 1,980 WordPress sites.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/malware-hides-in-steam-comments-to-infect-wordpress-sites"
+    ]
+  },
+  {
+    "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+    "published_wib": "2026-06-02T05:14:19+07:00",
+    "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/"
+    ]
+  },
+  {
+    "title": "Shai-Hulud malware worms Red Hat npm package versions downloaded 80K times a week",
+    "published_wib": "2026-06-02T04:54:07+07:00",
+    "summary": "TeamPCP? Or copycat malware dev?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/01/shai-hulud-malware-infects-red-hat-npm-packages-downloaded-80k-times-weekly/5249803"
+    ]
+  },
+  {
+    "title": "Red Hat npm packages compromised to steal developer credentials",
+    "published_wib": "2026-06-02T04:38:29+07:00",
+    "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/"
+    ]
+  },
+  {
+    "title": "Election interlopers register 5K+ domains, hope to catch some voting phish",
+    "published_wib": "2026-06-02T02:46:47+07:00",
+    "summary": "Hacking voting machines is so 2017. Phishing, impersonation pose the real election risks",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/01/5k-election-domains-registered-ahead-of-us-midterms/5249764"
+    ]
+  },
+  {
+    "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+    "published_wib": "2026-06-02T00:40:28+07:00",
+    "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, e\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html"
+    ]
+  },
+  {
+    "title": "WordPress malware campaign hides payloads in Steam profiles",
+    "published_wib": "2026-06-02T00:04:16+07:00",
+    "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/"
+    ]
+  },
+  {
+    "title": "Fake BlueWallet steals passwords, accounts, and crypto from Macs",
+    "published_wib": "2026-06-01T21:40:25+07:00",
+    "summary": "A fake BlueWallet download tricks Mac users into running malware that steals passwords, crypto wallets, and clipboard data.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/06/fake-bluewallet-steals-passwords-accounts-and-crypto-from-macs"
+    ]
+  },
+  {
+    "title": "Secure Code Warrior connects developer training to AI usage and code risks",
+    "published_wib": "2026-06-01T20:54:29+07:00",
+    "summary": "Secure Code Warrior has introduced Adaptive Learning, a capability designed to help organizations support AI software governance through targeted training based on identified risks. The feature delivers contextual microlearning and tracks outcomes at the code commit level. Software development is going through its biggest shift ever, from human-written code\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/01/secure-code-warrior-adaptive-learning-capability/"
+    ]
+  },
+  {
+    "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+    "published_wib": "2026-06-01T18:54:24+07:00",
+    "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phish\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html"
+    ]
+  }
+]

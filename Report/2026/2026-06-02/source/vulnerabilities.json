@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pretalx vulnerability allows account takeover and admin demotion",
+    "published_wib": "2026-06-02T05:55:50+07:00",
+    "summary": "The vulnerability, with a CVSS score of 8.7, can be exploited with low privileges and complexity.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/pretalx-vulnerability-allows-account-takeover-and-admin-demotion"
+    ]
+  },
+  {
+    "title": "Dashlane accounts suspended amid brute-force attack",
+    "published_wib": "2026-06-02T05:51:04+07:00",
+    "summary": "Dashlane users reported receiving notifications of suspicious login attempts from unknown devices and foreign locations, leading to account lockouts.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/dashlane-accounts-suspended-amid-brute-force-attack"
+    ]
+  },
+  {
+    "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+    "published_wib": "2026-06-02T01:52:26+07:00",
+    "summary": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash"
+    ]
+  },
+  {
+    "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+    "published_wib": "2026-06-02T01:19:23+07:00",
+    "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/"
+    ]
+  },
+  {
+    "title": "Dashlane password manager users locked out by brute force attacks",
+    "published_wib": "2026-06-02T01:17:13+07:00",
+    "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/"
+    ]
+  },
+  {
+    "title": "Oracle\u2019s first monthly patch release fixes 35 flaws, including 11 rated \u2018critical\u2019",
+    "published_wib": "2026-06-02T00:57:19+07:00",
+    "summary": "Oracle has released the first security fixes in its new monthly Critical Security Patch Update (CSPU) cycle, designed to address urgent vulnerabilities that can\u2019t wait for the company\u2019s quarterly patching. The initial batch addresses 35 flaws, including several for which exploit code is publicly available. In total, there are 11 flaws rated \u2018critical\u2019 , 18\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4179473/oracles-first-monthly-patch-release-fixes-35-flaws-including-11-rated-critical.html"
+    ]
+  },
+  {
+    "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+    "published_wib": "2026-06-02T00:32:50+07:00",
+    "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
+    ]
+  },
+  {
+    "title": "VU#158530: PCTCore64.sys Windows kernel driver contains missing access control vulnerability",
+    "published_wib": "2026-06-01T23:21:07.390312+07:00",
+    "summary": "Overview The PCTCore64.sys Windows kernel driver from PC Tools Internet Security exposes its \\\\.\\PCTCoreDriver device interface with no access control, allowing any user-mode process to interact with the driver and invoke privileged IOCTL (I/O Control) commands. In a Bring Your Own Vulnerable Driver (BYOVD) scenario, a local attacker with the ability to loa\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/158530"
+    ]
+  },
+  {
+    "title": "Critical Windows Netlogon Vulnerability in Attackers\u2019 Crosshairs",
+    "published_wib": "2026-06-01T22:02:17+07:00",
+    "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers\u2019 Crosshairs appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/"
+    ]
+  },
+  {
+    "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
+    "published_wib": "2026-06-01T21:35:51+07:00",
+    "summary": "Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit"
+    ]
+  }
+]

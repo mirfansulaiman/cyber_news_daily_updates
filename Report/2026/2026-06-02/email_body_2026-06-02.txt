@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Malware hides in Steam comments to infect WordPress sites
+- Ransomware leak posts show weekday peak, October spikes
+- Pretalx vulnerability allows account takeover and admin demotion
+- Dashlane accounts suspended amid brute-force attack
+- Grand Theft Auto V cheat service Atlas Menu hacked, user data exposed
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malware hides in Steam comments to infect WordPress sites. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Pretalx vulnerability allows account takeover and admin demotion. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ransomware leak posts show weekday peak, October spikes. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
