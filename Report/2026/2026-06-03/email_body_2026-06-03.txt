@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Two-year old Oracle WebLogic Server vulnerability is being exploited
+- Russian hackers exploit WinRAR vulnerability for data theft
+- Critical Kirki flaw exploited to hijack WordPress admin accounts
+- Most organizations that miss 24-hour patch window report breaches
+- Google releases June Android security patches addressing 124 vulnerabilities, including 1 zero-day
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Over 116,000 Mincraft systems infected in WeedHack malware campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Two-year old Oracle WebLogic Server vulnerability is being exploited. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 'Dumbass' criminal breaks the 'first rule of ransomware club'. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

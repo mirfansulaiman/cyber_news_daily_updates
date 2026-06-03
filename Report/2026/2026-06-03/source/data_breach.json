@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'Dumbass' criminal breaks the 'first rule of ransomware club'",
+    "published_wib": "2026-06-03T04:58:34+07:00",
+    "summary": "You don't infect anyone in Russia or other CIS countries",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/02/dumbass-criminal-breaks-the-first-rule-of-ransomware-club/5250380"
+    ]
+  },
+  {
+    "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+    "published_wib": "2026-06-03T03:01:20+07:00",
+    "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/"
+    ]
+  },
+  {
+    "title": "These convincing copyright notices are designed to steal Google logins",
+    "published_wib": "2026-06-03T01:24:07+07:00",
+    "summary": "Scammers use fake takedown requests, countdown timers, and spoofed sign-in screens to steal Google logins from Chrome developers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/06/these-convincing-copyright-notices-are-designed-to-steal-google-logins"
+    ]
+  },
+  {
+    "title": "64,000 accounts exposed in breach of GTA V cheat service Atlas Menu",
+    "published_wib": "2026-06-02T20:00:21+07:00",
+    "summary": "Atlas Menu, a cheat service for Grand Theft Auto V and Counter-Strike 2, has been added to the Have I Been Pwned database following a data breach that exposed tens of thousands of user records. The incident exposed approximately 64,000 accounts, including email addresses, usernames, IP addresses, support tickets, and passwords hashed with bcrypt. The attack\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/02/atlas-menu-cheat-service-data-breach/"
+    ]
+  },
+  {
+    "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
+    "published_wib": "2026-06-02T19:00:00+07:00",
+    "summary": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewall.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense"
+    ]
+  },
+  {
+    "title": "Northern Ireland cops issue PSA after official phone number spoofed by scammers",
+    "published_wib": "2026-06-02T17:46:12+07:00",
+    "summary": "If you\u2019re going to impersonate an officer, perhaps choose a more sophisticated way to nick cash than asking for gift cards\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/02/northern-ireland-cops-issue-psa-after-official-phone-number-spoofed-by-scammers/5249999"
+    ]
+  },
+  {
+    "title": "23andMe exposed genetic information of millions, lawsuit says",
+    "published_wib": "2026-06-02T16:53:19+07:00",
+    "summary": "What began with stolen passwords ended with the exposure of nearly seven million users' DNA-related data, according to California's lawsuit.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/06/23andme-exposed-genetic-information-of-millions-lawsuit-says"
+    ]
+  },
+  {
+    "title": "[+24h Old] Spain arrests doxer leaking sensitive data of govt employees",
+    "published_wib": "2026-06-02T04:28:41+07:00",
+    "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1st June \u2013 Threat Intelligence Report",
+    "published_wib": "2026-06-01T21:43:11+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 1st June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Carnival Corporation, a global cruise line operator, has confirmed a data breach affecting nearly 6 million people after attackers used social engineering to compromise an employee account. Exposed information may\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware leak posts show weekday peak, October spikes",
+    "published_wib": "2026-06-02T05:58:48+07:00",
+    "summary": "The data analyzed by the Ransomnews Research Team indicates that ransomware operations largely follow a business week, with significantly fewer posts on Sundays compared to Mondays and Tuesdays.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ransomware-leak-posts-show-weekday-peak-october-spikes"
+    ]
+  }
+]

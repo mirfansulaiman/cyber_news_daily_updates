@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Two-year old Oracle WebLogic Server vulnerability is being exploited and Russian hackers exploit WinRAR vulnerability for data theft. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Over 116,000 Mincraft systems infected in WeedHack malware campaign. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "'Dumbass' criminal breaks the 'first rule of ransomware club'. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-03",
+  "vol": "002"
+}

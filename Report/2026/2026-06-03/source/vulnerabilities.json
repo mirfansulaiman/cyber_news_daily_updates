@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Two-year old Oracle WebLogic Server vulnerability is being exploited",
+    "published_wib": "2026-06-03T06:34:40+07:00",
+    "summary": "US federal government departments have been given until Thursday to patch a two-year old high severity vulnerability in Oracle WebLogic Server that could allow an unauthenticated attacker to access critical data. The vulnerability, CVE-2024-21182 , was added Monday to the Cybersecurity and Infrastructure Security Agency\u2019s (CISA) Known Exploited Vulnerabilit\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.csoonline.com/article/4180218/two-year-old-oracle-weblogic-server-vulnerability-is-being-exploited.html"
+    ]
+  },
+  {
+    "title": "Russian hackers exploit WinRAR vulnerability for data theft",
+    "published_wib": "2026-06-03T05:16:15+07:00",
+    "summary": "The exploitation chain begins with a weaponized HTML Application payload called GammaPhish, which retrieves intermediate Visual Basic Script (VBScript) downloaders known as GammaLoad, according to Sekoia.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/russian-hackers-exploit-winrar-vulnerability-for-data-theft"
+    ]
+  },
+  {
+    "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+    "published_wib": "2026-06-03T05:12:57+07:00",
+    "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/"
+    ]
+  },
+  {
+    "title": "Most organizations that miss 24-hour patch window report breaches",
+    "published_wib": "2026-06-03T05:10:05+07:00",
+    "summary": "Study points out that AI has shattered the model of patching on a two- to four-week schedule.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/most-organizations-that-miss-24-hour-patch-window-report-breaches"
+    ]
+  },
+  {
+    "title": "Google releases June Android security patches addressing 124 vulnerabilities, including 1 zero-day",
+    "published_wib": "2026-06-03T05:07:40+07:00",
+    "summary": "The actively exploited vulnerability, identified as CVE-2025-48595, is a high-severity flaw in the Android Framework that allows local attackers to gain code execution and escalate privileges on devices running Android 14 or later.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/google-releases-june-android-security-patches-addressing-124-vulnerabilities-including-one-zero-day"
+    ]
+  },
+  {
+    "title": "CISA orders agencies to patch critical Oracle WebLogic Server vulnerability",
+    "published_wib": "2026-06-03T04:45:27+07:00",
+    "summary": "The vulnerability, CVE-2024-21182, affects Oracle WebLogic Server versions 12.2.1.4.0 and 14.1.1.0.0.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-orders-agencies-to-patch-critical-oracle-weblogic-server-vulnerability"
+    ]
+  },
+  {
+    "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
+    "published_wib": "2026-06-03T03:58:20+07:00",
+    "summary": "HP has released patches for a critical buffer overflow vulnerability in multiple IP-enabled conference phones from its Poly Voice line. The flaw allows unauthenticated attackers to obtain root privileges on the underlying operating system, potentially enabling them to execute other attacks such as eavesdropping on conversations and recording voice data for\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4180223/hp-poly-voip-vulnerability-sets-the-stage-for-executive-voice-deepfakes.html"
+    ]
+  },
+  {
+    "title": "Trump revives parts of canceled AI order with cybersecurity-focused directive",
+    "published_wib": "2026-06-03T01:46:49+07:00",
+    "summary": "US President Donald Trump signed an executive order aimed at strengthening cybersecurity defenses and establishing a voluntary framework for cooperation between the federal government and developers of advanced artificial intelligence models, reviving portions of a broader AI initiative that he abruptly shelved less than two weeks ago. The order, \u201c Promotin\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4180205/trump-revives-parts-of-canceled-ai-order-with-cybersecurity-focused-directive.html"
+    ]
+  },
+  {
+    "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+    "published_wib": "2026-06-03T01:46:00+07:00",
+    "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+    ]
+  },
+  {
+    "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+    "published_wib": "2026-06-03T01:21:49+07:00",
+    "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, whic\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+    ]
+  }
+]

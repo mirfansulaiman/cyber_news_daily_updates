@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+    "published_wib": "2026-06-03T04:54:49+07:00",
+    "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/"
+    ]
+  },
+  {
+    "title": "SideCopy group targets Afghanistan's Ministry of Finance with Xeno RAT",
+    "published_wib": "2026-06-03T04:54:18+07:00",
+    "summary": "The campaign commences with a spear-phishing email containing a ZIP archive with a malicious LNK file written in Pashto, designed to exploit the familiarity of the language within the Afghan government.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/sidecopy-group-targets-afghanistans-ministry-of-finance-with-xeno-rat"
+    ]
+  },
+  {
+    "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
+    "published_wib": "2026-06-03T04:32:24+07:00",
+    "summary": "Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach"
+    ]
+  },
+  {
+    "title": "DriveSurge actor uses ClickFix and FakeUpdates to distribute malware via compromised websites",
+    "published_wib": "2026-06-03T04:32:06+07:00",
+    "summary": "The DriveSurge threat actor operates as an initial access broker, utilizing a pay-per-install model to facilitate subsequent attacks, according to research by SilentPush.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/drivesurge-actor-uses-clickfix-and-fakeupdates-to-distribute-malware-via-compromised-websites"
+    ]
+  },
+  {
+    "title": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
+    "published_wib": "2026-06-03T04:00:00+07:00",
+    "summary": "Heraclitus, AI LLMs, SSO, TTP, NetLogon, PAN-OS, AI Cost, Aaran Leyland... - SWN #586",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15026-heraclitus-ai-llms-sso-ttp-netlogon-pan-os-ai-cost-aaran-leyland-swn-586"
+    ]
+  },
+  {
+    "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks",
+    "published_wib": "2026-06-03T03:11:51+07:00",
+    "summary": "A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks"
+    ]
+  },
+  {
+    "title": "China Uses Dual-Method Cyberattack on Czech Orgs",
+    "published_wib": "2026-06-03T02:50:53+07:00",
+    "summary": "China is stealing data from high-value targets via a sneaky, double-layer spear-phishing campaign that includes the Azureveil malware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs"
+    ]
+  },
+  {
+    "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)",
+    "published_wib": "2026-06-03T00:30:33+07:00",
+    "summary": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2) appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "The HazyBeacon Protocol \u2013 How Malware Weaponizes Amazon Web Services (AWS) Lambda Function URLs",
+    "published_wib": "2026-06-02T23:00:00+07:00",
+    "summary": "Key Takeaways The Rise of Cloud-Native Command and Control (C2) Command and control (C2) infrastructure traditionally lived outside the victim environment. Malware beaconed to attacker-operated servers hosted on rented VPS infrastructure or compromised websites, and defenders focused on identifying those endpoints through IP reputation, domain intelligence,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.qualys.com/qualys-insights/2026/06/02/hazybeacon-aws-lambda-function-url-command-control-abuse"
+    ]
+  },
+  {
+    "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
+    "published_wib": "2026-06-02T19:30:00+07:00",
+    "summary": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code. The post The Zero-Knowledge Threat Actor and the End of Responsible Disclosure appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/"
+    ]
+  }
+]
