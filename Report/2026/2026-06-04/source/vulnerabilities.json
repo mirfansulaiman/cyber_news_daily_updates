@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Russia FSB claims foreign intelligence used malware on officials' phones",
+    "published_wib": "2026-06-04T05:26:56+07:00",
+    "summary": "The FSB stated that the operation exploited the capabilities of unspecified \"major international IT corporations\" to extract sensitive information from targeted devices.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/fsb-claims-foreign-intelligence-used-malware-on-officials-phones"
+    ]
+  },
+  {
+    "title": "Unpatched Windows search URI handler issue leaks NTLMv2 hashes",
+    "published_wib": "2026-06-04T05:23:36+07:00",
+    "summary": "The newly identified issue, similar to a previously patched vulnerability in the Windows Snipping Tool (CVE-2026-33829), resides in the search URI handler.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/unpatched-windows-search-uri-handler-vulnerability-leaks-ntlmv2-hashes"
+    ]
+  },
+  {
+    "title": "Acer addresses critical zero-day vulnerabilities in Wave 7 routers",
+    "published_wib": "2026-06-04T05:16:14+07:00",
+    "summary": "The first vulnerability, CVE-2026-49200, is a broken access control flaw that allows unauthenticated attackers to access plaintext credentials from log archives, potentially leading to unauthorized system access.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/acer-addresses-critical-zero-day-vulnerabilities-in-wave-7-routers"
+    ]
+  },
+  {
+    "title": "Law enforcement arrests 29 in crackdown on illegal streaming operations",
+    "published_wib": "2026-06-04T05:05:47+07:00",
+    "summary": "The operation successfully led to the removal of more than 27,000 illegal streaming URLs distributing copyrighted sports, film, and television content.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/law-enforcement-arrests-29-in-crackdown-on-illegal-streaming-operations"
+    ]
+  },
+  {
+    "title": "New HTTP/2 Bomb attack can take down web servers in seconds",
+    "published_wib": "2026-06-04T04:57:49+07:00",
+    "summary": "The HTTP/2 Bomb attack exploits default configurations of major web servers including NGINX, Apache HTTP Server, Microsoft IIS, Envoy, and Cloudflare Pingora.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-http-2-bomb-attack-can-take-down-web-servers-in-seconds"
+    ]
+  },
+  {
+    "title": "Cisco Cloud Control AI defense suite aims to counter Mythos-level threats",
+    "published_wib": "2026-06-04T04:46:28+07:00",
+    "summary": "Cisco's new Cloud Control suite enables businesses to create AI agents designed to monitor systems and block potential exploitation attempts.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisco-cloud-control-ai-defense-suite-aims-to-counter-mythos-threats"
+    ]
+  },
+  {
+    "title": "Bend the beam like Beckham to defeat anti-jamming tech",
+    "published_wib": "2026-06-04T03:57:39+07:00",
+    "summary": "It's hard to stop a signal jammer if you can't locate the source, say Rice University researchers",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/networks/2026/06/03/curving-beams-could-fool-anti-jamming-tech/5250872"
+    ]
+  },
+  {
+    "title": "VU#595768: Securly Chrome Extension contains multiple weak encryption and access control vulnerabilities",
+    "published_wib": "2026-06-04T00:58:03.621119+07:00",
+    "summary": "Overview Version 3.0.7 of the Securly Chrome Extension contains multiple vulnerabilities involving insecure data transmission, weak cryptography, and improper access control. These issues may expose sensitive filtering rules, enable the manipulation of downloaded configuration files, and allow unauthenticated access to protected resources. An attacker could\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/595768"
+    ]
+  },
+  {
+    "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+    "published_wib": "2026-06-03T22:36:16+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/"
+    ]
+  },
+  {
+    "title": "Stop Patching at Human Speed: Peer-to-Peer (P2P) Distribution Closes the Remediation Gap Before Attackers Strike",
+    "published_wib": "2026-06-03T22:00:00+07:00",
+    "summary": "Executive Summary Knowing what\u2019s exploitable is only half the battle. P2P patch distribution turns your endpoints into a delivery network, cutting patch propagation by up to 92%, reducing WAN bandwidth by 99%+, and helping close critical vulnerabilities before attackers can move. Available now in Qualys Cloud Agent for Windows 6.5. The Remediation Gap is Wi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/06/03/stop-patching-at-human-speed-peer-to-peer-p2p-distribution-closes-the-remediation-gap-before-attackers-strike"
+    ]
+  }
+]

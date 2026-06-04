@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Google rolls out scam call detection for Android",
+    "published_wib": "2026-06-04T05:39:55+07:00",
+    "summary": "The fake call detection feature works automatically when both the caller and recipient are using the Phone by Google app.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/google-rolls-out-ai-scam-call-detection-for-android"
+    ]
+  },
+  {
+    "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+    "published_wib": "2026-06-04T03:31:22+07:00",
+    "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/"
+    ]
+  },
+  {
+    "title": "We found this fake-invoice campaign while scammers were still building it",
+    "published_wib": "2026-06-04T01:05:19+07:00",
+    "summary": "Invoices pretending to be from Amazon, PayPal, and others reveal how criminals use fear and phone calls to steal money and devices.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/06/we-found-this-fake-invoice-campaign-while-scammers-were-still-building-it"
+    ]
+  },
+  {
+    "title": "Security of 100 AI Agents Tested and Ranked \u2013 What You Need to Know",
+    "published_wib": "2026-06-03T20:00:00+07:00",
+    "summary": "The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses. The post Security of 100 AI Agents Tested and Ranked \u2013 What You Need to Know appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/"
+    ]
+  },
+  {
+    "title": "Keep getting calls from questionable numbers? Meet Scam Number Check",
+    "published_wib": "2026-06-03T19:16:04+07:00",
+    "summary": "Scam Number Check lets you quickly check whether a number has been linked to scams before you call back, share information, or send money.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/product/2026/06/keep-getting-calls-from-questionable-numbers-meet-scam-number-check"
+    ]
+  },
+  {
+    "title": "IMA Diligence Services Data Breach Impacts 525,000 People",
+    "published_wib": "2026-06-03T19:08:25+07:00",
+    "summary": "The affected individuals\u2019 personal information was stolen from a legacy server managed by a third party. The post IMA Diligence Services Data Breach Impacts 525,000 People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/"
+    ]
+  },
+  {
+    "title": "AI may finally unlock the cyber budgets CISOs have wanted for years",
+    "published_wib": "2026-06-03T17:00:00+07:00",
+    "summary": "For nearly two decades, cybersecurity leaders have faced the same reality: No matter how catastrophic the latest breach, ransomware attack, or nation-state intrusion, security spending often struggled against competition with every other business priority. AI may finally be changing that equation. The rapid emergence of frontier AI systems capable of autono\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4180316/ai-may-finally-unlock-the-cyber-budgets-cisos-have-wanted-for-years.html"
+    ]
+  },
+  {
+    "title": "Google adds Android protection against AI deepfake scam calls",
+    "published_wib": "2026-06-03T16:02:11+07:00",
+    "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/"
+    ]
+  },
+  {
+    "title": "Lessons from the Canvas cyberattack",
+    "published_wib": "2026-06-03T16:00:00+07:00",
+    "summary": "Canvas cyberattack: Who, what, when, how? What and when? Over May 6 and 7, 2026, Canvas learning management system (LMS) users were served up a defaced web page in place of the expected login page. The altered web page displayed a warning by the ShinyHunters criminal hacker and extortion group advising of the Instructure compromise. Instructure , a leading\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4180194/lessons-from-the-canvas-cyberattack.html"
+    ]
+  },
+  {
+    "title": "Infosecurity Europe: AI-Powered Cybercrime Tools Surge on Dark Web",
+    "published_wib": "2026-06-03T14:30:00+07:00",
+    "summary": "Halcyon\u2019s Cynthia Kaiser lifts the lid on the dark web market for AI cybercrime tools",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cybercrime-ai-tools-surge-3800/"
+    ]
+  }
+]

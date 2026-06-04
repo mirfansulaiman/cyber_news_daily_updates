@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Google rolls out scam call detection for Android
+- Russia FSB claims foreign intelligence used malware on officials' phones
+- Unpatched Windows search URI handler issue leaks NTLMv2 hashes
+- Acer addresses critical zero-day vulnerabilities in Wave 7 routers
+- Law enforcement arrests 29 in crackdown on illegal streaming operations
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Chinese hackers use new Atlas RAT malware in European cyberattacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Russia FSB claims foreign intelligence used malware on officials' phones. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Google rolls out scam call detection for Android. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

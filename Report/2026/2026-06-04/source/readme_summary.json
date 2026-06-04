@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Russia FSB claims foreign intelligence used malware on officials' phones and Unpatched Windows search URI handler issue leaks NTLMv2 hashes. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Chinese hackers use new Atlas RAT malware in European cyberattacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "The U.S. sanctions Nobitex crypto exchange used by ransomware. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-04",
+  "vol": "002"
+}

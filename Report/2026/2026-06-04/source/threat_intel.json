@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+    "published_wib": "2026-06-04T04:45:27+07:00",
+    "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/"
+    ]
+  },
+  {
+    "title": "Attackers Use AI to Automate EDR Evasion Testing",
+    "published_wib": "2026-06-04T04:34:07+07:00",
+    "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing"
+    ]
+  },
+  {
+    "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+    "published_wib": "2026-06-04T02:08:19+07:00",
+    "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/"
+    ]
+  },
+  {
+    "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+    "published_wib": "2026-06-03T23:29:16+07:00",
+    "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many secu\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
+    ]
+  },
+  {
+    "title": "Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem",
+    "published_wib": "2026-06-03T20:21:44+07:00",
+    "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction When we search Google for a popular piece of software, we usually click the first result, sometimes without even looking at the rest, because official project sites tend to rank highest and appear near the top of the results. After landing on a site with a professional design and [\u2026] The post Imperson\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/"
+    ]
+  },
+  {
+    "title": "Malware campaign targeting Minecraft users infects over 116,000 systems",
+    "published_wib": "2026-06-03T19:29:28+07:00",
+    "summary": "A Malware-as-a-Service (MaaS) operation named WeedHack is targeting Minecraft users and allows threat actors to gain remote access to victims\u2019 screens, webcams, and files through a web-based dashboard, McAfee researchers found. Minecraft, developed by Mojang Studios and released in 2011, is one of the best-selling video games of all time, with more than 350\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/03/weedhack-minecraft-malware-campaign/"
+    ]
+  },
+  {
+    "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
+    "published_wib": "2026-06-03T17:01:00+07:00",
+    "summary": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign"
+    ]
+  },
+  {
+    "title": "Argamal: Malware hidden in hentai games",
+    "published_wib": "2026-06-03T16:00:22+07:00",
+    "summary": "Kaspersky researchers analyze new Argamal RAT distributed via infected hentai games and allowing the attacker to control the target machine.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/argamal-rat-distributed-with-hentai-games/119999/"
+    ]
+  },
+  {
+    "title": "Infostealers are becoming the go-to phishing payload",
+    "published_wib": "2026-06-03T15:59:47+07:00",
+    "summary": "Cybercriminals prefer infostealers to traditional phishing techniques because they reduce friction, scale well, and are widely available.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/06/infostealers-are-becoming-the-go-to-phishing-payload"
+    ]
+  },
+  {
+    "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+    "published_wib": "2026-06-03T13:16:54+07:00",
+    "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and m\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html"
+    ]
+  }
+]
