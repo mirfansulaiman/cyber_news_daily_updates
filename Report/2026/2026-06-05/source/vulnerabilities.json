@@ -2,7 +2,7 @@
   {
     "title": "The June 2026 AI Executive Order: What federal agencies need to know and how Tenable can help",
     "published_wib": "2026-06-05T06:33:00+07:00",
-    "summary": "On June 2, 2026, the White House signed an Executive Order directing federal agencies to harden their systems with AI-enabled cyber defenses and to stand up a new AI cybersecurity clearinghouse  most of it on a 30-day clock. Heres what the EO requires and how Tenable can help. Key takeaways: The new AI Security Executive Order will require national securi",
+    "summary": "On June 2, 2026, the White House signed an Executive Order directing federal agencies to harden their systems with AI-enabled cyber defenses and to stand up a new AI cybersecurity clearinghouse — most of it on a 30-day clock. Here’s what the EO requires and how Tenable can help. Key takeaways: The new AI Security Executive Order will require national securi…",
     "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
     "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
     "sources": [
@@ -13,7 +13,7 @@
     "title": "Android Gemini prompt injection flaw patched by Google",
     "published_wib": "2026-06-05T06:05:00+07:00",
     "summary": "SafeBreach researchers discovered that prompt injection attacks could be executed on Android phones if a user instructed Gemini to read their pending notifications.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.scworld.com/brief/android-gemini-prompt-injection-flaw-patched-by-google"
@@ -23,7 +23,7 @@
     "title": "Underground forum tutorial simplifies vulnerability exploitation for novice hackers",
     "published_wib": "2026-06-05T06:00:45+07:00",
     "summary": "The tutorial, authored by a hacker known as \"Hercules\" and documented by cybersecurity company Flare, breaks down the process of scanning, detecting, exploiting, and monetizing vulnerabilities into actionable steps.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.scworld.com/brief/underground-forum-tutorial-simplifies-vulnerability-exploitation-for-novice-hackers"
@@ -33,7 +33,7 @@
     "title": "Critical Redis vulnerability CVE-2026-23479 allows remote code execution",
     "published_wib": "2026-06-05T05:58:46+07:00",
     "summary": "The vulnerability, rated 8.8 by CVSS 3.1 and 7.7 by CVSS 4.0, resides in the unblockClientOnKey() function within src/blocked.c.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.scworld.com/brief/critical-redis-vulnerability-cve-2026-23479-allows-remote-code-execution"
@@ -42,18 +42,18 @@
   {
     "title": "Critical vulnerability in Hugging Face Transformers library allowed arbitrary code execution",
     "published_wib": "2026-06-05T05:50:13+07:00",
-    "summary": "The vulnerability, tracked as CVE-2026-4372, was exploitable through a standard model-loading command, even when Hugging Faces recommended security setting \"trust_remote_code=False\" was enabled.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "summary": "The vulnerability, tracked as CVE-2026-4372, was exploitable through a standard model-loading command, even when Hugging Face’s recommended security setting \"trust_remote_code=False\" was enabled.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.scworld.com/brief/critical-vulnerability-in-hugging-face-transformers-library-allowed-arbitrary-code-execution"
     ]
   },
   {
-    "title": "Tenable joins Anthropics Project Glasswing to advance AI-era cyber defense",
+    "title": "Tenable joins Anthropic’s Project Glasswing to advance AI-era cyber defense",
     "published_wib": "2026-06-05T03:30:00+07:00",
-    "summary": "By participating in Project Glasswing and working with Claude Mythos Preview, Tenable can help customers better understand how emerging frontier AI models behave, their evolving risks and benefits for cybersecurity, and the kinds of controls organizations will need as AI adoption accelerates. Key takeaways As part of Anthropics Project Glasswing, Tenable i",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "summary": "By participating in Project Glasswing and working with Claude Mythos Preview, Tenable can help customers better understand how emerging frontier AI models behave, their evolving risks and benefits for cybersecurity, and the kinds of controls organizations will need as AI adoption accelerates. Key takeaways As part of Anthropic’s Project Glasswing, Tenable i…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.tenable.com/blog/anthropic-claude-mythos-tenable-joins-project-glasswing"
@@ -62,18 +62,18 @@
   {
     "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
     "published_wib": "2026-06-04T23:55:51+07:00",
-    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
     ]
   },
   {
-    "title": "HTTP/2s speed abused to slow webserver performance in DoS attack",
+    "title": "HTTP/2’s speed abused to slow webserver performance in DoS attack",
     "published_wib": "2026-06-04T23:44:47+07:00",
-    "summary": "Security researchers are warning of an issue with the default HTTP/2 configuration used by major web servers which reportedly survived more than a decade of human review before showing up in Codex-assisted analysis. A flaw in the handling of the HTTP/2 protocol made a denial-of-service (DoS) attack possible on web servers including nginx, Apache HTTP server",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "summary": "Security researchers are warning of an issue with the default HTTP/2 configuration used by major web servers which reportedly survived more than a decade of human review before showing up in Codex-assisted analysis. A flaw in the handling of the HTTP/2 protocol made a denial-of-service (DoS) attack possible on web servers including nginx, Apache HTTP server…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.csoonline.com/article/4181313/http-2s-speed-abused-to-slow-webserver-performance-in-dos-attack.html"
@@ -82,8 +82,8 @@
   {
     "title": "OpenAI responds to White House executive order on AI governance",
     "published_wib": "2026-06-04T23:34:22+07:00",
-    "summary": "OpenAI has proposed mandatory federal evaluations of the most capable AI models before public release while arguing that regulators should stop short of deciding whether those systems can be deployed, staking out a middle ground in the debate over how frontier AI should be governed. The companys proposal came a day after the White House issued an executive",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "summary": "OpenAI has proposed mandatory federal evaluations of the most capable AI models before public release while arguing that regulators should stop short of deciding whether those systems can be deployed, staking out a middle ground in the debate over how frontier AI should be governed. The company’s proposal came a day after the White House issued an executive…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.csoonline.com/article/4181294/openai-responds-to-white-house-executive-order-on-ai-governance.html"
@@ -93,7 +93,7 @@
     "title": "Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites",
     "published_wib": "2026-06-04T23:15:00+07:00",
     "summary": "Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromiseespecially for internet-facing services and widely deployed products.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/"
