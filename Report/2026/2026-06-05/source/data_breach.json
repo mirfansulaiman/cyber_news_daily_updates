@@ -1,0 +1,102 @@
+[
+  {
+    "title": "iFood confirms data breach affecting 1.2 million users",
+    "published_wib": "2026-06-05T06:02:59+07:00",
+    "summary": "The breach resulted in the exposure of names, phone numbers, addresses, and CPF numbers, which are crucial Brazilian taxpayer identification documents used for various daily transactions.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/ifood-confirms-data-breach-affecting-1-2-million-users"
+    ]
+  },
+  {
+    "title": "Fake document marketplace aiding migrant smuggling dismantled in Spain",
+    "published_wib": "2026-06-05T05:44:40+07:00",
+    "summary": "The investigation, initiated by French authorities who identified the website, culminated in Spain with the arrest of a suspect in Alicante.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/fake-document-marketplace-dismantled-in-spain-aiding-migrant-smuggling"
+    ]
+  },
+  {
+    "title": "DentaQuest data breach exposes sensitive information of 2.6 million accounts",
+    "published_wib": "2026-06-05T05:31:36+07:00",
+    "summary": "The incident came to light last month when the extortion group ShinyHunters claimed to have stolen over 234 GB of data from the company.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/dentaquest-data-breach-exposes-sensitive-information-of-2-6-million-accounts"
+    ]
+  },
+  {
+    "title": "China's TA4922 Expands Cybercrime Attacks Globally",
+    "published_wib": "2026-06-05T04:23:59+07:00",
+    "summary": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally"
+    ]
+  },
+  {
+    "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+    "published_wib": "2026-06-05T03:47:16+07:00",
+    "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/"
+    ]
+  },
+  {
+    "title": "DentaQuest data breach exposed info of 2.6 million accounts",
+    "published_wib": "2026-06-05T01:36:27+07:00",
+    "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/"
+    ]
+  },
+  {
+    "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+    "published_wib": "2026-06-04T23:38:49+07:00",
+    "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/"
+    ]
+  },
+  {
+    "title": "Travel scams are everywhere. Heres how to avoid them",
+    "published_wib": "2026-06-04T18:28:12+07:00",
+    "summary": "Learn how to spot travel scams, avoid risky bookings, and keep your personal information out of the wrong hands.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/06/travel-scams-are-everywhere-heres-how-to-avoid-them"
+    ]
+  },
+  {
+    "title": "Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown",
+    "published_wib": "2026-06-04T17:44:41+07:00",
+    "summary": "Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia. The post Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/"
+    ]
+  },
+  {
+    "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+    "published_wib": "2026-06-04T13:06:25+07:00",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet acces",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html"
+    ]
+  }
+]
