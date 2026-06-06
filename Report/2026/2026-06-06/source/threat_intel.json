@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pro-Russian hacker group launches 'Patriotic Online Games' campaign targeting European organizations",
+    "published_wib": "2026-06-06T05:02:15+07:00",
+    "summary": "The group is leveraging Telegram to enlist \"patriotic volunteers,\" offering cryptocurrency rewards for participating in various cyber activities, including DDoS attacks, information gathering, and ransomware operations.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/pro-russian-hacker-group-launches-patriotic-online-games-campaign-targeting-european-organizations"
+    ]
+  },
+  {
+    "title": "IronWorm malware, similar to Shai-Hulud, hits 57 projects across 9 organizations",
+    "published_wib": "2026-06-06T03:37:10+07:00",
+    "summary": "The malware targets developer credentials and cryptocurrency and self-propagates on npm.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/ironworm-malware-similar-to-shai-hulud-hits-57-projects-across-9-organizations"
+    ]
+  },
+  {
+    "title": "Chinese APT deploys new malware to keep access to hacked networks",
+    "published_wib": "2026-06-06T01:09:47+07:00",
+    "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/"
+    ]
+  },
+  {
+    "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+    "published_wib": "2026-06-06T01:05:30+07:00",
+    "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides b\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
+    ]
+  },
+  {
+    "title": "Microsoft identifies seven new ways AI agents can be hacked",
+    "published_wib": "2026-06-06T00:20:34+07:00",
+    "summary": "Microsoft has identified seven new failure modes in agentic AI systems, in addition to those it identified last year in its first Taxonomy of Failure Modes in Agentic AI Systems\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked-2.html"
+    ]
+  },
+  {
+    "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+    "published_wib": "2026-06-05T21:53:40+07:00",
+    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news so\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"
+    ]
+  },
+  {
+    "title": "Adaptive, Agentic AI Worms Loom as Next Enterprise Threat",
+    "published_wib": "2026-06-05T21:40:11+07:00",
+    "summary": "AI worms, or \"viruses with wings and brains,\" adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat"
+    ]
+  },
+  {
+    "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+    "published_wib": "2026-06-05T21:00:10+07:00",
+    "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/"
+    ]
+  },
+  {
+    "title": "Leader in Malware Analysis: ANY.RUN Named Top Vendor in G2 Summer 2026 Awards",
+    "published_wib": "2026-06-05T17:43:14+07:00",
+    "summary": "We are proud to announce that ANY.RUN has earned the title of Momentum Leader and ranked #1 in the Relationship Index in the latest G2 Summer Reports. Reflecting real security teams\u2019 actual experience, these rankings once again prove how critical ANY.RUN\u2019s solutions are for daily SOC operations in modern enterprises. Why ANY.RUN\u2019s Momentum Leader Title Matt\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/g2-summer-awards-2026/"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Friday, June 5th, 2026 https://isc.sans.edu/podcastdetail/9960, (Fri, Jun 5th)",
+    "published_wib": "2026-06-05T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, June 5th, 2026 https://isc.sans.edu/podcastdetail/9960, (Fri, Jun 5th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33050"
+    ]
+  }
+]

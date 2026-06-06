@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers actively exploit SolarWinds Serv-U flaw to crash servers, CISA warns",
+    "published_wib": "2026-06-06T05:00:23+07:00",
+    "summary": "The vulnerability, tracked as CVE-2026-28318, is a denial-of-service flaw in SolarWinds Serv-U file transfer software.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/hackers-actively-exploit-solarwinds-serv-u-flaw-to-crash-servers-cisa-warns"
+    ]
+  },
+  {
+    "title": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
+    "published_wib": "2026-06-06T04:00:00+07:00",
+    "summary": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15028-local-ai-salesforce-fluttershell-aspose-http-2-cisco-used-tech-josh-marpet-swn-587"
+    ]
+  },
+  {
+    "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+    "published_wib": "2026-06-06T02:15:30+07:00",
+    "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/"
+    ]
+  },
+  {
+    "title": "Another Cisco Catalyst SD-WAN Manager bug actively exploited",
+    "published_wib": "2026-06-06T01:55:24+07:00",
+    "summary": "Cisco warns of an exploited SD-WAN flaw that can enable remote code execution and network compromise.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/another-cisco-catalyst-sd-wan-manager-bug-actively-exploited"
+    ]
+  },
+  {
+    "title": "Yet another Cisco SD-WAN 0-day under attack, and no patch in sight",
+    "published_wib": "2026-06-06T00:27:42+07:00",
+    "summary": "Good luck, sys admins",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/05/yet-another-cisco-sd-wan-0-day-under-attack-and-no-patch-in-sight/5251855"
+    ]
+  },
+  {
+    "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+    "published_wib": "2026-06-06T00:07:06+07:00",
+    "summary": "Modern web applications require robust security controls to protect user data and application resources. Authentication and authorization are two fundamental pillars of application security that answer critical questions: Who are you? and What are you allowed to do? Implementing these controls correctly can be challenging for developers, especially when bui\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/"
+    ]
+  },
+  {
+    "title": "Patching fast and slow: Ruby devs delay to defend against supply chain attack",
+    "published_wib": "2026-06-06T00:07:00+07:00",
+    "summary": "The team behind RubyGems, a package hosting site for Ruby developers, has added a new feature to bundler, a tool for managing Ruby packages (or \u2018gems\u2019) to protect developers against the recent wave of software supply chain attacks : A cooling-off period before recently updated packages are installed on their systems. Recent attacks on software repositories\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4181839/patching-fast-and-slow-ruby-devs-delay-to-defend-against-supply-chain-attack-2.html"
+    ]
+  },
+  {
+    "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
+    "published_wib": "2026-06-05T23:35:02+07:00",
+    "summary": "CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability. The post OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/"
+    ]
+  },
+  {
+    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
+    "published_wib": "2026-06-05T21:05:42+07:00",
+    "summary": "We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 23",
+    "published_wib": "2026-06-05T20:00:17+07:00",
+    "summary": "US Treasury sanctions Iran's largest crypto exchange, PRC-linked TA4922 expands phishing to Europe and Africa, attackers exploit Palo Alto VPN bypass.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-23-7/"
+    ]
+  }
+]

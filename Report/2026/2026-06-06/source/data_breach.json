@@ -1,0 +1,102 @@
+[
+  {
+    "title": "If you don't fall for these extortionists' calls, they'll show up with USB sticks",
+    "published_wib": "2026-06-06T04:18:42+07:00",
+    "summary": "When 'Chatty Spider' morphs into tech services cosplay spider",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/05/if-you-dont-fall-for-these-extortionists-calls-theyll-show-up-with-usb-sticks/5251891"
+    ]
+  },
+  {
+    "title": "Exposed Fuel Tank Gauges Under Attack in the US",
+    "published_wib": "2026-06-06T02:04:36+07:00",
+    "summary": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us"
+    ]
+  },
+  {
+    "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
+    "published_wib": "2026-06-05T21:00:00+07:00",
+    "summary": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threat cluster UNC3753 (also tracked as \"Luna Moth,\" \u201cChatty Spider,\u201d and \"Silent Ransom Group\") targeting dozens of organizations across profes\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/"
+    ]
+  },
+  {
+    "title": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
+    "published_wib": "2026-06-05T20:05:06+07:00",
+    "summary": "Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner. The post In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/"
+    ]
+  },
+  {
+    "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
+    "published_wib": "2026-06-05T20:00:00+07:00",
+    "summary": "Those receiving aid in the famine-threatened, war-torn territory told support will remain",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605"
+    ]
+  },
+  {
+    "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
+    "published_wib": "2026-06-05T18:33:27+07:00",
+    "summary": "The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator. The post Hackers Leak DentaQuest Information Impacting 2.6 Million appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/"
+    ]
+  },
+  {
+    "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
+    "published_wib": "2026-06-05T14:24:08+07:00",
+    "summary": "The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack. The post Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/"
+    ]
+  },
+  {
+    "title": "AI tools becoming hot commodities on ransomware marketplaces",
+    "published_wib": "2026-06-05T14:10:00+07:00",
+    "summary": "Sales of AI-based tools is accelerating within underground ransomware marketplaces, lowering the barrier to entry for new actors in the process. An analysis of Telegram channels, 20 dark web forums, and five underground markets by anti-ransomware platform vendor Halcyon found that AI utility posts grew to 1,486 in February 2026, up from just 38 in December\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4181514/ai-tools-becoming-hot-commodities-on-ransomware-marketplaces.html"
+    ]
+  },
+  {
+    "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+    "published_wib": "2026-06-05T14:01:41+07:00",
+    "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real account\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] China's TA4922 Expands Cybercrime Attacks Globally",
+    "published_wib": "2026-06-05T04:23:59+07:00",
+    "summary": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally"
+    ]
+  }
+]

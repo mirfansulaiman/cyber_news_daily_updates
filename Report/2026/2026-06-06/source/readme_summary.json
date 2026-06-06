@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Hackers actively exploit SolarWinds Serv-U flaw to crash servers, CISA warns and Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Pro-Russian hacker group launches 'Patriotic Online Games' campaign targeting European organizations. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "If you don't fall for these extortionists' calls, they'll show up with USB sticks. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-06",
+  "vol": "002"
+}

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Pro-Russian hacker group launches 'Patriotic Online Games' campaign targeting European organizations
+- Hackers actively exploit SolarWinds Serv-U flaw to crash servers, CISA warns
+- If you don't fall for these extortionists' calls, they'll show up with USB sticks
+- Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587
+- IronWorm malware, similar to Shai-Hulud, hits 57 projects across 9 organizations
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Pro-Russian hacker group launches 'Patriotic Online Games' campaign targeting European organizations. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers actively exploit SolarWinds Serv-U flaw to crash servers, CISA warns. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by If you don't fall for these extortionists' calls, they'll show up with USB sticks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
