@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+    "published_wib": "2026-06-06T21:09:26+07:00",
+    "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+    ]
+  },
+  {
+    "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+    "published_wib": "2026-06-06T15:14:31+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
+    ]
+  },
+  {
+    "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+    "published_wib": "2026-06-06T14:28:30+07:00",
+    "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only th…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html"
+    ]
+  },
+  {
+    "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+    "published_wib": "2026-06-06T11:19:28+07:00",
+    "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cloud-Pro Cisco SD-WAN Cloud (Cisco Managed) Cisco SD-WAN for…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers actively exploit SolarWinds Serv-U flaw to crash servers, CISA warns",
+    "published_wib": "2026-06-06T05:00:23+07:00",
+    "summary": "The vulnerability, tracked as CVE-2026-28318, is a denial-of-service flaw in SolarWinds Serv-U file transfer software.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/hackers-actively-exploit-solarwinds-serv-u-flaw-to-crash-servers-cisa-warns"
+    ]
+  },
+  {
+    "title": "[+24h Old] Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
+    "published_wib": "2026-06-06T04:00:00+07:00",
+    "summary": "Local AI, Salesforce, Fluttershell, Aspose, http/2, Cisco, Used Tech, Josh Marpet - SWN #587",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15028-local-ai-salesforce-fluttershell-aspose-http-2-cisco-used-tech-josh-marpet-swn-587"
+    ]
+  },
+  {
+    "title": "[+24h Old] CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+    "published_wib": "2026-06-06T02:15:30+07:00",
+    "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Another Cisco Catalyst SD-WAN Manager bug actively exploited",
+    "published_wib": "2026-06-06T01:55:24+07:00",
+    "summary": "Cisco warns of an exploited SD-WAN flaw that can enable remote code execution and network compromise.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/another-cisco-catalyst-sd-wan-manager-bug-actively-exploited"
+    ]
+  },
+  {
+    "title": "[+24h Old] Yet another Cisco SD-WAN 0-day under attack, and no patch in sight",
+    "published_wib": "2026-06-06T00:27:42+07:00",
+    "summary": "Good luck, sys admins",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/05/yet-another-cisco-sd-wan-0-day-under-attack-and-no-patch-in-sight/5251855"
+    ]
+  },
+  {
+    "title": "[+24h Old] Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+    "published_wib": "2026-06-06T00:07:06+07:00",
+    "summary": "Modern web applications require robust security controls to protect user data and application resources. Authentication and authorization are two fundamental pillars of application security that answer critical questions: Who are you? and What are you allowed to do? Implementing these controls correctly can be challenging for developers, especially when bui…",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise—especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/"
+    ]
+  }
+]

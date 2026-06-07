@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Critical Everest Forms Pro flaw exploited to take over WordPress sites
+- New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration
+- CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog
+- AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs
+- Oxford Uni student data pwned yet again - this time via career platform breach
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Critical Everest Forms Pro flaw exploited to take over WordPress sites. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

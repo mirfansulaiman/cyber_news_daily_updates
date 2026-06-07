@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Critical Everest Forms Pro flaw exploited to take over WordPress sites and CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-07",
+  "vol": "002"
+}
