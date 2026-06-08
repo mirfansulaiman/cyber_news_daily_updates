@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hands on with Intelligent Terminal, an AI-powered Windows Terminal
+- C0XMO botnet spreads via DD-WRT router flaw, kills rival malware
+- Silent Ransom Group targets law firms with fake IT support calls
+- Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation
+- Week in review: Cisco SD-WAN 0-day exploited, Patch Tuesday forecast
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by C0XMO botnet spreads via DD-WRT router flaw, kills rival malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hands on with Intelligent Terminal, an AI-powered Windows Terminal. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Silent Ransom Group targets law firms with fake IT support calls. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+    "published_wib": "2026-06-07T21:17:46+07:00",
+    "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+    "published_wib": "2026-06-06T13:58:04+07:00",
+    "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access t…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Pro-Russian hacker group launches 'Patriotic Online Games' campaign targeting European organizations",
+    "published_wib": "2026-06-06T05:02:15+07:00",
+    "summary": "The group is leveraging Telegram to enlist \"patriotic volunteers,\" offering cryptocurrency rewards for participating in various cyber activities, including DDoS attacks, information gathering, and ransomware operations.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/pro-russian-hacker-group-launches-patriotic-online-games-campaign-targeting-european-organizations"
+    ]
+  },
+  {
+    "title": "[+48h Old] IronWorm malware, similar to Shai-Hulud, hits 57 projects across 9 organizations",
+    "published_wib": "2026-06-06T03:37:10+07:00",
+    "summary": "The malware targets developer credentials and cryptocurrency and self-propagates on npm.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/ironworm-malware-similar-to-shai-hulud-hits-57-projects-across-9-organizations"
+    ]
+  },
+  {
+    "title": "[+48h Old] Chinese APT deploys new malware to keep access to hacked networks",
+    "published_wib": "2026-06-06T01:09:47+07:00",
+    "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+    "published_wib": "2026-06-06T01:05:30+07:00",
+    "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides b…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Microsoft identifies seven new ways AI agents can be hacked",
+    "published_wib": "2026-06-06T00:20:34+07:00",
+    "summary": "Microsoft has identified seven new failure modes in agentic AI systems, in addition to those it identified last year in its first Taxonomy of Failure Modes in Agentic AI Systems…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4181846/microsoft-identifies-seven-new-ways-ai-agents-can-be-hacked-2.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+    "published_wib": "2026-06-05T21:53:40+07:00",
+    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news so…",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Adaptive, Agentic AI Worms Loom as Next Enterprise Threat",
+    "published_wib": "2026-06-05T21:40:11+07:00",
+    "summary": "AI worms, or \"viruses with wings and brains,\" adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat"
+    ]
+  },
+  {
+    "title": "[+48h Old] What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+    "published_wib": "2026-06-05T21:00:10+07:00",
+    "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/"
+    ]
+  }
+]
