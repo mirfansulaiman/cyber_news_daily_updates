@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Check Point patches critical VPN flaw exploited in zero-day attacks
+- FTC orders Illuminate Education to improve data security after student data breach
+- University of Oxford discloses data breach via third-party career platform
+- Ubiquiti UniFi OS server vulnerabilities allow unauthenticated remote code execution
+- NFCShare Android malware spreads via fake banking app updates on GitHub
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by NFCShare Android malware spreads via fake banking app updates on GitHub. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Check Point patches critical VPN flaw exploited in zero-day attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FTC orders Illuminate Education to improve data security after student data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

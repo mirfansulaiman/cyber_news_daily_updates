@@ -1,0 +1,102 @@
+[
+  {
+    "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+    "published_wib": "2026-06-09T05:11:58+07:00",
+    "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/"
+    ]
+  },
+  {
+    "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+    "published_wib": "2026-06-09T03:41:35+07:00",
+    "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/"
+    ]
+  },
+  {
+    "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+    "published_wib": "2026-06-09T01:40:53+07:00",
+    "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/"
+    ]
+  },
+  {
+    "title": "Meta claims NSO Group still targets WhatsApp users despite court order",
+    "published_wib": "2026-06-09T01:10:30+07:00",
+    "summary": "Meta claims it disrupted spear-phishing attempts linked to NSO Group and is asking a US federal court to hold the spyware vendor in contempt for allegedly violating an injunction that bars it from targeting WhatsApp and its users. \u201cWe successfully disrupted NSO-linked social engineering attempts after investigating user reports,\u201d Meta stated. \u201cThey tried to\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/08/meta-whatsapp-nso-group-phishing-campaign/"
+    ]
+  },
+  {
+    "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+    "published_wib": "2026-06-09T00:08:44+07:00",
+    "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"They tried to trick people into clicking on malicious links\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html"
+    ]
+  },
+  {
+    "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-06-07, (Mon, Jun 8th)",
+    "published_wib": "2026-06-09T00:07:37+07:00",
+    "summary": "This diary continues the Internet Storm Center&#;x26;#;39;s tracking of the TeamPCP supply chain campaign, first documented in the SANS white paper When the Security Scanner Became the Weapon and most recently in the handler diary Activity Through 2026-05-24. Since that update, the story moved into two new places: the United States government, which formall\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33060"
+    ]
+  },
+  {
+    "title": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud",
+    "published_wib": "2026-06-08T23:13:41+07:00",
+    "summary": "The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud"
+    ]
+  },
+  {
+    "title": "GitHub nukes 70+ Microsoft repos, breaks CI/CD pipelines, following suspected worm infections",
+    "published_wib": "2026-06-08T20:56:50+07:00",
+    "summary": "Miasma worm shapeshifts, but cloud secret-scouting remains the goal",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/08/github-nukes-70-microsoft-repos-amid-suspected-worm-attack/5252169"
+    ]
+  },
+  {
+    "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+    "published_wib": "2026-06-08T20:19:13+07:00",
+    "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance. As the queue grows, a credential theft at\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+    "published_wib": "2026-06-08T20:18:57+07:00",
+    "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Check Point patches critical VPN flaw exploited in zero-day attacks",
+    "published_wib": "2026-06-09T06:08:06+07:00",
+    "summary": "This vulnerability affects deployments configured to use the deprecated IKEv1 key exchange protocol.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/check-point-patches-critical-vpn-flaw-exploited-in-zero-day-attacks"
+    ]
+  },
+  {
+    "title": "Ubiquiti UniFi OS server vulnerabilities allow unauthenticated remote code execution",
+    "published_wib": "2026-06-09T05:41:53+07:00",
+    "summary": "The security flaws, tracked as CVE-2026-34908, CVE-2026-34909, and CVE-2026-34910, were addressed in May and impacted UniFi OS Server versions 5.0.6 and earlier.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ubiquiti-unifi-os-server-vulnerabilities-allow-unauthenticated-remote-code-execution"
+    ]
+  },
+  {
+    "title": "Attackers exploiting unpatched Cisco SD-WAN flaw",
+    "published_wib": "2026-06-09T04:48:02+07:00",
+    "summary": "Cisco warns customers of an actively exploited high-severity vulnerability in Catalyst SD-WAN Manager, an enterprise network management system that has been targeted by hackers multiple times in the past. Located in the command-line interface, the flaw allows authenticated attackers to escalate privileges to root and take over the entire system. The vulnera\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4182571/attackers-exploiting-unpatched-cisco-sd-wan-flaw.html"
+    ]
+  },
+  {
+    "title": "ICYMI: May 2026 @AWS Security",
+    "published_wib": "2026-06-09T04:00:11+07:00",
+    "summary": "Read all about the latest AWS security features, compliance updates, and hands-on resources in our new, monthly digest posts. You\u2019ll find expert blog posts, new service capabilities, code samples, and workshops. AWS Security Blog posts This month\u2019s AWS Security Blog posts covered AI security, network protection, identity management, compliance frameworks, a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/"
+    ]
+  },
+  {
+    "title": "Check Point VPN Flaw Exploited Since Early May",
+    "published_wib": "2026-06-09T03:28:35+07:00",
+    "summary": "A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may"
+    ]
+  },
+  {
+    "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+    "published_wib": "2026-06-09T03:17:39+07:00",
+    "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walk\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+    ]
+  },
+  {
+    "title": "Ransomware crims got a month-long head start on Check Point VPN 0-day that now has a fix",
+    "published_wib": "2026-06-09T00:10:31+07:00",
+    "summary": "Scumbags, including a Qilin ransomware affiliate, began hitting this hole May 7",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/08/attackers-had-month-long-head-start-on-patched-check-point-vpn-zero-day/5252438"
+    ]
+  },
+  {
+    "title": "Gogs patches critical zero-day enabling remote code execution",
+    "published_wib": "2026-06-08T23:18:40+07:00",
+    "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/"
+    ]
+  },
+  {
+    "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+    "published_wib": "2026-06-08T22:51:19+07:00",
+    "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/"
+    ]
+  },
+  {
+    "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+    "published_wib": "2026-06-08T21:17:39+07:00",
+    "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FTC orders Illuminate Education to improve data security after student data breach",
+    "published_wib": "2026-06-09T06:05:48+07:00",
+    "summary": "The FTC's order stems from allegations that Illuminate failed to implement reasonable security controls, contributing to a December 2021 cyberattack.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/ftc-orders-illuminate-education-to-improve-data-security-after-student-data-breach"
+    ]
+  },
+  {
+    "title": "University of Oxford discloses data breach via third-party career platform",
+    "published_wib": "2026-06-09T05:48:42+07:00",
+    "summary": "The breach occurred on May 28, with attackers gaining access to users' first names, last names, email addresses, and encrypted passwords for those not using Single Sign-On.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/university-of-oxford-discloses-data-breach-via-third-party-career-platform"
+    ]
+  },
+  {
+    "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+    "published_wib": "2026-06-09T04:55:46+07:00",
+    "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/"
+    ]
+  },
+  {
+    "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
+    "published_wib": "2026-06-09T03:59:52+07:00",
+    "summary": "The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks"
+    ]
+  },
+  {
+    "title": "Ransomware sends Illinois high school on an early summer vacation",
+    "published_wib": "2026-06-08T22:46:52+07:00",
+    "summary": "Meanwhile, 13 schools in Wales affected by separate attack",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/08/ransomware-attack-shuts-illinois-high-school-until-wednesday/5252322"
+    ]
+  },
+  {
+    "title": "Americans lost nearly $900 million to AI-powered scams, FBI says",
+    "published_wib": "2026-06-08T22:02:13+07:00",
+    "summary": "Deepfakes, voice cloning, and other AI-powered scams cost Americans nearly $900 million in 2025, says the 2025 FBI Internet Crime Report.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/06/americans-lost-nearly-900-million-to-ai-powered-scams-fbi-says"
+    ]
+  },
+  {
+    "title": "8th June \u2013 Threat Intelligence Report",
+    "published_wib": "2026-06-08T21:47:59+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 1st June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES DentaQuest, a U.S. dental benefits administrator owned by Sun Life, has suffered a data breach after threat group ShinyHunters leaked exfiltrated data. Analysts assessed that 2.6 million accounts were exposed, inc\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "174,000 Impacted by Lansing Community College Data Breach",
+    "published_wib": "2026-06-08T18:27:00+07:00",
+    "summary": "Hackers accessed personal information stored on certain Lansing Community College systems in February 2025. The post 174,000 Impacted by Lansing Community College Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/"
+    ]
+  },
+  {
+    "title": "Oxford University discloses data breach after careers platform hack",
+    "published_wib": "2026-06-08T18:14:41+07:00",
+    "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/"
+    ]
+  },
+  {
+    "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
+    "published_wib": "2026-06-08T17:31:39+07:00",
+    "summary": "Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&C infrastructure. The post Silent Ransom Group Uses DNS Fast Flux in Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/"
+    ]
+  }
+]
