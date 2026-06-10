@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Discord data breach claim filed with Maine AG raises red flags",
+    "published_wib": "2026-06-10T05:34:14+07:00",
+    "summary": "The notice, submitted on June 8, 2026, presents several anomalies that suggest it may not be an officially verified incident.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/discord-data-breach-claim-filed-with-maine-ag-raises-red-flags"
+    ]
+  },
+  {
+    "title": "French government messaging platform Tchap breached via hijacked account",
+    "published_wib": "2026-06-10T05:16:01+07:00",
+    "summary": "The attack on Tchap, a platform developed for the French public sector, reportedly involved a social engineering attack that compromised a user account.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/french-government-messaging-platform-tchap-breached-via-hijacked-account"
+    ]
+  },
+  {
+    "title": "Scammers love Meta, according to Lloyds Bank",
+    "published_wib": "2026-06-09T20:02:49+07:00",
+    "summary": "Facebook, Instagram, and WhatsApp account for more than two thirds of fraud reports made by Lloyds customers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank"
+    ]
+  },
+  {
+    "title": "France probes compromise of gov messaging platform after account hijack",
+    "published_wib": "2026-06-09T18:27:55+07:00",
+    "summary": "Authorities say the breach only exposed public chat rooms, but alleged attacker claims to have accessed far more data",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717"
+    ]
+  },
+  {
+    "title": "French govt messaging service breached in account hijacking attack",
+    "published_wib": "2026-06-09T17:53:00+07:00",
+    "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/"
+    ]
+  },
+  {
+    "title": "Qilin NHS breach tally grows as Essex trust confirms stolen records",
+    "published_wib": "2026-06-09T16:15:00+07:00",
+    "summary": "Two years on from ransomware attack, hospitals are still trying to identify and warn patients",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/09/qilin-nhs-breach-tally-grows-as-essex-trust-confirms-stolen-records/5252663"
+    ]
+  },
+  {
+    "title": "OpenAI’s Lockdown Mode is trying to solve the problem that it created",
+    "published_wib": "2026-06-09T10:57:45+07:00",
+    "summary": "OpenAI’s move to implement a Lockdown Mode that tries to limit data exfiltration by shutting down external capabilities is being seen as making the best out of a bad situation. But Lockdown Mode doesn’t block exfiltration as much as it slightly reduces it, and the reality of enterprises using multiple AI vendors for their agentic models further complicates…",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4182650/openais-lockdown-mode-is-trying-to-solve-the-problem-that-it-created.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SoFi confirms third-party data breach at Hong Kong subsidiary",
+    "published_wib": "2026-06-09T04:55:46+07:00",
+    "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
+    "published_wib": "2026-06-09T03:59:52+07:00",
+    "summary": "The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware sends Illinois high school on an early summer vacation",
+    "published_wib": "2026-06-08T22:46:52+07:00",
+    "summary": "Meanwhile, 13 schools in Wales affected by separate attack",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/08/ransomware-attack-shuts-illinois-high-school-until-wednesday/5252322"
+    ]
+  }
+]
