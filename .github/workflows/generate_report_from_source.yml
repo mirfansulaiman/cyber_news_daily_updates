@@ -208,9 +208,22 @@ jobs:
           readme_path = Path("README.md")
           text = readme_path.read_text(encoding="utf-8") if readme_path.exists() else "# Cyber News Daily Updates\n\n"
 
-          marker_re = re.compile(r"<!-- DAILY_UPDATES_START -->[\\s\\S]*?<!-- DAILY_UPDATES_END -->", flags=re.MULTILINE)
-          if marker_re.search(text):
-            new_text = marker_re.sub(new_block.strip(), text).rstrip() + "\n"
+          marker_re = re.compile(
+            re.escape(start) + r"[\s\S]*?" + re.escape(end),
+            flags=re.MULTILINE,
+          )
+          matches = list(marker_re.finditer(text))
+          if matches:
+            # Collapse any previously duplicated DAILY blocks into one fresh block.
+            prefix = text[:matches[0].start()].rstrip()
+            suffix = text[matches[-1].end():].lstrip()
+            parts = []
+            if prefix:
+              parts.append(prefix)
+            parts.append(new_block.strip())
+            if suffix:
+              parts.append(suffix)
+            new_text = "\n\n".join(parts).rstrip() + "\n"
           else:
             # If markers do not exist yet, insert the block before "## Data Source" if present.
             if "\n## Data Source" in text:
