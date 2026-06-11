@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CISA directs federal agencies on prioritization of cyber vulnerabilities
+- JDY botnet expands, enabling rapid exploitation of disclosed vulnerabilities
+- Ransomware group The Gentlemen linked to Russian national
+- ShinyHunters gang targets Oracle PeopleSoft servers in data theft attacks
+- Scammers use short videos on social media to spread Vidar infostealer
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Free Spotify Premium hacks on social media are spreading infostealers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA directs federal agencies on prioritization of cyber vulnerabilities. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ransomware group The Gentlemen linked to Russian national. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

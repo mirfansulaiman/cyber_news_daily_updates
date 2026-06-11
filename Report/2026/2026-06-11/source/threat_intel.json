@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Free Spotify Premium hacks on social media are spreading infostealers",
+    "published_wib": "2026-06-10T23:27:32+07:00",
+    "summary": "Cybercriminals are turning TikTok and Instagram Reels into malware delivery platforms, using free software tutorials to spread infostealers.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/06/free-spotify-premium-hacks-on-social-media-are-spreading-infostealers"
+    ]
+  },
+  {
+    "title": "Chinese APTs have made identity part of the intrusion path",
+    "published_wib": "2026-06-10T23:25:24+07:00",
+    "summary": "Don\u2019t merely identify the attacker \u2013 understand how they behave.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/perspective/chinese-apts-have-made-identity-part-of-the-intrusion-path"
+    ]
+  },
+  {
+    "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+    "published_wib": "2026-06-10T23:08:42+07:00",
+    "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html"
+    ]
+  },
+  {
+    "title": "New SilabRAT Trojan Hijacks Sessions to Steal Crypto",
+    "published_wib": "2026-06-10T22:30:00+07:00",
+    "summary": "MaaS trojan SilabRAT uses HVNC and browser cloning to hijack sessions and steal crypto",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/silabrat-trojan-session-hijacking/"
+    ]
+  },
+  {
+    "title": "Cybersecurity Software Fails to Detect Fifth of Brower-Based Phishing Attacks",
+    "published_wib": "2026-06-10T22:30:00+07:00",
+    "summary": "Menlo Security research warns that as enterprise applications become increasingly browser based, traditional cybersecurity tools leave them vulnerable to cyber threats",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cybersecurity-fails-to-detect/"
+    ]
+  },
+  {
+    "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+    "published_wib": "2026-06-10T22:00:00+07:00",
+    "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/"
+    ]
+  },
+  {
+    "title": "The 5 Best Practices for Secure Identity Verification",
+    "published_wib": "2026-06-10T21:05:15+07:00",
+    "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/"
+    ]
+  },
+  {
+    "title": "GitHub pulls pin on npm's auto-run scripts",
+    "published_wib": "2026-06-10T20:11:14+07:00",
+    "summary": "Shai-Hulud worm exploited exactly this. Better late than never, says everyone except the malware authors",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453"
+    ]
+  },
+  {
+    "title": "New Browser-in-the-Browser phishing uses fake login popups to steal Microsoft 365 credentials",
+    "published_wib": "2026-06-10T19:53:58+07:00",
+    "summary": "A new Browser-in-the-Browser (BitB) phishing campaign is targeting Microsoft 365 users with fake login popups designed to closely mimic legitimate browser authentication windows, according to Palo Alto Networks Unit 42. The attack relies on a fake browser window embedded within a webpage. Victims who click a Microsoft sign-in button are presented with what\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/10/browser-in-the-browser-phishing-microsoft-365-users/"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Wednesday, June 10th, 2026 https://isc.sans.edu/podcastdetail/9966, (Wed, Jun 10th)",
+    "published_wib": "2026-06-10T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, June 10th, 2026 https://isc.sans.edu/podcastdetail/9966, (Wed, Jun 10th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33066"
+    ]
+  }
+]

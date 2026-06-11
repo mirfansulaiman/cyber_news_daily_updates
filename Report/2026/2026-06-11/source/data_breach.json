@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ransomware group The Gentlemen linked to Russian national",
+    "published_wib": "2026-06-11T06:42:55+07:00",
+    "summary": "The Gentlemen ransomware group, as analyzed by Check Point Software, operates on a ransomware-as-a-service model, attracting skilled hackers with an unusually high 90/10 affiliate revenue split.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ransomware-group-the-gentlemen-linked-to-russian-national"
+    ]
+  },
+  {
+    "title": "Scammers use short videos on social media to spread Vidar infostealer",
+    "published_wib": "2026-06-11T06:36:29+07:00",
+    "summary": "This new attack method, reported by ReversingLabs, involves creating seemingly helpful tutorial videos that promise free access to premium applications such as Spotify Premium or Microsoft Word.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/scammers-use-short-videos-on-social-media-to-spread-vidar-infostealer"
+    ]
+  },
+  {
+    "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
+    "published_wib": "2026-06-11T03:07:53+07:00",
+    "summary": "Bug bounty research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert"
+    ]
+  },
+  {
+    "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+    "published_wib": "2026-06-11T01:31:57+07:00",
+    "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+    "published_wib": "2026-06-10T21:03:44+07:00",
+    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gen\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/"
+    ]
+  },
+  {
+    "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+    "published_wib": "2026-06-10T21:00:00+07:00",
+    "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/"
+    ]
+  },
+  {
+    "title": "88% of people struggle to tell what\u2019s real online",
+    "published_wib": "2026-06-10T18:45:00+07:00",
+    "summary": "As AI-generated scams, deepfakes, and impersonation spread, a new Malwarebytes report finds people increasingly unsure what to trust online.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/06/88-of-people-struggle-to-tell-whats-real-online"
+    ]
+  },
+  {
+    "title": "[+24h Old] Scammers love Meta, according to Lloyds Bank",
+    "published_wib": "2026-06-09T20:02:49+07:00",
+    "summary": "Facebook, Instagram, and WhatsApp account for more than two thirds of fraud reports made by Lloyds customers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/06/scammers-love-meta-according-to-lloyds-bank"
+    ]
+  },
+  {
+    "title": "[+24h Old] France probes compromise of gov messaging platform after account hijack",
+    "published_wib": "2026-06-09T18:27:55+07:00",
+    "summary": "Authorities say the breach only exposed public chat rooms, but alleged attacker claims to have accessed far more data",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717"
+    ]
+  },
+  {
+    "title": "[+24h Old] Qilin NHS breach tally grows as Essex trust confirms stolen records",
+    "published_wib": "2026-06-09T16:15:00+07:00",
+    "summary": "Two years on from ransomware attack, hospitals are still trying to identify and warn patients",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/09/qilin-nhs-breach-tally-grows-as-essex-trust-confirms-stolen-records/5252663"
+    ]
+  }
+]

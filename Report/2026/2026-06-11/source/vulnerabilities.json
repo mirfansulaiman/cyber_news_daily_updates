@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CISA directs federal agencies on prioritization of cyber vulnerabilities",
+    "published_wib": "2026-06-11T06:47:26+07:00",
+    "summary": "The new directive, BOD 26-04, mandates that federal agencies focus on vulnerabilities that affect publicly exposed assets, can be fully automated by attackers, allow for complete system control, or show evidence of active exploitation.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-directs-federal-agencies-to-prioritize-cyber-vulnerabilities"
+    ]
+  },
+  {
+    "title": "JDY botnet expands, enabling rapid exploitation of disclosed vulnerabilities",
+    "published_wib": "2026-06-11T06:45:23+07:00",
+    "summary": "Initially flagged as part of the KV-botnet, JDY has evolved into an independent reconnaissance capability following the U.S. government's takedown of KV in early 2024.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/jdy-botnet-expands-enabling-rapid-exploitation-of-disclosed-vulnerabilities"
+    ]
+  },
+  {
+    "title": "ShinyHunters gang targets Oracle PeopleSoft servers in data theft attacks",
+    "published_wib": "2026-06-11T06:40:18+07:00",
+    "summary": "The ShinyHunters gang is exploiting a combination of old and zero-day vulnerabilities, referred to as a \"gadget chain,\" to target both cloud and on-premises Oracle PeopleSoft instances.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/shinyhunters-gang-targets-oracle-peoplesoft-servers-in-data-theft-attacks"
+    ]
+  },
+  {
+    "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+    "published_wib": "2026-06-11T04:23:44+07:00",
+    "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
+    "published_wib": "2026-06-11T04:17:12+07:00",
+    "summary": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era"
+    ]
+  },
+  {
+    "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+    "published_wib": "2026-06-11T03:27:08+07:00",
+    "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/"
+    ]
+  },
+  {
+    "title": "CISA tells agencies to patch smarter, not harder \u2014 foreshadowing broader industry practice",
+    "published_wib": "2026-06-11T03:23:35+07:00",
+    "summary": "Security teams\u2019 patching practices have come under intense pressure over the past year, as active exploitation is up, time-to-exploit windows are accelerating, and vulnerabilities have become attackers\u2019 top initial access vector of choice. Last year, organizations fully remediated only 26% of the vulnerabilities that attackers were actively exploiting in th\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4183750/cisa-tells-agencies-to-patch-smarter-not-harder-foreshadowing-broader-industry-practice.html"
+    ]
+  },
+  {
+    "title": "Ivanti patches critical Sentry flaws that lead to full device takeover",
+    "published_wib": "2026-06-11T03:13:17+07:00",
+    "summary": "IT software provider Ivanti fixed two vulnerabilities in Ivanti Sentry, a secure mobile gateway appliance formerly called MobileIron Sentry. The flaws could allow unauthenticated remote attackers to gain complete control of deployments. One of the vulnerabilities, CVE-2026-10523, credited to researcher Bryan Lam, allows attackers to bypass authentication an\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4183735/ivanti-patches-critical-sentry-flaws-that-lead-to-full-device-takeover.html"
+    ]
+  },
+  {
+    "title": "How Federal Agencies Can Activate a Risk Operations Center (ROC) to Meet CISA BOD 26-04",
+    "published_wib": "2026-06-11T02:40:17+07:00",
+    "summary": "Executive Summary Recognizing the ability of Frontier AI models to discover and exploit vulnerabilities at unprecedented speed and scale, CISA\u2019s Binding Operational Directive (BOD) 26-04 marks a significant shift in federal vulnerability management. Rather than prioritizing remediation based on patch availability, the directive requires agencies to focus on\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/qualys-insights/2026/06/10/how-federal-agencies-can-activate-a-risk-operations-center-roc-to-meet-cisa-bod-26-04"
+    ]
+  },
+  {
+    "title": "Angry bug hunter with Microsoft beef drops new Windows 0-day",
+    "published_wib": "2026-06-11T01:45:05+07:00",
+    "summary": "Revenge is a dish best served code",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/10/nightmare-eclipse-publishes-new-windows-defender-zero-day/5253725"
+    ]
+  }
+]
