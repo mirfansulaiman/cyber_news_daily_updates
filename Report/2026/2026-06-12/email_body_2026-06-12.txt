@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive
+- Maine breach portal abused to publish fake data breach disclosures
+- OceanLotus targets stock investors and construction firm with SPECTRALVIPER backdoor
+- ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities
+- Russian national charged in connection with Void Blizzard cyberespionage campaign
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by OceanLotus targets stock investors and construction firm with SPECTRALVIPER backdoor. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Maine breach portal abused to publish fake data breach disclosures. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
