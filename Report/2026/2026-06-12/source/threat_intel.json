@@ -1,0 +1,102 @@
+[
+  {
+    "title": "OceanLotus targets stock investors and construction firm with SPECTRALVIPER backdoor",
+    "published_wib": "2026-06-12T03:31:55+07:00",
+    "summary": "Vietnam-aligned threat actor OceanLotus has been linked to two distinct campaigns targeting domestic entities and stock investors with a backdoor known as SPECTRALVIPER, according to ESET.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/oceanlotus-targets-stock-investors-and-construction-firm-with-spectralviper-backdoor"
+    ]
+  },
+  {
+    "title": "Russian national charged in connection with Void Blizzard cyberespionage campaign",
+    "published_wib": "2026-06-12T03:26:51+07:00",
+    "summary": "Federal prosecutors have charged a Russian national, Denis Nikolayevich Obrezko, with conspiracy to commit unauthorized computer access in connection with a widespread cyberespionage campaign attributed to the Russia-aligned threat group Void Blizzard, according to a recent report by CyberScoop.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/russian-national-charged-in-connection-with-void-blizzard-cyber-espionage-campaign"
+    ]
+  },
+  {
+    "title": "Proxmox releases Mail Gateway 9.1 with quarantine and backup encryption changes",
+    "published_wib": "2026-06-11T21:51:41+07:00",
+    "summary": "Proxmox Mail Gateway 9.1 adds updated system components, changes to the spam quarantine interface, and encryption for backups. It works as a mail proxy positioned between the firewall and internal mail servers, screening incoming and outgoing traffic for spam, viruses, Trojans, and phishing attempts. Updated system components Version 9.1 runs on Debian 13.5\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/11/proxmox-mail-gateway-9-1-released/"
+    ]
+  },
+  {
+    "title": "Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware",
+    "published_wib": "2026-06-11T21:00:00+07:00",
+    "summary": "Fake AI guides hide a multi-stage chain that drops AsyncRAT, with signs of AI-assisted coding",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fake-ai-guides-dev-tools-spread/"
+    ]
+  },
+  {
+    "title": "Fake Spotify Premium tutorials on TikTok and Instagram Reels spread malware",
+    "published_wib": "2026-06-11T20:51:25+07:00",
+    "summary": "Cybercriminals are using TikTok and Instagram Reels videos to spread Vidar, an infostealer malware, through fake downloads for popular paid software, according to ReversingLabs. The researchers uncovered two campaigns behind the activity, each using a different approach to draw in viewers before sending them to external download sites. One campaign centered\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/11/vidar-infostealer-tiktok-instagram-reels-malware-campaigns/"
+    ]
+  },
+  {
+    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+    "published_wib": "2026-06-11T20:20:41+07:00",
+    "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials. The bigger problem is how polished this all looks now\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html"
+    ]
+  },
+  {
+    "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
+    "published_wib": "2026-06-11T20:00:00+07:00",
+    "summary": "Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques. The post OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/"
+    ]
+  },
+  {
+    "title": "Interpol Dismantles SniperDz Phishing-as-a-Service Platform",
+    "published_wib": "2026-06-11T18:30:00+07:00",
+    "summary": "New revelations by Group-IB expose the full scale of the decade-old SniperDz phishing operation",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/interpol-dismantles-sniperdz/"
+    ]
+  },
+  {
+    "title": "Trust No Skill: Integrity Verification for AI Agent Supply Chains",
+    "published_wib": "2026-06-11T17:00:24+07:00",
+    "summary": "Protect enterprise AI agents from supply chain risks by auditing third-party skills for hidden vulnerabilities and multi-stage attack chains. The post Trust No Skill: Integrity Verification for AI Agent Supply Chains appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/"
+    ]
+  },
+  {
+    "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+    "published_wib": "2026-06-11T16:45:58+07:00",
+    "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 20\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html"
+    ]
+  }
+]
