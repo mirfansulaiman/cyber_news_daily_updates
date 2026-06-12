@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Maine breach portal abused to publish fake data breach disclosures",
+    "published_wib": "2026-06-12T05:44:58+07:00",
+    "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/"
+    ]
+  },
+  {
+    "title": "OnyxC2 stealer sold as a service targets over 210 applications",
+    "published_wib": "2026-06-12T03:24:24+07:00",
+    "summary": "OnyxC2 is being sold on cybercrime forums for as little as $250 per month, with developers offering refunds if their builds are detected, highlighting confidence in its evasion capabilities.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/onyxc2-stealer-sold-as-a-service-targets-over-210-applications"
+    ]
+  },
+  {
+    "title": "AudiA6 cryptocurrency service dismantled for allegedly laundering over $380 million",
+    "published_wib": "2026-06-12T03:20:51+07:00",
+    "summary": "Europol reported that AudiA6 facilitated an industrial-scale cryptocurrency laundering operation, utilizing thousands of fraudulent exchange accounts opened with stolen identities.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/audia6-cryptocurrency-service-dismantled-for-laundering-over-380-million"
+    ]
+  },
+  {
+    "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+    "published_wib": "2026-06-12T00:46:32+07:00",
+    "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seei\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html"
+    ]
+  },
+  {
+    "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+    "published_wib": "2026-06-11T23:50:47+07:00",
+    "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous M\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html"
+    ]
+  },
+  {
+    "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
+    "published_wib": "2026-06-11T23:01:00+07:00",
+    "summary": "'We have no reason to believe that our data or systems have been compromised. We are in the process of contacting the Maine Attorney General's office to have this removed.'",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246"
+    ]
+  },
+  {
+    "title": "VRChat says reported data breach never happened",
+    "published_wib": "2026-06-11T18:31:01+07:00",
+    "summary": "We explain what data was exposed, the potential risks, and the steps you should take now.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/06/data-of-2-4-million-vrchat-users-stolen"
+    ]
+  },
+  {
+    "title": "Extortion-Only Attacks Increase, With Data Theft Dominating Ransomware Claims",
+    "published_wib": "2026-06-11T17:20:00+07:00",
+    "summary": "Extortion-only attacks are increasing as data theft drives most ransomware claims, with many organizations unable to stop stolen data from being exposed",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/"
+    ]
+  },
+  {
+    "title": "9 out of 10 people can no longer distinguish real from AI-generated content",
+    "published_wib": "2026-06-11T16:18:44+07:00",
+    "summary": "Online fraud is becoming harder to distinguish from legitimate activity as AI-generated messages, voices, photos, reviews, and identities become more convincing. Nearly nine in ten adults say they can no longer tell what is real from AI-generated content, according to the latest Malwarebytes survey. The share increased from 66% in 2025 to 85% in 2026. The s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/11/ai-scams-deepfakes-survey/"
+    ]
+  },
+  {
+    "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
+    "published_wib": "2026-06-11T15:30:02+07:00",
+    "summary": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/"
+    ]
+  }
+]
