@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive",
+    "published_wib": "2026-06-12T06:39:00+07:00",
+    "summary": "CISA issued BOD 26-04, which replaces BOD 22-01 with a four-variable vulnerability prioritization model requiring federal agencies to patch the most dangerous vulnerabilities in as few as three days. Key takeaways BOD 26-04 replaces BOD 22-01 with a four-variable risk model that assigns graduated remediation timelines, from as few as three days with mandato\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.tenable.com/blog/cisa-bod-26-04-FAQ-vulnerability-remediation-impact"
+    ]
+  },
+  {
+    "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+    "published_wib": "2026-06-12T03:29:23+07:00",
+    "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory u\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
+    ]
+  },
+  {
+    "title": "Siemens Desigo CC patch files falsely flagged as malware",
+    "published_wib": "2026-06-12T03:19:45+07:00",
+    "summary": "The issue affects patch files for Desigo CC versions 7 through 9.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/siemens-desigo-cc-patch-files-falsely-flagged-as-malware"
+    ]
+  },
+  {
+    "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+    "published_wib": "2026-06-12T02:39:53+07:00",
+    "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "ShinyHunters hacked 100+ orgs by exploiting an Oracle PeopleSoft 0-day",
+    "published_wib": "2026-06-12T02:01:16+07:00",
+    "summary": "University of Nottingham is first of many, Shiny tells The Reg",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443"
+    ]
+  },
+  {
+    "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
+    "published_wib": "2026-06-12T01:43:57+07:00",
+    "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours"
+    ]
+  },
+  {
+    "title": "Microsoft's worst 'Nightmare' unleashes BitLocker bypass 0-day",
+    "published_wib": "2026-06-12T00:51:52+07:00",
+    "summary": "Another day, another Windows exploit code",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371"
+    ]
+  },
+  {
+    "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+    "published_wib": "2026-06-12T00:43:52+07:00",
+    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Def\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html"
+    ]
+  },
+  {
+    "title": "CISA orders federal agencies to \u201cpatch smarter\u201d",
+    "published_wib": "2026-06-11T23:06:11+07:00",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) has issued a Binding Operational Directive that will change how the US federal government approaches vulnerability management. The directive arrives as the patching problem has become nearly unmanageable, driven by a surge in newly published vulnerabilities and by AI tools that are accelerating\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/11/cisa-risk-based-vulnerability-management-government/"
+    ]
+  },
+  {
+    "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+    "published_wib": "2026-06-11T22:55:41+07:00",
+    "summary": "Law enforcement has dismantled the \u201cAudiA6\u201d cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/"
+    ]
+  }
+]
