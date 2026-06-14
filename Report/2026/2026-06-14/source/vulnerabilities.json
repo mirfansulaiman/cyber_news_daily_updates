@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+    "published_wib": "2026-06-13T20:23:03+07:00",
+    "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
+    ]
+  },
+  {
+    "title": "CVE-2026-5513 | ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting (EUVD-2026-36651)",
+    "published_wib": "2026-06-13T19:14:07+07:00",
+    "summary": "A vulnerability categorized as problematic has been discovered in ladela Online Scheduling and Appointment Booking System Plugin up to 27.2 on WordPress. Impacted is an unknown function of the component setting Handler . Such manipulation leads to cross site scripting. This vulnerability is documented as CVE-2026-5513\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370827"
+    ]
+  },
+  {
+    "title": "CVE-2026-9061 | Store Locator Plugin up to 1.6.8 on WordPress cross site scripting (EUVD-2026-36643)",
+    "published_wib": "2026-06-13T19:14:00+07:00",
+    "summary": "A vulnerability was found in Store Locator Plugin up to 1.6.8 on WordPress. It has been rated as problematic . This issue affects some unknown processing. This manipulation causes cross site scripting. This vulnerability is registered as CVE-2026-9061\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370826"
+    ]
+  },
+  {
+    "title": "CVE-2026-9629 | codesupplyco Canvas Plugin up to 2.5.2 on WordPress day cross site scripting (EUVD-2026-36648)",
+    "published_wib": "2026-06-13T19:13:53+07:00",
+    "summary": "A vulnerability was found in codesupplyco Canvas Plugin up to 2.5.2 on WordPress. It has been declared as problematic . This vulnerability affects unknown code. The manipulation of the argument day results in cross site scripting. This vulnerability is cataloged as CVE-2026-9629\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370825"
+    ]
+  },
+  {
+    "title": "CVE-2026-3297 | Softaculous Page Builder Plugin up to 2.0.9 on WordPress cross site scripting (EUVD-2026-36646)",
+    "published_wib": "2026-06-13T19:13:48+07:00",
+    "summary": "A vulnerability was found in Softaculous Page Builder Plugin up to 2.0.9 on WordPress. It has been classified as problematic . This affects an unknown part. The manipulation leads to cross site scripting. This vulnerability is listed as CVE-2026-3297 . The attack may be initiated remotely. There is no available exploit.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370824"
+    ]
+  },
+  {
+    "title": "CVE-2026-11624 | Google MCP Toolbox for Databases up to 0.24.x origin validation (Issue 3113 / EUVD-2026-36650)",
+    "published_wib": "2026-06-13T19:13:32+07:00",
+    "summary": "A vulnerability was found in Google MCP Toolbox for Databases up to 0.24.x and classified as critical . Affected by this issue is some unknown functionality. Executing a manipulation can lead to origin validation error. This vulnerability is tracked as CVE-2026-11624\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370823"
+    ]
+  },
+  {
+    "title": "CVE-2026-9134 | fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress Shortcode foogallery_sanitize_javascript cross site scripting (EUVD-2026-36645)",
+    "published_wib": "2026-06-13T19:13:14+07:00",
+    "summary": "A vulnerability has been found in fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress and classified as problematic . Affected by this vulnerability is the function foogallery_sanitize_javascript of the component Shortcode Handler\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370822"
+    ]
+  },
+  {
+    "title": "CVE-2026-9109 | john-dagelmore GPTranslate Plugin up to 2.31 on WordPress Deterministically Derived API Key request gptApiKey cross site scripting (EUVD-2026-36642)",
+    "published_wib": "2026-06-13T19:13:04+07:00",
+    "summary": "A vulnerability, which was classified as problematic , was found in john-dagelmore GPTranslate Plugin up to 2.31 on WordPress. Affected is an unknown function of the file /wp-json/gptranslate/v1/request of the component Deterministically Derived API Key Handler\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370821"
+    ]
+  },
+  {
+    "title": "CVE-2026-1291 | tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress REST API Endpoint authorization (EUVD-2026-36649)",
+    "published_wib": "2026-06-13T19:12:50+07:00",
+    "summary": "A vulnerability, which was classified as critical , has been found in tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress. This impacts an unknown function of the component REST API Endpoint . This manipulation causes authorization bypass. The identification of this vulnerability is CVE-2026-1291\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370820"
+    ]
+  },
+  {
+    "title": "CVE-2026-9062 | Store Locator WordPress Plugin up to 1.6.8 on WordPress information disclosure (EUVD-2026-36644)",
+    "published_wib": "2026-06-13T19:12:44+07:00",
+    "summary": "A vulnerability classified as problematic was found in Store Locator WordPress Plugin up to 1.6.8 on WordPress. This affects an unknown function. The manipulation results in information disclosure. This vulnerability was named CVE-2026-9062 . The attack may be performed from remote. There is no available exploit. Upgrading the affected component is advised.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370819"
+    ]
+  }
+]

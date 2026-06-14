@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks
+- Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
+- CVE-2026-5513 | ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting (EUVD-2026-36651)
+- CVE-2026-9061 | Store Locator Plugin up to 1.6.8 on WordPress cross site scripting (EUVD-2026-36643)
+- CVE-2026-9629 | codesupplyco Canvas Plugin up to 2.5.2 on WordPress day cross site scripting (EUVD-2026-36648)
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Novo Nordisk discloses data breach affecting patient and healthcare professional information. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

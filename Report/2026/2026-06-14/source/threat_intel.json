@@ -1,0 +1,102 @@
+[
+  {
+    "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+    "published_wib": "2026-06-13T22:52:58+07:00",
+    "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-nexus group hid in Linux login system for nearly a decade",
+    "published_wib": "2026-06-13T03:46:30+07:00",
+    "summary": "The group's operation, dubbed Operation Highland, involved backdooring the Pluggable Authentication Modules (PAM) and OpenSSH components, which are fundamental to user authentication on Linux systems.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/china-nexus-group-hid-in-linux-login-system-for-nearly-a-decade"
+    ]
+  },
+  {
+    "title": "[+24h Old] Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "published_wib": "2026-06-13T02:33:25+07:00",
+    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community pac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "published_wib": "2026-06-13T01:17:55+07:00",
+    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach i\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+    "published_wib": "2026-06-13T00:03:55+07:00",
+    "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Warrantless wiretaps cut off for a week following US Congress vote",
+    "published_wib": "2026-06-12T23:08:27+07:00",
+    "summary": "Lawmakers have failed to extend a surveillance law that allows US intelligence agencies to monitor targets abroad without a warrant. Congress rejected a vote to extend Section 702 of the Foreign Intelligence Surveillance Act to July 2, which means, for a few days at least, some surveillance will be put on hold, for the first time since the Act was passed in\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4184603/warrantless-wiretaps-cut-off-for-a-week-following-us-congress-vote.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 24",
+    "published_wib": "2026-06-12T20:00:56+07:00",
+    "summary": "Authorities seize crypto-laundering network and fake recruitment sites, JDY botnet targets U.S. military, and Miasma worm infects Microsoft and PyPi repos.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/"
+    ]
+  },
+  {
+    "title": "[+24h Old] GitHub to Update npm to Thwart Software Supply Chain Attacks",
+    "published_wib": "2026-06-12T20:00:00+07:00",
+    "summary": "NPM, part of GitHub, announced a new version of the npm package manager with several security improvements, including disabling install scripts",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/github-update-npm-supply-chain/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
+    "published_wib": "2026-06-12T19:30:10+07:00",
+    "summary": "ISC Stormcast For Friday, June 12th, 2026 https://isc.sans.edu/podcastdetail/9970, (Fri, Jun 12th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33074"
+    ]
+  },
+  {
+    "title": "[+24h Old] Rethinking MDR as Attackers and Defenders Embrace AI",
+    "published_wib": "2026-06-12T18:00:00+07:00",
+    "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has changed faster than the MDR model can adapt. Attackers are u\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html"
+    ]
+  }
+]

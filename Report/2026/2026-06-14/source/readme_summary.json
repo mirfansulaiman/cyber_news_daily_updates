@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication and CVE-2026-5513 | ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting (EUVD-2026-36651). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Novo Nordisk discloses data breach affecting patient and healthcare professional information. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-14",
+  "vol": "002"
+}

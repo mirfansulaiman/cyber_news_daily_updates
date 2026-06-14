@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Novo Nordisk discloses data breach affecting patient and healthcare professional information",
+    "published_wib": "2026-06-13T03:29:00+07:00",
+    "summary": "Attackers gained access to Novo Nordisk's internal IT systems, copying non-public data without authorization.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/novo-nordisk-discloses-data-breach-affecting-patient-and-healthcare-professional-information"
+    ]
+  },
+  {
+    "title": "[+24h Old] Maine disables data breach notification portal after fake disclosures",
+    "published_wib": "2026-06-13T02:33:32+07:00",
+    "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+    "published_wib": "2026-06-13T01:59:32+07:00",
+    "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ukrainian national pleads guilty to role in Conti ransomware operation",
+    "published_wib": "2026-06-13T00:54:28+07:00",
+    "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/"
+    ]
+  },
+  {
+    "title": "[+24h Old] French government\u2019s secure messaging system breached",
+    "published_wib": "2026-06-12T22:49:11+07:00",
+    "summary": "An intruder has breached the French government\u2019s encrypted messaging service, Tchap, showing once again that human error is a weak spot in any security system. Tchap was developed in France as an example of national sovereignty and was designed to be a more secure option than WhatsApp for communication between government employees. In this case, it wasn\u2019t t\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4184576/french-governments-secure-messaging-system-breached.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Stolen iPhones could soon be worth a lot less to thieves",
+    "published_wib": "2026-06-12T21:03:16+07:00",
+    "summary": "Apple and the Met Police are working together to make stolen iPhones harder to reset, resell, and profit from.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/mobile/2026/06/stolen-iphones-could-soon-be-worth-a-lot-less-to-thieves"
+    ]
+  },
+  {
+    "title": "[+24h Old] Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+    "published_wib": "2026-06-12T21:01:11+07:00",
+    "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware Payment Crypto Laundering Platform Taken Out by FBI and Europol",
+    "published_wib": "2026-06-12T21:00:00+07:00",
+    "summary": "Domain of dark web money laundering platform AudiA6 seized and suspects arrested in joint operation by the FBI, Europol and others",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-crypto-laundering/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Novo Nordisk reports cyberattack as UK gives Wegovy pill the nod",
+    "published_wib": "2026-06-12T20:54:35+07:00",
+    "summary": "Clinical trial participant data stolen, but pharma giant says exposed records were pseudonymized",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/06/12/novo-nordisk-says-hackers-stole-clinical-trial-data/5254812"
+    ]
+  },
+  {
+    "title": "[+24h Old] Google sues China-based scammers over Gemini AI abuse",
+    "published_wib": "2026-06-12T19:43:42+07:00",
+    "summary": "Google has filed a lawsuit against Outsider Enterprise, a China-based cybercrime network for using AI tools, including Gemini, to build phishing websites and scam infrastructure. The company said the operation has affected \u201chundreds of thousands of victims,\u201d with losses estimated in the millions of dollars. It also links the group to more than 9,000 fake we\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/12/google-china-based-cybercrime-network-lawsuit/"
+    ]
+  }
+]
