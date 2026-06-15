@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CVE-2026-54411 | Linux-PAM up to 1.7.2 pam_userdb.c strncmp timing discrepancy (EUVD-2026-36662)
+- CVE-2026-54413 | driftregion iso14229 up to 0.9.0 iso14229.c Handle_0x27_SecurityAccess integer underflow (EUVD-2026-36664)
+- CVE-2026-54410 | debevv nanoMODBUS up to 1.23.0 MBAP recv_msg_header off-by-one (EUVD-2026-36661)
+- CVE-2026-54412 | LiamBindle MQTT-C up to 1.1.6 PUBLISH src/mqtt.c mqtt_unpack_publish_response out-of-bounds (EUVD-2026-36663)
+- FBI disrupts massive AI-powered phishing service using a million URLs
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by FBI disrupts massive AI-powered phishing service using a million URLs. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CVE-2026-54411 | Linux-PAM up to 1.7.2 pam_userdb.c strncmp timing discrepancy (EUVD-2026-36662). prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Novo Nordisk discloses data breach affecting patient and healthcare professional information. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
