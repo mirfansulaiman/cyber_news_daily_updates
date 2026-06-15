@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 002 | 2026-06-14 ]
+## Today Updates: [Vol. 002 | 2026-06-15 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication and CVE-2026-5513 | ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting (EUVD-2026-36651). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: CVE-2026-54411 | Linux-PAM up to 1.7.2 pam_userdb.c strncmp timing discrepancy (EUVD-2026-36662) and CVE-2026-54413 | driftregion iso14229 up to 0.9.0 iso14229.c Handle_0x27_SecurityAccess integer underflow (EUVD-2026-36664). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: FBI disrupts massive AI-powered phishing service using a million URLs. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
 Identity and edge access risks remain elevated: Novo Nordisk discloses data breach affecting patient and healthcare professional information. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-14/poster_2026-06-14_issue-002.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-15/poster_2026-06-15_issue-002.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-14/poster_vulnerabilities_2026-06-14_issue-002.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-15/poster_vulnerabilities_2026-06-15_issue-002.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-14/poster_threat-intel_2026-06-14_issue-002.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-15/poster_threat-intel_2026-06-15_issue-002.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-14/poster_data-breach_2026-06-14_issue-002.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-15/poster_data-breach_2026-06-15_issue-002.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-14/cyber_newsletter_2026-06-14.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-15/cyber_newsletter_2026-06-15.pdf
 
 <!-- DAILY_UPDATES_END -->
 
