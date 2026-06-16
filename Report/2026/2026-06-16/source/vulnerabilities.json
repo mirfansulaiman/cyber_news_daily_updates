@@ -1,0 +1,102 @@
+[
+  {
+    "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+    "published_wib": "2026-06-16T03:06:52+07:00",
+    "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/"
+    ]
+  },
+  {
+    "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
+    "published_wib": "2026-06-16T02:27:48+07:00",
+    "summary": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft"
+    ]
+  },
+  {
+    "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+    "published_wib": "2026-06-16T00:12:42+07:00",
+    "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+    "published_wib": "2026-06-15T20:00:00+07:00",
+    "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/"
+    ]
+  },
+  {
+    "title": "Langflow RCE under active attack months after a patch was shipped",
+    "published_wib": "2026-06-15T19:48:31+07:00",
+    "summary": "Enterprises using the open-source AI orchestration platform Langflow are being urged to patch a high-severity path traversal flaw amid active exploitation, despite a fix having been available for more than two months. The bug, which stems from improper handling of filenames in Langflow\u2019s file upload functionality, can allow attackers to write files to arbit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185063/langflow-rce-under-active-attack-months-after-a-patch-was-shipped.html"
+    ]
+  },
+  {
+    "title": "Attackers can turn AI agent guardrails into denial-of-service weapons",
+    "published_wib": "2026-06-15T19:09:30+07:00",
+    "summary": "Attackers can turn AI agent guardrails into denial-of-service weapons, according to new research that found a single poisoned document can dramatically slow shared AI agent workflows by trapping reasoning-based safety systems in extended thinking loops. \u201cReasoning-based guardrails introduce a new attack surface where security mechanisms themselves become th\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185051/attackers-can-turn-ai-agent-guardrails-into-denial-of-service-weapons.html"
+    ]
+  },
+  {
+    "title": "Sovereign cloud won\u2019t fix your AI risk. Identity governance will",
+    "published_wib": "2026-06-15T16:00:00+07:00",
+    "summary": "Your board is asking. Your legal team is asking. Your auditors will be asking: Should AI workloads move to sovereign cloud, or stay on AWS, Azure or GCP? European enterprises have already run this experiment \u2014 under real regulatory pressure, with real money and real consequences. Many discovered that sovereign cloud alone didn\u2019t deliver the control they exp\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4184634/sovereign-cloud-wont-fix-your-ai-risk-identity-governance-will.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] CVE-2026-54411 | Linux-PAM up to 1.7.2 pam_userdb.c strncmp timing discrepancy (EUVD-2026-36662)",
+    "published_wib": "2026-06-15T02:19:55+07:00",
+    "summary": "A vulnerability identified as problematic has been detected in Linux-PAM up to 1.7.2 . This issue affects the function strncmp of the file modules/pam_userdb/pam_userdb.c . Performing a manipulation results in observable timing discrepancy. This vulnerability is cataloged as CVE-2026-54411\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370870"
+    ]
+  },
+  {
+    "title": "[+24h Old] CVE-2026-54413 | driftregion iso14229 up to 0.9.0 iso14229.c Handle_0x27_SecurityAccess integer underflow (EUVD-2026-36664)",
+    "published_wib": "2026-06-15T02:19:42+07:00",
+    "summary": "A vulnerability categorized as critical has been discovered in driftregion iso14229 up to 0.9.0 . This vulnerability affects the function Handle_0x27_SecurityAccess of the file iso14229.c . Such manipulation leads to integer underflow. This vulnerability is listed as CVE-2026-54413 . The attack may be performed from remote. There is no available exploit.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370869"
+    ]
+  },
+  {
+    "title": "[+24h Old] CVE-2026-54410 | debevv nanoMODBUS up to 1.23.0 MBAP recv_msg_header off-by-one (EUVD-2026-36661)",
+    "published_wib": "2026-06-15T02:19:28+07:00",
+    "summary": "A vulnerability was found in debevv nanoMODBUS up to 1.23.0 . It has been rated as critical . This affects the function recv_msg_header of the component MBAP Handler . This manipulation causes off-by-one. This vulnerability is tracked as CVE-2026-54410 . The attack is possible to be carried out remotely. No exploit exists.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/370868"
+    ]
+  }
+]

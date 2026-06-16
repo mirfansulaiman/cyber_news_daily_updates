@@ -1,0 +1,102 @@
+[
+  {
+    "title": "China-Nexus Actor Spy on US Researchers Undetected for a Year",
+    "published_wib": "2026-06-16T00:00:45+07:00",
+    "summary": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected"
+    ]
+  },
+  {
+    "title": "Chinese hackers breach REDCap servers, steal medical research",
+    "published_wib": "2026-06-15T21:00:00+07:00",
+    "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/"
+    ]
+  },
+  {
+    "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+    "published_wib": "2026-06-15T19:12:20+07:00",
+    "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI disrupts massive AI-powered phishing service using a million URLs",
+    "published_wib": "2026-06-14T21:36:23+07:00",
+    "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/"
+    ]
+  },
+  {
+    "title": "[+48h Old] NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+    "published_wib": "2026-06-13T22:52:58+07:00",
+    "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] China-nexus group hid in Linux login system for nearly a decade",
+    "published_wib": "2026-06-13T03:46:30+07:00",
+    "summary": "The group's operation, dubbed Operation Highland, involved backdooring the Pluggable Authentication Modules (PAM) and OpenSSH components, which are fundamental to user authentication on Linux systems.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/china-nexus-group-hid-in-linux-login-system-for-nearly-a-decade"
+    ]
+  },
+  {
+    "title": "[+48h Old] Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "published_wib": "2026-06-13T02:33:25+07:00",
+    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community pac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "published_wib": "2026-06-13T01:17:55+07:00",
+    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach i\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+    "published_wib": "2026-06-13T00:03:55+07:00",
+    "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Warrantless wiretaps cut off for a week following US Congress vote",
+    "published_wib": "2026-06-12T23:08:27+07:00",
+    "summary": "Lawmakers have failed to extend a surveillance law that allows US intelligence agencies to monitor targets abroad without a warrant. Congress rejected a vote to extend Section 702 of the Foreign Intelligence Surveillance Act to July 2, which means, for a few days at least, some surveillance will be put on hold, for the first time since the Act was passed in\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4184603/warrantless-wiretaps-cut-off-for-a-week-following-us-congress-vote.html"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- SimpleHelp bug lets hackers create rogue remote support accounts
+- Copilot 'SearchLeak' Attack Allows 1-Click Data Theft
+- Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks
+- China-Nexus Actor Spy on US Researchers Undetected for a Year
+- Council of Europe investigates ShinyHunters data breach claims
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by China-Nexus Actor Spy on US Researchers Undetected for a Year. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by SimpleHelp bug lets hackers create rogue remote support accounts. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Council of Europe investigates ShinyHunters data breach claims. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
