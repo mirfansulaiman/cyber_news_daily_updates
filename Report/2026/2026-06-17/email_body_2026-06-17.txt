@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Fileless Phantom Stealer Targets Browser Credentials
+- SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection
+- New Rokarolla Android malware targets 217 banking, crypto apps
+- Steam Workshop abused to spread malware via Wallpaper Engine app
+- Threat tactic spotlight: Subdomain takeover
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fileless Phantom Stealer Targets Browser Credentials. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Threat tactic spotlight: Subdomain takeover. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 'Lorem Ipsum' Malware Pivots to ClickFix Delivery. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

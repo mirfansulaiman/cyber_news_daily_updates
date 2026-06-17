@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Threat tactic spotlight: Subdomain takeover",
+    "published_wib": "2026-06-17T00:53:20+07:00",
+    "summary": "In this blog post you\u2019ll learn how to detect and prevent subdomain takeover \u2013 a tactic where threat actors exploit dangling DNS records to redirect traffic to attacker-controlled resources. We\u2019ll explain the issue, how the situation arises, and how you can use various AWS features and services to help mitigate the impact of this tactic. [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/"
+    ]
+  },
+  {
+    "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+    "published_wib": "2026-06-16T17:47:59+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/"
+    ]
+  },
+  {
+    "title": "Cisco patches SD-WAN flaw amid evidence of active exploitation",
+    "published_wib": "2026-06-16T16:45:16+07:00",
+    "summary": "Cisco has released fixes for a vulnerability in its Catalyst SD-WAN Manager software after becoming aware of limited exploitation of the flaw, which could allow an authenticated attacker to create or overwrite files that may later be used to gain root privileges. The vulnerability, tracked as CVE-2026 \u2013 20262 , affects the web interface of Cisco Catalyst SD\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185525/cisco-sd-wan-flaw-puts-spotlight-on-enterprise-management-plane-risk.html"
+    ]
+  },
+  {
+    "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+    "published_wib": "2026-06-16T16:19:51+07:00",
+    "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Zero trust isn\u2019t broken. Most companies just do it wrong.",
+    "published_wib": "2026-06-16T16:00:00+07:00",
+    "summary": "Zero trust is 15 years old, and like many teenagers, it can feel misunderstood and underappreciated. The concept of zero trust was first defined by John Kindervag , a Forrester analyst at the time, as a strategy to replace the outmoded perimeter security model with a \u201cnever trust, always verify\u201d approach. But going from principle to practice isn\u2019t easy. Acc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4181934/zero-trust-isnt-broken-but-most-companies-are-doing-it-wrong-2.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SimpleHelp bug lets hackers create rogue remote support accounts",
+    "published_wib": "2026-06-16T03:06:52+07:00",
+    "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/"
+    ]
+  },
+  {
+    "title": "[+24h Old] HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
+    "published_wib": "2026-06-16T02:31:37+07:00",
+    "summary": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare"
+    ]
+  },
+  {
+    "title": "[+24h Old] Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
+    "published_wib": "2026-06-16T02:27:48+07:00",
+    "summary": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+    "published_wib": "2026-06-16T00:12:42+07:00",
+    "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Langflow RCE under active attack months after a patch was shipped",
+    "published_wib": "2026-06-15T19:48:31+07:00",
+    "summary": "Enterprises using the open-source AI orchestration platform Langflow are being urged to patch a high-severity path traversal flaw amid active exploitation, despite a fix having been available for more than two months. The bug, which stems from improper handling of filenames in Langflow\u2019s file upload functionality, can allow attackers to write files to arbit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185063/langflow-rce-under-active-attack-months-after-a-patch-was-shipped.html"
+    ]
+  }
+]

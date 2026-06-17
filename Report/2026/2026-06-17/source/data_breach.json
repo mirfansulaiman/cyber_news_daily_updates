@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
+    "published_wib": "2026-06-16T22:10:48+07:00",
+    "summary": "New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery"
+    ]
+  },
+  {
+    "title": "UK to require ID or face scan before you can make social media accounts",
+    "published_wib": "2026-06-16T21:38:49+07:00",
+    "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/"
+    ]
+  },
+  {
+    "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+    "published_wib": "2026-06-16T20:42:19+07:00",
+    "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/"
+    ]
+  },
+  {
+    "title": "iRhythm discloses data breach, says hackers stole patient info",
+    "published_wib": "2026-06-16T13:31:59+07:00",
+    "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-Nexus Actor Spies on US Researchers Undetected for a Year",
+    "published_wib": "2026-06-16T00:00:45+07:00",
+    "summary": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to breach numerous institutions and exfiltrate sensitive data.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected"
+    ]
+  },
+  {
+    "title": "[+24h Old] 15th June \u2013 Threat Intelligence Report",
+    "published_wib": "2026-06-15T20:40:44+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 15th June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES The University of Nottingham, a UK research university, has suffered a data breach after ShinyHunters accessed its student records system. The incident affected about 454,600 current and former students and expos\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Governing the ghost workforce",
+    "published_wib": "2026-06-15T17:00:00+07:00",
+    "summary": "Every enterprise security team is fighting a workforce problem they cannot see on any org chart. Bots, service accounts, API keys, OAuth tokens, machine certificates \u2014 non-human identities now outnumber human ones in most large organisations, often by a factor of ten to one. They authenticate constantly, operate across every environment, and when forgotten,\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4184637/governing-the-ghost-workforce.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] 5 runtime signals for catching a compromised AI agent",
+    "published_wib": "2026-06-15T16:00:00+07:00",
+    "summary": "In June 2025, Simon Willison, the engineer who coined the term \u201cprompt injection,\u201d published a warning that circulated widely through the security community. He called it the lethal trifecta \u2014 three capabilities that, when combined in a single AI agent, create a near-guaranteed path to exploitation through indirect prompt injection: access to private data;\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4184681/5-runtime-signals-for-catching-a-compromised-ai-agent.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Council of Europe investigates ShinyHunters data breach claims",
+    "published_wib": "2026-06-15T23:37:11+07:00",
+    "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI: Fraudsters use couriers to steal money in crypto scams",
+    "published_wib": "2026-06-15T22:30:23+07:00",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/"
+    ]
+  }
+]
