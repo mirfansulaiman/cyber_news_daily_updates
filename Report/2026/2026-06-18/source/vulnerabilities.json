@@ -1,0 +1,102 @@
+[
+  {
+    "title": "VU#380058: SignalRGB kernel driver contains improper access control and IOCTL vulnerabilities",
+    "published_wib": "2026-06-18T04:02:44.088207+07:00",
+    "summary": "Overview The SignalRGB kernel driver, SignalIo.sys , contains two vulnerabilities involving improper access control and unsafe memory handling. The device object is created with an overly permissive Discretionary Access Control List (DACL) that allows user-mode processes to access privileged hardware operations through input/output control (IOCTL) commands.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/380058"
+    ]
+  },
+  {
+    "title": "Google\u2019s Vertex AI SDK could allow RCE through bucket squatting",
+    "published_wib": "2026-06-17T18:49:05+07:00",
+    "summary": "A design flaw in the Vertex AI software development kit (SDK) for Python, Google Cloud\u2019s managed platform for building, training, and deploying AI agents, could allow hijacking and poisoning of models outside of a developer\u2019s own Google Cloud project. According to Unit 42 researchers, a combination of bad bucket naming logic and missing authentication made\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186193/googles-vertex-ai-sdk-could-allow-rce-through-bucket-squatting.html"
+    ]
+  },
+  {
+    "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+    "published_wib": "2026-06-17T17:09:24+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/"
+    ]
+  },
+  {
+    "title": "What 22,000 breaches teach us about incident preparedness",
+    "published_wib": "2026-06-17T16:00:00+07:00",
+    "summary": "The 2026 Verizon Data Breach Investigations Report analyzed more than 22,000 confirmed data breaches across 145 countries. Its findings point to a single uncomfortable truth: organizations cannot patch fast enough to prevent every incident. Exploitation of vulnerabilities surged to become the leading initial access vector, the median time to remediate a cri\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185797/what-22000-breaches-teach-us-about-incident-preparedness.html"
+    ]
+  },
+  {
+    "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+    "published_wib": "2026-06-17T15:32:29+07:00",
+    "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/"
+    ]
+  },
+  {
+    "title": "Microsoft says you don\u2019t need another email security tool; experts say, not so fast",
+    "published_wib": "2026-06-17T09:46:20+07:00",
+    "summary": "Despite best efforts by defenders, malicious emails continue to slip through the cybersecurity cracks , leading some enterprises to implement a layered \u201cdefense in depth\u201d strategy that incorporates multiple tools. Microsoft seems to be challenging this idea, revealing that there are only nominal returns from adding integrated pre- and post-send partners to\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185954/microsoft-says-you-dont-need-another-email-security-tool-experts-say-not-so-fast.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Threat tactic spotlight: Subdomain takeover",
+    "published_wib": "2026-06-17T00:53:20+07:00",
+    "summary": "In this blog post you\u2019ll learn how to detect and prevent subdomain takeover \u2013 a tactic where threat actors exploit dangling DNS records to redirect traffic to attacker-controlled resources. We\u2019ll explain the issue, how the situation arises, and how you can use various AWS features and services to help mitigate the impact of this tactic. [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CISA warns of another cPanel plugin flaw exploited in attacks",
+    "published_wib": "2026-06-16T17:47:59+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cisco patches SD-WAN flaw amid evidence of active exploitation",
+    "published_wib": "2026-06-16T16:45:16+07:00",
+    "summary": "Cisco has released fixes for a vulnerability in its Catalyst SD-WAN Manager software after becoming aware of limited exploitation of the flaw, which could allow an authenticated attacker to create or overwrite files that may later be used to gain root privileges. The vulnerability, tracked as CVE-2026 \u2013 20262 , affects the web interface of Cisco Catalyst SD\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185525/cisco-sd-wan-flaw-puts-spotlight-on-enterprise-management-plane-risk.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Zero trust isn\u2019t broken. Most companies just do it wrong.",
+    "published_wib": "2026-06-16T16:00:00+07:00",
+    "summary": "Zero trust is 15 years old, and like many teenagers, it can feel misunderstood and underappreciated. The concept of zero trust was first defined by John Kindervag , a Forrester analyst at the time, as a strategy to replace the outmoded perimeter security model with a \u201cnever trust, always verify\u201d approach. But going from principle to practice isn\u2019t easy. Acc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4181934/zero-trust-isnt-broken-but-most-companies-are-doing-it-wrong-2.html"
+    ]
+  }
+]

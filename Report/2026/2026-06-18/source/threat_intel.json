@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Why Account Takeovers Are Rising and How to Stop Them",
+    "published_wib": "2026-06-17T21:00:10+07:00",
+    "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/"
+    ]
+  },
+  {
+    "title": "From Stars to Upvotes: Fake Reputation Fueling a Crypto Clipboard Hijacker",
+    "published_wib": "2026-06-17T20:38:55+07:00",
+    "summary": "Key Points Introduction In this research, we analyze a clipboard hijacker campaign that is hidden inside a collection of \u201csolutions\u201d and \u201ctools\u201d that claim to give users an unfair advantage. These offers include Solana and Pump.fun sniper bots (automated tools that try to buy new tokens or meme coins faster than other traders), Aviator Predictor [\u2026] The pos\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/"
+    ]
+  },
+  {
+    "title": "5 AI risk management frameworks for shoring up key gaps",
+    "published_wib": "2026-06-17T16:01:00+07:00",
+    "summary": "Organizations racing to embed AI into business operations are realizing that the risk management frameworks they\u2019ve relied on for decades aren\u2019t built for the behaviors, failure modes, and ethical complexities AI systems introduce. Fortunately, a new generation of AI-specific frameworks has emerged to give organizations a structured way to identify where AI\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4185917/5-ai-risk-management-frameworks-for-shoring-up-key-gaps.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fileless Phantom Stealer Targets Browser Credentials",
+    "published_wib": "2026-06-17T05:26:34+07:00",
+    "summary": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to evade detection.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials"
+    ]
+  },
+  {
+    "title": "[+24h Old] SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
+    "published_wib": "2026-06-17T03:11:48+07:00",
+    "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Rokarolla Android malware targets 217 banking, crypto apps",
+    "published_wib": "2026-06-17T03:04:11+07:00",
+    "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Steam Workshop abused to spread malware via Wallpaper Engine app",
+    "published_wib": "2026-06-17T01:27:55+07:00",
+    "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Rokarolla Android Trojan Levels Up to Full Device Control, Persistence",
+    "published_wib": "2026-06-17T00:32:32+07:00",
+    "summary": "The emerging malware, spread via fake TikTok and Chrome downloads, has evolved by combining banking fraud with extensive device surveillance and remote control.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/rokarolla-android-trojan"
+    ]
+  },
+  {
+    "title": "[+24h Old] GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+    "published_wib": "2026-06-16T21:17:27+07:00",
+    "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-linked hackers target US, Canada research using legacy REDCap exploits",
+    "published_wib": "2026-06-16T18:48:36+07:00",
+    "summary": "Google is warning of a cyber espionage campaign linked to a China-nexus threat actor, UNC6508, that kept close tabs on valuable US and Canadian research environments for over a year. The campaign abused REDCap, a widely adopted platform for collecting and managing research data. Attackers, now disrupted, intercepted REDCap\u2019s upgrade process to inject persis\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4185582/china-linked-hackers-target-us-canada-research-using-legacy-redcap-exploits.html"
+    ]
+  }
+]

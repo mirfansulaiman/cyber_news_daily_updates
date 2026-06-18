@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "VU#380058: SignalRGB kernel driver contains improper access control and IOCTL vulnerabilities and Google\u2019s Vertex AI SDK could allow RCE through bucket squatting. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Why Account Takeovers Are Rising and How to Stop Them. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "INC Ransomware Thrives by Mastering the Basics. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-18",
+  "vol": "002"
+}
