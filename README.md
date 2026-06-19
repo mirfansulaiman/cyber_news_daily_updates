@@ -8,9 +8,9 @@ This repository stores **daily cybersecurity newsletters**.
 <!-- DAILY_UPDATES_START -->
 ## Today Updates: [Vol. 002 | 2026-06-19 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass and FIFA Bug Exposes World Cup Streams to Remote Takeover. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass and Build your own vulnerability harness. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Lost in relocation: analysis of a new loader distributing CASTLESTEALER. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: USB worm spreads crypto-stealing malware via Windows shortcut files. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
 Identity and edge access risks remain elevated: Gentlemen ransomware uses multiple EDR killers to disable defenses. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
