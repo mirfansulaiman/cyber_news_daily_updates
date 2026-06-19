@@ -3,14 +3,14 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- Lost in relocation: analysis of a new loader distributing CASTLESTEALER
 - Gentlemen ransomware uses multiple EDR killers to disable defenses
-- Novo Nordisk Breach Exposes Software Development Pipeline Risk
 - VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass
 - Nintendo confirms data stolen in WebMD subsidiary cyberattack
+- Build your own vulnerability harness
+- USB worm spreads crypto-stealing malware via Windows shortcut files
 
 Section Summaries:
-- Threat Intelligence: 10 items, led by Lost in relocation: analysis of a new loader distributing CASTLESTEALER. with ongoing campaign and malware activity signals.
+- Threat Intelligence: 10 items, led by USB worm spreads crypto-stealing malware via Windows shortcut files. with ongoing campaign and malware activity signals.
 - Latest Vulnerabilities: 10 items, led by VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass. prioritizing patching and exposure reduction for high-impact issues.
 - Data Breach & Cybercrime: 10 items, led by Gentlemen ransomware uses multiple EDR killers to disable defenses. highlighting extortion, leakage, and law-enforcement actions where reported.
 

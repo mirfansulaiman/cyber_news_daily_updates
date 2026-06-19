@@ -10,16 +10,6 @@
     ]
   },
   {
-    "title": "FIFA Bug Exposes World Cup Streams to Remote Takeover",
-    "published_wib": "2026-06-19T01:20:07+07:00",
-    "summary": "A hacker could have \"Rickrolled\" the World Cup \u2014 or worse \u2014 thanks to FIFA's unenforced Entra access controls.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
-    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
-    "sources": [
-      "https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover"
-    ]
-  },
-  {
     "title": "Build your own vulnerability harness",
     "published_wib": "2026-06-19T00:59:40+07:00",
     "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM context limits.",
@@ -27,16 +17,6 @@
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
-    ]
-  },
-  {
-    "title": "Salesforce Data Thefts Continue via Klue App Compromise",
-    "published_wib": "2026-06-18T23:49:04+07:00",
-    "summary": "Klue's Battlecards is now the third integrated application that has been compromised to steal customers' Salesforce data, and victims include Huntress, the cybersecurity vendor.",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
-    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise"
     ]
   },
   {
@@ -97,6 +77,26 @@
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://kb.cert.org/vuls/id/380058"
+    ]
+  },
+  {
+    "title": "[+24h Old] Google\u2019s Vertex AI SDK could allow RCE through bucket squatting",
+    "published_wib": "2026-06-17T18:49:05+07:00",
+    "summary": "A design flaw in the Vertex AI software development kit (SDK) for Python, Google Cloud\u2019s managed platform for building, training, and deploying AI agents, could allow hijacking and poisoning of models outside of a developer\u2019s own Google Cloud project. According to Unit 42 researchers, a combination of bad bucket naming logic and missing authentication made\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186193/googles-vertex-ai-sdk-could-allow-rce-through-bucket-squatting.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] What 22,000 breaches teach us about incident preparedness",
+    "published_wib": "2026-06-17T16:00:00+07:00",
+    "summary": "The 2026 Verizon Data Breach Investigations Report analyzed more than 22,000 confirmed data breaches across 145 countries. Its findings point to a single uncomfortable truth: organizations cannot patch fast enough to prevent every incident. Exploitation of vulnerabilities surged to become the leading initial access vector, the median time to remediate a cri\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4185797/what-22000-breaches-teach-us-about-incident-preparedness.html"
     ]
   }
 ]

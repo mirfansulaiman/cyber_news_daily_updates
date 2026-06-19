@@ -1,15 +1,5 @@
 [
   {
-    "title": "Lost in relocation: analysis of a new loader distributing CASTLESTEALER",
-    "published_wib": "2026-06-19T07:00:00+07:00",
-    "summary": "Find out how a new obfuscated loader evades static detection using .reloc section abuse, five anti-VM/language checks and MBA obfuscation to deliver infostealer malware via Google Ads.",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://www.elastic.co/security-labs/oxloader-malware-loader-infostealer"
-    ]
-  },
-  {
     "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
     "published_wib": "2026-06-18T23:20:06+07:00",
     "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
@@ -97,6 +87,16 @@
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
       "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Rokarolla Android malware targets 217 banking, crypto apps",
+    "published_wib": "2026-06-17T03:04:11+07:00",
+    "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/"
     ]
   }
 ]
