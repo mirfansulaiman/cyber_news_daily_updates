@@ -40,16 +40,6 @@
     ]
   },
   {
-    "title": "[+24h Old] 5 new security operations roles the AI-SOC will create",
-    "published_wib": "2026-06-18T16:01:00+07:00",
-    "summary": "For years we\u2019ve heard the frightening prediction that AI will take jobs away from people. It will and it already is , but that doesn\u2019t mean it won\u2019t also create new jobs and skills demands \u2014 like every other labor trend driven by technology advances. Take security operations for example. Historically, security operations centers (SOCs) were built on a three\u2026",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
-    "sources": [
-      "https://www.csoonline.com/article/4186569/5-new-security-operations-roles-the-ai-soc-will-create.html"
-    ]
-  },
-  {
     "title": "[+24h Old] ShapedPlugin update flow hacked to infect WordPress sites",
     "published_wib": "2026-06-18T19:55:36+07:00",
     "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
@@ -57,6 +47,16 @@
     "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 5 new security operations roles the AI-SOC will create",
+    "published_wib": "2026-06-18T16:01:00+07:00",
+    "summary": "For years we\u2019ve heard the frightening prediction that AI will take jobs away from people. It will and it already is , but that doesn\u2019t mean it won\u2019t also create new jobs and skills demands \u2014 like every other labor trend driven by technology advances. Take security operations for example. Historically, security operations centers (SOCs) were built on a three\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4186569/5-new-security-operations-roles-the-ai-soc-will-create.html"
     ]
   },
   {

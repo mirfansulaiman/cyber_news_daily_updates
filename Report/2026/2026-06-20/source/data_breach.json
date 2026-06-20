@@ -60,16 +60,6 @@
     ]
   },
   {
-    "title": "[+24h Old] New CISO appointments 2026",
-    "published_wib": "2026-06-18T17:45:17+07:00",
-    "summary": "The upper ranks of corporate security are seeing a high rate of change as companies try to adapt to the evolving threat landscape. Many companies are hiring a chief security officer (CSO) or chief information security officer (CISO) for the first time to support a deeper commitment to information security. Follow this column to keep up with new appointments\u2026",
-    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
-    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
-    "sources": [
-      "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html"
-    ]
-  },
-  {
     "title": "[+24h Old] FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
     "published_wib": "2026-06-18T19:54:39+07:00",
     "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
@@ -87,6 +77,16 @@
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/"
+    ]
+  },
+  {
+    "title": "[+24h Old] New CISO appointments 2026",
+    "published_wib": "2026-06-18T17:45:17+07:00",
+    "summary": "The upper ranks of corporate security are seeing a high rate of change as companies try to adapt to the evolving threat landscape. Many companies are hiring a chief security officer (CSO) or chief information security officer (CISO) for the first time to support a deeper commitment to information security. Follow this column to keep up with new appointments\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html"
     ]
   },
   {

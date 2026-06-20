@@ -5,9 +5,9 @@ Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48
 Quick Highlights (max 5):
 - Klue OAuth breach victim list grows as Icarus hackers claim attack
 - Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin
-- Threat actor adds advanced ‘EDR killer’ tools to ransomware-as-a-service platform
 - Texas govt data breach exposes over 3 million driver’s licenses
 - Webinar: How attackers bypass MFA and how defenders can respond
+- CISA: Splunk Enterprise flaw actively exploited, patch by Sunday
 
 Section Summaries:
 - Threat Intelligence: 10 items, led by Webinar: How attackers bypass MFA and how defenders can respond. with ongoing campaign and malware activity signals.
