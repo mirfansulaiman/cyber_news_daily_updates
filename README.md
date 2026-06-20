@@ -8,7 +8,7 @@ This repository stores **daily cybersecurity newsletters**.
 <!-- DAILY_UPDATES_START -->
 ## Today Updates: [Vol. 002 | 2026-06-20 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin and Threat actor adds advanced ‘EDR killer’ tools to ransomware-as-a-service platform. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin and CISA: Splunk Enterprise flaw actively exploited, patch by Sunday. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
 Endpoint posture is also under pressure: Webinar: How attackers bypass MFA and how defenders can respond. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
