@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New Prinz Eugen ransomware prioritizes recent files for encryption
+- Microsoft links Mastra AI supply chain attack to North Korean hackers
+- [+24h Old] Klue OAuth breach victim list grows as Icarus hackers claim attack
+- [+24h Old] Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin
+- [+24h Old] Texas govt data breach exposes over 3 million driver’s licenses
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Microsoft links Mastra AI supply chain attack to North Korean hackers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New Prinz Eugen ransomware prioritizes recent files for encryption. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
