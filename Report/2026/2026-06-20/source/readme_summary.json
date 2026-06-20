@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin and Threat actor adds advanced \u2018EDR killer\u2019 tools to ransomware-as-a-service platform. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Webinar: How attackers bypass MFA and how defenders can respond. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Klue OAuth breach victim list grows as Icarus hackers claim attack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-20",
+  "vol": "002"
+}
