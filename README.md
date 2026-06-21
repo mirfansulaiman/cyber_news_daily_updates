@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 002 | 2026-06-21 ]
+## Today Updates: [Vol. 002 | 2026-06-22 ]
 
 Today's highlights are led by exploit-ready vulnerabilities: Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin and CISA: Splunk Enterprise flaw actively exploited, patch by Sunday. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Microsoft links Mastra AI supply chain attack to North Korean hackers. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: AryStinger botnet infected thousands of D-Link routers worldwide. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
 Identity and edge access risks remain elevated: New Prinz Eugen ransomware prioritizes recent files for encryption. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-21/poster_2026-06-21_issue-002.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-22/poster_2026-06-22_issue-002.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-21/poster_vulnerabilities_2026-06-21_issue-002.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-22/poster_vulnerabilities_2026-06-22_issue-002.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-21/poster_threat-intel_2026-06-21_issue-002.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-22/poster_threat-intel_2026-06-22_issue-002.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-21/poster_data-breach_2026-06-21_issue-002.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-22/poster_data-breach_2026-06-22_issue-002.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-21/cyber_newsletter_2026-06-21.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-06-22/cyber_newsletter_2026-06-22.pdf
 
 <!-- DAILY_UPDATES_END -->
 
