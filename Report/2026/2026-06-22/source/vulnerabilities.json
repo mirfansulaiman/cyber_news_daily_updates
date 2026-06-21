@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+48h Old] Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+    "published_wib": "2026-06-20T03:25:02+07:00",
+    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+    "published_wib": "2026-06-19T17:39:58+07:00",
+    "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
+    ]
+  },
+  {
+    "title": "[+48h Old] VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass",
+    "published_wib": "2026-06-19T02:41:08.432282+07:00",
+    "summary": "Overview Multiple vendor-signed UEFI applications are vulnerable to Secure Boot bypass via a \"Bring Your Own Vulnerable Driver\" (BYOVD)-style attack. If a target system trusts the affected vendor\u2019s certificate, an attacker can exploit these applications to execute arbitrary code during the early pre-boot phase before the operating system initializes. To mit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/457458"
+    ]
+  },
+  {
+    "title": "[+48h Old] Build your own vulnerability harness",
+    "published_wib": "2026-06-19T00:59:40+07:00",
+    "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM context limits.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Attackers abuse Google Ads, GitLab, and Claude to deliver malware",
+    "published_wib": "2026-06-18T19:25:37+07:00",
+    "summary": "Threat actors are abusing trusted platforms, including Google Ads, GitLab pages, and Claude\u2019s shared chat feature, to trick users into executing malicious commands on their systems. Disguised as popular AI developer tools, the threat actors used ClickFix social engineering attacks, where victims were tricked into manually executing malicious commands. Typic\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186813/attackers-abuse-google-ads-gitlab-and-claude-to-deliver-malware.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
+    "published_wib": "2026-06-18T19:23:58+07:00",
+    "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/"
+    ]
+  },
+  {
+    "title": "[+48h Old] F5 issues out-of-band patches for critical NGINX vulnerabilities",
+    "published_wib": "2026-06-18T18:33:00+07:00",
+    "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "[+48h Old] FortiBleed campaign exposes 75,000 Fortinet firewalls worldwide",
+    "published_wib": "2026-06-18T18:28:37+07:00",
+    "summary": "A massive credential-compromise campaign dubbed \u201cFortibleed\u201d has been found to expose tens of thousands of Fortinet devices worldwide, with researchers warning of persistent attacker access to affected enterprise environments. The campaign was first flagged by security researcher Volodymyr Diachenko, who posted on LinkedIn about finding an attacker-controll\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186790/fortibleed-campaign-exposes-75000-fortinet-firewalls-worldwide.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Cybersecurity was built for predictable systems. AI changes the rules",
+    "published_wib": "2026-06-18T16:00:00+07:00",
+    "summary": "Every major technology shift changes cybersecurity. I\u2019ve spent much of my career working through major technology transitions, from the rise of the commercial internet to mobile and cloud computing. Each shift created new opportunities for innovation, but it also created new security problems organizations weren\u2019t fully prepared for. AI may resemble previou\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186374/cybersecurity-was-built-for-predictable-systems-ai-changes-the-rules.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] VU#380058: SignalRGB kernel driver contains improper access control and IOCTL vulnerabilities",
+    "published_wib": "2026-06-18T04:02:44.088207+07:00",
+    "summary": "Overview The SignalRGB kernel driver, SignalIo.sys , contains two vulnerabilities involving improper access control and unsafe memory handling. The device object is created with an overly permissive Discretionary Access Control List (DACL) that allows user-mode processes to access privileged hardware operations through input/output control (IOCTL) commands.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/380058"
+    ]
+  }
+]
