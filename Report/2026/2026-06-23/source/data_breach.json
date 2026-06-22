@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
+    "published_wib": "2026-06-22T22:53:05+07:00",
+    "summary": "When securing an Amazon Web Services (AWS) environment, teams naturally prioritize inbound controls, firewalls, WAFs, and access policies, because that\u2019s where the most visible threats originate. Outbound traffic, on the other hand, tends to get less attention. It\u2019s often left open by default to avoid breaking application dependencies and because the risk f\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/"
+    ]
+  },
+  {
+    "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
+    "published_wib": "2026-06-22T21:05:15+07:00",
+    "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Prinz Eugen ransomware prioritizes recent files for encryption",
+    "published_wib": "2026-06-20T22:23:46+07:00",
+    "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Klue OAuth breach victim list grows as Icarus hackers claim attack",
+    "published_wib": "2026-06-20T05:31:04+07:00",
+    "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Texas govt data breach exposes over 3 million driver\u2019s licenses",
+    "published_wib": "2026-06-19T23:12:41+07:00",
+    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA warns Fortinet users to secure devices after FortiBleed leak",
+    "published_wib": "2026-06-19T13:47:55+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Gentlemen ransomware uses multiple EDR killers to disable defenses",
+    "published_wib": "2026-06-19T05:31:52+07:00",
+    "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+    "published_wib": "2026-06-19T01:31:36+07:00",
+    "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+    "published_wib": "2026-06-18T21:19:50+07:00",
+    "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+    "published_wib": "2026-06-18T19:54:39+07:00",
+    "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/"
+    ]
+  }
+]

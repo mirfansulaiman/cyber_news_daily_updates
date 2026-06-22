@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- WhatsApp phishing attack uses fake business docs to hack PCs
+- FFmpeg fixes PixelSmash flaw in widely used video decoder
+- FortiBleed campaign used custom FortiGate sniffer to steal credentials
+- VU#936962: Multiple file parsing vulnerabilities in FastStone Image Viewer 8.3.0.0
+- Microsoft fixes AutoGen Studio flaw that enabled code execution
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by WhatsApp phishing attack uses fake business docs to hack PCs. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by FFmpeg fixes PixelSmash flaw in widely used video decoder. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Prevent data exfiltration: AWS egress controls for cloud workloads. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

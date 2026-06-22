@@ -1,0 +1,102 @@
+[
+  {
+    "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+    "published_wib": "2026-06-23T05:42:21+07:00",
+    "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/"
+    ]
+  },
+  {
+    "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+    "published_wib": "2026-06-23T03:01:02+07:00",
+    "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AryStinger botnet infected thousands of D-Link routers worldwide",
+    "published_wib": "2026-06-21T21:14:22+07:00",
+    "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Microsoft links Mastra AI supply chain attack to North Korean hackers",
+    "published_wib": "2026-06-20T21:09:19+07:00",
+    "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Webinar: How attackers bypass MFA and how defenders can respond",
+    "published_wib": "2026-06-19T19:12:20+07:00",
+    "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
+    ]
+  },
+  {
+    "title": "[+48h Old] The Hacker News Recognizes ANY.RUN as the Best Security Investigation Platform 2026",
+    "published_wib": "2026-06-19T16:28:53+07:00",
+    "summary": "ANY.RUN has been recognized as the Best Security Investigation Platform 2026 at the Cybersecurity Stars Awards by The Hacker News. This award reflects our dedication to building solutions that make a real impact on daily security operations. At ANY.RUN, we help SOC and MSSP teams worldwide streamline threat investigation workflows through confident decision\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/best-security-platform/"
+    ]
+  },
+  {
+    "title": "[+48h Old] USB worm spreads crypto-stealing malware via Windows shortcut files",
+    "published_wib": "2026-06-18T23:20:06+07:00",
+    "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+    "published_wib": "2026-06-18T20:25:47+07:00",
+    "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/"
+    ]
+  },
+  {
+    "title": "[+48h Old] ShapedPlugin update flow hacked to infect WordPress sites",
+    "published_wib": "2026-06-18T19:55:36+07:00",
+    "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/"
+    ]
+  },
+  {
+    "title": "[+48h Old] 5 new security operations roles the AI-SOC will create",
+    "published_wib": "2026-06-18T16:01:00+07:00",
+    "summary": "For years we\u2019ve heard the frightening prediction that AI will take jobs away from people. It will and it already is , but that doesn\u2019t mean it won\u2019t also create new jobs and skills demands \u2014 like every other labor trend driven by technology advances. Take security operations for example. Historically, security operations centers (SOCs) were built on a three\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4186569/5-new-security-operations-roles-the-ai-soc-will-create.html"
+    ]
+  }
+]
