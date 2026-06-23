@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+    "published_wib": "2026-06-24T04:48:32+07:00",
+    "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "published_wib": "2026-06-23T21:01:11+07:00",
+    "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/"
+    ]
+  },
+  {
+    "title": "LastPass confirms data breach in Klue supply chain attack",
+    "published_wib": "2026-06-23T20:58:25+07:00",
+    "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] FFmpeg fixes PixelSmash flaw in widely used video decoder",
+    "published_wib": "2026-06-23T04:05:01+07:00",
+    "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/"
+    ]
+  },
+  {
+    "title": "[+24h Old] VU#936962: Multiple file parsing vulnerabilities in FastStone Image Viewer 8.3.0.0",
+    "published_wib": "2026-06-23T01:41:47.640036+07:00",
+    "summary": "Overview Two vulnerabilities have been identified in FastStone Image Viewer 8.3 that may allow remote code execution or control-flow corruption when processing specially crafted image files. The affected components include the JPEG 2000 (JP2) parser and the PSD file parser. An attacker can exploit these vulnerabilities by causing the application to automati\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/936962"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft fixes AutoGen Studio flaw that enabled code execution",
+    "published_wib": "2026-06-23T00:28:57+07:00",
+    "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/"
+    ]
+  },
+  {
+    "title": "[+24h Old] VU#226679: Microsoft WinRE allows for bypass of UEFI/BIOS password enforcement",
+    "published_wib": "2026-06-22T23:16:08.496996+07:00",
+    "summary": "Overview Microsoft Windows Recovery Environment (WinRE) provides a mechanism for recovering and repairing Windows systems using an alternate boot environment. Under certain platform implementations, access to WinRE may allow an attacker to bypass firmware security controls, including administrator-configured UEFI/BIOS passwords. An attacker with physical or\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/226679"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+    "published_wib": "2026-06-20T03:25:02+07:00",
+    "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+    "published_wib": "2026-06-19T17:39:58+07:00",
+    "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
+    ]
+  },
+  {
+    "title": "[+48h Old] VU#457458: Vendor-signed UEFI applications found vulnerable to Secure Boot bypass",
+    "published_wib": "2026-06-19T02:41:08.432282+07:00",
+    "summary": "Overview Multiple vendor-signed UEFI applications are vulnerable to Secure Boot bypass via a \"Bring Your Own Vulnerable Driver\" (BYOVD)-style attack. If a target system trusts the affected vendor\u2019s certificate, an attacker can exploit these applications to execute arbitrary code during the early pre-boot phase before the operating system initializes. To mit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/457458"
+    ]
+  }
+]

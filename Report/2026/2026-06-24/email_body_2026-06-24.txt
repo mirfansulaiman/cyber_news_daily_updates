@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks
+- Tata Electronics confirms cyberattack as hackers leak data
+- Healthtech firm Xolis suffers data breach impacting 1.4 million people
+- New macOS ClickFix attack silently mounts DMGs to push infostealer
+- Scattered Spider members plead guilty to hacking Transport for London
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New macOS ClickFix attack silently mounts DMGs to push infostealer. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Tata Electronics confirms cyberattack as hackers leak data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

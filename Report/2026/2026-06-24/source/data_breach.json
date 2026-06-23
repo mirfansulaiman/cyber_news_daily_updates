@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Tata Electronics confirms cyberattack as hackers leak data",
+    "published_wib": "2026-06-24T04:06:32+07:00",
+    "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/"
+    ]
+  },
+  {
+    "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+    "published_wib": "2026-06-24T02:59:12+07:00",
+    "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/"
+    ]
+  },
+  {
+    "title": "Scattered Spider members plead guilty to hacking Transport for London",
+    "published_wib": "2026-06-23T22:31:59+07:00",
+    "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Prevent data exfiltration: AWS egress controls for cloud workloads",
+    "published_wib": "2026-06-22T22:53:05+07:00",
+    "summary": "When securing an Amazon Web Services (AWS) environment, teams naturally prioritize inbound controls, firewalls, WAFs, and access policies, because that\u2019s where the most visible threats originate. Outbound traffic, on the other hand, tends to get less attention. It\u2019s often left open by default to avoid breaking application dependencies and because the risk f\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/"
+    ]
+  },
+  {
+    "title": "[+24h Old] A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
+    "published_wib": "2026-06-22T21:05:15+07:00",
+    "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Prinz Eugen ransomware prioritizes recent files for encryption",
+    "published_wib": "2026-06-20T22:23:46+07:00",
+    "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Klue OAuth breach victim list grows as Icarus hackers claim attack",
+    "published_wib": "2026-06-20T05:31:04+07:00",
+    "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Texas govt data breach exposes over 3 million driver\u2019s licenses",
+    "published_wib": "2026-06-19T23:12:41+07:00",
+    "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA warns Fortinet users to secure devices after FortiBleed leak",
+    "published_wib": "2026-06-19T13:47:55+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Gentlemen ransomware uses multiple EDR killers to disable defenses",
+    "published_wib": "2026-06-19T05:31:52+07:00",
+    "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
+    ]
+  }
+]
