@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access
+- Malicious Edge extension abuses Native Messaging as bridge to malware
+- Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs
+- CISA warns of max severity Ubiquiti flaws exploited in attacks
+- Amadey, StealC malware operations disrupted in Operation Endgame action
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malicious Edge extension abuses Native Messaging as bridge to malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Amadey, StealC malware operations disrupted in Operation Endgame action. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
