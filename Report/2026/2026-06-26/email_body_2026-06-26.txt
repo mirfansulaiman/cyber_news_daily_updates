@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Poland busts SIM-swapping gang tied to millions in crypto theft
+- Order-tracking app Shop abused to push callback phishing attacks
+- New macOS malware embeds fake errors to confuse AI analysis tools
+- Bluekit phishing kit adopts browser-in-the-middle for login theft
+- The Four Elevations of Effective Fraud Prevention
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Order-tracking app Shop abused to push callback phishing attacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Poland busts SIM-swapping gang tied to millions in crypto theft. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

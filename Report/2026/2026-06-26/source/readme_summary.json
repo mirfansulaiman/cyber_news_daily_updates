@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access and Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Order-tracking app Shop abused to push callback phishing attacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Poland busts SIM-swapping gang tied to millions in crypto theft. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-06-26",
+  "vol": "002"
+}
