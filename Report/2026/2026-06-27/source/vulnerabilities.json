@@ -1,102 +1,102 @@
 [
   {
-    "title": "2 Linux kernel flaw PoCs published, enabling local privilege escalation",
-    "published_wib": "2026-06-27T06:50:45+07:00",
-    "summary": "One of the flaws, DirtyClone, is a variant of the DirtyFrag vulnerability class.",
+    "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+    "published_wib": "2026-06-27T02:43:06+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.scworld.com/news/2-linux-kernel-flaw-pocs-published-enabling-local-privilege-escalation"
+      "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/"
     ]
   },
   {
-    "title": "Hackers exploit critical PTC Windchill PLM software flaw",
-    "published_wib": "2026-06-27T06:32:08+07:00",
-    "summary": "Hackers are exploiting a critical vulnerability recently patched in PTC Windchill and FlexPLM, two product lifecycle management solutions used by organizations across a range of industries, including defense, aerospace, automotive, medical, electronics, industrial machinery, and consumer goods. The vulnerability, tracked as CVE-2026-12569 , is an unsafe des\u2026",
+    "title": "[+48h Old] Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+    "published_wib": "2026-06-25T04:29:10+07:00",
+    "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4190154/hackers-exploit-critical-ptc-windchill-plm-software-flaw.html"
+      "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/"
     ]
   },
   {
-    "title": "NAIC confirms cyberattack after ShinyHunters claims 3.1TB data theft",
-    "published_wib": "2026-06-27T04:58:18+07:00",
-    "summary": "The attack exploited a zero-day vulnerability in Oracle PeopleSoft, an enterprise resource planning software.",
+    "title": "[+48h Old] Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
+    "published_wib": "2026-06-25T03:01:47+07:00",
+    "summary": "Amazon Web Services (AWS) recently announced support for resource-based policies and resource control policies (RCPs) for AWS Sign-In. By using resource-based policies and RCPs, you can restrict access to the AWS Management Console sign-in and aws login CLI sessions to requests from your expected networks, your on-premises data center networks, and your Ama\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.scworld.com/brief/naic-confirms-cyberattack-after-shinyhunters-claims-3-1tb-data-theft"
+      "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/"
     ]
   },
   {
-    "title": "CVE-2026-46604 | x-image-tiff up to 0.42.x on Go TIFF Decoder out-of-bounds",
-    "published_wib": "2026-06-27T04:05:21+07:00",
-    "summary": "A vulnerability was found in x-image-tiff up to 0.42.x on Go and classified as problematic . This affects an unknown part of the component TIFF Decoder . Such manipulation leads to out-of-bounds read. This vulnerability is referenced as CVE-2026-46604\u2026",
+    "title": "[+48h Old] CISA warns of max severity Ubiquiti flaws exploited in attacks",
+    "published_wib": "2026-06-24T21:35:15+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374421"
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/"
     ]
   },
   {
-    "title": "CVE-2026-38641 | HashiCorp Shared Library DSO::mmap_and_copy denial of service",
-    "published_wib": "2026-06-27T04:05:14+07:00",
-    "summary": "A vulnerability has been found in HashiCorp Shared Library and classified as problematic . Affected by this issue is the function DSO::mmap_and_copy . This manipulation causes denial of service. The identification of this vulnerability is CVE-2026-38641\u2026",
+    "title": "[+48h Old] Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+    "published_wib": "2026-06-24T04:48:32+07:00",
+    "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374420"
+      "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
     ]
   },
   {
-    "title": "CVE-2026-38639 | relibc /time/strptime.rs parse_month denial of service",
-    "published_wib": "2026-06-27T04:05:08+07:00",
-    "summary": "A vulnerability, which was classified as problematic , was found in relibc . Affected by this vulnerability is the function parse_month of the file /time/strptime.rs . The manipulation results in denial of service. This vulnerability was named CVE-2026-38639\u2026",
+    "title": "[+48h Old] The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+    "published_wib": "2026-06-23T21:01:11+07:00",
+    "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374419"
+      "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/"
     ]
   },
   {
-    "title": "CVE-2026-46710 | notepad-plus-plus Notepad++ up to 8.9.5 Powershell untrusted search path",
-    "published_wib": "2026-06-27T04:05:03+07:00",
-    "summary": "A vulnerability, which was classified as problematic , has been found in notepad-plus-plus Notepad++ up to 8.9.5 . Affected is an unknown function of the component Powershell Handler . The manipulation leads to untrusted search path. This vulnerability is uniquely identified as CVE-2026-46710\u2026",
+    "title": "[+48h Old] LastPass confirms data breach in Klue supply chain attack",
+    "published_wib": "2026-06-23T20:58:25+07:00",
+    "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374418"
+      "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/"
     ]
   },
   {
-    "title": "CVE-2026-39031 | Lansweeper lsrunase 2.0 weak password hash",
-    "published_wib": "2026-06-27T04:04:55+07:00",
-    "summary": "A vulnerability classified as problematic was found in Lansweeper lsrunase 2.0 . This impacts an unknown function. Executing a manipulation can lead to password hash with insufficient computational effort. This vulnerability is handled as CVE-2026-39031 . The attack can only be done within the local network. There is not any exploit available.",
+    "title": "[+48h Old] FFmpeg fixes PixelSmash flaw in widely used video decoder",
+    "published_wib": "2026-06-23T04:05:01+07:00",
+    "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374417"
+      "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/"
     ]
   },
   {
-    "title": "CVE-2024-23581 | HCL Traveler for Microsoft Outlook up to 3.0.8 unmaintained third party components (KB0131417)",
-    "published_wib": "2026-06-27T04:04:53+07:00",
-    "summary": "A vulnerability classified as problematic has been found in HCL Traveler for Microsoft Outlook up to 3.0.8 . This affects an unknown function. Performing a manipulation results in use of unmaintained third party components. This vulnerability is known as CVE-2024-23581\u2026",
+    "title": "[+48h Old] VU#936962: Multiple file parsing vulnerabilities in FastStone Image Viewer 8.3.0.0",
+    "published_wib": "2026-06-23T01:41:47.640036+07:00",
+    "summary": "Overview Two vulnerabilities have been identified in FastStone Image Viewer 8.3 that may allow remote code execution or control-flow corruption when processing specially crafted image files. The affected components include the JPEG 2000 (JP2) parser and the PSD file parser. An attacker can exploit these vulnerabilities by causing the application to automati\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374416"
+      "https://kb.cert.org/vuls/id/936962"
     ]
   },
   {
-    "title": "CVE-2026-50132 | budibase up to 3.38.x Public Endpoint /api/chat-links access control",
-    "published_wib": "2026-06-27T04:04:50+07:00",
-    "summary": "A vulnerability described as critical has been identified in budibase up to 3.38.x . The impacted element is an unknown function of the file /api/chat-links of the component Public Endpoint . Such manipulation leads to improper access controls. This vulnerability is traded as CVE-2026-50132\u2026",
+    "title": "[+48h Old] Microsoft fixes AutoGen Studio flaw that enabled code execution",
+    "published_wib": "2026-06-23T00:28:57+07:00",
+    "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://vuldb.com/vuln/374415"
+      "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/"
     ]
   }
 ]

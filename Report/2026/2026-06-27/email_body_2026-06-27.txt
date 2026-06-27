@@ -3,16 +3,16 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- 2 Linux kernel flaw PoCs published, enabling local privilege escalation
-- Hackers exploit critical PTC Windchill PLM software flaw
-- 4 arrested in Poland for SIM-swapping and cryptocurrency theft
-- Chinese APT CL-STA-1062 targets Southeast Asia with new TinyRCT backdoor
 - FBI: Russian hackers now target Signal backup recovery keys
+- CISA sets urgent deadline to fix Cisco flaw exploited in attacks
+- Polymarket customers lose $3 million in supply-chain attack
+- Cybersecurity firms targeted by fraudulent OpenAI organization invites
+- [+24h Old] Poland busts SIM-swapping gang tied to millions in crypto theft
 
 Section Summaries:
-- Threat Intelligence: 10 items, led by Chinese APT CL-STA-1062 targets Southeast Asia with new TinyRCT backdoor. with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by 2 Linux kernel flaw PoCs published, enabling local privilege escalation. prioritizing patching and exposure reduction for high-impact issues.
-- Data Breach & Cybercrime: 10 items, led by 4 arrested in Poland for SIM-swapping and cryptocurrency theft. highlighting extortion, leakage, and law-enforcement actions where reported.
+- Threat Intelligence: 10 items, led by FBI: Russian hackers now target Signal backup recovery keys. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA sets urgent deadline to fix Cisco flaw exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Polymarket customers lose $3 million in supply-chain attack. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.
 
