@@ -1,0 +1,102 @@
+[
+  {
+    "title": "2 Linux kernel flaw PoCs published, enabling local privilege escalation",
+    "published_wib": "2026-06-27T06:50:45+07:00",
+    "summary": "One of the flaws, DirtyClone, is a variant of the DirtyFrag vulnerability class.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/2-linux-kernel-flaw-pocs-published-enabling-local-privilege-escalation"
+    ]
+  },
+  {
+    "title": "Hackers exploit critical PTC Windchill PLM software flaw",
+    "published_wib": "2026-06-27T06:32:08+07:00",
+    "summary": "Hackers are exploiting a critical vulnerability recently patched in PTC Windchill and FlexPLM, two product lifecycle management solutions used by organizations across a range of industries, including defense, aerospace, automotive, medical, electronics, industrial machinery, and consumer goods. The vulnerability, tracked as CVE-2026-12569 , is an unsafe des\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4190154/hackers-exploit-critical-ptc-windchill-plm-software-flaw.html"
+    ]
+  },
+  {
+    "title": "NAIC confirms cyberattack after ShinyHunters claims 3.1TB data theft",
+    "published_wib": "2026-06-27T04:58:18+07:00",
+    "summary": "The attack exploited a zero-day vulnerability in Oracle PeopleSoft, an enterprise resource planning software.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/naic-confirms-cyberattack-after-shinyhunters-claims-3-1tb-data-theft"
+    ]
+  },
+  {
+    "title": "CVE-2026-46604 | x-image-tiff up to 0.42.x on Go TIFF Decoder out-of-bounds",
+    "published_wib": "2026-06-27T04:05:21+07:00",
+    "summary": "A vulnerability was found in x-image-tiff up to 0.42.x on Go and classified as problematic . This affects an unknown part of the component TIFF Decoder . Such manipulation leads to out-of-bounds read. This vulnerability is referenced as CVE-2026-46604\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374421"
+    ]
+  },
+  {
+    "title": "CVE-2026-38641 | HashiCorp Shared Library DSO::mmap_and_copy denial of service",
+    "published_wib": "2026-06-27T04:05:14+07:00",
+    "summary": "A vulnerability has been found in HashiCorp Shared Library and classified as problematic . Affected by this issue is the function DSO::mmap_and_copy . This manipulation causes denial of service. The identification of this vulnerability is CVE-2026-38641\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374420"
+    ]
+  },
+  {
+    "title": "CVE-2026-38639 | relibc /time/strptime.rs parse_month denial of service",
+    "published_wib": "2026-06-27T04:05:08+07:00",
+    "summary": "A vulnerability, which was classified as problematic , was found in relibc . Affected by this vulnerability is the function parse_month of the file /time/strptime.rs . The manipulation results in denial of service. This vulnerability was named CVE-2026-38639\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374419"
+    ]
+  },
+  {
+    "title": "CVE-2026-46710 | notepad-plus-plus Notepad++ up to 8.9.5 Powershell untrusted search path",
+    "published_wib": "2026-06-27T04:05:03+07:00",
+    "summary": "A vulnerability, which was classified as problematic , has been found in notepad-plus-plus Notepad++ up to 8.9.5 . Affected is an unknown function of the component Powershell Handler . The manipulation leads to untrusted search path. This vulnerability is uniquely identified as CVE-2026-46710\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374418"
+    ]
+  },
+  {
+    "title": "CVE-2026-39031 | Lansweeper lsrunase 2.0 weak password hash",
+    "published_wib": "2026-06-27T04:04:55+07:00",
+    "summary": "A vulnerability classified as problematic was found in Lansweeper lsrunase 2.0 . This impacts an unknown function. Executing a manipulation can lead to password hash with insufficient computational effort. This vulnerability is handled as CVE-2026-39031 . The attack can only be done within the local network. There is not any exploit available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374417"
+    ]
+  },
+  {
+    "title": "CVE-2024-23581 | HCL Traveler for Microsoft Outlook up to 3.0.8 unmaintained third party components (KB0131417)",
+    "published_wib": "2026-06-27T04:04:53+07:00",
+    "summary": "A vulnerability classified as problematic has been found in HCL Traveler for Microsoft Outlook up to 3.0.8 . This affects an unknown function. Performing a manipulation results in use of unmaintained third party components. This vulnerability is known as CVE-2024-23581\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374416"
+    ]
+  },
+  {
+    "title": "CVE-2026-50132 | budibase up to 3.38.x Public Endpoint /api/chat-links access control",
+    "published_wib": "2026-06-27T04:04:50+07:00",
+    "summary": "A vulnerability described as critical has been identified in budibase up to 3.38.x . The impacted element is an unknown function of the file /api/chat-links of the component Public Endpoint . Such manipulation leads to improper access controls. This vulnerability is traded as CVE-2026-50132\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/374415"
+    ]
+  }
+]

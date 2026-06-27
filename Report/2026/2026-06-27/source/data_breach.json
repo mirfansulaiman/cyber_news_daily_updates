@@ -1,0 +1,102 @@
+[
+  {
+    "title": "4 arrested in Poland for SIM-swapping and cryptocurrency theft",
+    "published_wib": "2026-06-27T05:17:22+07:00",
+    "summary": "The operation, a collaboration between Poland's Cybercrime Bureau (CBZC) and U.S. agencies including the FBI and Homeland Security Investigations, targeted a group accused of breaching telecommunications partners and hijacking email accounts.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/four-arrested-in-poland-for-sim-swapping-and-cryptocurrency-theft"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto VI hype fuels new wave of scams targeting gamers",
+    "published_wib": "2026-06-27T04:53:05+07:00",
+    "summary": "Security firms Malwarebytes and NordVPN have identified a surge of sophisticated fake websites offering \"VIP Early Access\" to Grand Theft Auto VI.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/grand-theft-auto-vi-hype-fuels-new-wave-of-scams-targeting-gamers"
+    ]
+  },
+  {
+    "title": "Scammers abuse Shopify's Shop app with fake receipts",
+    "published_wib": "2026-06-27T04:46:50+07:00",
+    "summary": "Scammers are impersonating well-known brands like Norton, McAfee, Apple, and PayPal by adding fake orders to the Shop app, which is popular in North America with over 50 million downloads on Google Play.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/scammers-abuse-shopifys-shop-app-with-fake-receipts"
+    ]
+  },
+  {
+    "title": "Polymarket customers lose $3 million in supply-chain attack",
+    "published_wib": "2026-06-27T01:04:12+07:00",
+    "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+    "published_wib": "2026-06-27T00:49:07+07:00",
+    "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/"
+    ]
+  },
+  {
+    "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+    "published_wib": "2026-06-26T21:30:00+07:00",
+    "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist\u2019s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/"
+    ]
+  },
+  {
+    "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+    "published_wib": "2026-06-26T16:47:35+07:00",
+    "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/"
+    ]
+  },
+  {
+    "title": "CMC Releases Analysis and Guidance for Education Sector After Canvas Data Breach",
+    "published_wib": "2026-06-26T15:00:00+07:00",
+    "summary": "The UK Cyber Monitoring Centre reviews the Canvas breach affecting 160 UK universities, highlighting data theft risks and financial impacts of cyber incidents",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cmc-analysis-education-canvas-data/"
+    ]
+  },
+  {
+    "title": "SIM-swapping gang busted in international police operation",
+    "published_wib": "2026-06-26T14:59:30+07:00",
+    "summary": "Officers from Poland\u2019s Central Bureau for Combating Cybercrime (CBZC) arrested four suspected members of an organized cybercrime group accused of SIM swap attacks, cryptocurrency theft, and money laundering. The operation involved agents from the U.S. Federal Bureau of Investigation (FBI) and Homeland Security Investigations (HSI). The investigation is bein\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/26/poland-sim-swap-gang-arrests-cryptocurrency-theft/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Poland busts SIM-swapping gang tied to millions in crypto theft",
+    "published_wib": "2026-06-26T05:37:42+07:00",
+    "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/"
+    ]
+  }
+]
