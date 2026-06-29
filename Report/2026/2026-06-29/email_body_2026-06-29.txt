@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Data breach exposes up to 14.2 million email logins at six ISPs
+- Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited
+- [+24h Old] Clean GitHub repo tricks AI coding agents into running malware
+- [+24h Old] Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk
+- [+48h Old] FBI: Russian hackers now target Signal backup recovery keys
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Week in review: Fortibleed campaign’s impact on orgs, Cisco Unified CM flaw exploited. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA sets urgent deadline to fix Cisco flaw exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Data breach exposes up to 14.2 million email logins at six ISPs. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
