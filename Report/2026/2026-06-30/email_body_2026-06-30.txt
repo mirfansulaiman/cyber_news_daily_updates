@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- 'Djinn' Stealer Targets Cloud, AI Credentials
+- Vulnerabilities Expose Private Data in Indian Government Systems
+- Nissan discloses employee data breach linked to Oracle zero-day attacks
+- NAIC says public data stolen in ShinyHunters' PeopleSoft breach
+- Iran, Russia, China Target Water Systems for Sabotage
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by 119 Edge extensions promised useful tools, instead downloaded malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by 'Djinn' Stealer Targets Cloud, AI Credentials. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by NAIC says public data stolen in ShinyHunters' PeopleSoft breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

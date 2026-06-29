@@ -1,0 +1,102 @@
+[
+  {
+    "title": "119 Edge extensions promised useful tools, instead downloaded malware",
+    "published_wib": "2026-06-29T21:41:18+07:00",
+    "summary": "Microsoft has removed over 100 Edge extensions that were delivering malware hidden in images.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware"
+    ]
+  },
+  {
+    "title": "Telegram-Based Millenium RAT Campaign Infects 60,000 Devices",
+    "published_wib": "2026-06-29T21:30:00+07:00",
+    "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/"
+    ]
+  },
+  {
+    "title": "Webinar: Why business email compromise attacks keep succeeding",
+    "published_wib": "2026-06-29T19:14:22+07:00",
+    "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/"
+    ]
+  },
+  {
+    "title": "FBI Sounds Alarm Over Russian Intelligence Signal Phishing",
+    "published_wib": "2026-06-29T15:15:00+07:00",
+    "summary": "The FBI claims Russian spies are targeting Signal backup keys",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fbi-alarm-russian-intelligence/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: Fortibleed campaign\u2019s impact on orgs, Cisco Unified CM flaw exploited",
+    "published_wib": "2026-06-28T15:00:44+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Internet. DNS over TLS, HTTPS, and QUIC keep the contents of a query away from anyone watching a network link. The encryption covers the message inside each packet. Th\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Clean GitHub repo tricks AI coding agents into running malware",
+    "published_wib": "2026-06-27T21:22:36+07:00",
+    "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/"
+    ]
+  },
+  {
+    "title": "[+48h Old] FBI: Russian hackers now target Signal backup recovery keys",
+    "published_wib": "2026-06-27T05:06:17+07:00",
+    "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Order-tracking app Shop abused to push callback phishing attacks",
+    "published_wib": "2026-06-26T02:45:48+07:00",
+    "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] New macOS malware embeds fake errors to confuse AI analysis tools",
+    "published_wib": "2026-06-25T23:23:19+07:00",
+    "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Bluekit phishing kit adopts browser-in-the-middle for login theft",
+    "published_wib": "2026-06-25T22:00:00+07:00",
+    "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/"
+    ]
+  }
+]

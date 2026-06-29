@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+    "published_wib": "2026-06-30T04:29:15+07:00",
+    "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials"
+    ]
+  },
+  {
+    "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+    "published_wib": "2026-06-30T04:05:29+07:00",
+    "summary": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems"
+    ]
+  },
+  {
+    "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+    "published_wib": "2026-06-30T03:40:44+07:00",
+    "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+    "published_wib": "2026-06-30T00:11:15+07:00",
+    "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/"
+    ]
+  },
+  {
+    "title": "JSP webshells being dropped on unpatched PTC Windchill instances",
+    "published_wib": "2026-06-29T23:18:49+07:00",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) added a vulnerability (CVE-2026-12569) in Windchill and FlexPLM, two product lifecycle management software platforms developed by PTC, to its Known Exploited Vulnerabilities (KEV) catalog. Entries in the KEV catalog don\u2019t contain links to reports of exploitation, but PTC\u2019s advisory keeps getting\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/29/ptc-windchill-cve-2026-12569-exploited/"
+    ]
+  },
+  {
+    "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+    "published_wib": "2026-06-29T23:10:20+07:00",
+    "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/"
+    ]
+  },
+  {
+    "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+    "published_wib": "2026-06-29T21:00:00+07:00",
+    "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/"
+    ]
+  },
+  {
+    "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+    "published_wib": "2026-06-29T20:46:17+07:00",
+    "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+    "published_wib": "2026-06-29T18:44:42+07:00",
+    "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft"
+    ]
+  },
+  {
+    "title": "Mozilla warns of indirect prompt injection risk in AI coding agents",
+    "published_wib": "2026-06-29T17:48:12+07:00",
+    "summary": "A malicious GitHub repository can silently compromise a developer\u2019s machine without containing a single line of malicious code, security researchers at Mozilla\u2019s Zero Day Investigative Network (0DIN) warned. The attack The proof-of-concept attack targets AI-powered coding agents such as Claude Code, and uses indirect prompt injection to manipulate an AI age\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/29/mozilla-warns-of-indirect-prompt-injection-risk-in-ai-coding-agents/"
+    ]
+  }
+]

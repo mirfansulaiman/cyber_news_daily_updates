@@ -1,0 +1,102 @@
+[
+  {
+    "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+    "published_wib": "2026-06-30T03:30:28+07:00",
+    "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/"
+    ]
+  },
+  {
+    "title": "Iran, Russia, China Target Water Systems for Sabotage",
+    "published_wib": "2026-06-30T02:12:08+07:00",
+    "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation \u2014 not sophisticated malware.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage"
+    ]
+  },
+  {
+    "title": "29th June \u2013 Threat Intelligence Report",
+    "published_wib": "2026-06-29T21:06:59+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 29th June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Polymarket, a large cryptocurrency-based prediction market, has confirmed a supply chain attack after a third-party frontend vendor breach led to malicious JavaScript being injected into its website. Attackers tr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/"
+    ]
+  },
+  {
+    "title": "PrivacyHawk Enterprise helps organizations find shadow IT and minimize third-party cyber risk",
+    "published_wib": "2026-06-29T20:16:30+07:00",
+    "summary": "PrivacyHawk has announced the general availability of PrivacyHawk Enterprise, a solution that identifies and eliminates the shadow IT accounts, abandoned SaaS subscriptions, and forgotten third-party services quietly exposing organizations to breach risk. Every organization has an invisible attack surface. Shadow AI tools. Free trials nobody cancelled. Thir\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/29/privacyhawk-enterprise/"
+    ]
+  },
+  {
+    "title": "Russian Hackers Accused of Destructive Cyber-Attack on Jaguar Land Rover",
+    "published_wib": "2026-06-29T16:15:00+07:00",
+    "summary": "Experts warn the Jaguar Land Rover breach bears hallmarks of Kremlin-backed hackers, citing novel ransomware, strategic timing and efforts to obscure attribution",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/"
+    ]
+  },
+  {
+    "title": "Sycophantic chatbots and the harms that build over many chats",
+    "published_wib": "2026-06-29T12:00:46+07:00",
+    "summary": "People use AI chatbots for company, advice, and emotional support, and these systems answer in ways meant to hold their attention. Researchers describe the resulting risks as affective safety, a class of harm that exists because humans are emotional beings and because the systems engage directly with that emotional life. The damage happens during ordinary u\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/29/sycophantic-chatbots-affective-ai-safety/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Data breach exposes up to 14.2 million email logins at six ISPs",
+    "published_wib": "2026-06-28T21:13:46+07:00",
+    "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
+    "published_wib": "2026-06-27T18:48:05+07:00",
+    "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk"
+    ]
+  },
+  {
+    "title": "[+48h Old] Polymarket customers lose $3 million in supply-chain attack",
+    "published_wib": "2026-06-27T01:04:12+07:00",
+    "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+    "published_wib": "2026-06-27T00:49:07+07:00",
+    "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/"
+    ]
+  }
+]
