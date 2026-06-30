@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Watch out for \u201chigh paying, low effort\u201d Amazon job texts",
+    "published_wib": "2026-07-01T03:46:28+07:00",
+    "summary": "Scammers are using Amazon and the promise of big money to lure people in to their trap.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/06/watch-out-for-high-paying-low-effort-amazon-job-texts"
+    ]
+  },
+  {
+    "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
+    "published_wib": "2026-06-30T23:00:00+07:00",
+    "summary": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/"
+    ]
+  },
+  {
+    "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+    "published_wib": "2026-06-30T21:00:10+07:00",
+    "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/"
+    ]
+  },
+  {
+    "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+    "published_wib": "2026-06-30T18:12:18+07:00",
+    "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/"
+    ]
+  },
+  {
+    "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+    "published_wib": "2026-06-30T16:41:05+07:00",
+    "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/"
+    ]
+  },
+  {
+    "title": "Over 300 UK Firms Hit by Ransomware in a Year",
+    "published_wib": "2026-06-30T15:00:00+07:00",
+    "summary": "Report Fraud data reveals that more than half of 323 UK ransomware victims last year were SMEs",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+    "published_wib": "2026-06-30T03:30:28+07:00",
+    "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Iran, Russia, China Target Water Systems for Sabotage",
+    "published_wib": "2026-06-30T02:12:08+07:00",
+    "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation \u2014 not sophisticated malware.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage"
+    ]
+  },
+  {
+    "title": "[+24h Old] 29th June \u2013 Threat Intelligence Report",
+    "published_wib": "2026-06-29T21:06:59+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 29th June, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Polymarket, a large cryptocurrency-based prediction market, has confirmed a supply chain attack after a third-party frontend vendor breach led to malicious JavaScript being injected into its website. Attackers tr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Russian Hackers Accused of Destructive Cyber-Attack on Jaguar Land Rover",
+    "published_wib": "2026-06-29T16:15:00+07:00",
+    "summary": "Experts warn the Jaguar Land Rover breach bears hallmarks of Kremlin-backed hackers, citing novel ransomware, strategic timing and efforts to obscure attribution",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/"
+    ]
+  }
+]

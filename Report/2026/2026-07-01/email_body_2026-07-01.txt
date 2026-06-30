@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Fake Bug Report Hijacks AI Coding Agents at Scale
+- Malicious PyPI packages give hackers control of Telegram bot servers
+- Watch out for “high paying, low effort” Amazon job texts
+- Phishers Gain Persistence at EU, Asia Hospitality Orgs
+- Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malicious PyPI packages give hackers control of Telegram bot servers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Fake Bug Report Hijacks AI Coding Agents at Scale. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Watch out for “high paying, low effort” Amazon job texts. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

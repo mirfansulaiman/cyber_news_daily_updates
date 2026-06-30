@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+    "published_wib": "2026-07-01T04:02:55+07:00",
+    "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/"
+    ]
+  },
+  {
+    "title": "Phishers Gain Persistence at EU, Asia Hospitality Orgs",
+    "published_wib": "2026-07-01T01:59:46+07:00",
+    "summary": "Separate but similar campaigns described by Microsoft and Trend Micro use malicious zip files to spread malware via social engineering and obsfucation, including blockchain abuse.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs"
+    ]
+  },
+  {
+    "title": "Aikido Security acquires Root to expand backported fixes for open source vulnerabilities",
+    "published_wib": "2026-06-30T21:00:13+07:00",
+    "summary": "Aikido Security has acquired Root, uniting behind a shared mission to make it easy for developers and agents to build with secure open source and tackle the growing threat of supply chain attacks. Open source is the foundation of almost every application in the world, and it has become the primary entry point for attackers. Organizations face two converging\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/30/aikido-security-root-acquisition/"
+    ]
+  },
+  {
+    "title": "ClickFix Now Cybercriminals' Favorite Malware Delivery Technique",
+    "published_wib": "2026-06-30T19:00:00+07:00",
+    "summary": "ReliaQuest report warns of a surge in ClickFix social engineering attacks against Windows and macOS users",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/"
+    ]
+  },
+  {
+    "title": "Hackers Leverage Blockchain to Hit Japan's Hotels Through Booking.com Phishing",
+    "published_wib": "2026-06-30T17:30:00+07:00",
+    "summary": "A wave of phishing emails sent to Booking.com partner accommodations in Japan in May led to blockchain-hosted malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hackers-blockchain-japan-hotels/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 119 Edge extensions promised useful tools, instead downloaded malware",
+    "published_wib": "2026-06-29T21:41:18+07:00",
+    "summary": "Microsoft has removed over 100 Edge extensions that were delivering malware hidden in images.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/06/119-edge-extensions-promised-useful-tools-instead-downloaded-malware"
+    ]
+  },
+  {
+    "title": "[+24h Old] Telegram-Based Millenium RAT Campaign Infects 60,000 Devices",
+    "published_wib": "2026-06-29T21:30:00+07:00",
+    "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI Sounds Alarm Over Russian Intelligence Signal Phishing",
+    "published_wib": "2026-06-29T15:15:00+07:00",
+    "summary": "The FBI claims Russian spies are targeting Signal backup keys",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fbi-alarm-russian-intelligence/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Webinar: Why business email compromise attacks keep succeeding",
+    "published_wib": "2026-06-29T19:14:22+07:00",
+    "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Week in review: Fortibleed campaign\u2019s impact on orgs, Cisco Unified CM flaw exploited",
+    "published_wib": "2026-06-28T15:00:44+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Encrypted DNS still tells an eavesdropper where to look Encrypted DNS runs across much of the Internet. DNS over TLS, HTTPS, and QUIC keep the contents of a query away from anyone watching a network link. The encryption covers the message inside each packet. Th\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/28/week-in-review-fortibleed-campaigns-impact-on-orgs-cisco-unified-cm-flaw-exploited/"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Fake Bug Report Hijacks AI Coding Agents at Scale and Fake Perplexity extension on Chrome Web Store tracked searches. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Malicious PyPI packages give hackers control of Telegram bot servers. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-01",
+  "vol": "003"
+}

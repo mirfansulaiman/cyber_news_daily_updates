@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
+    "published_wib": "2026-07-01T04:37:50+07:00",
+    "summary": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents"
+    ]
+  },
+  {
+    "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+    "published_wib": "2026-06-30T22:46:19+07:00",
+    "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/"
+    ]
+  },
+  {
+    "title": "Critical SimpleHelp Vulnerability Exploited For Malware Delivery",
+    "published_wib": "2026-06-30T22:34:00+07:00",
+    "summary": "Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/"
+    ]
+  },
+  {
+    "title": "Update time: Apple releases security patches for iOS, MacOS Tahoe, Safari",
+    "published_wib": "2026-06-30T21:35:45+07:00",
+    "summary": "A new Apple update fixes a multitude of browser and browser related vulnerabilities which have been public knowledge for a while",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/06/update-time-apple-releases-security-patches-for-ios-macos-tahoe-safari"
+    ]
+  },
+  {
+    "title": "Oracle E-Business Suite Payments flaw under attack (CVE-2026-46817)",
+    "published_wib": "2026-06-30T20:58:11+07:00",
+    "summary": "Exploitation attempts targeting a critical vulnerability (CVE-2026-46817) in Oracle Payments, the payment-processing module within Oracle\u2019s E-Business Suite (EBS), have been spotted over the weekend, threat intelligence company Defused warned on Monday. The detected exploitation attempts (Source: Defused) \u201cOn 27 June 2026 our Oracle E-Business Suite decoys\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/30/oracle-payments-cve-2026-46817-exploitation/"
+    ]
+  },
+  {
+    "title": "Jamf enables AI Governance and shadow AI detection on Mac",
+    "published_wib": "2026-06-30T20:48:38+07:00",
+    "summary": "Jamf has announced general availability of AI Governance, a new capability within Jamf for Mac that enables IT and security teams to discover actively-used AI tools, enforce policy controls, and generate audit-ready reporting. Many organizations struggle to confidently audit and report on AI tool usage across their device fleet, including both sanctioned ap\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/30/jamf-enables-ai-governance-and-shadow-ai-detection-on-mac/"
+    ]
+  },
+  {
+    "title": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches",
+    "published_wib": "2026-06-30T18:40:56+07:00",
+    "summary": "Google has removed a malicious browser extension masquerading as Perplexity AI after Microsoft researchers found it was intercepting users\u2019 search traffic and routing queries through attacker-controlled servers before forwarding them to legitimate search engines. Microsoft Threat Intelligence said the extension masqueraded as the AI-powered answer engine to\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4191060/malicious-chromium-extension-spoofs-perplexity-ai-to-hijack-browser-searches.html"
+    ]
+  },
+  {
+    "title": "SimpleHelp vulnerability exploited to deliver mighty Djinn Stealer (CVE-2026-48558)",
+    "published_wib": "2026-06-30T17:25:18+07:00",
+    "summary": "Attackers are exploiting CVE-2026-48558, a recently patched authentication bypass vulnerability in SimpleHelp RMM, to drop the novel Djinn Stealer malware on victim computers. The malware is capable of targeting Windows, macOS, and Linux systems, and \u201ccollects credentials associated with cloud platforms, source control, package registries, infrastructure to\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/30/simplehelp-vulnerability-exploited-cve-2026-48558/"
+    ]
+  },
+  {
+    "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+    "published_wib": "2026-06-30T15:53:13+07:00",
+    "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/"
+    ]
+  },
+  {
+    "title": "OpenClaw for iOS: The viral open-source AI agent comes to iPhone and iPad",
+    "published_wib": "2026-06-30T14:45:01+07:00",
+    "summary": "OpenClaw, a self-hosted personal AI assistant that connects to existing chat apps, is now available on iPhone, iPad and Apple Watch. The release brings chat, real-time voice conversations, approvals, device capabilities, and private automations to iOS. Connecting OpenClaw to iPhone The app pairs with an OpenClaw Gateway, enabling users to communicate with t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/06/30/openclaw-ios-app-iphone-ipad/"
+    ]
+  }
+]
