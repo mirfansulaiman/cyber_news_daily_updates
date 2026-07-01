@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Webinar: Why traditional email security is no longer enough and Over 900 Oracle E-Business instances exposed to ongoing attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "FortiBleed credential-theft campaign linked to Lynx ransomware. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-02",
+  "vol": "003"
+}

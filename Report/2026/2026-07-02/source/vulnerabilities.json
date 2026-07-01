@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Webinar: Why traditional email security is no longer enough",
+    "published_wib": "2026-07-01T23:54:22+07:00",
+    "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/"
+    ]
+  },
+  {
+    "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+    "published_wib": "2026-07-01T19:30:01+07:00",
+    "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/"
+    ]
+  },
+  {
+    "title": "CISA Announces New Advisory Council to Strengthen Partnerships and Secure Critical Infrastructure",
+    "published_wib": "2026-07-01T19:00:00+07:00",
+    "summary": "CISA Announces New Advisory Council to Strengthen Partnerships and Secure Critical Infrastructure",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.cisa.gov/news-events/news/cisa-announces-new-advisory-council-strengthen-partnerships-and-secure-critical-infrastructure"
+    ]
+  },
+  {
+    "title": "Netzilo adds runtime governance for AI agents across major platforms",
+    "published_wib": "2026-07-01T18:55:45+07:00",
+    "summary": "Netzilo has announced expanded AI agent governance and runtime enforcement capabilities for Amazon Bedrock AgentCore and other major AI agent harnesses. As enterprises move AI agents from experimentation into production, agents are becoming a new enterprise edge. They operate across cloud platforms, agent runtimes, orchestration frameworks, developer enviro\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/netzilo-adds-runtime-governance-for-ai-agents-across-major-platforms/"
+    ]
+  },
+  {
+    "title": "Intruder offers Free security plan for lean IT and security teams",
+    "published_wib": "2026-07-01T18:28:38+07:00",
+    "summary": "Intruder has announced the launch of its Free plan, providing security, IT, and DevOps teams ongoing access to professional-grade vulnerability management, cloud security, and attack surface management at no cost. Smaller organizations face the same threats as Fortune 500 companies, but without the budgets and headcount to match. Mid-sized businesses appear\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/intruder-offers-free-security-plan-for-lean-it-and-security-teams/"
+    ]
+  },
+  {
+    "title": "Claude Sonnet 5 includes safeguards against dangerous cyber use",
+    "published_wib": "2026-07-01T15:45:33+07:00",
+    "summary": "Anthropic has introduced Claude Sonnet 5, the latest version of its general-purpose AI model, with improved reasoning, coding, tool use, and knowledge work capabilities. The model can make plans, use tools such as browsers and terminals, and complete tasks autonomously. Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/anthropic-claude-sonnet-5/"
+    ]
+  },
+  {
+    "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+    "published_wib": "2026-07-01T14:34:52+07:00",
+    "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/"
+    ]
+  },
+  {
+    "title": "Nika: Open-source code analysis tool",
+    "published_wib": "2026-07-01T13:00:15+07:00",
+    "summary": "Many serious security bugs in web applications sit across several files at once. Request data enters through a controller, moves through data objects and service layers, and turns dangerous only when it reaches a sensitive operation such as a database query or a file action. A scanner that reads one file at a time can miss that path entirely. Nika, an open-\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/nika-open-source-code-analysis-tool/"
+    ]
+  },
+  {
+    "title": "Microsoft wants to stop unwanted bots from entering Teams meetings",
+    "published_wib": "2026-07-01T11:30:31+07:00",
+    "summary": "A new Microsoft Teams admin policy, Manage external bots and their access to meetings, gives organizations greater visibility and control over external bots in meetings. The policy identifies bots and applies safeguards before they are admitted. Microsoft will begin retiring the existing Require verification by participants (CAPTCHA) meeting policy. Admitti\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/microsoft-teams-bot-detection-and-protection/"
+    ]
+  },
+  {
+    "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+    "published_wib": "2026-07-01T08:00:11+07:00",
+    "summary": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/"
+    ]
+  }
+]

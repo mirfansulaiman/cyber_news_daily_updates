@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- FortiBleed credential-theft campaign linked to Lynx ransomware
+- Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS
+- New ChocoPoC malware targets researchers via trojanized PoC exploits
+- And the Winner in Dominant Malware Delivery? ClickFix
+- DHS confirms hackers breached HSIN info-sharing platform
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Webinar: Why traditional email security is no longer enough. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FortiBleed credential-theft campaign linked to Lynx ransomware. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
