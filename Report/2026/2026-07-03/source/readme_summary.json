@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat and Cisco finally confirms attackers exploiting Unified CM flaw. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New ChocoPoC malware targets researchers via trojanized PoC exploits. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Medtronic notifies customers impacted by ShinyHunters data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-03",
+  "vol": "003"
+}

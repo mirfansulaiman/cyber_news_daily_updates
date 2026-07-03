@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] New ChocoPoC malware targets researchers via trojanized PoC exploits",
+    "published_wib": "2026-07-02T03:08:13+07:00",
+    "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates",
+    "published_wib": "2026-07-01T18:31:25+07:00",
+    "summary": "Phishing pages don\u2019t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load \u2014 and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interactive Sandbox and extended its automation reach with [\u2026] The\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/release-notes-june-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
+    "published_wib": "2026-07-02T03:31:21+07:00",
+    "summary": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os"
+    ]
+  },
+  {
+    "title": "[+24h Old] And the Winner in Dominant Malware Delivery? ClickFix",
+    "published_wib": "2026-07-02T02:46:34+07:00",
+    "summary": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks \u2014 it's now the rule.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers target Microsoft 365 accounts with 81 million login attempts",
+    "published_wib": "2026-07-01T23:38:01+07:00",
+    "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
+    "published_wib": "2026-07-01T22:17:14+07:00",
+    "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
+    "published_wib": "2026-07-01T21:30:00+07:00",
+    "summary": "Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+    "published_wib": "2026-07-01T21:01:11+07:00",
+    "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
+    "published_wib": "2026-07-01T20:45:00+07:00",
+    "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/"
+    ]
+  },
+  {
+    "title": "[+24h Old] BioShocking: when \u201cgaming\u201d AI agents is no longer a game",
+    "published_wib": "2026-07-01T19:50:59+07:00",
+    "summary": "Researchers warned AI vendors about a proof-of-concept called BioShiocking that tricks agents by gamifying the outcome.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/07/bioshocking-when-gaming-ai-agents-is-no-longer-a-game"
+    ]
+  }
+]
