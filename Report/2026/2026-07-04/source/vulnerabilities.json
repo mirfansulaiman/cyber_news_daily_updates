@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat",
+    "published_wib": "2026-07-02T21:34:36.661652+07:00",
+    "summary": "Overview The GamersFirst Anti-Cheat (GFAC) driver GFAC.sys contains multiple local privilege escalations and denial-of-service vulnerabilities stemming from insecure handling of user-controlled input through a minifilter communication port. A local attacker can abuse these flaws to perform arbitrary kernel memory writes, obtain privilege escalation to SYSTE\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/639124"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cisco finally confirms attackers exploiting Unified CM flaw",
+    "published_wib": "2026-07-02T18:35:25+07:00",
+    "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CISA: Microsoft SharePoint RCE flaw now actively exploited",
+    "published_wib": "2026-07-02T17:52:43+07:00",
+    "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Webinar: Why traditional email security is no longer enough",
+    "published_wib": "2026-07-01T23:54:22+07:00",
+    "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Over 900 Oracle E-Business instances exposed to ongoing attacks",
+    "published_wib": "2026-07-01T19:30:01+07:00",
+    "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA Announces New Advisory Council to Strengthen Partnerships and Secure Critical Infrastructure",
+    "published_wib": "2026-07-01T19:00:00+07:00",
+    "summary": "CISA Announces New Advisory Council to Strengthen Partnerships and Secure Critical Infrastructure",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.cisa.gov/news-events/news/cisa-announces-new-advisory-council-strengthen-partnerships-and-secure-critical-infrastructure"
+    ]
+  },
+  {
+    "title": "[+48h Old] Netzilo adds runtime governance for AI agents across major platforms",
+    "published_wib": "2026-07-01T18:55:45+07:00",
+    "summary": "Netzilo has announced expanded AI agent governance and runtime enforcement capabilities for Amazon Bedrock AgentCore and other major AI agent harnesses. As enterprises move AI agents from experimentation into production, agents are becoming a new enterprise edge. They operate across cloud platforms, agent runtimes, orchestration frameworks, developer enviro\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/netzilo-adds-runtime-governance-for-ai-agents-across-major-platforms/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Intruder offers Free security plan for lean IT and security teams",
+    "published_wib": "2026-07-01T18:28:38+07:00",
+    "summary": "Intruder has announced the launch of its Free plan, providing security, IT, and DevOps teams ongoing access to professional-grade vulnerability management, cloud security, and attack surface management at no cost. Smaller organizations face the same threats as Fortune 500 companies, but without the budgets and headcount to match. Mid-sized businesses appear\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/intruder-offers-free-security-plan-for-lean-it-and-security-teams/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Claude Sonnet 5 includes safeguards against dangerous cyber use",
+    "published_wib": "2026-07-01T15:45:33+07:00",
+    "summary": "Anthropic has introduced Claude Sonnet 5, the latest version of its general-purpose AI model, with improved reasoning, coding, tool use, and knowledge work capabilities. The model can make plans, use tools such as browsers and terminals, and complete tasks autonomously. Scores for Sonnet 5 on a variety of evaluations compared to those of Sonnet 4.6 and Opus\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/01/anthropic-claude-sonnet-5/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Adobe patches seven max severity ColdFusion, Campaign flaws",
+    "published_wib": "2026-07-01T14:34:52+07:00",
+    "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/"
+    ]
+  }
+]

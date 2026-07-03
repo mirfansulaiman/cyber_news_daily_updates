@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
+- [+24h Old] VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat
+- [+24h Old] Cisco finally confirms attackers exploiting Unified CM flaw
+- [+24h Old] CISA: Microsoft SharePoint RCE flaw now actively exploited
+- [+24h Old] Medtronic notifies customers impacted by ShinyHunters data breach
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Medtronic notifies customers impacted by ShinyHunters data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
