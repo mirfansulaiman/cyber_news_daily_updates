@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CVE-2026-12746 | Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 OAuth 2.0 Flow authentication_url/callback state cross-site request forgery
+- CVE-2026-12740 | Plack::Middleware::OAuth up to 0.10 OAuth 2.0 State RequestTokenV2/AccessTokenV2 state cross-site request forgery
+- CVE-2026-14764 | code-projects Hotel and Tourism Reservation 1.0 Event Management Page /admin/add_event.php fdetails sql injection
+- CVE-2026-14763 | code-projects Hotel and Tourism Reservation 1.0 Tour Reservations Page /admin/tour_reserves.php tour sql injection
+- CVE-2026-14762 | code-projects Hotel and Tourism Reservation 1.0 Room Management Page /admin/rooms.php delete sql injection
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CVE-2026-12746 | Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 OAuth 2.0 Flow authentication_url/callback state cross-site request forgery. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by JadePuffer ransomware used AI agent to automate entire attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

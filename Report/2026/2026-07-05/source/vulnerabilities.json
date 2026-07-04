@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CVE-2026-12746 | Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 OAuth 2.0 Flow authentication_url/callback state cross-site request forgery",
+    "published_wib": "2026-07-05T03:11:23+07:00",
+    "summary": "A vulnerability was found in Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 . It has been declared as problematic . Affected by this vulnerability is the function authentication_url/callback of the component OAuth 2.0 Flow Handler\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376355"
+    ]
+  },
+  {
+    "title": "CVE-2026-12740 | Plack::Middleware::OAuth up to 0.10 OAuth 2.0 State RequestTokenV2/AccessTokenV2 state cross-site request forgery",
+    "published_wib": "2026-07-05T02:00:37+07:00",
+    "summary": "A vulnerability was found in Plack::Middleware::OAuth up to 0.10 . It has been classified as problematic . Affected is the function RequestTokenV2/AccessTokenV2 of the component OAuth 2.0 State Handler . Performing a manipulation of the argument state results in cross-site request forgery. This vulnerability was named CVE-2026-12740\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376354"
+    ]
+  },
+  {
+    "title": "CVE-2026-14764 | code-projects Hotel and Tourism Reservation 1.0 Event Management Page /admin/add_event.php fdetails sql injection",
+    "published_wib": "2026-07-04T23:33:27+07:00",
+    "summary": "A vulnerability was found in code-projects Hotel and Tourism Reservation 1.0 and classified as critical . This impacts an unknown function of the file /admin/add_event.php of the component Event Management Page . Such manipulation of the argument fdetails leads to sql injection. This vulnerability is uniquely identified as CVE-2026-14764\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376353"
+    ]
+  },
+  {
+    "title": "CVE-2026-14763 | code-projects Hotel and Tourism Reservation 1.0 Tour Reservations Page /admin/tour_reserves.php tour sql injection",
+    "published_wib": "2026-07-04T23:33:24+07:00",
+    "summary": "A vulnerability has been found in code-projects Hotel and Tourism Reservation 1.0 and classified as critical . This affects an unknown function of the file /admin/tour_reserves.php of the component Tour Reservations Page . This manipulation of the argument tour causes sql injection. This vulnerability is handled as CVE-2026-14763\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376352"
+    ]
+  },
+  {
+    "title": "CVE-2026-14762 | code-projects Hotel and Tourism Reservation 1.0 Room Management Page /admin/rooms.php delete sql injection",
+    "published_wib": "2026-07-04T23:33:22+07:00",
+    "summary": "A vulnerability, which was classified as critical , was found in code-projects Hotel and Tourism Reservation 1.0 . The impacted element is an unknown function of the file /admin/rooms.php of the component Room Management Page . The manipulation of the argument delete results in sql injection. This vulnerability is known as CVE-2026-14762\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376351"
+    ]
+  },
+  {
+    "title": "CVE-2026-14761 | radareorg radare2 up to 6.1.6 libr/util/str.c r_str_ndup/r_str_append integer overflow (Issue 26045)",
+    "published_wib": "2026-07-04T23:24:55+07:00",
+    "summary": "A vulnerability, which was classified as problematic , has been found in radareorg radare2 up to 6.1.6 . The affected element is the function r_str_ndup/r_str_append of the file libr/util/str.c . The manipulation leads to integer overflow. This vulnerability is traded as CVE-2026-14761\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376350"
+    ]
+  },
+  {
+    "title": "CVE-2026-14760 | radareorg radare2 up to 6.1.6 regprofile libr/core/disasm.c r_core_seek_arch_bits use after free (Issue 26044)",
+    "published_wib": "2026-07-04T23:24:53+07:00",
+    "summary": "A vulnerability classified as problematic was found in radareorg radare2 up to 6.1.6 . Impacted is the function r_core_seek_arch_bits of the file libr/core/disasm.c of the component regprofile Handler . Executing a manipulation can lead to use after free. This vulnerability appears as CVE-2026-14760\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376349"
+    ]
+  },
+  {
+    "title": "CVE-2026-14759 | radareorg radare2 up to 6.1.6 RBinJava Line Number Table Parser shlr/java/class.c r_bin_java_inner_classes_attr_calc_size heap-based overflow (Issue 26043)",
+    "published_wib": "2026-07-04T23:24:49+07:00",
+    "summary": "A vulnerability classified as problematic has been found in radareorg radare2 up to 6.1.6 . This issue affects the function r_bin_java_inner_classes_attr_calc_size of the file shlr/java/class.c of the component RBinJava Line Number Table Parser\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376348"
+    ]
+  },
+  {
+    "title": "CVE-2026-14758 | radareorg radare2 up to 6.1.6 hexpairs Parser libr/core/cmd_anal.inc.c cmd_anal_opcode integer overflow (Issue 26042)",
+    "published_wib": "2026-07-04T23:24:47+07:00",
+    "summary": "A vulnerability described as problematic has been identified in radareorg radare2 up to 6.1.6 . This vulnerability affects the function cmd_anal_opcode of the file libr/core/cmd_anal.inc.c of the component hexpairs Parser . Such manipulation leads to integer overflow. This vulnerability is documented as CVE-2026-14758\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376347"
+    ]
+  },
+  {
+    "title": "CVE-2026-14757 | radareorg radare2 up to 6.1.6 libr/core/cmd_anal.inc core_anal_bytes integer overflow (Issue 26041)",
+    "published_wib": "2026-07-04T23:24:43+07:00",
+    "summary": "A vulnerability marked as critical has been reported in radareorg radare2 up to 6.1.6 . This affects the function core_anal_bytes of the file libr/core/cmd_anal.inc . This manipulation causes integer overflow. This vulnerability is registered as CVE-2026-14757\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://vuldb.com/vuln/376346"
+    ]
+  }
+]
