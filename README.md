@@ -8,11 +8,11 @@ This repository stores **daily cybersecurity newsletters**.
 <!-- DAILY_UPDATES_START -->
 ## Today Updates: [Vol. 003 | 2026-07-04 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: Microsoft 365 users fall victim to one-in-a-million password spray attack and Adobe premieres a second Patch Tuesday each month to deliver fixes faster. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices and New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: New Avalon Malware Framework Packs CrownX Ransomware Capabilities. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: The Good, the Bad and the Ugly in Cybersecurity – Week 27. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
 ![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-04/poster_2026-07-04_issue-003.jpg)
 
