@@ -3,16 +3,16 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
+- Microsoft 365 users fall victim to one-in-a-million password spray attack
 - ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
-- [+24h Old] VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat
-- [+24h Old] Cisco finally confirms attackers exploiting Unified CM flaw
-- [+24h Old] CISA: Microsoft SharePoint RCE flaw now actively exploited
-- [+24h Old] Medtronic notifies customers impacted by ShinyHunters data breach
+- Adobe premieres a second Patch Tuesday each month to deliver fixes faster
+- Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts
+- Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation
 
 Section Summaries:
 - Threat Intelligence: 10 items, led by ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat. prioritizing patching and exposure reduction for high-impact issues.
-- Data Breach & Cybercrime: 10 items, led by Medtronic notifies customers impacted by ShinyHunters data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+- Latest Vulnerabilities: 10 items, led by Microsoft 365 users fall victim to one-in-a-million password spray attack. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.
 

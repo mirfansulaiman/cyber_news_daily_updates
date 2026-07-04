@@ -1,7 +1,7 @@
 {
-  "highlights_led_by_exploit_ready_vulns": "VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat and Cisco finally confirms attackers exploiting Unified CM flaw. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "highlights_led_by_exploit_ready_vulns": "Microsoft 365 users fall victim to one-in-a-million password spray attack and Adobe premieres a second Patch Tuesday each month to deliver fixes faster. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
   "endpoint_posture_under_pressure": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
-  "identity_and_edge_access_risks": "Medtronic notifies customers impacted by ShinyHunters data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "identity_and_edge_access_risks": "Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
   "issue_date": "2026-07-04",
   "vol": "003"
 }

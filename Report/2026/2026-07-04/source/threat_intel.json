@@ -10,93 +10,93 @@
     ]
   },
   {
-    "title": "[+48h Old] New ChocoPoC malware targets researchers via trojanized PoC exploits",
-    "published_wib": "2026-07-02T03:08:13+07:00",
-    "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+    "title": "Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts",
+    "published_wib": "2026-07-03T20:30:36+07:00",
+    "summary": "Two new campaigns show how cybercriminals are increasingly relying on social engineering instead of software exploits to compromise devices and accounts.",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/"
+      "https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts"
     ]
   },
   {
-    "title": "[+48h Old] Release Notes: In-Browser Data Inspection, Torq Integration, and 1,100+ Threat Coverage Updates",
-    "published_wib": "2026-07-01T18:31:25+07:00",
-    "summary": "Phishing pages don\u2019t sit still anymore. They redirect, load scripts, harvest credentials through dynamic forms, and rebuild their DOM after the initial load \u2014 and most URL analysis workflows still only see the finish line, not the race. This June, ANY.RUN closed that gap directly inside the Interactive Sandbox and extended its automation reach with [\u2026] The\u2026",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
-    "sources": [
-      "https://any.run/cybersecurity-blog/release-notes-june-2026/"
-    ]
-  },
-  {
-    "title": "[+48h Old] Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
-    "published_wib": "2026-07-02T03:31:21+07:00",
-    "summary": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
-    "sources": [
-      "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os"
-    ]
-  },
-  {
-    "title": "[+48h Old] And the Winner in Dominant Malware Delivery? ClickFix",
-    "published_wib": "2026-07-02T02:46:34+07:00",
-    "summary": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks \u2014 it's now the rule.",
+    "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
+    "published_wib": "2026-07-03T16:35:00+07:00",
+    "summary": "The NetNut proxy network and the \u2018Popa\u2019 botnet are known to have infected devices with variants of Mirai DDoS botnets",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix"
+      "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/"
     ]
   },
   {
-    "title": "[+48h Old] Hackers target Microsoft 365 accounts with 81 million login attempts",
-    "published_wib": "2026-07-01T23:38:01+07:00",
-    "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+    "title": "[+24h Old] FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "published_wib": "2026-07-03T02:27:33+07:00",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security\u2026",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/"
+      "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
     ]
   },
   {
-    "title": "[+48h Old] 'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
-    "published_wib": "2026-07-01T22:17:14+07:00",
-    "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat"
-    ]
-  },
-  {
-    "title": "[+48h Old] Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
-    "published_wib": "2026-07-01T21:30:00+07:00",
-    "summary": "Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory",
+    "title": "[+24h Old] OpenBlow Multiple Deanonymization Vulnerabilities",
+    "published_wib": "2026-07-03T01:40:22+07:00",
+    "summary": "Posted by Red Nanaki via Fulldisclosure on Jul 02 OpenBlow Multiple Deanonymization Vulnerabilities Summary A production deployment was observed (HTTP archive of a full, real whistleblower submission) to route its anonymous reporting flow through Google. The intake CAPTCHA is Google reCAPTCHA, enforced as a mandatory, server-validated gate on report submiss\u2026",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/"
+      "https://seclists.org/fulldisclosure/2026/Jul/15"
     ]
   },
   {
-    "title": "[+48h Old] Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-    "published_wib": "2026-07-01T21:01:11+07:00",
-    "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+    "title": "[+24h Old] Whistlelink: Site-access password exposed in web server access logs via GET query string",
+    "published_wib": "2026-07-03T01:40:20+07:00",
+    "summary": "Posted by Red Nanaki via Fulldisclosure on Jul 02 Whistlelink: Site-access password exposed in web server access logs via GET query string Severity: CRITICAL SUMMARY The Whistlelink reporting portal protects optionally-enabled, password-gated whistleblowing sites with a site-access password. When a visitor unlocks such a site, the client validates the passw\u2026",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/"
+      "https://seclists.org/fulldisclosure/2026/Jul/14"
     ]
   },
   {
-    "title": "[+48h Old] Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
-    "published_wib": "2026-07-01T20:45:00+07:00",
-    "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
+    "title": "[+24h Old] APPLE-SA-06-29-2026-3 Safari 26.5.2",
+    "published_wib": "2026-07-03T01:25:35+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Jul 02 APPLE-SA-06-29-2026-3 Safari 26.5.2 Safari 26.5.2 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/127685\u2026",
     "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
-      "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/"
+      "https://seclists.org/fulldisclosure/2026/Jul/13"
+    ]
+  },
+  {
+    "title": "[+24h Old] APPLE-SA-06-29-2026-2 macOS Tahoe 26.5.2",
+    "published_wib": "2026-07-03T01:25:33+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Jul 02 APPLE-SA-06-29-2026-2 macOS Tahoe 26.5.2 macOS Tahoe 26.5.2 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/127595\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Jul/12"
+    ]
+  },
+  {
+    "title": "[+24h Old] APPLE-SA-06-29-2026-1 iOS 26.5.2 and iPadOS 26.5.2",
+    "published_wib": "2026-07-03T01:25:31+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Jul 02 APPLE-SA-06-29-2026-1 iOS 26.5.2 and iPadOS 26.5.2 iOS 26.5.2 and iPadOS 26.5.2 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/127594\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Jul/11"
+    ]
+  },
+  {
+    "title": "[+24h Old] Asterisk Security Release 23.4.1",
+    "published_wib": "2026-07-03T01:10:40+07:00",
+    "summary": "Posted by Asterisk Development Team via Fulldisclosure on Jul 02 The Asterisk Development Team would like to announce security release Asterisk 23.4.1. The release artifacts are available for immediate download at https://github.com/asterisk/asterisk/releases/tag/23.4.1 and https://downloads.asterisk.org/pub/telephony/asterisk Repository: https://github.com\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Jul/7"
     ]
   }
 ]
