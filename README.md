@@ -8,11 +8,11 @@ This repository stores **daily cybersecurity newsletters**.
 <!-- DAILY_UPDATES_START -->
 ## Today Updates: [Vol. 003 | 2026-07-04 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: VU#639124: Multiple local privilege escalation vulnerabilities in Little Orbits GameFirst Anti-Cheat and Cisco finally confirms attackers exploiting Unified CM flaw. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Microsoft 365 users fall victim to one-in-a-million password spray attack and Adobe premieres a second Patch Tuesday each month to deliver fixes faster. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
 Endpoint posture is also under pressure: ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Medtronic notifies customers impacted by ShinyHunters data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
 ![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-04/poster_2026-07-04_issue-003.jpg)
 
