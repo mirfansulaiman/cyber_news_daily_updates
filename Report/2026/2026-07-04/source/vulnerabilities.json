@@ -1,102 +1,102 @@
 [
   {
-    "title": "Microsoft 365 users fall victim to one-in-a-million password spray attack",
-    "published_wib": "2026-07-03T22:26:56+07:00",
-    "summary": "Microsoft users have been hit by a massive, automated password spray attack. Among those targeted by the attack were clients of security company Huntress. It reported that the attackers made 81 million attempts to log into its customers\u2019 accounts between June 12 and 26 \u2014 and succeeded in at least 78 cases. And that\u2019s just the attacks on Microsoft account ho\u2026",
+    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+    "published_wib": "2026-07-04T03:19:31+07:00",
+    "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4192819/microsoft-365-users-fall-victim-to-one-in-a-million-password-spray-attack.html"
+      "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"
     ]
   },
   {
-    "title": "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
-    "published_wib": "2026-07-03T21:05:08+07:00",
-    "summary": "Adobe will now issue security patches for its products twice as often to deal with the increasing pace of software vulnerability discovery and exploitation. This follows Oracle\u2019s decision to increase its quarterly patch program to a monthly one. Adobe issues patches on the second Tuesday of each month, as do Microsoft and SAP. Starting in July, it will also\u2026",
+    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+    "published_wib": "2026-07-04T02:40:01+07:00",
+    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4192789/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster.html"
+      "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
     ]
   },
   {
-    "title": "New CitrixBleed-like NetScaler flaw sees exploit attempts in the wild",
-    "published_wib": "2026-07-03T18:41:11+07:00",
-    "summary": "Citrix NetScaler appliances have been a constant target for attackers in recent years, most recently through an information leak vulnerability dubbed CitrixBleed 3, the latest in a series of NetScaler memory overreads going back to 2023. This week, Citrix patched yet another CitrixBleed-like vulnerability and there are signs of in-the-wild exploitation alre\u2026",
+    "title": "CVE-2026-14660 | code-projects Online Job Portal 1.0 login.php txtUser/txtPass sql injection",
+    "published_wib": "2026-07-04T01:58:33+07:00",
+    "summary": "A vulnerability was found in code-projects Online Job Portal 1.0 . It has been rated as critical . The affected element is an unknown function of the file login.php . Performing a manipulation of the argument txtUser/txtPass results in sql injection. This vulnerability was named CVE-2026-14660\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4192741/new-citrixbleed-like-netscaler-flaw-sees-exploit-attempts-in-the-wild.html"
+      "https://vuldb.com/vuln/376174"
     ]
   },
   {
-    "title": "Organizations struggle to prioritize known cyber risks",
-    "published_wib": "2026-07-03T11:30:36+07:00",
-    "summary": "Organizations collect more cyber risk data than ever, with many still struggling to build a unified view of their exposure. The latest State of Threat Management report from Filigran found that security teams continue to work across disconnected tools, leaving important context spread across multiple systems. Cloud infrastructure, on-premises environments,\u2026",
+    "title": "CVE-2026-14659 | itsourcecode Hospital Management System 1.0 /patientappointment.php patiente sql injection",
+    "published_wib": "2026-07-04T01:57:19+07:00",
+    "summary": "A vulnerability was found in itsourcecode Hospital Management System 1.0 . It has been declared as critical . Impacted is an unknown function of the file /patientappointment.php . Such manipulation of the argument patiente leads to sql injection. This vulnerability is uniquely identified as CVE-2026-14659\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.helpnetsecurity.com/2026/07/03/cyber-risk-exposure-report/"
+      "https://vuldb.com/vuln/376173"
     ]
   },
   {
-    "title": "[+24h Old] Apple Reverses Age-Old Patch Policy to Keep Up With AI",
-    "published_wib": "2026-07-03T02:31:58+07:00",
-    "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
+    "title": "CVE-2026-14657 | code-projects Assessment Management 1.0 Database Query marking-scheme.php squestions[] sql injection",
+    "published_wib": "2026-07-04T01:55:45+07:00",
+    "summary": "A vulnerability was found in code-projects Assessment Management 1.0 . It has been classified as critical . This issue affects some unknown processing of the file /lecturer/marking-scheme.php of the component Database Query Handler . This manipulation of the argument squestions[] causes sql injection. This vulnerability is handled as CVE-2026-14657\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai"
+      "https://vuldb.com/vuln/376172"
     ]
   },
   {
-    "title": "[+24h Old] pwnlift: symlink following and TOCTOU in privileged upload handler allow arbitrary file write as root",
-    "published_wib": "2026-07-03T01:25:12+07:00",
-    "summary": "Posted by Greg via Fulldisclosure on Jul 02 1. Advisory information ----------------------- Title: Symlink following and TOCTOU in pwnlift upload handler allow arbitrary file write as root Advisory: https://github.com/GregDurys/security-advisories GHSA: GHSA-2v7v-rhpw-m9w4 CVE: CVE-2026-56815 Class: CWE-59 (Improper Link Resolution Before File Access), CWE-\u2026",
+    "title": "CVE-2026-14658 | code-projects Assessment Management 1.0 marking-scheme.php smarksrange[] sql injection",
+    "published_wib": "2026-07-04T01:55:43+07:00",
+    "summary": "A vulnerability was found in code-projects Assessment Management 1.0 and classified as critical . This vulnerability affects unknown code of the file /lecturer/marking-scheme.php . The manipulation of the argument smarksrange[] results in sql injection. This vulnerability is known as CVE-2026-14658\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://seclists.org/fulldisclosure/2026/Jul/10"
+      "https://vuldb.com/vuln/376171"
     ]
   },
   {
-    "title": "[+24h Old] [KIS-2026-12] Control Web Panel <= 0.9.8.1224 (userRes) SQL Injection Vulnerability",
-    "published_wib": "2026-07-03T01:22:45+07:00",
-    "summary": "Posted by Egidio Romano on Jul 02 --------------------------------------------------------------------- Control Web Panel --------------------------------------------------------------------- [-] Software Link: https://control-webpanel.com [-] Affected Versions: Version 0.9.8.1224 and prior versions. [-] Vulnerability Description: User input passed through\u2026",
+    "title": "CVE-2026-14656 | code-projects Assessment Management 1.0 /admin/remove-user.php ID cross site scripting",
+    "published_wib": "2026-07-04T01:55:40+07:00",
+    "summary": "A vulnerability has been found in code-projects Assessment Management 1.0 and classified as problematic . This affects an unknown part of the file /admin/remove-user.php . The manipulation of the argument ID leads to cross site scripting. This vulnerability is traded as CVE-2026-14656\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://seclists.org/fulldisclosure/2026/Jul/9"
+      "https://vuldb.com/vuln/376170"
     ]
   },
   {
-    "title": "[+24h Old] [fulldis] CVE-2026-58451 - Horde Groupware IMP path traversal vuln",
-    "published_wib": "2026-07-03T01:22:33+07:00",
-    "summary": "Posted by \u3164evan via Fulldisclosure on Jul 02 this is my first time sending to a mailing list so ive chosen something easy. here goes: Summary: Horde Groupware\u2019s IMP Webmail solution contains a path traversal/local file inclusion vulnerability which could be exploited to escalate privileges or bypass authentication (through CSRF if unauthenticated). the vuln\u2026",
+    "title": "CVE-2026-58379 | GIMP PSP Image heap-based overflow (EUVD-2026-41560)",
+    "published_wib": "2026-07-04T01:55:19+07:00",
+    "summary": "A vulnerability, which was classified as critical , has been found in GIMP . Affected by this vulnerability is an unknown functionality of the component PSP Image Handler . Performing a manipulation results in heap-based buffer overflow. This vulnerability is reported as CVE-2026-58379 . The attack is possible to be carried out remotely. No exploit exists.",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://seclists.org/fulldisclosure/2026/Jul/8"
+      "https://vuldb.com/vuln/376168"
     ]
   },
   {
-    "title": "[+24h Old] Samsung Galaxy Buds \u2013 Zero-Click HFP/A2DP Takeover via L2CAP Session Preemption (Vendor Response: Working as Intended)",
-    "published_wib": "2026-07-03T01:12:33+07:00",
-    "summary": "Posted by 490h3fqwomf via Fulldisclosure on Jul 02 Hello Full Disclosure, The following publicly available research describes a Bluetooth attack against Samsung Galaxy Buds that leverages connection arbitration behavior between HFP and A2DP profiles to preempt an active audio session. Title: Zero-Click HFP/A2DP Takeover via L2CAP Session Preemption Exploiti\u2026",
+    "title": "CVE-2026-14654 | SourceCodester Simple and Nice Shopping Cart Script 1.0 girlsproductdeletequery.php user_id sql injection",
+    "published_wib": "2026-07-04T01:49:31+07:00",
+    "summary": "A vulnerability classified as critical was found in SourceCodester Simple and Nice Shopping Cart Script 1.0 . Affected is an unknown function of the file /admin/girlsproductdeletequery.php . Such manipulation of the argument user_id leads to sql injection. This vulnerability is documented as CVE-2026-14654\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://seclists.org/fulldisclosure/2026/Jul/5"
+      "https://vuldb.com/vuln/376167"
     ]
   },
   {
-    "title": "[+24h Old] Apple\u2019s Hide My Email doesn\u2019t hide it very well",
-    "published_wib": "2026-07-02T23:22:25+07:00",
-    "summary": "A year ago a researcher found a vulnerability in Apple's Hide My Email feature and now he's tired of waiting for a fix.",
+    "title": "CVE-2026-14652 | SourceCodester Simple and Nice Shopping Cart Script 1.0 Admin Login /admin/login.php Username sql injection",
+    "published_wib": "2026-07-04T01:49:26+07:00",
+    "summary": "A vulnerability described as critical has been identified in SourceCodester Simple and Nice Shopping Cart Script 1.0 . This affects an unknown function of the file /admin/login.php of the component Admin Login . The manipulation of the argument Username results in sql injection. This vulnerability is cataloged as CVE-2026-14652\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.malwarebytes.com/blog/news/2026/07/apples-hide-my-email-doesnt-hide-it-very-well"
+      "https://vuldb.com/vuln/376165"
     ]
   }
 ]

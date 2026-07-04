@@ -3,16 +3,16 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- Microsoft 365 users fall victim to one-in-a-million password spray attack
-- ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit
-- Adobe premieres a second Patch Tuesday each month to deliver fixes faster
-- Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts
-- Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation
+- Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices
+- New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android
+- CVE-2026-14660 | code-projects Online Job Portal 1.0 login.php txtUser/txtPass sql injection
+- CVE-2026-14659 | itsourcecode Hospital Management System 1.0 /patientappointment.php patiente sql injection
+- CVE-2026-14657 | code-projects Assessment Management 1.0 Database Query marking-scheme.php squestions[] sql injection
 
 Section Summaries:
-- Threat Intelligence: 10 items, led by ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit. with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by Microsoft 365 users fall victim to one-in-a-million password spray attack. prioritizing patching and exposure reduction for high-impact issues.
-- Data Breach & Cybercrime: 10 items, led by Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation. highlighting extortion, leakage, and law-enforcement actions where reported.
+- Threat Intelligence: 10 items, led by New Avalon Malware Framework Packs CrownX Ransomware Capabilities. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by The Good, the Bad and the Ugly in Cybersecurity – Week 27. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.
 

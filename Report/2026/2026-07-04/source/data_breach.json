@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 27",
+    "published_wib": "2026-07-03T20:00:49+07:00",
+    "summary": "FBI apprehends IRGC-linked cybercriminal, Russian hackers steal Signal backup keys, and unknown hackers breach the DHS information network.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/"
+    ]
+  },
+  {
     "title": "Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation",
     "published_wib": "2026-07-03T20:00:00+07:00",
     "summary": "The ransomware landscape is reconsolidating around major players, with Qilin emerging as the leading RaaS operation, researchers say",
@@ -20,6 +30,16 @@
     ]
   },
   {
+    "title": "Medtronic Data Breach Impacts 3.8 Million People",
+    "published_wib": "2026-07-03T17:00:00+07:00",
+    "summary": "In April, ShinyHunters accessed the company\u2019s corporate IT systems and stole patients\u2019 personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/"
+    ]
+  },
+  {
     "title": "[+24h Old] Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
     "published_wib": "2026-07-03T06:01:00+07:00",
     "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
@@ -27,6 +47,26 @@
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
       "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs"
+    ]
+  },
+  {
+    "title": "[+24h Old] DHS investigating breach of intelligence sharing platform",
+    "published_wib": "2026-07-03T05:03:01+07:00",
+    "summary": "Hackers reportedly gained access to HSIN servers in late May and early June, potentially exposing sensitive but unclassified information.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/dhs-investigating-breach-of-intelligence-sharing-platform"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1st \u2018agentic ransomware\u2019 JADEPUFFER invades database at machine speed",
+    "published_wib": "2026-07-03T04:41:19+07:00",
+    "summary": "The LLM fixed a failed login attempt within 31 seconds, demonstrating real-time adaptability.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/news/1st-agentic-ransomware-jadepuffer-invades-database-at-machine-speed"
     ]
   },
   {
@@ -57,46 +97,6 @@
     "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses"
-    ]
-  },
-  {
-    "title": "[+24h Old] Scattered Spider suspect extradited over $8 million ransom scheme",
-    "published_wib": "2026-07-02T20:43:51+07:00",
-    "summary": "A suspected Scattered Spider member has been extradited to the United States to face charges linked to cyberattacks against U.S. companies, including the breach of a luxury jewelry retailer that led to an $8 million cryptocurrency ransom demand after attackers stole company data. The retailer\u2019s security team removed the attackers from its network before any\u2026",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.helpnetsecurity.com/2026/07/02/scattered-spider-criminal-group-suspect-extradited/"
-    ]
-  },
-  {
-    "title": "[+24h Old] New iboss platform gives organizations instant visibility into AI tools and usage",
-    "published_wib": "2026-07-02T19:52:57+07:00",
-    "summary": "iboss has launched the AI Security Platform, a new service that gives any organization visibility into the AI tools its people are using, free of charge. Signup is instant, deployment takes an afternoon, and a complete AI footprint appears within hours. Organizations that want to go beyond visibility can upgrade on the same platform to enforce AI policy, pr\u2026",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.helpnetsecurity.com/2026/07/02/iboss-ai-security-platform/"
-    ]
-  },
-  {
-    "title": "[+24h Old] Alleged Scattered Spider Member Extradited to US",
-    "published_wib": "2026-07-02T15:45:00+07:00",
-    "summary": "A teenager accused of hacking as part of Scattered Spider has been arrested",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/scattered-spider-member-extradited/"
-    ]
-  },
-  {
-    "title": "[+24h Old] Medtronic notifies customers impacted by ShinyHunters data breach",
-    "published_wib": "2026-07-02T11:25:42+07:00",
-    "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/"
     ]
   }
 ]

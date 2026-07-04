@@ -1,7 +1,7 @@
 [
-  "Microsoft 365 users fall victim to one-in-a-million password spray attack",
-  "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-  "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
-  "Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts",
-  "Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation"
+  "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+  "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+  "CVE-2026-14660 | code-projects Online Job Portal 1.0 login.php txtUser/txtPass sql injection",
+  "CVE-2026-14659 | itsourcecode Hospital Management System 1.0 /patientappointment.php patiente sql injection",
+  "CVE-2026-14657 | code-projects Assessment Management 1.0 Database Query marking-scheme.php squestions[] sql injection"
 ]
