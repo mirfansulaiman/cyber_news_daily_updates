@@ -8,7 +8,7 @@ This repository stores **daily cybersecurity newsletters**.
 <!-- DAILY_UPDATES_START -->
 ## Today Updates: [Vol. 003 | 2026-07-05 ]
 
-Today's highlights are led by exploit-ready vulnerabilities: CVE-2026-12746 | Dancer2::Plugin::Auth::OAuth::Provider up to 0.22 OAuth 2.0 Flow authentication_url/callback state cross-site request forgery and CVE-2026-12740 | Plack::Middleware::OAuth up to 0.10 OAuth 2.0 State RequestTokenV2/AccessTokenV2 state cross-site request forgery. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices and New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
 Endpoint posture is also under pressure: North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
