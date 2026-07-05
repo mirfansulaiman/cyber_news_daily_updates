@@ -108,6 +108,10 @@ def load_allowlist() -> list[Feed]:
             # Allowlist policy: use ONLY English feeds for consistency.
             if lang != "en":
                 continue
+            # Skip VulDB — terlalu banyak CVE generic, lebih pilih NVD/ZDI/Rapid7
+            name_lower = str(f.get("name") or "").strip().lower()
+            if "vuldb" in name_lower:
+                continue
             feeds.append(
                 Feed(
                     name=str(f.get("name") or url).strip(),
