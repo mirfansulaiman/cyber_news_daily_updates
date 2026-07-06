@@ -1,22 +1,32 @@
 [
   {
-    "title": "New ClamAV security patch closes seven scanner bugs dating back two decades",
-    "published_wib": "2026-07-06T05:30:13+07:00",
-    "summary": "Open source antivirus scanning sits inside mail gateways, file upload checks, and endpoint tooling at organizations of every size. Much of that work runs through ClamAV, the scanning engine maintained by Cisco\u2019s Talos group. The project released two patch versions, 1.5.3 and 1.4.5, carrying fixes for seven security flaws along with smaller hardening changes\u2026",
+    "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
+    "published_wib": "2026-07-06T07:00:00+07:00",
+    "summary": "MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.helpnetsecurity.com/2026/07/06/clamav-security-patch-versions/"
+      "https://www.exploit-db.com/exploits/52615"
     ]
   },
   {
-    "title": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
-    "published_wib": "2026-07-05T12:10:59+07:00",
-    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern. The vulnerabilities those features create get rated high\u2026",
+    "title": "[webapps] KeepInMind 0.8.4.2 - Stored XSS",
+    "published_wib": "2026-07-06T07:00:00+07:00",
+    "summary": "KeepInMind 0.8.4.2 - Stored XSS",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/"
+      "https://www.exploit-db.com/exploits/52614"
+    ]
+  },
+  {
+    "title": "[webapps] WordPress Plugin WPZOOM Portfolio 1.4.21 - Reflected Cross-Site Scripting (XSS)",
+    "published_wib": "2026-07-06T07:00:00+07:00",
+    "summary": "WordPress Plugin WPZOOM Portfolio 1.4.21 - Reflected Cross-Site Scripting (XSS)",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.exploit-db.com/exploits/52611"
     ]
   },
   {
@@ -87,16 +97,6 @@
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
       "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/"
-    ]
-  },
-  {
-    "title": "[+48h Old] PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-    "published_wib": "2026-07-03T15:03:37+07:00",
-    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed\u2026",
-    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
-    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
-    "sources": [
-      "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"
     ]
   }
 ]

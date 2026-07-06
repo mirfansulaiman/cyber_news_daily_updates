@@ -3,15 +3,15 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- New ClamAV security patch closes seven scanner bugs dating back two decades
-- Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack
+- [local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation
+- [webapps] KeepInMind 0.8.4.2 - Stored XSS
+- [webapps] WordPress Plugin WPZOOM Portfolio 1.4.21 - Reflected Cross-Site Scripting (XSS)
 - [+24h Old] JadePuffer ransomware used AI agent to automate entire attack
 - [+24h Old] U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case
-- [+24h Old] North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign
 
 Section Summaries:
 - Threat Intelligence: 10 items, led by North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign. with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by New ClamAV security patch closes seven scanner bugs dating back two decades. prioritizing patching and exposure reduction for high-impact issues.
+- Latest Vulnerabilities: 10 items, led by [local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation. prioritizing patching and exposure reduction for high-impact issues.
 - Data Breach & Cybercrime: 10 items, led by JadePuffer ransomware used AI agent to automate entire attack. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.

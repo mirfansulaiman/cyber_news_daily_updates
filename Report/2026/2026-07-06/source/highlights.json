@@ -1,7 +1,7 @@
 [
-  "New ClamAV security patch closes seven scanner bugs dating back two decades",
-  "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
+  "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
+  "[webapps] KeepInMind 0.8.4.2 - Stored XSS",
+  "[webapps] WordPress Plugin WPZOOM Portfolio 1.4.21 - Reflected Cross-Site Scripting (XSS)",
   "[+24h Old] JadePuffer ransomware used AI agent to automate entire attack",
-  "[+24h Old] U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-  "[+24h Old] North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign"
+  "[+24h Old] U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case"
 ]

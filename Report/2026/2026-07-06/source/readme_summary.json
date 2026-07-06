@@ -1,5 +1,5 @@
 {
-  "highlights_led_by_exploit_ready_vulns": "New ClamAV security patch closes seven scanner bugs dating back two decades and Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "highlights_led_by_exploit_ready_vulns": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation and [webapps] KeepInMind 0.8.4.2 - Stored XSS. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
   "endpoint_posture_under_pressure": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
   "identity_and_edge_access_risks": "JadePuffer ransomware used AI agent to automate entire attack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
   "issue_date": "2026-07-06",
