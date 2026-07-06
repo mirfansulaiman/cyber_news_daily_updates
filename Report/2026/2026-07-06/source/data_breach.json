@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] JadePuffer ransomware used AI agent to automate entire attack",
+    "published_wib": "2026-07-04T21:16:38+07:00",
+    "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+    "published_wib": "2026-07-04T19:47:53+07:00",
+    "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no s\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 27",
+    "published_wib": "2026-07-03T20:00:49+07:00",
+    "summary": "FBI apprehends IRGC-linked cybercriminal, Russian hackers steal Signal backup keys, and unknown hackers breach the DHS information network.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation",
+    "published_wib": "2026-07-03T20:00:00+07:00",
+    "summary": "The ransomware landscape is reconsolidating around major players, with Qilin emerging as the leading RaaS operation, researchers say",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Cyber readiness for SMBs: Getting the basics right",
+    "published_wib": "2026-07-03T19:36:41+07:00",
+    "summary": "AI is changing cybercrime, but SMB cyber readiness still largely depends on closing the familiar gaps",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.welivesecurity.com/en/business-security/cyber-readiness-smbs-getting-basics-right/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Warning Over \u201cIndustrialized\u201d Cyber-Attacks After Ransomware Gang Partners With TeamPCP",
+    "published_wib": "2026-07-03T18:30:00+07:00",
+    "summary": "Researchers warn that collaboration could lead to \u201cunprecedented\u201d ransomware attacks, as FBI also issues warning",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Medtronic Data Breach Impacts 3.8 Million People",
+    "published_wib": "2026-07-03T17:00:00+07:00",
+    "summary": "In April, ShinyHunters accessed the company\u2019s corporate IT systems and stole patients\u2019 personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
+    "published_wib": "2026-07-03T06:01:00+07:00",
+    "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs"
+    ]
+  },
+  {
+    "title": "[+48h Old] DHS investigating breach of intelligence sharing platform",
+    "published_wib": "2026-07-03T05:03:01+07:00",
+    "summary": "Hackers reportedly gained access to HSIN servers in late May and early June, potentially exposing sensitive but unclassified information.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/dhs-investigating-breach-of-intelligence-sharing-platform"
+    ]
+  },
+  {
+    "title": "[+48h Old] 1st \u2018agentic ransomware\u2019 JADEPUFFER invades database at machine speed",
+    "published_wib": "2026-07-03T04:41:19+07:00",
+    "summary": "The LLM fixed a failed login attempt within 31 seconds, demonstrating real-time adaptability.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/news/1st-agentic-ransomware-jadepuffer-invades-database-at-machine-speed"
+    ]
+  }
+]

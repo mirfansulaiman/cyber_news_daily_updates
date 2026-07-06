@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New ClamAV security patch closes seven scanner bugs dating back two decades",
+    "published_wib": "2026-07-06T05:30:13+07:00",
+    "summary": "Open source antivirus scanning sits inside mail gateways, file upload checks, and endpoint tooling at organizations of every size. Much of that work runs through ClamAV, the scanning engine maintained by Cisco\u2019s Talos group. The project released two patch versions, 1.5.3 and 1.4.5, carrying fixes for seven security flaws along with smaller hardening changes\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/06/clamav-security-patch-versions/"
+    ]
+  },
+  {
+    "title": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
+    "published_wib": "2026-07-05T12:10:59+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern. The vulnerabilities those features create get rated high\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+    "published_wib": "2026-07-04T03:19:31+07:00",
+    "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+    "published_wib": "2026-07-04T02:40:01+07:00",
+    "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Microsoft 365 users fall victim to one-in-a-million password spray attack",
+    "published_wib": "2026-07-03T22:26:56+07:00",
+    "summary": "Microsoft users have been hit by a massive, automated password spray attack. Among those targeted by the attack were clients of security company Huntress. It reported that the attackers made 81 million attempts to log into its customers\u2019 accounts between June 12 and 26 \u2014 and succeeded in at least 78 cases. And that\u2019s just the attacks on Microsoft account ho\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4192819/microsoft-365-users-fall-victim-to-one-in-a-million-password-spray-attack.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
+    "published_wib": "2026-07-03T22:10:42+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
+    "published_wib": "2026-07-03T21:05:08+07:00",
+    "summary": "Adobe will now issue security patches for its products twice as often to deal with the increasing pace of software vulnerability discovery and exploitation. This follows Oracle\u2019s decision to increase its quarterly patch program to a monthly one. Adobe issues patches on the second Tuesday of each month, as do Microsoft and SAP. Starting in July, it will also\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4192789/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] New CitrixBleed-like NetScaler flaw sees exploit attempts in the wild",
+    "published_wib": "2026-07-03T18:41:11+07:00",
+    "summary": "Citrix NetScaler appliances have been a constant target for attackers in recent years, most recently through an information leak vulnerability dubbed CitrixBleed 3, the latest in a series of NetScaler memory overreads going back to 2023. This week, Citrix patched yet another CitrixBleed-like vulnerability and there are signs of in-the-wild exploitation alre\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4192741/new-citrixbleed-like-netscaler-flaw-sees-exploit-attempts-in-the-wild.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Agentic AI Used to Conduct Ransomware Attack via Langflow",
+    "published_wib": "2026-07-03T18:00:00+07:00",
+    "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/"
+    ]
+  },
+  {
+    "title": "[+48h Old] PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+    "published_wib": "2026-07-03T15:03:37+07:00",
+    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html"
+    ]
+  }
+]

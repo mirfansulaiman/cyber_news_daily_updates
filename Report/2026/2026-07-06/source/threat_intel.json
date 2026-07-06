@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+    "published_wib": "2026-07-04T18:17:24+07:00",
+    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malicious packages are likely to continue appearing as threat ac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+    "published_wib": "2026-07-04T01:55:24+07:00",
+    "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
+    "published_wib": "2026-07-03T21:29:00+07:00",
+    "summary": "Third-party contractor compromise exposed health information and insurance billing passwords",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/03/adapthealth-crooks-stole-our-passwords-patient-health-data/5266512"
+    ]
+  },
+  {
+    "title": "[+48h Old] ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+    "published_wib": "2026-07-03T21:12:22+07:00",
+    "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+    "published_wib": "2026-07-03T20:36:33+07:00",
+    "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a te\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/armored-likho-targets-government.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Verified X ad spreads Mac malware, while ConsentFix steals Microsoft accounts",
+    "published_wib": "2026-07-03T20:30:36+07:00",
+    "summary": "Two new campaigns show how cybercriminals are increasingly relying on social engineering instead of software exploits to compromise devices and accounts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/verified-x-ad-spreads-mac-malware-while-consentfix-steals-microsoft-accounts"
+    ]
+  },
+  {
+    "title": "[+48h Old] NetNut cracked as Google and FBI target 2 million-device botnet",
+    "published_wib": "2026-07-03T19:03:00+07:00",
+    "summary": "Other residential proxy brands may rely on the same network",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414"
+    ]
+  },
+  {
+    "title": "[+48h Old] Armored Likho digging a snake pit: inside the covert BusySnake Stealer campaign",
+    "published_wib": "2026-07-03T17:00:33+07:00",
+    "summary": "An inside look at the active Armored Likho APT campaign. The attackers are using spear-phishing, AI-generated loaders, and a new Python-based tool, BusySnake Stealer, to target organizations in Russia, Kazakhstan, and Brazil.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://securelist.com/tr/armored-likho-apt-with-busysnake-stealer/120292/"
+    ]
+  },
+  {
+    "title": "[+48h Old] FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
+    "published_wib": "2026-07-03T16:35:00+07:00",
+    "summary": "The NetNut proxy network and the \u2018Popa\u2019 botnet are known to have infected devices with variants of Mirai DDoS botnets",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/"
+    ]
+  },
+  {
+    "title": "[+48h Old] FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "published_wib": "2026-07-03T02:27:33+07:00",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
+    ]
+  }
+]
