@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'Bad Epoll' vulnerability allows root access on Linux and Android",
+    "published_wib": "2026-07-07T06:37:11+07:00",
+    "summary": "The Bad Epoll flaw resides within the epoll subsystem of the Linux kernel, a fundamental component for managing network connections and file events.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/bad-epoll-vulnerability-allows-root-access-on-linux-and-android"
+    ]
+  },
+  {
+    "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
+    "published_wib": "2026-07-07T04:17:42+07:00",
+    "summary": "Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack"
+    ]
+  },
+  {
+    "title": "VU#213560: Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "published_wib": "2026-07-07T02:22:18.450350+07:00",
+    "summary": "Overview Several versions of Tenda firmware contain an undocumented authentication backdoor that grants administrative access to the devices' web management interfaces. An attacker can expoit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process and obtain full administrative control without valid credentials. Affected V\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/213560"
+    ]
+  },
+  {
+    "title": "VU#828543: HP Deskjet 2800 Printer Series Webservers contain Missing Authorization Vulnerability",
+    "published_wib": "2026-07-07T00:59:25.586162+07:00",
+    "summary": "Overview HP Printers in the Deskjet 2800 Series running firmware version CVE-2026-13753 . This vulnerability allows unauthenticated access to the printer's webserver API endpoints, exposing Wi-Fi credentials, management configuration details, and sensitive security data normally restricted to administrative users. Description Modern HP printers provide a we\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/828543"
+    ]
+  },
+  {
+    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+    "published_wib": "2026-07-07T00:37:01+07:00",
+    "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims tha\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+    ]
+  },
+  {
+    "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+    "published_wib": "2026-07-06T23:52:23+07:00",
+    "summary": "If you\u2019re building multi-agent AI systems, you need to prevent authorization scope from silently expanding as agents delegate tasks through multi-hop chains. Without proper controls, an agent can potentially act beyond what the originating user authorized, even when role-based access control (RBAC) policies are in place. The OWASP Top 10 for Agentic Applica\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/"
+    ]
+  },
+  {
+    "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
+    "published_wib": "2026-07-06T23:36:50+07:00",
+    "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack"
+    ]
+  },
+  {
+    "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+    "published_wib": "2026-07-06T23:28:59+07:00",
+    "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthent\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+    ]
+  },
+  {
+    "title": "The agentic blind spots in your zero trust program",
+    "published_wib": "2026-07-06T21:47:22+07:00",
+    "summary": "Stephen Wilson, field chief technology officer for HashiCorp, an IBM company, likens AI agents to \u201creally smart kindergartners.\u201d \u201cThey know how to do something, but they have no clue as to why they should do it,\u201d Wilson says. This combination of superior execution power and lack of judgment can create a significant challenge for organizations trying to fit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4193263/the-agentic-blind-spots-in-your-zero-trust-program.html"
+    ]
+  },
+  {
+    "title": "Identity: The operational control plane for agentic AI",
+    "published_wib": "2026-07-06T21:39:49+07:00",
+    "summary": "Existing security controls weren\u2019t designed for AI agents. Static credentials and standing privileges aren\u2019t sufficient for an emerging model where organizations need to rapidly authorize, limit, and revoke permissions from autonomous agents, sometimes more than once within a single workflow. Agentic AI requires organizations to carefully consider how to go\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4193274/identity-the-operational-control-plane-for-agentic-ai.html"
+    ]
+  }
+]

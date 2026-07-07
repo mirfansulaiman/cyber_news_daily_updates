@@ -1,0 +1,102 @@
+[
+  {
+    "title": "NatWest CEO targeted in AI deepfake scam",
+    "published_wib": "2026-07-07T06:24:33+07:00",
+    "summary": "The deepfake image, which depicted Paul Thwaite alongside journalist Emily Maitlis and was designed to mimic a BBC radio interview, was shared on the social media platform X.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/natwest-ceo-targeted-in-ai-deepfake-scam"
+    ]
+  },
+  {
+    "title": "7 arrested in Vietnam for operating large anime piracy site HiAnime",
+    "published_wib": "2026-07-07T06:19:55+07:00",
+    "summary": "HiAnime, which operated under various domains including Zoro.to and Aniwatch, provided free access to a vast library of anime, attracting hundreds of millions of monthly visitors and briefly surpassing legal streaming platforms in web traffic.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/seven-arrested-in-vietnam-for-operating-large-anime-piracy-site-hianime"
+    ]
+  },
+  {
+    "title": "Canada's spy agency conducted state-authorized cyberattacks against drug traffickers and ransomware gangs",
+    "published_wib": "2026-07-07T06:15:09+07:00",
+    "summary": "The CSE's annual report details three foreign \"active cyber operations\" targeting threats to Canadian national security.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/canadas-spy-agency-conducted-state-authorized-cyberattacks-against-drug-traffickers-and-ransomware-gangs"
+    ]
+  },
+  {
+    "title": "Moody Bible Institute data breach exposes 2.3 million individuals",
+    "published_wib": "2026-07-07T06:12:07+07:00",
+    "summary": "The breach, initially disclosed by MBI in June, saw ShinyHunters leak the stolen data after the Christian college apparently did not meet their extortion demands.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/moody-bible-institute-data-breach-exposes-2-3-million-individuals"
+    ]
+  },
+  {
+    "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+    "published_wib": "2026-07-07T01:25:06+07:00",
+    "summary": "\u200bVietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/"
+    ]
+  },
+  {
+    "title": "How to tell if an image is AI-generated",
+    "published_wib": "2026-07-06T23:22:32+07:00",
+    "summary": "Scammers are using AI-generated images to make fake stories more convincing. Here's how to separate real from fake.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/07/how-to-tell-if-an-image-is-ai-generated"
+    ]
+  },
+  {
+    "title": "6th July \u2013 Threat Intelligence Report",
+    "published_wib": "2026-07-06T19:01:54+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 6th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES River Bank & Trust, a US financial institution, has experienced a ransomware incident after an unauthorized actor accessed the network of parent company River Financial Corporation on June 16. The bank found [\u2026] T\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/"
+    ]
+  },
+  {
+    "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
+    "published_wib": "2026-07-06T17:47:09+07:00",
+    "summary": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827"
+    ]
+  },
+  {
+    "title": "Single points of failure fail. The SaaS layer is not an exception",
+    "published_wib": "2026-07-06T17:00:00+07:00",
+    "summary": "Higher education has consolidated its entire academic operation into a handful of massive SaaS platforms. The LMS manages instruction, grading and communication. The SIS owns enrollment, records and financial aid. Identity and productivity live in a small number of cloud providers. These are not peripheral tools \u2014 they are the operational infrastructure of\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4192380/single-points-of-failure-fail-the-saas-layer-is-not-an-exception.html"
+    ]
+  },
+  {
+    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+    "published_wib": "2026-07-06T15:50:54+07:00",
+    "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html"
+    ]
+  }
+]

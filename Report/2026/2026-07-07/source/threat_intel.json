@@ -1,0 +1,102 @@
+[
+  {
+    "title": "U.S. Army websites defaced in apparent 404 hijacking campaign",
+    "published_wib": "2026-07-07T06:33:45+07:00",
+    "summary": "The defacement targeted error pages on U.S. Army websites, including oil.army.mil and ai2c.army.mil, which belong to the Army\u2019s Open Innovation Lab and Artificial Intelligence Integration Center, respectively.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/u-s-army-websites-defaced-in-apparent-404-hijacking-campaign"
+    ]
+  },
+  {
+    "title": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks",
+    "published_wib": "2026-07-07T04:37:56+07:00",
+    "summary": "A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks"
+    ]
+  },
+  {
+    "title": "Phishing poses as big-brand job interview to steal Google accounts",
+    "published_wib": "2026-07-07T03:27:37+07:00",
+    "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/"
+    ]
+  },
+  {
+    "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+    "published_wib": "2026-07-07T03:23:45+07:00",
+    "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/"
+    ]
+  },
+  {
+    "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
+    "published_wib": "2026-07-07T00:00:00+07:00",
+    "summary": "Campaigners demand investigation and long-delayed action on PEGA Committee recommendations",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054"
+    ]
+  },
+  {
+    "title": "Armored Likho APT Targeting Government, Electric Power Entities",
+    "published_wib": "2026-07-06T22:10:39+07:00",
+    "summary": "The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns. The post Armored Likho APT Targeting Government, Electric Power Entities appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/"
+    ]
+  },
+  {
+    "title": "Operationalizing Agentic AI: from assisted to autonomous",
+    "published_wib": "2026-07-06T21:37:20+07:00",
+    "summary": "Ever since ChatGPT made its public debut nearly four years ago, governance and security have largely lagged behind AI adoption. Eager to experiment with AI tools and find ways to improve their work and personal lives, users have uploaded corporate data, financial records, and even their own health information to large language models (LLMs). While this free\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4193287/operationalizing-agentic-ai-from-assisted-to-autonomous.html"
+    ]
+  },
+  {
+    "title": "RCS and DNS: The NAPTR Record, (Mon, Jul 6th)",
+    "published_wib": "2026-07-06T20:35:58+07:00",
+    "summary": "Over the last year, with recent updates to iOS and Android, RCS (Rich Communication Services) has become an increasingly used protocol [1]. RCS is supposed to eventually replace SMS, and in addition to richer formatting, provides added (but optional) security. RCS messages may be end-to-end encrypted and digitally signed. Unlike SMS, which was \"bolted on\" t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33124"
+    ]
+  },
+  {
+    "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
+    "published_wib": "2026-07-06T20:11:16+07:00",
+    "summary": "The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers. The post North Korean Hackers Target Open Source Developers in Supply Chain Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+    "published_wib": "2026-07-06T20:01:14+07:00",
+    "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html"
+    ]
+  }
+]
