@@ -1,102 +1,102 @@
 [
   {
-    "title": "'Bad Epoll' vulnerability allows root access on Linux and Android",
-    "published_wib": "2026-07-07T06:37:11+07:00",
-    "summary": "The Bad Epoll flaw resides within the epoll subsystem of the Linux kernel, a fundamental component for managing network connections and file events.",
+    "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+    "published_wib": "2026-07-07T17:00:00+07:00",
+    "summary": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek .",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.scworld.com/brief/bad-epoll-vulnerability-allows-root-access-on-linux-and-android"
+      "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/"
     ]
   },
   {
-    "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
-    "published_wib": "2026-07-07T04:17:42+07:00",
-    "summary": "Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
+    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+    "published_wib": "2026-07-07T16:10:51+07:00",
+    "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack"
+      "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
     ]
   },
   {
-    "title": "VU#213560: Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "published_wib": "2026-07-07T02:22:18.450350+07:00",
-    "summary": "Overview Several versions of Tenda firmware contain an undocumented authentication backdoor that grants administrative access to the devices' web management interfaces. An attacker can expoit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process and obtain full administrative control without valid credentials. Affected V\u2026",
+    "title": "The modern CISO is becoming the next CFO",
+    "published_wib": "2026-07-07T16:00:00+07:00",
+    "summary": "At some point, every security leader gets asked a version of the same question: Are we good? It tends to arrive when something is at stake and the person asking needs to know they can rely on the answer. I learned what that question really means at a firm I was with earlier in my career. We had received intelligence that threat actors were preparing to go a\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://kb.cert.org/vuls/id/213560"
+      "https://www.csoonline.com/article/4193375/the-modern-ciso-is-becoming-the-next-cfo.html"
     ]
   },
   {
-    "title": "VU#828543: HP Deskjet 2800 Printer Series Webservers contain Missing Authorization Vulnerability",
-    "published_wib": "2026-07-07T00:59:25.586162+07:00",
-    "summary": "Overview HP Printers in the Deskjet 2800 Series running firmware version CVE-2026-13753 . This vulnerability allows unauthenticated access to the printer's webserver API endpoints, exposing Wi-Fi credentials, management configuration details, and sensitive security data normally restricted to administrative users. Description Modern HP printers provide a we\u2026",
+    "title": "Hackers Exploit Maximum Severity Adobe ColdFusion Flaw",
+    "published_wib": "2026-07-07T15:20:00+07:00",
+    "summary": "Threat actors are exploiting an Adobe ColdFusion vulnerability which has a CVSS score of 10.0",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://kb.cert.org/vuls/id/828543"
+      "https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/"
     ]
   },
   {
-    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-    "published_wib": "2026-07-07T00:37:01+07:00",
-    "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims tha\u2026",
+    "title": "BeyondTrust warns of critical flaws in remote access software",
+    "published_wib": "2026-07-07T15:12:10+07:00",
+    "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+      "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/"
     ]
   },
   {
-    "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
-    "published_wib": "2026-07-06T23:52:23+07:00",
-    "summary": "If you\u2019re building multi-agent AI systems, you need to prevent authorization scope from silently expanding as agents delegate tasks through multi-hop chains. Without proper controls, an agent can potentially act beyond what the originating user authorized, even when role-based access control (RBAC) policies are in place. The OWASP Top 10 for Agentic Applica\u2026",
+    "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+    "published_wib": "2026-07-07T13:40:47+07:00",
+    "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday. \"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypa\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/"
+      "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
     ]
   },
   {
-    "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
-    "published_wib": "2026-07-06T23:36:50+07:00",
-    "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
+    "title": "OPNsense XPATH Injection (CVE-2026-53582)",
+    "published_wib": "2026-07-07T13:39:34+07:00",
+    "summary": "Posted by evan on Jul 06 SUMMARY: a stored XPATH injection allows any user with just ca manager/certificate manager perms to leak any secret key/any value in config.xml, thus achieving privilege escalation and potentially remote code execution. this can also likely be chained via csrf and some clever hiding. see https://github.com/opnsense/core/security/adv\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack"
+      "https://seclists.org/fulldisclosure/2026/Jul/18"
     ]
   },
   {
-    "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-    "published_wib": "2026-07-06T23:28:59+07:00",
-    "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthent\u2026",
+    "title": "SCHUTZWERK-SA-2025-001: Authentication Bypass for SafeLine SL6 and SL6+",
+    "published_wib": "2026-07-07T13:38:56+07:00",
+    "summary": "Posted by Jan H\u00fcber via Fulldisclosure on Jul 06 Authentication Bypass for SafeLine SL6 and SL6+ =============================================== The SafeLine SL6 and SL6+ devices integrated into elevator emergency intercom systems are vulnerable to an authentication bypass. This vulnerability allows attackers to bypass authentication requirements and access\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+      "https://seclists.org/fulldisclosure/2026/Jul/17"
     ]
   },
   {
-    "title": "The agentic blind spots in your zero trust program",
-    "published_wib": "2026-07-06T21:47:22+07:00",
-    "summary": "Stephen Wilson, field chief technology officer for HashiCorp, an IBM company, likens AI agents to \u201creally smart kindergartners.\u201d \u201cThey know how to do something, but they have no clue as to why they should do it,\u201d Wilson says. This combination of superior execution power and lack of judgment can create a significant challenge for organizations trying to fit\u2026",
+    "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+    "published_wib": "2026-07-07T12:16:51+07:00",
+    "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices. The vulnerabilities are listed below - CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnera\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4193263/the-agentic-blind-spots-in-your-zero-trust-program.html"
+      "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
     ]
   },
   {
-    "title": "Identity: The operational control plane for agentic AI",
-    "published_wib": "2026-07-06T21:39:49+07:00",
-    "summary": "Existing security controls weren\u2019t designed for AI agents. Static credentials and standing privileges aren\u2019t sufficient for an emerging model where organizations need to rapidly authorize, limit, and revoke permissions from autonomous agents, sometimes more than once within a single workflow. Agentic AI requires organizations to carefully consider how to go\u2026",
+    "title": "Apple Container: Open-source tool for Linux containers on the Mac",
+    "published_wib": "2026-07-07T12:00:58+07:00",
+    "summary": "Developers on Apple silicon Macs have run Linux containers through software built around a single shared virtual machine for years. Apple\u2019s open-source Container project gives each Linux workload its own lightweight virtual machine. Container is written in Swift and tuned for Apple silicon. It creates and runs Linux containers as lightweight virtual machine\u2026",
     "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
     "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
     "sources": [
-      "https://www.csoonline.com/article/4193274/identity-the-operational-control-plane-for-agentic-ai.html"
+      "https://www.helpnetsecurity.com/2026/07/07/apple-container-open-source-linux-mac/"
     ]
   }
 ]

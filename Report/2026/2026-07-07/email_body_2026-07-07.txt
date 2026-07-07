@@ -3,16 +3,16 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- 'Bad Epoll' vulnerability allows root access on Linux and Android
-- U.S. Army websites defaced in apparent 404 hijacking campaign
-- NatWest CEO targeted in AI deepfake scam
-- 7 arrested in Vietnam for operating large anime piracy site HiAnime
-- Canada's spy agency conducted state-authorized cyberattacks against drug traffickers and ransomware gangs
+- Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems
+- Why The Gentlemen ransomware is a test of identity and recovery controls
+- Scammers are using AI to sell impossible flowers
+- Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities
+- The modern CISO is becoming the next CFO
 
 Section Summaries:
-- Threat Intelligence: 10 items, led by U.S. Army websites defaced in apparent 404 hijacking campaign. with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by 'Bad Epoll' vulnerability allows root access on Linux and Android. prioritizing patching and exposure reduction for high-impact issues.
-- Data Breach & Cybercrime: 10 items, led by NatWest CEO targeted in AI deepfake scam. highlighting extortion, leakage, and law-enforcement actions where reported.
+- Threat Intelligence: 10 items, led by ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Why The Gentlemen ransomware is a test of identity and recovery controls. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.
 

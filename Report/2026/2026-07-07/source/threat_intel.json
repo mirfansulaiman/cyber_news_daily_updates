@@ -1,5 +1,15 @@
 [
   {
+    "title": "ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)",
+    "published_wib": "2026-07-07T09:00:02+07:00",
+    "summary": "ISC Stormcast For Tuesday, July 7th, 2026 https://isc.sans.edu/podcastdetail/9996, (Tue, Jul 7th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33126"
+    ]
+  },
+  {
     "title": "U.S. Army websites defaced in apparent 404 hijacking campaign",
     "published_wib": "2026-07-07T06:33:45+07:00",
     "summary": "The defacement targeted error pages on U.S. Army websites, including oil.army.mil and ai2c.army.mil, which belong to the Army\u2019s Open Innovation Lab and Artificial Intelligence Integration Center, respectively.",
@@ -87,16 +97,6 @@
     "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
     "sources": [
       "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/"
-    ]
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-    "published_wib": "2026-07-06T20:01:14+07:00",
-    "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructi\u2026",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html"
     ]
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "highlights_led_by_exploit_ready_vulns": "'Bad Epoll' vulnerability allows root access on Linux and Android and CitrixBleed-ing Again? NetScaler Vulnerability Under Attack. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "highlights_led_by_exploit_ready_vulns": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems and Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
   "endpoint_posture_under_pressure": "U.S. Army websites defaced in apparent 404 hijacking campaign. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
-  "identity_and_edge_access_risks": "Canada's spy agency conducted state-authorized cyberattacks against drug traffickers and ransomware gangs. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "identity_and_edge_access_risks": "Why The Gentlemen ransomware is a test of identity and recovery controls. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
   "issue_date": "2026-07-07",
   "vol": "003"
 }

@@ -1,5 +1,35 @@
 [
   {
+    "title": "Why The Gentlemen ransomware is a test of identity and recovery controls",
+    "published_wib": "2026-07-07T16:53:33+07:00",
+    "summary": "The Gentlemen ransomware underscores a challenge many CISOs face: stopping attackers after they gain an initial foothold. Researchers say the malware can spread across enterprise networks using legitimate Windows management tools while simultaneously attempting to weaken security and recovery systems. A report from Picus Security shows the malware combines\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4193699/why-the-gentlemen-ransomware-is-a-test-of-identity-and-recovery-controls.html"
+    ]
+  },
+  {
+    "title": "Scammers are using AI to sell impossible flowers",
+    "published_wib": "2026-07-07T16:31:52+07:00",
+    "summary": "AI-generated flower scams are blooming online, with scammers using fake images to sell seeds for plants that don't exist, like these \"cat's face orchids.\"",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/07/scammers-are-using-ai-to-sell-impossible-flowers"
+    ]
+  },
+  {
+    "title": "Zscaler finds autonomous agents succumb to IPI traps",
+    "published_wib": "2026-07-07T08:24:40+07:00",
+    "summary": "In a test of major LLMs, Zscaler found that some autonomous AI agents fell victim to frauds, reinforcing how easily some high-end enterprise agents can be conned by schemes that would fool few, if any, humans. The security vendor looked at various forms of indirect prompt injection (IPI) traps and found that, whereas many models fell victim to the schemes,\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4193498/zscaler-finds-autonomous-agents-succumb-to-ipi-traps-2.html"
+    ]
+  },
+  {
     "title": "NatWest CEO targeted in AI deepfake scam",
     "published_wib": "2026-07-07T06:24:33+07:00",
     "summary": "The deepfake image, which depicted Paul Thwaite alongside journalist Emily Maitlis and was designed to mimic a BBC radio interview, was shared on the social media platform X.",
@@ -67,36 +97,6 @@
     "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
     "sources": [
       "https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/"
-    ]
-  },
-  {
-    "title": "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
-    "published_wib": "2026-07-06T17:47:09+07:00",
-    "summary": "ShinyHunters leaks names, addresses, DOBs, and more after Christian college discloses cyberattack",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.theregister.com/security/2026/07/06/moody-bible-institute-breach-leaves-23m-accounts-needing-salvation-says-cyber-expert/5266827"
-    ]
-  },
-  {
-    "title": "Single points of failure fail. The SaaS layer is not an exception",
-    "published_wib": "2026-07-06T17:00:00+07:00",
-    "summary": "Higher education has consolidated its entire academic operation into a handful of massive SaaS platforms. The LMS manages instruction, grading and communication. The SIS owns enrollment, records and financial aid. Identity and productivity live in a small number of cloud providers. These are not peripheral tools \u2014 they are the operational infrastructure of\u2026",
-    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
-    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
-    "sources": [
-      "https://www.csoonline.com/article/4192380/single-points-of-failure-fail-the-saas-layer-is-not-an-exception.html"
-    ]
-  },
-  {
-    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-    "published_wib": "2026-07-06T15:50:54+07:00",
-    "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the\u2026",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html"
     ]
   }
 ]
