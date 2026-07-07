@@ -32,9 +32,10 @@ from typing import Iterable, Optional
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 WIB = dt.timezone(dt.timedelta(hours=7), name="WIB")
-ISSUE_TIME_STR = "07:00 WIB"
-ISSUE_HOUR = 7
+ISSUE_TIME_STR = "17:00 WIB"
+ISSUE_HOUR = 17
 ALLOWLIST_URL = "https://raw.githubusercontent.com/netsecid/cybersecurity-rss-sources/main/feeds/all.json"
+ALLOWLIST_CACHE = Path(__file__).parent / "rss_allowlist_cache.json"
 
 # Remove common tracking params to help dedup canonical URLs.
 _TRACKING_QS_PREFIXES = (
@@ -93,7 +94,15 @@ def fetch_text(url: str, timeout_s: int = 20) -> str:
 
 
 def load_allowlist() -> list[Feed]:
-    raw = fetch_text(ALLOWLIST_URL)
+    # Coba cache lokal dulu biar gak kena rate limit GitHub
+    raw = None
+    if ALLOWLIST_CACHE.exists():
+        try:
+            raw = ALLOWLIST_CACHE.read_text("utf-8")
+        except Exception:
+            raw = None
+    if not raw:
+        raw = fetch_text(ALLOWLIST_URL)
     obj = json.loads(raw)
     feeds: list[Feed] = []
     for cat in obj.get("categories", []):
