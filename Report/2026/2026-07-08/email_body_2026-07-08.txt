@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th)
+- ClickFix to Cash-Out: Anatomy of a Mexican Banking-Fraud Toolkit
+- Accenture confirms breach after hacker offers stolen data for sale
+- Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation
+- 16-year-old KVM flaw allows attackers to escape VMs and take over Linux servers
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Wednesday, July 8th, 2026 https://isc.sans.edu/podcastdetail/9998, (Wed, Jul 8th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by 16-year-old KVM flaw allows attackers to escape VMs and take over Linux servers. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by ClickFix to Cash-Out: Anatomy of a Mexican Banking-Fraud Toolkit. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "16-year-old KVM flaw allows attackers to escape VMs and take over Linux servers",
+    "published_wib": "2026-07-08T04:53:48+07:00",
+    "summary": "A critical vulnerability in the Kernel-based Virtual Machine (KVM) module of the Linux kernel allows attackers with root access in a guest VM to execute arbitrary code on the host system. This violates the most important security boundary that cloud providers and enterprises rely on to isolate sensitive processes on servers. The vulnerability, tracked as CV\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4194085/16-year-old-kvm-flaw-allows-attackers-to-escape-vms-and-take-over-linux-servers.html"
+    ]
+  },
+  {
+    "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+    "published_wib": "2026-07-08T01:52:19+07:00",
+    "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/"
+    ]
+  },
+  {
+    "title": "OMB M-26-14: Why federal agencies must fix asset visibility first",
+    "published_wib": "2026-07-08T01:30:00+07:00",
+    "summary": "The new OMB logging directive raises the bar on log collection and explicitly ties every maturity milestone to how well agencies know what\u2019s on their networks. Learn why asset visibility is the first problem to solve. Key takeaways M-26-14 rescinds M-21-31 and replaces blanket data-retention mandates with a five-element logging maturity model (levels 0-4) t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/omb-m-26-14-asset-visibility-logging-maturity-model-compliance"
+    ]
+  },
+  {
+    "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
+    "published_wib": "2026-07-08T01:18:52+07:00",
+    "summary": "With the introduction of models that require data sharing with third-party providers\u2014such as Claude Fable 5\u2014organizations need a way to centrally enforce data retention policies. Amazon Bedrock gives you control over whether your prompts and model outputs are retained after an inference request completes. You might need a way to enforce your retention setti\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/"
+    ]
+  },
+  {
+    "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+    "published_wib": "2026-07-08T00:17:19+07:00",
+    "summary": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets. The post Critical Gitea Flaw Under Active Exploitation, Researchers Warn appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/"
+    ]
+  },
+  {
+    "title": "Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers",
+    "published_wib": "2026-07-07T22:40:00+07:00",
+    "summary": "A suspected Chinese threat cluster is exploiting Roundcube vulnerabilities to compromise university networks in the US and Canada and harvest user credentials",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/"
+    ]
+  },
+  {
+    "title": "New TrojPix technique uses screen pixels to exfiltrate data from air-gapped computers",
+    "published_wib": "2026-07-07T21:03:00+07:00",
+    "summary": "The TrojPix technique, developed by Shandong University researchers, exploits the video cable to radiate faint radio signals that can be captured by a nearby receiver.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-trojpix-technique-uses-screen-pixels-to-exfiltrate-data-from-air-gapped-computers"
+    ]
+  },
+  {
+    "title": "Picus Autonomous Exposure Validation Platform validates real-world CVE exploitability",
+    "published_wib": "2026-07-07T20:31:50+07:00",
+    "summary": "Picus Security has launched the Picus Autonomous Exposure Validation Platform, built for a world where frontier AI has collapsed the time between disclosure and attack. Adversaries now weaponize new CVEs in hours, against a backdrop of around 132 published every day. A CVE drops; it is rated 9.8. Leadership asks, \u201cAre we exposed?\u201d and most teams cannot say\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/07/picus-autonomous-exposure-validation-platform-validates-real-world-cve-exploitability/"
+    ]
+  },
+  {
+    "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+    "published_wib": "2026-07-07T20:27:09+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise. The one-click vulnerability has been codenamed WriteOut by the Sand Security Research team. \"An outsider could go from having no ac\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html"
+    ]
+  },
+  {
+    "title": "Commvault measures cyber recovery readiness with AI attack simulations",
+    "published_wib": "2026-07-07T19:50:02+07:00",
+    "summary": "Commvault has announced Commvault Minutes to Recovery, a scenario-driven cyber resilience simulation that lets participants act as a hacker and run their own attacks using frontier AI tools. Then, participants are challenged to defend against and recover from an incident under pressure to test their resilience against these AI-driven cyberattacks. The windo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/07/commvault-measures-cyber-recovery-readiness-with-ai-attack-simulations/"
+    ]
+  }
+]

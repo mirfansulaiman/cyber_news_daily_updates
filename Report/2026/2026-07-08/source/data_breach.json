@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ClickFix to Cash-Out: Anatomy of a Mexican Banking-Fraud Toolkit",
+    "published_wib": "2026-07-08T07:00:00+07:00",
+    "summary": "Elastic Security Labs tracks REF6045, an active operator-assisted banking fraud operation targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.elastic.co/security-labs/mexican-banking-fraud-scmbanker-ref6045"
+    ]
+  },
+  {
+    "title": "Accenture confirms breach after hacker offers stolen data for sale",
+    "published_wib": "2026-07-08T05:06:07+07:00",
+    "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/"
+    ]
+  },
+  {
+    "title": "GitHub AI agent leaks private repos when asked nicely",
+    "published_wib": "2026-07-08T02:49:01+07:00",
+    "summary": "Per usual, there's no fix - or even any documentation - for GitLost",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924"
+    ]
+  },
+  {
+    "title": "How the Reddit and Discord false report scam steals accounts",
+    "published_wib": "2026-07-08T00:45:35+07:00",
+    "summary": "Scammers are tricking Reddit and Discord users into handing over login codes by claiming they were involved in a false report.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/07/how-the-reddit-and-discord-false-report-scam-steals-accounts"
+    ]
+  },
+  {
+    "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+    "published_wib": "2026-07-08T00:31:54+07:00",
+    "summary": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data. The post County Government Reportedly Paid $1 Million to Cyber Extortion Group appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/"
+    ]
+  },
+  {
+    "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
+    "published_wib": "2026-07-07T22:24:30+07:00",
+    "summary": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows"
+    ]
+  },
+  {
+    "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+    "published_wib": "2026-07-07T22:21:21+07:00",
+    "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/"
+    ]
+  },
+  {
+    "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+    "published_wib": "2026-07-07T21:04:50+07:00",
+    "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access acros\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
+    ]
+  },
+  {
+    "title": "Scattered Spider\u2019s Structure More Like a Cybercrime Collective Than a Unified Gang",
+    "published_wib": "2026-07-07T21:00:00+07:00",
+    "summary": "Group-IB analysis argued Scattered Spider is a decentralized collective of independent clusters",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/"
+    ]
+  },
+  {
+    "title": "Suspected pro-Russia hacktivist arrested in Spain with FBI support",
+    "published_wib": "2026-07-07T20:43:00+07:00",
+    "summary": "The arrest is a component of Operation Riptide, an international initiative focused on disrupting malicious cyber activity and holding perpetrators accountable.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/suspected-pro-russia-hacktivist-arrested-in-spain-with-fbi-support"
+    ]
+  }
+]
