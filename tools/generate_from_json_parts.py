@@ -193,7 +193,7 @@ def pdf_styles(font_name: str) -> dict[str, ParagraphStyle]:
     }
 
 
-def build_pdf(out_pdf: Path, issue_date: str, vol: str, highlights: list[str], sections: dict[str, list[Item]]):
+def build_pdf(out_pdf: Path, issue_date: str, vol: str, highlights: list[str], sections: dict[str, list[Item]], issue_time_wib: str = "17:00 WIB"):
     font_name = register_fonts()
     styles = pdf_styles(font_name)
 
@@ -211,7 +211,7 @@ def build_pdf(out_pdf: Path, issue_date: str, vol: str, highlights: list[str], s
     story = []
     story.append(Spacer(1, 0.9 * inch))
     story.append(Paragraph(reportlab_safe_text("Cybersecurity Daily Newsletter"), styles["title"]))
-    story.append(Paragraph(reportlab_safe_text(f"Vol. {vol} | {issue_date} 07:00 WIB"), styles["subtitle"]))
+    story.append(Paragraph(reportlab_safe_text(f"Vol. {vol} | {issue_date} {issue_time_wib}"), styles["subtitle"]))
     story.append(Spacer(1, 0.2 * inch))
     story.append(Paragraph(normalize_text("<b>Top 5 Highlights</b>"), styles["h1"]))
     for h in highlights[:5]:
@@ -378,7 +378,7 @@ def fit_text_block(header_lines: list[str], body_items: list[str], panel_w: int,
     return size, body_lines
 
 
-def draw_poster(out_path: Path, header: str, subheader: str, items: list[str], seed: int, vol: str, issue_date: str):
+def draw_poster(out_path: Path, header: str, subheader: str, items: list[str], seed: int, vol: str, issue_date: str, issue_time_wib: str = "17:00 WIB"):
     W, H = 1080, 1350
     bg = synthwave_background(W, H, seed)
     img = bg.convert("RGBA")
@@ -414,7 +414,7 @@ def draw_poster(out_path: Path, header: str, subheader: str, items: list[str], s
         y += body_line_h
 
     footer_font = load_mono_font(18)
-    footer = f"Vol. {vol} | {issue_date} 07:00 WIB"
+    footer = f"Vol. {vol} | {issue_date} {issue_time_wib}"
     tw = draw.textlength(footer, font=footer_font)
     draw.text((W - panel_margin - tw, H - 70), footer, font=footer_font, fill=CYAN)
 
@@ -445,7 +445,7 @@ def build_readme_summary_paragraphs(highlights: list[str]) -> list[str]:
     ]
 
 
-def update_readme_today_updates(readme_path: Path, issue_date: str, vol: str):
+def update_readme_today_updates(readme_path: Path, issue_date: str, vol: str, issue_time_wib: str = "17:00 WIB"):
     year = issue_date[:4]
     issue_tag = f"issue-{vol}"
     base = f"{RAW_BASE}/Report/{year}/{issue_date}"
@@ -463,7 +463,7 @@ def update_readme_today_updates(readme_path: Path, issue_date: str, vol: str):
 
     new_block = "\n".join(
         [
-            f"## Today Updates: [Vol. {vol} | {issue_date} 07:00 WIB]",
+            f"## Today Updates: [Vol. {vol} | {issue_date} {issue_time_wib}]",
             "",
             p1,
             "",
@@ -546,6 +546,7 @@ def process_issue_folder(issue_dir: Path):
 
     issue_date = meta["issue_date"]
     vol = meta["vol"]
+    issue_time_wib = meta.get("issue_time_wib", "17:00 WIB")
     issue_tag = f"issue-{vol}"
 
     # PDF
@@ -560,17 +561,19 @@ def process_issue_folder(issue_dir: Path):
             "latest_vulnerabilities": vul,
             "data_breach_cybercrime": db,
         },
+        issue_time_wib=issue_time_wib,
     )
 
     # Posters
     draw_poster(
         issue_dir / f"poster_{issue_date}_{issue_tag}.jpg",
         header="CYBERSECURITY DAILY NEWSLETTER",
-        subheader=f"VOL. {vol} | {issue_date} 07:00 WIB",
+        subheader=f"VOL. {vol} | {issue_date} {issue_time_wib}",
         items=highlights,
         seed=hash((issue_date, "cover")) & 0xFFFFFFFF,
         vol=vol,
         issue_date=issue_date,
+        issue_time_wib=issue_time_wib,
     )
 
     draw_poster(
@@ -581,6 +584,7 @@ def process_issue_folder(issue_dir: Path):
         seed=hash((issue_date, "ti")) & 0xFFFFFFFF,
         vol=vol,
         issue_date=issue_date,
+        issue_time_wib=issue_time_wib,
     )
 
     draw_poster(
@@ -591,6 +595,7 @@ def process_issue_folder(issue_dir: Path):
         seed=hash((issue_date, "vul")) & 0xFFFFFFFF,
         vol=vol,
         issue_date=issue_date,
+        issue_time_wib=issue_time_wib,
     )
 
     draw_poster(
@@ -601,6 +606,7 @@ def process_issue_folder(issue_dir: Path):
         seed=hash((issue_date, "db")) & 0xFFFFFFFF,
         vol=vol,
         issue_date=issue_date,
+        issue_time_wib=issue_time_wib,
     )
 
     return True

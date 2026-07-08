@@ -33,6 +33,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 WIB = dt.timezone(dt.timedelta(hours=7), name="WIB")
 ISSUE_TIME_STR = "17:00 WIB"
+GENERATE_TIME_STR = "16:55 WIB"
 ISSUE_HOUR = 17
 ALLOWLIST_URL = "https://raw.githubusercontent.com/netsecid/cybersecurity-rss-sources/main/feeds/all.json"
 ALLOWLIST_CACHE = Path(__file__).parent / "rss_allowlist_cache.json"
@@ -871,7 +872,7 @@ def main(argv: list[str]) -> int:
 
     meta = {
         "issue_date": issue_date.isoformat(),
-        "issue_time_wib": ISSUE_TIME_STR,
+        "issue_time_wib": GENERATE_TIME_STR,
         "vol": f"{int(vol):03d}" if str(vol).isdigit() else str(vol),
     }
 
