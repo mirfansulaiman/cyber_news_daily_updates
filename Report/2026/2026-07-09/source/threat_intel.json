@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th)",
+    "published_wib": "2026-07-09T09:00:02+07:00",
+    "summary": "ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33140"
+    ]
+  },
+  {
+    "title": "GitHub\u2019s public APIs are becoming an enterprise reconnaissance tool",
+    "published_wib": "2026-07-09T06:08:07+07:00",
+    "summary": "GitHub continues to be a scintillating target for attackers because it sits in the middle of the software supply chain and gives threat actors three things they crave: source code, secrets, and automated pipelines to run amok in. Datadog Security Research has been tracking what it calls a \u201csustained pattern\u201d of GitHub API abuse over the past several months\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4194665/githubs-public-apis-are-becoming-an-enterprise-reconnaissance-tool-2.html"
+    ]
+  },
+  {
+    "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+    "published_wib": "2026-07-09T02:54:59+07:00",
+    "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/"
+    ]
+  },
+  {
+    "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+    "published_wib": "2026-07-09T01:56:02+07:00",
+    "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/"
+    ]
+  },
+  {
+    "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
+    "published_wib": "2026-07-08T23:45:54+07:00",
+    "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign"
+    ]
+  },
+  {
+    "title": "HPC AI Workloads Need Runtime Security. The Architecture Already Exists.",
+    "published_wib": "2026-07-08T23:24:38+07:00",
+    "summary": "Learn how to secure HPC AI infrastructure against runtime and supply chain threats via continuous behavioral monitoring.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.sentinelone.com/blog/hpc-ai-workloads-need-runtime-security-the-architecture-already-exists/"
+    ]
+  },
+  {
+    "title": "China-Linked APT Expands Arsenal With New \u2018Leash\u2019 Backdoors",
+    "published_wib": "2026-07-08T22:42:11+07:00",
+    "summary": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors. The post China-Linked APT Expands Arsenal With New \u2018Leash\u2019 Backdoors appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/"
+    ]
+  },
+  {
+    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+    "published_wib": "2026-07-08T22:07:24+07:00",
+    "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html"
+    ]
+  },
+  {
+    "title": "China-Linked APT Expands Proxy Network With New Malware",
+    "published_wib": "2026-07-08T21:30:00+07:00",
+    "summary": "Cisco Talos said China-linked APT UAT-7810 is growing its proxy relay network with new malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/uat-7810-china-apt-orb-proxy/"
+    ]
+  },
+  {
+    "title": "Webinar Today: Why Email Security Keeps Failing",
+    "published_wib": "2026-07-08T20:16:28+07:00",
+    "summary": "Join the webinar as we break down why email-layer defenses alone can\u2019t keep pace with the modern phishing ecosystem. The post Webinar Today: Why Email Security Keeps Failing appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/"
+    ]
+  }
+]

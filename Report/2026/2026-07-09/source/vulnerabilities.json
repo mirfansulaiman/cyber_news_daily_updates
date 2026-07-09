@@ -1,0 +1,102 @@
+[
+  {
+    "title": "When AI-Accelerated Discovery Outruns Patching, Exploitability Proof Decides What Gets Fixed First",
+    "published_wib": "2026-07-09T05:15:08+07:00",
+    "summary": "Why Qualys joined the Athena coalition, and what it means for how you prioritize risk. Qualys is proud to have joined Athena, the industry coalition Chainguard launched to coordinate the defense of open source software. It\u2019s a cause we strongly support, because the problem Athena is working to solve is the same one the Qualys [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/qualys-insights/2026/07/08/qualys-joins-chainguard-athena-turning-coalition-scale-findings-into-validated-action"
+    ]
+  },
+  {
+    "title": "CISA adds ColdFusion, Langflow, and Joomla bugs to known exploited vulnerabilities list",
+    "published_wib": "2026-07-09T03:14:31+07:00",
+    "summary": "Three of the four flaws added to CISA's KEV list were critical.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisa-adds-coldfusion-langflow-and-two-joomla-bugs-to-known-exploited-vulnerabilities-list"
+    ]
+  },
+  {
+    "title": "FortiBleed: Credential Reuse, Legacy Hashes, and the Risk of Internet-Exposed FortiGate Devices",
+    "published_wib": "2026-07-09T00:38:12+07:00",
+    "summary": "Key Takeaways FortiBleed refers to June 2026 public reporting of large-scale credential exposure and abuse targeting internet-reachable FortiGate management and SSL-VPN gateways driven by credential reuse and brute-force, not a single new zero-day. Risk is highest for internet-exposed FortiGate devices without MFA, with reused or legacy-hashed credentials,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/08/fortibleed-fortigate-credential-reuse-internet-exposed"
+    ]
+  },
+  {
+    "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
+    "published_wib": "2026-07-08T23:09:15+07:00",
+    "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/"
+    ]
+  },
+  {
+    "title": "Operationalizing Day Minus Seven: The Cloud-Native ROC",
+    "published_wib": "2026-07-08T21:56:19+07:00",
+    "summary": "Summary Frontier AI models in the post-Mythos era are changing the speed and scale of exposure risk. Security teams are entering an era where AI can help discover, chain, and exploit weaknesses faster than traditional programs can absorb. The challenge is no longer finding more issues; it\u2019s knowing which exposures are real, reachable, urgent, and [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/07/08/cloud-roc-day-minus-seven-etm"
+    ]
+  },
+  {
+    "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+    "published_wib": "2026-07-08T21:38:05+07:00",
+    "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Co\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+    ]
+  },
+  {
+    "title": "VU#849433: Adalo Database API Enables Cross-App User Data Extraction via Over-Fetching and Missing Authorization Controls",
+    "published_wib": "2026-07-08T21:03:42.960760+07:00",
+    "summary": "Overview Adalo\u2019s no\u2011code application platform exposes complete user records through its database API for all applications built on both V1 and V2. Due to a platform-level flaw, authenticated users can retrieve full user data belonging to any Adalo application, regardless of configuration. This issue affects more than one million applications and placing dev\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/849433"
+    ]
+  },
+  {
+    "title": "Attackers using Langflow flaw for credential harvesting (CVE-2026-55255)",
+    "published_wib": "2026-07-08T21:03:04+07:00",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) is warning about yet another Langflow vulnerability (CVE-2026-55255) leveraged by attackers in the wild. The flaw was added to the agency\u2019s Known Exploited Vulnerabilities catalog on Tuesday, July 7, nearly two weeks after the Sysdig Threat Research Team observed it being actively targeted. CVE-\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/08/langflow-vulnerability-cve-2026-55255-exploited/"
+    ]
+  },
+  {
+    "title": "China tells devs to ditch Claude Code over 'backdoor code' fears",
+    "published_wib": "2026-07-08T20:58:07+07:00",
+    "summary": "National vulnerability database claims monitoring mechanism can forward Chinese users' data to remote servers",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/08/china-ditch-older-claude-versions-with-backdoor-code/5268371"
+    ]
+  },
+  {
+    "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
+    "published_wib": "2026-07-08T19:15:00+07:00",
+    "summary": "The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project. The post Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/"
+    ]
+  }
+]
