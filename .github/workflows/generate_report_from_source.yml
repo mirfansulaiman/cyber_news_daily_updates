@@ -1,6 +1,9 @@
 name: Generate Daily Report Artifacts
 
 on:
+  # 07:00 WIB == 00:00 UTC
+  schedule:
+    - cron: "05 17 * * *"
   push:
     branches: ["main"]
     paths:
