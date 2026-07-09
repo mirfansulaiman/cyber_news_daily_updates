@@ -1,0 +1,102 @@
+[
+  {
+    "title": "VU#152953: PayRange Android app version 7.0.7 contains multiple vulnerabilities",
+    "published_wib": "2026-07-10T00:03:26.232973+07:00",
+    "summary": "Overview PayRange is a mobile payment app that allows users to pay for vending machines, laundromats, and other unattended machines using a smartphone with Bluetooth. Two vulnerabilities were discovered in version 7.0.7 of the PayRange app that is available in the Google Play store. Description A vulnerability (CVE-2026-13462) exists in the PayRange Android\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/152953"
+    ]
+  },
+  {
+    "title": "Palo Alto Networks Patches 13 Vulnerabilities",
+    "published_wib": "2026-07-09T20:49:42+07:00",
+    "summary": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
+    "published_wib": "2026-07-09T20:30:00+07:00",
+    "summary": "Weeks after the exploit code dropped, Redmond has finally ships a fix for the Defender zero-day",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/09/microsoft-closes-book-on-nightmare-eclipses-rogueplanet-zero-day/5269280"
+    ]
+  },
+  {
+    "title": "VU#734812: Xerte Online Toolkit contains an authentication bypass that allows for RCE",
+    "published_wib": "2026-07-09T19:37:51.667279+07:00",
+    "summary": "Overview Two vulnerabilities have been discovered in Xerte Online Toolkits, an open-source e-learning authoring toolsuite intended for the creation of learning materials within a web browser. CVE-2026-14261 tracks the persistence of the /setup/ directory after installation, which allows an unauthenticated attacker to reconfigure the application to point to\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/734812"
+    ]
+  },
+  {
+    "title": "UK cyber agency unveils AI-powered Cyber Shield to counter attacks at machine speed",
+    "published_wib": "2026-07-09T19:28:01+07:00",
+    "summary": "The UK\u2019s National Cyber Security Centre (NCSC) wants to deploy autonomous AI agents capable of finding and neutralizing cyberattacks on national networks in real time, marking Britain\u2019s push toward a sovereign, machine-speed cyber defense system. The blueprint, called Cyber Shield, was developed jointly with the Department for Science, Innovation and Techno\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4194997/uk-cyber-agency-unveils-ai-powered-cyber-shield-to-counter-attacks-at-machine-speed.html"
+    ]
+  },
+  {
+    "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
+    "published_wib": "2026-07-09T19:18:46+07:00",
+    "summary": "Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs. The post 12 Million Impacted by Data Breach at Japanese Telco KDDI appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/"
+    ]
+  },
+  {
+    "title": "Microsoft releases fix for RoguePlanet Defender flaw (CVE-2026-50656)",
+    "published_wib": "2026-07-09T19:14:57+07:00",
+    "summary": "Microsoft has finally released a security update for its Microsoft Malware Protection Engine, which fixes CVE-2026-50656, the Windows Defender local privilege escalation vulnerability triggered by the RoguePlanet exploit. The vulnerability and the fix CVE-2026-50656 is due to improper link resolution before file access, affects Windows 10 and Windows 11, an\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/microsoft-releases-fix-for-rogueplanet-defender-flaw-cve-2026-50656/"
+    ]
+  },
+  {
+    "title": "15-Year-Old Linux Vulnerability \u2018GhostLock\u2019 Earns Researchers $92k From Google",
+    "published_wib": "2026-07-09T18:52:35+07:00",
+    "summary": "Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access. The post 15-Year-Old Linux Vulnerability \u2018GhostLock\u2019 Earns Researchers $92k From Google appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/"
+    ]
+  },
+  {
+    "title": "Microsoft Patches Defender \u2018RoguePlanet\u2019 Vulnerability",
+    "published_wib": "2026-07-09T17:28:35+07:00",
+    "summary": "The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update. The post Microsoft Patches Defender \u2018RoguePlanet\u2019 Vulnerability appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/"
+    ]
+  },
+  {
+    "title": "Agentic AI identity: A 6-stage maturity model for non-human identities",
+    "published_wib": "2026-07-09T17:00:00+07:00",
+    "summary": "In a client engagement last year, an LLM-based deployment agent with standing access to a production Kubernetes cluster triggered a four-hour outage through a malformed configuration push. In the IAM, the agent appeared as a service account with a long-lived API key, no MFA, no scoped revocation path. When the incident review team asked which human had auth\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4194548/agentic-ai-identity-a-6-stage-maturity-model-for-non-human-identities.html"
+    ]
+  }
+]

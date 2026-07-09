@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+    "published_wib": "2026-07-10T01:38:49+07:00",
+    "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromis\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html"
+    ]
+  },
+  {
+    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "published_wib": "2026-07-09T23:49:02+07:00",
+    "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in - allowScrip\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html"
+    ]
+  },
+  {
+    "title": "Rethinking Email Security in the AI Era How Modern Phishing Bypasses Traditional SEGs - WC #1",
+    "published_wib": "2026-07-09T23:00:00+07:00",
+    "summary": "Rethinking Email Security in the AI Era How Modern Phishing Bypasses Traditional SEGs - WC #1",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15358-rethinking-email-security-in-the-ai-era-how-modern-phishing-bypasses-traditional-segs-wc-1"
+    ]
+  },
+  {
+    "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+    "published_wib": "2026-07-09T22:00:00+07:00",
+    "summary": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/"
+    ]
+  },
+  {
+    "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+    "published_wib": "2026-07-09T21:39:51+07:00",
+    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/"
+    ]
+  },
+  {
+    "title": "Vibe-Coded Malware Caught in Active Directory Attack",
+    "published_wib": "2026-07-09T21:00:00+07:00",
+    "summary": "Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/"
+    ]
+  },
+  {
+    "title": "Attack on Amazon Bedrock-linked AI gateway highlights new cloud security risk",
+    "published_wib": "2026-07-09T20:00:00+07:00",
+    "summary": "A cloud intrusion that ended with the deployment of cryptomining malware has exposed a bigger risk for enterprises: AI gateways that concentrate access to cloud identities, permissions, and foundation models in a single, highly privileged system. Researchers from cybersecurity firm Darktrace found attackers compromising an AWS EC2 instance acting as a LiteL\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4194984/attack-on-amazon-bedrock-linked-ai-gateway-highlights-new-cloud-security-risk.html"
+    ]
+  },
+  {
+    "title": "US Threat Landscape Alert: 30 Active Malware Families Ranked by Real Sandbox Data",
+    "published_wib": "2026-07-09T18:19:16+07:00",
+    "summary": "State of Cybersecurity in the US American organizations are processing more malware submissions than ever, and the mix keeps shifting under their feet. Phishing kits that hijack multi-factor authentication now sit alongside decades-old ransomware, commodity RATs sold for the price of a streaming subscription, and loaders built to slip payloads past EDR unde\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/usa-top-30-threats-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AWS centralizes access, spending, and governance for Claude",
+    "published_wib": "2026-07-09T15:37:07+07:00",
+    "summary": "Claude apps gateway for AWS is a self-hosted control plane that gives organizations a single point of control over access, costs, and policies for Claude Code and Claude Desktop. It replaces per-developer cloud credentials, manual distribution of managed settings to developer laptops, and centralizes usage attribution and spending controls. The gateway can\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/aws-claude-apps-gateway-governance/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+    "published_wib": "2026-07-09T11:01:49+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, ob\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html"
+    ]
+  }
+]

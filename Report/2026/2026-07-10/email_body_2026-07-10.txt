@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
+- New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware
+- New Helix vishing group emerges in SharePoint data theft attacks
+- VU#152953: PayRange Android app version 7.0.7 contains multiple vulnerabilities
+- npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by VU#152953: PayRange Android app version 7.0.7 contains multiple vulnerabilities. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
