@@ -1,5 +1,35 @@
 [
   {
+    "title": "AWS centralizes access, spending, and governance for Claude",
+    "published_wib": "2026-07-09T15:37:07+07:00",
+    "summary": "Claude apps gateway for AWS is a self-hosted control plane that gives organizations a single point of control over access, costs, and policies for Claude Code and Claude Desktop. It replaces per-developer cloud credentials, manual distribution of managed settings to developer laptops, and centralizes usage attribution and spending controls. The gateway can\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/aws-claude-apps-gateway-governance/"
+    ]
+  },
+  {
+    "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+    "published_wib": "2026-07-09T11:01:49+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, ob\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html"
+    ]
+  },
+  {
+    "title": "A single malware file can outweigh an entire AI dataset",
+    "published_wib": "2026-07-09T11:00:18+07:00",
+    "summary": "Antivirus vendors and security startups keep shipping AI features that promise to read malware the way a seasoned analyst would. The results inside security teams tell a quieter story. A new paper argues that static analysis of software, the job of deciding whether a program is malicious by examining its contents on disk, remains one of the hardest places t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/research-ai-in-cybersecurity/"
+    ]
+  },
+  {
     "title": "ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th)",
     "published_wib": "2026-07-09T09:00:02+07:00",
     "summary": "ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th)",
@@ -67,36 +97,6 @@
     "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
     "sources": [
       "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/"
-    ]
-  },
-  {
-    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-    "published_wib": "2026-07-08T22:07:24+07:00",
-    "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant t\u2026",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html"
-    ]
-  },
-  {
-    "title": "China-Linked APT Expands Proxy Network With New Malware",
-    "published_wib": "2026-07-08T21:30:00+07:00",
-    "summary": "Cisco Talos said China-linked APT UAT-7810 is growing its proxy relay network with new malware",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/uat-7810-china-apt-orb-proxy/"
-    ]
-  },
-  {
-    "title": "Webinar Today: Why Email Security Keeps Failing",
-    "published_wib": "2026-07-08T20:16:28+07:00",
-    "summary": "Join the webinar as we break down why email-layer defenses alone can\u2019t keep pace with the modern phishing ecosystem. The post Webinar Today: Why Email Security Keeps Failing appeared first on SecurityWeek .",
-    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
-    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
-    "sources": [
-      "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/"
     ]
   }
 ]

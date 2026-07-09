@@ -3,16 +3,16 @@ Hi there,
 Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
 
 Quick Highlights (max 5):
-- ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th)
-- GitHub’s public APIs are becoming an enterprise reconnaissance tool
-- When AI-Accelerated Discovery Outruns Patching, Exploitability Proof Decides What Gets Fixed First
-- Mount Royal University confirms breach as hackers claim attack
-- Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours
+- Agentic AI identity: A 6-stage maturity model for non-human identities
+- 'GodDamn' Ransomware Uses BYOVD to Smite US Companies
+- Police arrests 5,800 suspects in global anti-fraud crackdown
+- Why fixing your data architecture matters more than upgrading your detection models
+- Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges
 
 Section Summaries:
-- Threat Intelligence: 10 items, led by ISC Stormcast For Thursday, July 9th, 2026 https://isc.sans.edu/podcastdetail/10000, (Thu, Jul 9th). with ongoing campaign and malware activity signals.
-- Latest Vulnerabilities: 10 items, led by When AI-Accelerated Discovery Outruns Patching, Exploitability Proof Decides What Gets Fixed First. prioritizing patching and exposure reduction for high-impact issues.
-- Data Breach & Cybercrime: 10 items, led by Mount Royal University confirms breach as hackers claim attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+- Threat Intelligence: 10 items, led by AWS centralizes access, spending, and governance for Claude. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Agentic AI identity: A 6-stage maturity model for non-human identities. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 'GodDamn' Ransomware Uses BYOVD to Smite US Companies. highlighting extortion, leakage, and law-enforcement actions where reported.
 
 CTA: Full report and infographics attached below.
 

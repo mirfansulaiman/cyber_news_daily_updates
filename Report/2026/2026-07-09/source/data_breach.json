@@ -1,5 +1,65 @@
 [
   {
+    "title": "'GodDamn' Ransomware Uses BYOVD to Smite US Companies",
+    "published_wib": "2026-07-09T17:00:00+07:00",
+    "summary": "Microsoft co-signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies"
+    ]
+  },
+  {
+    "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
+    "published_wib": "2026-07-09T16:47:28+07:00",
+    "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/"
+    ]
+  },
+  {
+    "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+    "published_wib": "2026-07-09T14:47:16+07:00",
+    "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/"
+    ]
+  },
+  {
+    "title": "The fake report message that ends with a stolen Reddit account",
+    "published_wib": "2026-07-09T12:30:10+07:00",
+    "summary": "A direct message arrives on Reddit from a stranger, and it invites a reply. That reply is the point. This scheme runs on social engineering, with no malware and no malicious links, and it has spread across Reddit, Discord, and similar platforms. The goal is a single piece of information: a login or verification code that hands your account to someone else.\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/reddit-false-report-scam-direct-message/"
+    ]
+  },
+  {
+    "title": "Product showcase: Protect your iPhone with McAfee Mobile Security",
+    "published_wib": "2026-07-09T12:00:52+07:00",
+    "summary": "McAfee Mobile Security for iOS combines scam protection, web protection, VPN, Wi-Fi security, and device security checks in a single app. It is also available for Android. After downloading the app from the App Store, I created an account and completed a short onboarding process. The app asks whether you want to receive notifications before offering to run\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/product-showcase-mcafee-mobile-security-ios/"
+    ]
+  },
+  {
+    "title": "Messaging fraud trends point to smarter attacks, stronger blocking",
+    "published_wib": "2026-07-09T11:30:49+07:00",
+    "summary": "Fraudsters spent 2025 investing in scale. New routes, new tools, and higher message volumes moved through the SMS, voice, and chat channels that businesses rely on to reach customers. Money follows that activity. The Communications Fraud Control Association puts global telecom fraud losses at around 42 billion dollars for the year, several billion higher th\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/09/infobip-messaging-fraud-trends/"
+    ]
+  },
+  {
     "title": "Mount Royal University confirms breach as hackers claim attack",
     "published_wib": "2026-07-09T04:26:59+07:00",
     "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
@@ -37,66 +97,6 @@
     "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
     "sources": [
       "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/"
-    ]
-  },
-  {
-    "title": "The Verification Step Is the New ATO Battleground in 2026",
-    "published_wib": "2026-07-08T18:30:00+07:00",
-    "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to kic\u2026",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html"
-    ]
-  },
-  {
-    "title": "Accenture acknowledges security incident following 35GB data theft claim",
-    "published_wib": "2026-07-08T18:28:27+07:00",
-    "summary": "Accenture appears to have suffered a data breach, the extent of which is currently unknown. On Monday, a threat actor going by the handle \u201c888\u201d posted on the cybercrime forum PwnForums, claiming to have breached the technology consulting company and stolen \u201cjust over 35gb of source codes\u201d in July 2026. They claim to have exfiltrated source code, RSA keys, S\u2026",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.helpnetsecurity.com/2026/07/08/accenture-data-breach-2026/"
-    ]
-  },
-  {
-    "title": "Telco giant KDDI says data breach affects over 12 million people",
-    "published_wib": "2026-07-08T18:24:16+07:00",
-    "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/"
-    ]
-  },
-  {
-    "title": "\u2018GitLost\u2019 prompt injection leaks private repos via GitHub Agentic Workflows",
-    "published_wib": "2026-07-08T18:00:00+07:00",
-    "summary": "An issue opened on a public repository can lead the agent to disclose private details.",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.scworld.com/news/gitlost-prompt-injection-leaks-private-repos-via-github-agentic-workflows"
-    ]
-  },
-  {
-    "title": "[+24h Old] ClickFix to Cash-Out: Anatomy of a Mexican Banking-Fraud Toolkit",
-    "published_wib": "2026-07-08T07:00:00+07:00",
-    "summary": "Elastic Security Labs tracks REF6045, an active operator-assisted banking fraud operation targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges.",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.elastic.co/security-labs/mexican-banking-fraud-scmbanker-ref6045"
-    ]
-  },
-  {
-    "title": "[+24h Old] Accenture confirms breach after hacker offers stolen data for sale",
-    "published_wib": "2026-07-08T05:06:07+07:00",
-    "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
-    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/"
     ]
   }
 ]
