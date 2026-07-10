@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "AWS designated as a critical third party to the UK financial sector and Hackers exploit critical auth bypass in Gitea Docker image. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-11",
+  "vol": "003"
+}

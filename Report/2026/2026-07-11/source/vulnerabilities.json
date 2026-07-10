@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AWS designated as a critical third party to the UK financial sector",
+    "published_wib": "2026-07-10T23:15:19+07:00",
+    "summary": "Amazon Web Services EMEA Sarl (AWS) has been designated as a critical third party (CTP) to the UK financial sector by HM Treasury. The CTP regime came into force on January 1, 2025, and establishes a framework through which the Bank of England, PRA, and FCA (collectively the UK regulators) can set requirements on and [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/"
+    ]
+  },
+  {
+    "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+    "published_wib": "2026-07-10T22:48:38+07:00",
+    "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/"
+    ]
+  },
+  {
+    "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+    "published_wib": "2026-07-10T21:51:49+07:00",
+    "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most own\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html"
+    ]
+  },
+  {
+    "title": "EU extends mass scanning of messages without a warrant",
+    "published_wib": "2026-07-10T21:44:52+07:00",
+    "summary": "Members of the European Parliament (MEPs) have failed to block a proposal extending the mass scanning of private communications, a measure they have previously rejected twice. This time too, more votes were cast against the proposal than in favor, but due to the absence of numerous MEPs on the eve of the summer recess, the motion to reject did not attain th\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4195680/eu-extends-mass-scanning-of-messages-without-a-warrant.html"
+    ]
+  },
+  {
+    "title": "CrowdStrike identifies five new prompt injection threats to AI",
+    "published_wib": "2026-07-10T21:31:44+07:00",
+    "summary": "Security company CrowdStrike has identified five new prompt injection techniques that could leave enterprises at risk. Prompt injections attacks exploit the growing use of AI within organizations . They work by tricking LLMs into accepting instructions that a human operator would recognize as dubious\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4195670/crowdstrike-identifies-five-new-prompt-injection-threats-to-ai.html"
+    ]
+  },
+  {
+    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+    "published_wib": "2026-07-10T21:19:50+07:00",
+    "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html"
+    ]
+  },
+  {
+    "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
+    "published_wib": "2026-07-10T20:45:00+07:00",
+    "summary": "Researchers at the AI Now Institute developed a proof-of-concept exploit showing common AI tools used for security could backfire",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/"
+    ]
+  },
+  {
+    "title": "New Ransomware Exploits Malicious Driver to Remove Cybersecurity Protections",
+    "published_wib": "2026-07-10T20:00:00+07:00",
+    "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/"
+    ]
+  },
+  {
+    "title": "Incode brings on-device processing to age estimation for privacy-focused verification",
+    "published_wib": "2026-07-10T19:24:18+07:00",
+    "summary": "Incode has launched On-Device Age Estimation, an age verification capability that performs age estimation and liveness detection directly on the user\u2019s device, without transmitting facial data off the device. The company\u2019s age estimation models are now available to run entirely on-device. The solution combines on-device age estimation with deepfake and spoo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/10/incode-on-device-age-estimation/"
+    ]
+  },
+  {
+    "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
+    "published_wib": "2026-07-10T18:55:11+07:00",
+    "summary": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne. The post China, India-Linked Hackers Both Targeted Same Pakistani Police Force appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/"
+    ]
+  }
+]

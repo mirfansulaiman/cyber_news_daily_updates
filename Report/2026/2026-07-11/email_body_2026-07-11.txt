@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Ryuk ransomware member pleads guilty in the US, faces 15 years in prison
+- Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package
+- Police suspects Dutch hackers were involved in Odido breach
+- The Good, the Bad and the Ugly in Cybersecurity – Week 28
+- AWS designated as a critical third party to the UK financial sector
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by AWS designated as a critical third party to the UK financial sector. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ryuk ransomware member pleads guilty in the US, faces 15 years in prison. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
