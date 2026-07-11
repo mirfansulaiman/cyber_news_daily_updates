@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+    "published_wib": "2026-07-12T00:30:00+07:00",
+    "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/"
+    ]
+  },
+  {
+    "title": "[+24h Old] New U-Boot flaws could enable stealthy firmware attacks",
+    "published_wib": "2026-07-11T04:59:02+07:00",
+    "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] NHS staff warned of jail time for unauthorized patient data access",
+    "published_wib": "2026-07-11T04:39:28+07:00",
+    "summary": "The NHS is implementing a new awareness campaign and updated guidance for healthcare organizations to prevent, monitor, and report unauthorized access to patient records.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/nhs-staff-warned-of-jail-time-for-unauthorized-patient-data-access"
+    ]
+  },
+  {
+    "title": "[+24h Old] Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
+    "published_wib": "2026-07-11T00:35:00+07:00",
+    "summary": "Microsoft says GigaWiper combines at least 3 malware families into one modular tool",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/10/destructive-windows-backdoor-stuffs-multiple-wipers-and-ransomware-code-into-a-single-package/5270053"
+    ]
+  },
+  {
+    "title": "[+24h Old] Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+    "published_wib": "2026-07-10T22:57:14+07:00",
+    "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their ow\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft Warns New 'GigaWiper' Malware Combines Espionage and Destructive Capabilities",
+    "published_wib": "2026-07-10T22:30:00+07:00",
+    "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/"
+    ]
+  },
+  {
+    "title": "[+24h Old] This new Windows malware can take over your PC and wipe it clean",
+    "published_wib": "2026-07-10T20:25:41+07:00",
+    "summary": "GigaWiper is a remote access Trojan that can spy on victims and permanently wipe their systems in three different ways.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/this-new-windows-malware-can-take-over-your-pc-and-wipe-it-clean"
+    ]
+  },
+  {
+    "title": "[+24h Old] New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+    "published_wib": "2026-07-10T20:15:23+07:00",
+    "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
+    "published_wib": "2026-07-10T18:06:36+07:00",
+    "summary": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages. The post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/"
+    ]
+  },
+  {
+    "title": "[+48h Old] GigaWiper Combines Multiple Malware for System-Level Sabotage",
+    "published_wib": "2026-07-10T16:12:08+07:00",
+    "summary": "The backdoor\u2019s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command. The post GigaWiper Combines Multiple Malware for System-Level Sabotage appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/"
+    ]
+  }
+]
