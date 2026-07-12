@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- RedHook Android malware now uses Wireless ADB for shell access
+- [+24h Old] Week in review: Accenture data breach, great open-source cybersecurity tools
+- [+24h Old] Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install
+- [+24h Old] Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns
+- [+24h Old] Ghost Accounts Abuse GitHub API in Mass Recon Campaign
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by RedHook Android malware now uses Wireless ADB for shell access. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Week in review: Accenture data breach, great open-source cybersecurity tools. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by No Manners Here: The Ruthless Rise of The Gentlemen Ransomware. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
