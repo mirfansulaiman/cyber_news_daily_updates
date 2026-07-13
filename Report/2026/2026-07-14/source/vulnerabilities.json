@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+    "published_wib": "2026-07-13T22:20:16+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/"
+    ]
+  },
+  {
+    "title": "Pakistani Police Systems Hit by Chinese and Indian Espionage",
+    "published_wib": "2026-07-13T21:45:00+07:00",
+    "summary": "Chinese and Indian spies converged on the same Balochistan police force, SentinelLabs found",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-indian-espionage-pakistani/"
+    ]
+  },
+  {
+    "title": "Australian businesses targeted in global content management system exploitation campaign",
+    "published_wib": "2026-07-13T21:27:00+07:00",
+    "summary": "The ACSC reports that malicious actors are actively scanning websites for vulnerabilities in various CMS platforms and plugins, including WordPress, Craft CMS, MaxSite CMS, MetInfo CMS, and Joomla JCE.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/australian-businesses-targeted-in-global-content-management-system-exploitation-campaign"
+    ]
+  },
+  {
+    "title": "CISA adds iCagenda and Balbooa Forms vulnerabilities to known exploited catalog",
+    "published_wib": "2026-07-13T21:21:00+07:00",
+    "summary": "The vulnerabilities, CVE-2026-48939 affecting iCagenda and CVE-2026-56291 affecting Balbooa Forms, both allow for unrestricted file uploads.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-icagenda-and-balbooa-forms-vulnerabilities-to-known-exploited-catalog"
+    ]
+  },
+  {
+    "title": "China and India-linked threat actors target Pakistani law enforcement",
+    "published_wib": "2026-07-13T21:19:00+07:00",
+    "summary": "The compromised assets included servers hosting web applications that manage critical police and citizen data, such as criminal and biometric records, hotel and tenant registrations, and personnel files.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/china-and-india-linked-actors-target-pakistani-law-enforcement"
+    ]
+  },
+  {
+    "title": "Why cloud security is mission-critical for federal civilian and defense agencies",
+    "published_wib": "2026-07-13T21:00:00+07:00",
+    "summary": "Beyond IT compliance, cloud security is now the backbone of civilian agency resilience, national defense, and warfighter safety, as cloud environments become increasingly complex. Key takeaways For the Department of War (DoW), cloud security is an IT concern and a requirement for operational readiness and national security. Achieving a mature zero trust arc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/fedramp-high-il5-federal-government-cloud-security"
+    ]
+  },
+  {
+    "title": "Tidal Cyber connects assets, vulnerabilities, and threats through Threat-Led Defense",
+    "published_wib": "2026-07-13T20:44:39+07:00",
+    "summary": "Tidal Cyber has announced Threat-Led Asset Visibility and Vulnerability Prioritization, new innovations extending the company\u2019s Threat-Led Defense platform. The announcement marks a significant advancement in defensive security, shifting the industry beyond static asset inventories, CVSS scoring, and disconnected exposure management toward an execution-cent\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/13/tidal-cyber-threat-led-asset-visibility/"
+    ]
+  },
+  {
+    "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+    "published_wib": "2026-07-13T20:00:00+07:00",
+    "summary": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster"
+    ]
+  },
+  {
+    "title": "RabbitMQ flaws expose OAuth secrets, risk complete takeover of the broker",
+    "published_wib": "2026-07-13T19:01:44+07:00",
+    "summary": "RabbitMQ has patched two access control vulnerabilities affecting the widely used open-source message broker that could expose enterprise application data and, in some deployments, allow attackers to gain complete control over the messaging infrastructure. The flaws, discovered by Miggo Security, exposed OAuth secrets to unauthenticated attackers, letting l\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4196093/rabbitmq-flaws-expose-oauth-secrets-risk-complete-takeover-of-the-broker.html"
+    ]
+  },
+  {
+    "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+    "published_wib": "2026-07-13T19:00:00+07:00",
+    "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/"
+    ]
+  }
+]

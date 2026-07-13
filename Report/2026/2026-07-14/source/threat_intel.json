@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+    "published_wib": "2026-07-14T00:36:12+07:00",
+    "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs. \"It validates the vi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html"
+    ]
+  },
+  {
+    "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+    "published_wib": "2026-07-13T23:50:54+07:00",
+    "summary": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack"
+    ]
+  },
+  {
+    "title": "Open Directory Exposes Three Evilginx Phishing Operators",
+    "published_wib": "2026-07-13T22:30:00+07:00",
+    "summary": "Misconfigured server exposed three phishing operators running Evilginx forks to bypass MFA",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/open-directory-exposes-evilginx/"
+    ]
+  },
+  {
+    "title": "Jscrambler npm package version 8.14.0 contained a malicious infostealer",
+    "published_wib": "2026-07-13T21:29:00+07:00",
+    "summary": "The jscrambler supply chain attack involved a malicious preinstall hook within version 8.14.0 of the npm package.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/brief/jscrambler-npm-package-version-8-14-0-contained-a-malicious-infostealer"
+    ]
+  },
+  {
+    "title": "Ukrainians reportedly manipulate Russian fuel maps through coordinated online participation",
+    "published_wib": "2026-07-13T21:24:00+07:00",
+    "summary": "The campaign reportedly centers around a website known as \"GdeBenz,\" which has attracted over one million visitors.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/ukrainians-reportedly-manipulate-russian-fuel-maps-through-coordinated-online-participation"
+    ]
+  },
+  {
+    "title": "Cloudflare Precursor uses continuous behavioral analysis to stop advanced bots",
+    "published_wib": "2026-07-13T20:28:04+07:00",
+    "summary": "Cloudflare has announced the general availability of Precursor, a next-generation, continuous behavioral validation engine for bot management. Precursor runs seamlessly inside web browsers to monitor entire user sessions in order to detect bot automation. Unlike static CAPTCHAs, it analyzes ongoing interactions in real time to catch advanced bots, improving\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/13/cloudflare-precursor/"
+    ]
+  },
+  {
+    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+    "published_wib": "2026-07-13T20:03:33+07:00",
+    "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distributed via Telegram and costing $400 a month (or $3,800 per ye\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html"
+    ]
+  },
+  {
+    "title": "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection",
+    "published_wib": "2026-07-13T19:02:00+07:00",
+    "summary": "Footie fans? Overreacting? There's a first time for everything",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/13/world-cup-grudge-attackers-may-have-scored-argentine-fa-access-via-year-old-infostealer-infection/5270302"
+    ]
+  },
+  {
+    "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
+    "published_wib": "2026-07-13T17:00:00+07:00",
+    "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+    "published_wib": "2026-07-13T14:30:00+07:00",
+    "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html"
+    ]
+  }
+]

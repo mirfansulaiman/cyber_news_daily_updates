@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks
+- GigaWiper Lets Threat Actors Choose Their Own Destructive Attack
+- Hackers breach Lidl’s IT service provider, steal customer data
+- Open Directory Exposes Three Evilginx Phishing Operators
+- CISA warns of actively exploited RCE flaws in Joomla extensions
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA warns of actively exploited RCE flaws in Joomla extensions. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hackers breach Lidl’s IT service provider, steal customer data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
