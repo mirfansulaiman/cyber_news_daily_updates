@@ -1,9 +1,9 @@
 name: Generate Daily Report Artifacts
 
 on:
-  # 07:00 WIB == 00:00 UTC
+  # 17:05 WIB — generate poster/PDF dari source yg sudah siap
   schedule:
-    - cron: "05 17 * * *"
+    - cron: "05 10 * * *"
   push:
     branches: ["main"]
     paths:
@@ -95,15 +95,16 @@ jobs:
               meta = json.loads(mp.read_text(encoding="utf-8"))
               issue_date = str(meta.get("issue_date") or "").strip()
               vol = str(meta.get("vol") or "").strip()
+              issue_time_wib = str(meta.get("issue_time_wib") or "").strip()
               if issue_date and vol:
-                issues.append((issue_date, vol))
+                issues.append((issue_date, vol, issue_time_wib))
             except Exception:
               continue
 
           if not issues:
             raise SystemExit("meta.json files exist but none are parseable with issue_date+vol.")
 
-          issue_date, vol = sorted(issues, key=lambda x: x[0])[-1]
+          issue_date, vol, issue_time_wib = sorted(issues, key=lambda x: x[0])[-1]
           year = issue_date[:4]
           issue_tag = f"issue-{vol}"
 
@@ -177,7 +178,7 @@ jobs:
           new_block = "\n".join(
             [
               start,
-              f"## Today Updates: [Vol. {vol} | {issue_date} ]",
+              f"## Today Updates: [Vol. {vol} | {issue_date} {issue_time_wib}]",
               "",
               p1,
               "",
