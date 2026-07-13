@@ -37,6 +37,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generate-report-artifacts
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
