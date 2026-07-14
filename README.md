@@ -6,7 +6,7 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 003 | 2026-07-14 ]
+## Today Updates: [Vol. 003 | 2026-07-14 16:55 WIB]
 
 Today's highlights are led by exploit-ready vulnerabilities: CISA warns of actively exploited RCE flaws in Joomla extensions and Pakistani Police Systems Hit by Chinese and Indian Espionage. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
