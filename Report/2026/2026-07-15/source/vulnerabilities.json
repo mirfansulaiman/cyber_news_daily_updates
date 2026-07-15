@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+    "published_wib": "2026-07-15T16:48:29+07:00",
+    "summary": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it. The post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/"
+    ]
+  },
+  {
+    "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+    "published_wib": "2026-07-15T16:44:52+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/"
+    ]
+  },
+  {
+    "title": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
+    "published_wib": "2026-07-15T16:20:00+07:00",
+    "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discovery and increasing patch volumes",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/"
+    ]
+  },
+  {
+    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
+    "published_wib": "2026-07-15T16:19:58+07:00",
+    "summary": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/"
+    ]
+  },
+  {
+    "title": "Cybersecurity needs more prevention and less reliance on cure",
+    "published_wib": "2026-07-15T16:00:00+07:00",
+    "summary": "Ask any medical doctor, and they\u2019ll tell you that prevention is better than cure. It\u2019s more cost-effective and it has better outcomes. The same is true in cybersecurity. But we believe that our industry has veered too far away from this simple concept. We observe that most new tools are detection-focused, and we are calling for cyber innovators and venture\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4196818/cybersecurity-needs-more-prevention-and-less-reliance-on-cure.html"
+    ]
+  },
+  {
+    "title": "FreeRDP 3.29.0 security update resolves 22 advisories",
+    "published_wib": "2026-07-15T15:42:29+07:00",
+    "summary": "FreeRDP is a free implementation of the Remote Desktop Protocol, released under the Apache license, and it runs on a large share of workstations and servers through the many tools built on it. The 3.29.0 version is a security, bugfix, and maintenance update that resolves 22 advisories. What the fixes address The commits read as hardening work spread across\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/15/freerdp-3-29-0-security-update/"
+    ]
+  },
+  {
+    "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
+    "published_wib": "2026-07-15T15:00:00+07:00",
+    "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits"
+    ]
+  },
+  {
+    "title": "Fortinet adds AI controls and data loss prevention to FortiEndpoint",
+    "published_wib": "2026-07-15T14:47:57+07:00",
+    "summary": "Fortinet has announced new capabilities for its unified endpoint platform, FortiEndpoint, designed to help organizations securely adopt AI, protect sensitive data, and reduce risk. By bringing AI visibility and control, native data security, endpoint risk scoring, and FortiAI-assisted operations into FortiEndpoint, Fortinet enables security teams to better\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/15/fortinet-fortiai-assist/"
+    ]
+  },
+  {
+    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
+    "published_wib": "2026-07-15T14:24:52+07:00",
+    "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/"
+    ]
+  },
+  {
+    "title": "SingGuard-NSFA: Open-source guardrails for agentic AI",
+    "published_wib": "2026-07-15T12:30:57+07:00",
+    "summary": "SingGuard-NSFA is an open-source guardrail framework aimed at operational threats in agent workflows. Four models ship at 0.8B, 2B, 4B, and 9B parameters, all built on Qwen3.5 base backbones. Risk taxonomy The NSFA risk taxonomy organizes threats along the CIA triad of confidentiality, integrity, and availability. It defines 185 risk variants grouped under\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/15/singguard-nsfa-open-source-agentic-ai-guardrails/"
+    ]
+  }
+]

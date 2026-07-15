@@ -1,0 +1,102 @@
+[
+  {
+    "title": "When 80,000 fans log on at once: The 2026 World Cup\u2019s unique cybersecurity issues",
+    "published_wib": "2026-07-15T17:00:00+07:00",
+    "summary": "With the World Cup in full swing, stadiums across North America are currently accommodating thousands of fans every match day. That said, the stadiums\u2019 biggest security challenge isn\u2019t of a physical nature. It is not hyperbolic to say that football stadiums are some of the most chaotic endpoint environments in enterprise IT. On game days, tens of thousands\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4196827/when-80000-fans-log-on-at-once-the-2026-world-cups-unique-cybersecurity-issues.html"
+    ]
+  },
+  {
+    "title": "US charges alleged operators of Russian bulletproof hosting service",
+    "published_wib": "2026-07-15T14:45:50+07:00",
+    "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/"
+    ]
+  },
+  {
+    "title": "Synopsys denies data breach claims by new ransomware group D1R",
+    "published_wib": "2026-07-15T06:06:34+07:00",
+    "summary": "The ransomware group D1R claimed to have accessed a database of 40,000 entries from Synopsys and subsequently used this information to target Bosch, alleging the theft of valuable intellectual property.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/synopsys-denies-data-breach-claims-by-new-ransomware-group-d1r"
+    ]
+  },
+  {
+    "title": "Fortinet enhances endpoint security with AI monitoring and data loss prevention",
+    "published_wib": "2026-07-15T05:46:39+07:00",
+    "summary": "Fortinet Inc. has expanded its FortiEndpoint platform with new features designed to help companies monitor employee use of artificial intelligence tools and prevent sensitive data from leaking into them.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/fortinet-enhances-endpoint-security-with-ai-monitoring-and-data-loss-prevention"
+    ]
+  },
+  {
+    "title": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four",
+    "published_wib": "2026-07-15T03:23:09+07:00",
+    "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made \u20ac140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/"
+    ]
+  },
+  {
+    "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
+    "published_wib": "2026-07-15T01:18:45+07:00",
+    "summary": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. The post Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/"
+    ]
+  },
+  {
+    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+    "published_wib": "2026-07-14T20:48:07+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html"
+    ]
+  },
+  {
+    "title": "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
+    "published_wib": "2026-07-14T19:15:00+07:00",
+    "summary": "Human did 10% of the job, AI did 90%",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/research/2026/07/14/the-bots-are-alive-jailbroken-gemini-spun-up-new-c2-server-for-russian-fraudster-in-just-6-minutes/5270131"
+    ]
+  },
+  {
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "published_wib": "2026-07-14T18:55:00+07:00",
+    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html"
+    ]
+  },
+  {
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "published_wib": "2026-07-14T18:21:35+07:00",
+    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- When 80,000 fans log on at once: The 2026 World Cup’s unique cybersecurity issues
+- Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption
+- CISA warns admins to patch actively exploited SharePoint flaws
+- Microsoft Patches 570 CVEs in Record Patch Tuesday
+- ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by When 80,000 fans log on at once: The 2026 World Cup’s unique cybersecurity issues. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+    "published_wib": "2026-07-15T16:16:13+07:00",
+    "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0.7.1 @asyncapi/generator@3.3.1 @asyncapi/specs(v6.11.2, v6.\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html"
+    ]
+  },
+  {
+    "title": "7 skills and traits of elite security engineers",
+    "published_wib": "2026-07-15T14:00:00+07:00",
+    "summary": "Security engineers play a pivotal role in enterprise cybersecurity, because they are the professionals who design, build, and deploy security systems to protect an organization\u2019s data, applications, systems, networks, and other IT components against a variety of cyber threats. Finding not just qualified security engineers, but the best and brightest availab\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4196428/7-skills-and-traits-of-elite-security-engineers.html"
+    ]
+  },
+  {
+    "title": "Microsoft is forcing an enterprise transition to passkeys",
+    "published_wib": "2026-07-15T09:08:45+07:00",
+    "summary": "Passkeys have been around for some time, but enterprise-wide adoption to this point has been slow for a number of reasons. But soon, many Microsoft customers won\u2019t have a choice. Starting September 1, Microsoft will roll out passkeys as the default authentication method in its cloud-based identity and access management (IAM) service Entra ID. And following\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4197086/microsoft-is-forcing-an-enterprise-transition-to-passkeys-2.html"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
+    "published_wib": "2026-07-15T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, July 15th, 2026 https://isc.sans.edu/podcastdetail/10008, (Wed, Jul 15th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33158"
+    ]
+  },
+  {
+    "title": "Old Microsoft-signed UEFI applications can bypass Secure Boot",
+    "published_wib": "2026-07-15T06:09:14+07:00",
+    "summary": "These vulnerable UEFI applications, primarily older versions of the shim bootloader, can allow attackers to execute untrusted code during system startup, according to ESET researcher Martin Smol\u00e1r.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/old-microsoft-signed-uefi-applications-can-bypass-secure-boot"
+    ]
+  },
+  {
+    "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+    "published_wib": "2026-07-15T02:15:17+07:00",
+    "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/"
+    ]
+  },
+  {
+    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+    "published_wib": "2026-07-14T23:52:37+07:00",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once depl\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html"
+    ]
+  },
+  {
+    "title": "Threat Hunting Case Study: Scattered Spider",
+    "published_wib": "2026-07-14T23:15:00+07:00",
+    "summary": "Scattered Spider skips malware and breaks in with a phone call and a legitimate remote access tool, here's how to hunt for it.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.intel471.com/blog/threat-hunting-case-study-scattered-spider"
+    ]
+  },
+  {
+    "title": "LastPass, Bitwarden users targeted with fake security alerts",
+    "published_wib": "2026-07-14T22:31:52+07:00",
+    "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/"
+    ]
+  },
+  {
+    "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+    "published_wib": "2026-07-14T19:49:00+07:00",
+    "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/"
+    ]
+  }
+]
