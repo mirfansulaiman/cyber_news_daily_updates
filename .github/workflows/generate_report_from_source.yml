@@ -3,7 +3,7 @@ name: Generate Daily Report Artifacts
 on:
   # generate poster/PDF dari source yg sudah siap
   schedule:
-    - cron: "50 8 * * *"
+    - cron: "55 8 * * *"
   push:
     branches: ["main"]
     paths:
