@@ -32,8 +32,8 @@ from typing import Iterable, Optional
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 WIB = dt.timezone(dt.timedelta(hours=7), name="WIB")
-ISSUE_TIME_STR = "17:00 WIB"
-GENERATE_TIME_STR = "16:55 WIB"
+ISSUE_TIME_STR = "09:00 WIB"
+GENERATE_TIME_STR = "09:00 WIB"
 ISSUE_HOUR = 17
 ALLOWLIST_URL = "https://raw.githubusercontent.com/netsecid/cybersecurity-rss-sources/main/feeds/all.json"
 ALLOWLIST_CACHE = Path(__file__).parent / "rss_allowlist_cache.json"
