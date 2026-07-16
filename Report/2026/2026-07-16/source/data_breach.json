@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+    "published_wib": "2026-07-16T17:00:00+07:00",
+    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/"
+    ]
+  },
+  {
+    "title": "Police take down investment fraud network that stole \u20ac100 million a month",
+    "published_wib": "2026-07-16T15:30:41+07:00",
+    "summary": "Dutch police, working alongside Belgian authorities and Europol, have dismantled a major criminal network accused of operating a global investment fraud scheme through dozens of fraudulent call centers. Investigators estimate the organization generated more than \u20ac100 million a month by targeting victims in multiple countries. The group operated around 20 ca\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/16/dutch-police-investment-fraud-ring-dismantled/"
+    ]
+  },
+  {
+    "title": "Police Disrupt a \u20ac140M Cyber Fraud Ring in Spain",
+    "published_wib": "2026-07-16T14:00:00+07:00",
+    "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain"
+    ]
+  },
+  {
+    "title": "Ransom demands are down, email is the top way attackers get in",
+    "published_wib": "2026-07-16T12:00:58+07:00",
+    "summary": "An employee opens an email that looks like any other, clicks a link, and gives up a password without noticing. A stolen login opens a door deeper in the network. Files stop opening a few days later. That chain now sits at the front of most ransomware cases. Malicious email and phishing together account for half of all incidents, based on a survey of 2,158 I\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/16/sophos-state-of-ransomware-2026/"
+    ]
+  },
+  {
+    "title": "Companies keep getting breached by vulnerabilities they already knew about",
+    "published_wib": "2026-07-16T11:30:01+07:00",
+    "summary": "Scanning tools have gotten good at their work. Organizations now find more weaknesses across more of their systems than at any earlier point in the industry\u2019s history. A survey from the security firm Vicarius points to a gap that opens after that discovery, in the work of assigning, approving, deploying, and confirming a fix. The company surveyed 300 IT and\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/16/ciso-vulnerability-remediation-gap/"
+    ]
+  },
+  {
+    "title": "Dutch police bust investment fraud ring stealing over \u20ac100 million",
+    "published_wib": "2026-07-16T04:55:50+07:00",
+    "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/"
+    ]
+  },
+  {
+    "title": "Europe built the world's strongest privacy law. WhatsApp just found the gap it doesn't cover.",
+    "published_wib": "2026-07-16T02:37:27+07:00",
+    "summary": "WhatsApp usernames boost privacy but weaken identity verification, raising fraud risks.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/perspective/europe-built-the-worlds-strongest-privacy-law-whatsapp-just-found-the-gap-it-doesnt-cover"
+    ]
+  },
+  {
+    "title": "U.S. sanctions VPN provider and cryptor seller for aiding ransomware gangs",
+    "published_wib": "2026-07-15T21:29:00+07:00",
+    "summary": "The sanctioned entities include First VPN Service (1VPNS), a virtual private network provider, and its administrator Dmytro Rashevskyi.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/u-s-sanctions-vpn-provider-and-cryptor-seller-for-aiding-ransomware-gangs"
+    ]
+  },
+  {
+    "title": "Spanish police dismantle \u20ac140 million investment fraud and BEC cybercrime ring",
+    "published_wib": "2026-07-15T21:19:00+07:00",
+    "summary": "The cybercrime network operated on an industrial scale, utilizing at least 800 bank accounts and 120 business accounts, with 67 external accomplices acting as money mules.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/spanish-police-dismantle-e140-million-investment-fraud-and-bec-cybercrime-ring"
+    ]
+  },
+  {
+    "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
+    "published_wib": "2026-07-15T18:58:05+07:00",
+    "summary": "The suspects and their companies were previously sanctioned by the United States and its allies. The post US Charges Russian Individuals and Firms for Running Cybercrime Services appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/"
+    ]
+  }
+]

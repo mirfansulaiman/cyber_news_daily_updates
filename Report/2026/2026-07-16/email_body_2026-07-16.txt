@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- When AI gets a body, it inherits an attack surface
+- New Spirals ransomware encrypts victim network in under 24 hours
+- Tenable One unifies code risks with enterprise exposure data
+- F5 Patches Multiple NGINX, BIG-IP Vulnerabilities
+- The executive profile your security team isn’t defending
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by When AI gets a body, it inherits an attack surface. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New Spirals ransomware encrypts victim network in under 24 hours. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

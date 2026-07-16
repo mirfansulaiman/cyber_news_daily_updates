@@ -1,0 +1,102 @@
+[
+  {
+    "title": "When AI gets a body, it inherits an attack surface",
+    "published_wib": "2026-07-16T17:00:00+07:00",
+    "summary": "Most security leaders I know working on AI robotics are being shown the same kind of video. A humanoid folds a shirt, sorts a bin, walks a warehouse aisle and a vendor uses the clip to move an embodied AI system from pitch to purchase order. Someone then has to sign off. Robot demos create procurement momentum before security teams receive the artifacts nee\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4197463/when-ai-gets-a-body-it-inherits-an-attack-surface.html"
+    ]
+  },
+  {
+    "title": "Tenable One unifies code risks with enterprise exposure data",
+    "published_wib": "2026-07-16T16:24:36+07:00",
+    "summary": "Tenable has announced the expansion of the Tenable One Exposure Management Platform, unifying application security risks with all other exposure data. By integrating static code vulnerability data, Tenable One delivers complete, code-to-runtime visibility across the entire attack surface. Security teams have long struggled with a code security problem where\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/16/tenable-expands-one-exposure-management-platform/"
+    ]
+  },
+  {
+    "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+    "published_wib": "2026-07-16T16:20:10+07:00",
+    "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "The executive profile your security team isn\u2019t defending",
+    "published_wib": "2026-07-16T16:00:00+07:00",
+    "summary": "A few years ago, I was retained to conduct a digital risk review for the chief executive of a mid-sized financial services firm. The brief was standard. Assess what was publicly available about the executive, identify exposure and advise on remediation. The AI tools I used completed the substantive reconnaissance in under ten minutes. What came back was a s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4197460/the-executive-profile-your-security-team-isnt-defending.html"
+    ]
+  },
+  {
+    "title": "US Launches Gold Eagle to Coordinate AI-Driven Vulnerability Management",
+    "published_wib": "2026-07-16T15:50:00+07:00",
+    "summary": "The White House announced Gold Eagle to help accelerate the discovery, prioritization and patching of flaws found by AI",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/us-gold-eagle-ai-vulnerability/"
+    ]
+  },
+  {
+    "title": "Microsoft makes Windows SSO prompts easier to manage",
+    "published_wib": "2026-07-16T15:47:51+07:00",
+    "summary": "Microsoft is introducing a new registry-based policy that lets IT administrators automatically accept Windows SSO permissions on Windows 11 versions 24H2 and 25H2 devices managed with Microsoft Entra ID. Users with personal Microsoft accounts and devices outside policy-managed environments will continue to receive SSO permission prompts. Admin control for S\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/16/windows-sso-policy-admin-control/"
+    ]
+  },
+  {
+    "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+    "published_wib": "2026-07-16T15:42:31+07:00",
+    "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT\u2011Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html"
+    ]
+  },
+  {
+    "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+    "published_wib": "2026-07-16T14:22:44+07:00",
+    "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
+    ]
+  },
+  {
+    "title": "Flaw surge fuels need for CISOs to rethink vulnerability management",
+    "published_wib": "2026-07-16T14:00:00+07:00",
+    "summary": "Security experts are calling on enterprises to revise their vulnerability management strategies and move towards \u201cjust in time\u201d patching in response the increased pace of vulnerability exploitation. Attackers are turning to AI to increase the rate of vulnerability exploitation and supply chain compromise so that traditional forms of vulnerability management\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4196435/flaw-surge-fuels-need-for-cisos-to-rethink-vulnerability-management.html"
+    ]
+  },
+  {
+    "title": "Nightmare Eclipse Drops \u2018LegacyHive\u2019 Windows Zero-Day",
+    "published_wib": "2026-07-16T13:48:40+07:00",
+    "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops \u2018LegacyHive\u2019 Windows Zero-Day appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/"
+    ]
+  }
+]

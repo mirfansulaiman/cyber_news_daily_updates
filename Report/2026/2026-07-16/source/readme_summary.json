@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "When AI gets a body, it inherits an attack surface and Tenable One unifies code risks with enterprise exposure data. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Hidden Infrastructure Exposed: ANY.RUN Reveals Hijacked Gov Websites Delivering Malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "New Spirals ransomware encrypts victim network in under 24 hours. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-16",
+  "vol": "003"
+}
