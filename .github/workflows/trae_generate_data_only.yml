@@ -1,9 +1,9 @@
 name: "TRAE — Generate Daily Sources (Data Only)"
 
 on:
-  # generate data source dengan window 17:00 WIB
+  # 08:50 WIB (01:50 UTC) — generate data source dengan window 17:00 WIB
   schedule:
-    - cron: "50 08 * * *"
+    - cron: "50 1 * * *"
   workflow_dispatch:
     inputs:
       force_re_run:
