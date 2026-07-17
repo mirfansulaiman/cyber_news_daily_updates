@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)
+- South Korea making its own security-centric AI model
+- ACR Stealer: Two observed intrusion chains amid increased threat activity
+- New ClickLock macOS malware traps users into revealing login password
+- Russian hackers use fake CAPTCHA to infect Ukrainian targets
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by New ClickLock macOS malware traps users into revealing login password. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 23andMe agrees to $18 million settlement over data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

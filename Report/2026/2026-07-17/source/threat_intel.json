@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
+    "published_wib": "2026-07-17T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, July 17th, 2026 https://isc.sans.edu/podcastdetail/10012, (Fri, Jul 17th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33162"
+    ]
+  },
+  {
+    "title": "South Korea making its own security-centric AI model",
+    "published_wib": "2026-07-17T08:56:40+07:00",
+    "summary": "Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034"
+    ]
+  },
+  {
+    "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
+    "published_wib": "2026-07-17T06:12:02+07:00",
+    "summary": "From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments. The post ACR Stealer: Two observed intrusion chains amid incre\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/"
+    ]
+  },
+  {
+    "title": "Russian hackers use fake CAPTCHA to infect Ukrainian targets",
+    "published_wib": "2026-07-17T04:46:00+07:00",
+    "summary": "The Sandworm group, linked to Russia's GRU, is employing the social engineering technique called ClickFix.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/russian-hackers-use-fake-captcha-to-infect-ukrainian-targets"
+    ]
+  },
+  {
+    "title": "Daxin malware resurfaces with new backdoor targeting Taiwan manufacturer",
+    "published_wib": "2026-07-17T04:33:05+07:00",
+    "summary": "The kernel-mode rootkit, Daxin, first documented in March 2022, was found operating on a compromised host in Taiwan in 2026.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/daxin-malware-resurfaces-with-new-backdoor-targeting-taiwan-manufacturer"
+    ]
+  },
+  {
+    "title": "New TELEPUZ malware spreads via ClickFix lures",
+    "published_wib": "2026-07-17T04:25:19+07:00",
+    "summary": "TELEPUZ is a lightweight and modular malware, likely developed by a small team and potentially offered as a malware-as-a-service.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-telepuz-malware-spreads-via-clickfix-lures"
+    ]
+  },
+  {
+    "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+    "published_wib": "2026-07-17T02:41:31+07:00",
+    "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters"
+    ]
+  },
+  {
+    "title": "Phishing Campaign Hides Lua Loader as TrueType Font File",
+    "published_wib": "2026-07-16T22:00:00+07:00",
+    "summary": "Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/"
+    ]
+  },
+  {
+    "title": "HelloNet campaign \u2014 new malicious modules launched through the ViPNet update system",
+    "published_wib": "2026-07-16T20:05:56+07:00",
+    "summary": "We identified targeted infection attempts against large Russian organizations using the ViPNet update system (a software suite for creating secure networks).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/tr/hellonet-vipnet/120700/"
+    ]
+  },
+  {
+    "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+    "published_wib": "2026-07-16T19:50:13+07:00",
+    "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril Fran\u00e7ois said in a technical report. \"While the number of C2 [command-and-control] doma\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html"
+    ]
+  }
+]

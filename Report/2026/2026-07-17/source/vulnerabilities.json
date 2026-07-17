@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New ClickLock macOS malware traps users into revealing login password",
+    "published_wib": "2026-07-17T04:52:54+07:00",
+    "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/"
+    ]
+  },
+  {
+    "title": "Chinese actors leverage AI tools for automated cyberattacks on government and financial systems",
+    "published_wib": "2026-07-17T04:35:22+07:00",
+    "summary": "Hunt.io researchers discovered the intrusion campaign in June 2026, identifying 13 Hong Kong-based servers containing victim source code, exploit scripts, and operator logs.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/chinese-actors-leverage-ai-tools-for-automated-cyberattacks-on-government-and-financial-systems"
+    ]
+  },
+  {
+    "title": "SpaceXAI acknowledges data retention issue with Grok Build coding tool",
+    "published_wib": "2026-07-17T04:17:08+07:00",
+    "summary": "The controversy began when researchers reported that Grok Build's command-line interface uploaded complete source code repositories, including Git commit history, to Google Cloud Storage.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/spacexai-acknowledges-data-retention-issue-with-grok-build-coding-tool"
+    ]
+  },
+  {
+    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+    "published_wib": "2026-07-17T02:26:07+07:00",
+    "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/"
+    ]
+  },
+  {
+    "title": "VU#885548: Denial-of-service vulnerability in HTTP/2 servers via stalled flow-control conditions",
+    "published_wib": "2026-07-17T01:00:59.046427+07:00",
+    "summary": "Overview A denial-of-service (DoS) vulnerability exists in some HTTP/2 server implementations that fail to adequately limit resource consumption when buffering response data under stalled flow-control conditions. A remote, unauthenticated attacker can trigger memory exhaustion and service interruption by using standard flow-control parameters such as SETTIN\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/885548"
+    ]
+  },
+  {
+    "title": "Zoom patches account takeover hole",
+    "published_wib": "2026-07-17T00:30:44+07:00",
+    "summary": "Zoom has identified, and patched, a critical security hole that \u201cmay allow an unauthenticated user to conduct an account takeover via network access.\u201d The issue is especially significant given Zoom\u2019s extensive reach; it reportedly has more than 300 million daily active users, including 470,000 paying business customers. Given that reach, Zoom has been impac\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4197962/zoom-patches-account-takeover-hole-2.html"
+    ]
+  },
+  {
+    "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
+    "published_wib": "2026-07-17T00:09:25+07:00",
+    "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html"
+    ]
+  },
+  {
+    "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+    "published_wib": "2026-07-16T23:00:26+07:00",
+    "summary": "Four Microsoft SharePoint Server vulnerabilities are under active exploitation, prompting CISA to issue a hardening alert. An additional high-severity flaw recently patched adds pressure for organizations running on-premises deployments. Key Takeaways CISA confirmed active exploitation of three on-premises SharePoint Server vulnerabilities (CVE-2026-32201,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+    ]
+  },
+  {
+    "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+    "published_wib": "2026-07-16T22:15:00+07:00",
+    "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/"
+    ]
+  },
+  {
+    "title": "VU#326070: SGLang contains a vulnerable pickle deserialization vulnerability through the expert-parallel subsystem",
+    "published_wib": "2026-07-16T21:43:27.079795+07:00",
+    "summary": "Overview A Pickle deserialization vulnerability has been discovered within the SGLang project , enabling an attacker to perform remote code execution (RCE) on the target vulnerable server. In order for an attacker to exploit this vulnerability, the expert-parallel backup subsystem must be enabled, and an attacker must have network access to the SGLang servi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/326070"
+    ]
+  }
+]

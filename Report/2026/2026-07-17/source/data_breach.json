@@ -1,0 +1,102 @@
+[
+  {
+    "title": "23andMe agrees to $18 million settlement over data breach",
+    "published_wib": "2026-07-17T04:22:35+07:00",
+    "summary": "The breach, which occurred between April and September 2023, was the result of credential-stuffing attacks that compromised the data of 6.9 million customers, including sensitive genetic ancestry information.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/23andme-agrees-to-18-million-settlement-over-data-breach"
+    ]
+  },
+  {
+    "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+    "published_wib": "2026-07-17T04:09:41+07:00",
+    "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/"
+    ]
+  },
+  {
+    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+    "published_wib": "2026-07-16T22:41:15+07:00",
+    "summary": "A lot of this week\u2019s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html"
+    ]
+  },
+  {
+    "title": "23andMe to pay $18 million in new genetics data breach settlement",
+    "published_wib": "2026-07-16T20:47:23+07:00",
+    "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/"
+    ]
+  },
+  {
+    "title": "Brit Scattered Spider duo handed tickets to prison over Transport for London attack",
+    "published_wib": "2026-07-16T19:49:38+07:00",
+    "summary": "Sentencing bookends the biggest cybercrime conviction in UK history",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/07/16/brit-scattered-spider-duo-handed-tickets-to-prison-over-transport-for-london-attack/5272446"
+    ]
+  },
+  {
+    "title": "Scattered Spider members behind TfL hack get five years in prison",
+    "published_wib": "2026-07-16T19:31:29+07:00",
+    "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/"
+    ]
+  },
+  {
+    "title": "GoSerpent: a persistent threat evolves with sophisticated data collection and exfiltration",
+    "published_wib": "2026-07-16T19:00:27+07:00",
+    "summary": "Two-phase attacks with the GoSerpent backdoor, Stowaway RAT, ThumbcacheService and other tools aim to steal data from government entities in Southeast Asia.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://securelist.com/goserpent-backdoor-in-southeast-asia/120687/"
+    ]
+  },
+  {
+    "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+    "published_wib": "2026-07-16T17:00:00+07:00",
+    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Police Disrupt a \u20ac140M Cyber Fraud Ring in Spain",
+    "published_wib": "2026-07-16T14:00:00+07:00",
+    "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain"
+    ]
+  },
+  {
+    "title": "[+24h Old] Tech support scam caused massive data breach at Australian airline Qantas",
+    "published_wib": "2026-07-16T13:27:47+07:00",
+    "summary": "It\u2019s possible to leak PII describing 5.7 million people without breaching privacy rules",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/07/16/tech-support-scam-caused-massive-data-breach-at-australian-airline-qantas/5272267"
+    ]
+  }
+]
