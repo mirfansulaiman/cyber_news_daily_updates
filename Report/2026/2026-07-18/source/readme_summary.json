@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "ACR Stealer exploits user interaction to steal sensitive data and SoftBank leverages OpenAI for AI-driven cybersecurity patching service. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New North Korean campaign uses fake coding interviews to steal developer credentials. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Lawyers say Russian tourist detained in Armenia over mistaken identity in ransomware case. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-18",
+  "vol": "003"
+}

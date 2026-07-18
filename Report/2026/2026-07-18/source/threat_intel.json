@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New North Korean campaign uses fake coding interviews to steal developer credentials",
+    "published_wib": "2026-07-18T07:00:00+07:00",
+    "summary": "DPRK-aligned hackers hid malware inside SVG flag images to backdoor developer job interview coding tests. Not one antivirus vendor caught it.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography"
+    ]
+  },
+  {
+    "title": "New Russian-speaking threat actor UAT-11795 targets US and Europe with novel malware",
+    "published_wib": "2026-07-18T05:13:15+07:00",
+    "summary": "UAT-11795 utilizes novel tools, including the Python-based Starland RAT and the PowerShell-based WLDR agent, which operates entirely in-memory with encrypted beaconing and a Runspace execution engine.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-russian-speaking-threat-actor-uat-11795-targets-us-and-europe-with-novel-malware"
+    ]
+  },
+  {
+    "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets",
+    "published_wib": "2026-07-18T04:50:54+07:00",
+    "summary": "The macOS malware targets information stored locally on infected devices, including passwords, browser cookies, Apple Notes and Telegram Desktop session files.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/macos-malware-hijacks-telegram-sessions-targets-crypto-wallets"
+    ]
+  },
+  {
+    "title": "Over 1 million malicious emails found using text salting to fool AI scanners",
+    "published_wib": "2026-07-18T04:29:59+07:00",
+    "summary": "Text salting fills emails with hidden benign content to mask malicious phishing lures.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/news/over-1-million-malicious-emails-found-using-text-salting-to-fool-ai-scanners"
+    ]
+  },
+  {
+    "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+    "published_wib": "2026-07-18T01:54:51+07:00",
+    "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-cont\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html"
+    ]
+  },
+  {
+    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+    "published_wib": "2026-07-18T00:12:23+07:00",
+    "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 29",
+    "published_wib": "2026-07-17T23:40:44+07:00",
+    "summary": "Authorities sanction Russian-based cybercriminals, attackers deploy Starland malware, and 300 imposter GitHub repos push BoryptGrab infostealer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/"
+    ]
+  },
+  {
+    "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+    "published_wib": "2026-07-17T23:00:00+07:00",
+    "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+    "published_wib": "2026-07-17T20:48:56+07:00",
+    "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wall\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
+    ]
+  },
+  {
+    "title": "How to use GitHub safely",
+    "published_wib": "2026-07-17T17:43:29+07:00",
+    "summary": "Knowing how to spot a malicious GitHub repository can help you avoid downloading malware disguised as legitimate software.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/how-to/2026/07/how-to-use-github-safely"
+    ]
+  }
+]

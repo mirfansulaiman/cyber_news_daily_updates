@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ACR Stealer exploits user interaction to steal sensitive data",
+    "published_wib": "2026-07-18T05:16:55+07:00",
+    "summary": "Microsoft has detailed two primary intrusion chains used by ACR Stealer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/acr-stealer-exploits-user-interaction-to-steal-sensitive-data"
+    ]
+  },
+  {
+    "title": "SoftBank leverages OpenAI for AI-driven cybersecurity patching service",
+    "published_wib": "2026-07-18T04:57:41+07:00",
+    "summary": "SoftBank's \"Patching as a Service\" (PaaS), powered by a joint venture with OpenAI called SB OAI Japan, offers clients AI-infused remediation planning and vulnerability assessment.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/softbank-leverages-openai-for-ai-driven-cybersecurity-patching-service"
+    ]
+  },
+  {
+    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+    "published_wib": "2026-07-18T04:20:10+07:00",
+    "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam Kues at Assetnote, Searchlight Cyber's attack surface manage\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html"
+    ]
+  },
+  {
+    "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+    "published_wib": "2026-07-18T03:20:53+07:00",
+    "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-servi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
+    ]
+  },
+  {
+    "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+    "published_wib": "2026-07-18T03:01:13+07:00",
+    "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days"
+    ]
+  },
+  {
+    "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+    "published_wib": "2026-07-18T00:56:21+07:00",
+    "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/"
+    ]
+  },
+  {
+    "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
+    "published_wib": "2026-07-17T20:00:00+07:00",
+    "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap"
+    ]
+  },
+  {
+    "title": "New CISO appointments 2026",
+    "published_wib": "2026-07-17T19:25:20+07:00",
+    "summary": "The upper ranks of corporate security are seeing a high rate of change as companies try to adapt to the evolving threat landscape. Many companies are hiring a chief security officer (CSO) or chief information security officer (CISO) for the first time to support a deeper commitment to information security. Follow this column to keep up with new appointments\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html"
+    ]
+  },
+  {
+    "title": "Attackers target critical FortiSandbox flaws as CISA issues patch order",
+    "published_wib": "2026-07-17T18:58:10+07:00",
+    "summary": "Command injection vulns land on exploited list after researchers spot abuse attempts",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287"
+    ]
+  },
+  {
+    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+    "published_wib": "2026-07-17T18:30:00+07:00",
+    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"
+    ]
+  }
+]

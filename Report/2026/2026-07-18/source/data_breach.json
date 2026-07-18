@@ -1,0 +1,102 @@
+[
+  {
+    "title": "2 charged in New York for laundering $43 million from investment scams",
+    "published_wib": "2026-07-18T05:15:09+07:00",
+    "summary": "Zhuoying Chen, 27, and Haojie Zhang, 38, are accused of managing a network that transferred at least $43 million to China, based on information published by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/two-charged-in-new-york-for-laundering-43-million-from-investment-scams"
+    ]
+  },
+  {
+    "title": "Lawyers say Russian tourist detained in Armenia over mistaken identity in ransomware case",
+    "published_wib": "2026-07-18T05:11:12+07:00",
+    "summary": "The detained Russian, Aleksandr Yuryevich Ermakov, was apprehended in Armenia on June 28, based on a U.S. request.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/russian-tourist-detained-in-armenia-over-mistaken-identity-in-us-extradition-request"
+    ]
+  },
+  {
+    "title": "Abbott probes two cyber incidents amid extortion claims",
+    "published_wib": "2026-07-18T03:45:52+07:00",
+    "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/"
+    ]
+  },
+  {
+    "title": "OnlyFans performers become unlikely allies of CISOs in securing websites",
+    "published_wib": "2026-07-18T00:34:57+07:00",
+    "summary": "CISOs at government organizations and universities have an unexpected ally coming to their aid: OnlyFans models. For some time, hackers have exploited weaknesses in the websites of universities or government departments to host scams or malware, using content stolen from the OnlyFans website as bait to attract victims. Now, according to security researchers\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4198478/onlyfans-performers-become-unlikely-allies-of-cisos-in-securing-websites.html"
+    ]
+  },
+  {
+    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+    "published_wib": "2026-07-17T23:39:16+07:00",
+    "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gam\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
+    ]
+  },
+  {
+    "title": "Government Agencies Falling Victim to Ransomware Daily, Warns Study",
+    "published_wib": "2026-07-17T22:00:00+07:00",
+    "summary": "Government organizations are targeted by attackers who know agencies cannot afford disruption to public services",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/government-ransomware-daily/"
+    ]
+  },
+  {
+    "title": "Ernst & Young discloses data breach after support system hack",
+    "published_wib": "2026-07-17T21:55:28+07:00",
+    "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
+    ]
+  },
+  {
+    "title": "23andMe Faces New Security Mandates in $18m Data Breach Settlement",
+    "published_wib": "2026-07-17T21:30:00+07:00",
+    "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/"
+    ]
+  },
+  {
+    "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+    "published_wib": "2026-07-17T21:27:54+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/"
+    ]
+  },
+  {
+    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+    "published_wib": "2026-07-17T21:00:10+07:00",
+    "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/"
+    ]
+  }
+]

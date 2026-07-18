@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New North Korean campaign uses fake coding interviews to steal developer credentials
+- ACR Stealer exploits user interaction to steal sensitive data
+- 2 charged in New York for laundering $43 million from investment scams
+- New Russian-speaking threat actor UAT-11795 targets US and Europe with novel malware
+- Lawyers say Russian tourist detained in Armenia over mistaken identity in ransomware case
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New North Korean campaign uses fake coding interviews to steal developer credentials. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by ACR Stealer exploits user interaction to steal sensitive data. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 2 charged in New York for laundering $43 million from investment scams. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
