@@ -1,9 +1,8 @@
 name: "TRAE — Generate Daily Sources (Data Only)"
 
 on:
-  # 08:50 WIB (01:50 UTC) — generate data source dengan window 17:00 WIB
   schedule:
-    - cron: "50 8 * * *"
+    - cron: "45 8 * * *"
       timezone: "Asia/Jakarta"
   workflow_dispatch:
     inputs:
