@@ -39,3 +39,5 @@ RSS allowlist: https://github.com/netsecid/cybersecurity-rss-sources
 
 
 [![TRAE — Generate Daily Sources (Data Only)](https://github.com/mirfansulaiman/cyber_news_daily_updates/actions/workflows/trae_generate_data_only.yml/badge.svg)](https://github.com/mirfansulaiman/cyber_news_daily_updates/actions/workflows/trae_generate_data_only.yml)
+
+[![Generate Daily Report Artifacts](https://github.com/mirfansulaiman/cyber_news_daily_updates/actions/workflows/generate_report_from_source.yml/badge.svg)](https://github.com/mirfansulaiman/cyber_news_daily_updates/actions/workflows/generate_report_from_source.yml)
