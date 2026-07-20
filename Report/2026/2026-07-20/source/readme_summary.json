@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution and SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Lawyers say Russian tourist detained in Armenia over mistaken identity in ransomware case. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-20",
+  "vol": "003"
+}

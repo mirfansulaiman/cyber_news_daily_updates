@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th)
+- Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution
+- UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware
+- SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access
+- [+24h Old] Week in review: High severity WordPress vulnerabilities, fake OAuth IDs bypass sign-in logs
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Monday, July 20th, 2026 https://isc.sans.edu/podcastdetail/10014, (Mon, Jul 20th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 2 charged in New York for laundering $43 million from investment scams. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
