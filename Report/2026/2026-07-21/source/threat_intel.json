@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+    "published_wib": "2026-07-21T09:00:02+07:00",
+    "summary": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33170"
+    ]
+  },
+  {
+    "title": "HollowGraph malware uses Microsoft 365 calendar for command and control",
+    "published_wib": "2026-07-21T03:42:43+07:00",
+    "summary": "HollowGraph, believed to be part of the Cavern command-and-control framework, targets organizations in Israel for espionage purposes.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/hollowgraph-malware-uses-microsoft-365-calendar-for-command-and-control"
+    ]
+  },
+  {
+    "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+    "published_wib": "2026-07-21T01:30:22+07:00",
+    "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing"
+    ]
+  },
+  {
+    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "published_wib": "2026-07-21T01:23:03+07:00",
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, co\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html"
+    ]
+  },
+  {
+    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+    "published_wib": "2026-07-21T00:29:50+07:00",
+    "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over W\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
+    ]
+  },
+  {
+    "title": "HOLLOWGRAPH malware turns Microsoft 365 calendars into an espionage channel",
+    "published_wib": "2026-07-21T00:20:15+07:00",
+    "summary": "Microsoft 365 calendars have become a hiding place for espionage malware, with commands and stolen files stashed inside appointments dated to the year 2050, researchers from Group-IB discovered. Targeted campaign tied to Iranian espionage activity The malware, which Group-IB calls HOLLOWGRAPH, is one component of a bigger toolkit the company links with high\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/20/hollowgraph-malware-microsoft-365-calendar/"
+    ]
+  },
+  {
+    "title": "New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications",
+    "published_wib": "2026-07-20T19:30:00+07:00",
+    "summary": "Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a stealthy C2 channel",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/"
+    ]
+  },
+  {
+    "title": "Fake games spread stealers with RenPy Loader, MSBuild and EtherHiding",
+    "published_wib": "2026-07-20T17:59:45+07:00",
+    "summary": "We look into how attackers are using the legitimate Ren'Py game engine to spread a malware loader that ultimately delivers Amatera Stealer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding"
+    ]
+  },
+  {
+    "title": "[+24h Old] SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+    "published_wib": "2026-07-20T12:15:39+07:00",
+    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] A forensic tool for backdoored code completions in AI assistants",
+    "published_wib": "2026-07-20T12:00:56+07:00",
+    "summary": "Developers lean on AI coding assistants for a growing share of their daily work, letting the tools predict the next few lines and accepting many suggestions with a quick glance. Those tools learn from large collections of code, and some of that code can be tampered with before training starts. A poisoned example teaches a model to write insecure code when i\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/20/tracing-backdoored-code-completions/"
+    ]
+  }
+]

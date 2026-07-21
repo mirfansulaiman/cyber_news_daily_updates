@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
+    "published_wib": "2026-07-21T05:39:30+07:00",
+    "summary": "Cosmetics giant Est\u00e9e Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/"
+    ]
+  },
+  {
+    "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+    "published_wib": "2026-07-21T05:23:23+07:00",
+    "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/"
+    ]
+  },
+  {
+    "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+    "published_wib": "2026-07-21T04:38:18+07:00",
+    "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover"
+    ]
+  },
+  {
+    "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+    "published_wib": "2026-07-21T04:14:42+07:00",
+    "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/"
+    ]
+  },
+  {
+    "title": "F5 fixes critical nginx vulnerability CVE-2026-42533",
+    "published_wib": "2026-07-21T03:27:04+07:00",
+    "summary": "The vulnerability, with a CVSS score of 9.2, allows an unauthenticated attacker to trigger a heap buffer overflow by sending specially crafted HTTP requests.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/f5-fixes-critical-nginx-vulnerability-cve-2026-42533"
+    ]
+  },
+  {
+    "title": "ServiceNow\u2019s sandbox escape RCE hole now exploited in the wild",
+    "published_wib": "2026-07-21T03:24:54+07:00",
+    "summary": "A sandbox security hole that could lead to remote code execution (RCE), patched last week by ServiceNow, is being actively exploited in the wild, according to a report from threat intel firm Defused\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4198993/servicenows-sandbox-escape-rce-hole-now-exploited-in-the-wild.html"
+    ]
+  },
+  {
+    "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+    "published_wib": "2026-07-21T01:41:24+07:00",
+    "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL injection vulnerability in WordPress Core, not\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33168"
+    ]
+  },
+  {
+    "title": "AI adoption and business acceleration are changing the expectations of technology risk management",
+    "published_wib": "2026-07-20T21:35:48+07:00",
+    "summary": "As AI becomes embedded in customer experiences, internal workflows, and throughout the supply chain, security leaders are being asked to do more than manage risk. They are being asked to help the business make more informed decisions and move faster. At the same time, AI has evolved faster than the programs built to govern it. The result is a widening gap b\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4198872/ai-adoption-and-business-acceleration-are-changing-the-expectations-of-technology-risk-management.html"
+    ]
+  },
+  {
+    "title": "ServiceNow pre-auth RCE exploited in the wild (CVE-2026-6875)",
+    "published_wib": "2026-07-20T21:32:31+07:00",
+    "summary": "Attackers have begun exploiting CVE-2026-6875, a critical pre-authentication vulnerability in the ServiceNow AI Platform, according to threat intelligence firm Defused. About the vulnerability ServiceNow AI is a Platform-as-a-Service that lets organizations build and automate digital workflows. CVE-2026-6875 is a code injection vulnerability that lets unaut\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/20/servicenow-cve-2026-6875-exploited/"
+    ]
+  },
+  {
+    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+    "published_wib": "2026-07-20T21:11:05+07:00",
+    "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
+    ]
+  }
+]

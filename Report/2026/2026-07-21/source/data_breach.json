@@ -1,0 +1,102 @@
+[
+  {
+    "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+    "published_wib": "2026-07-21T04:08:02+07:00",
+    "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/"
+    ]
+  },
+  {
+    "title": "Ecopetrol confirms ransomware attempt, data stolen from 3,300 accounts",
+    "published_wib": "2026-07-21T03:32:15+07:00",
+    "summary": "The incident involved an unidentified threat actor accessing Ecopetrol's IT infrastructure and exfiltrating pseudonymous data from 3,300 user accounts.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ecopetrol-confirms-ransomware-attempt-data-stolen-from-3300-accounts"
+    ]
+  },
+  {
+    "title": "Craneware confirms customer and employee data exposed in security incident",
+    "published_wib": "2026-07-21T03:29:11+07:00",
+    "summary": "The breach, which occurred on July 20, saw a significant volume of file names viewed and exfiltrated by unauthorized individuals.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/craneware-confirms-customer-and-employee-data-exposed-in-security-incident"
+    ]
+  },
+  {
+    "title": "The Odyssey piracy scams surface hours after its theatrical debut",
+    "published_wib": "2026-07-21T01:59:24+07:00",
+    "summary": "Christopher Nolan\u2019s The Odyssey had barely reached theaters before scammers began targeting people searching for pirated copies, according to Malwarebytes. Within hours of the film\u2019s release, researchers found two separate scams running on cloned piracy sites: fake browser warnings and Windows executables disguised as movie downloads. \u201cNeither scam has anyt\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/20/odyssey-movie-piracy-scams-malware/"
+    ]
+  },
+  {
+    "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+    "published_wib": "2026-07-21T00:43:01+07:00",
+    "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/"
+    ]
+  },
+  {
+    "title": "The Odyssey piracy scams appear within hours of the movie\u2019s release",
+    "published_wib": "2026-07-20T22:41:26+07:00",
+    "summary": "The release of The Odyssey has already sparked a wave of piracy scams, from fake browser errors to malware masquerading as movie files.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/07/the-odyssey-piracy-scams-appear-within-hours-of-the-movies-release"
+    ]
+  },
+  {
+    "title": "Paidwork breach exposes sensitive data of 23 million user",
+    "published_wib": "2026-07-20T21:52:29+07:00",
+    "summary": "Data belonging to more than 23 million users has been exposed following a breach at Paidwork, a platform that pays people for completing online microtasks. Paidwork markets itself as a way to earn money through simple tasks like watching ads, testing apps, and completing surveys, with most jobs paying only a few cents at a time. For its users, many of whom\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/20/paidwork-data-breach-23-million-users/"
+    ]
+  },
+  {
+    "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+    "published_wib": "2026-07-20T21:33:43+07:00",
+    "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html"
+    ]
+  },
+  {
+    "title": "Healthcare giant Abbott probes two cyber incidents amid extortion claims",
+    "published_wib": "2026-07-20T21:31:17+07:00",
+    "summary": "Extortion groups ShinyHunters and ShadowByt3$ claim they stole vast amounts of patient data. Those allegations have not been verified.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/07/healthcare-giant-abbott-probes-two-cyber-incidents-amid-extortion-claims"
+    ]
+  },
+  {
+    "title": "JadePuffer Returns With Ransomware Designed to Wipe AI Models",
+    "published_wib": "2026-07-20T21:05:00+07:00",
+    "summary": "JadePuffer follow-up campaign deployed ENCFORGE locker built to destroy AI model artifacts",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/"
+    ]
+  }
+]
