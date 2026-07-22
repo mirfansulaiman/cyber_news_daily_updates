@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Attackers Are Learning to Live Off the AI Toolchain",
+    "published_wib": "2026-07-23T04:29:01+07:00",
+    "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain"
+    ]
+  },
+  {
+    "title": "Next chapter: Restructuring GitHub\u2019s bug bounty program",
+    "published_wib": "2026-07-22T23:00:00+07:00",
+    "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub\u2019s bug bounty program appeared first on The GitHub Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/"
+    ]
+  },
+  {
+    "title": "TrickBot Ditches HTTP for DNS Tunneling in Latest Variant",
+    "published_wib": "2026-07-22T22:00:00+07:00",
+    "summary": "New TrickBot variant hides C2 communication inside DNS queries, replacing decade-old HTTP pattern",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/"
+    ]
+  },
+  {
+    "title": "Why Modern SOCs Need Multi-Layered Detections",
+    "published_wib": "2026-07-22T18:25:35+07:00",
+    "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report estimates around 79% of attacks are malware\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+    "published_wib": "2026-07-22T13:00:06+07:00",
+    "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the p\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+    "published_wib": "2026-07-22T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33174"
+    ]
+  },
+  {
+    "title": "[+24h Old] FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "published_wib": "2026-07-22T05:34:17+07:00",
+    "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Captive Portal Detection, (Tue, Jul 21st)",
+    "published_wib": "2026-07-21T20:44:56+07:00",
+    "summary": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33172"
+    ]
+  },
+  {
+    "title": "[+24h Old] Your AI agent\u2019s config is now the payload: How attackers are targeting the developer agent harness",
+    "published_wib": "2026-07-21T20:00:00+07:00",
+    "summary": "Attackers have shifted from hiding from AI tools to running inside them. By poisoning the config files that govern AI coding assistants, a new worm class achieves silent persistence, evades AI-based scanners, and spreads across an organization's repositories through developers' own tools. Key takeaways AI coding assistant configuration files, such as settin\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.tenable.com/blog/ai-coding-assistant-agent-harness-attacks"
+    ]
+  },
+  {
+    "title": "[+24h Old] New ClickLock Stealer locks your Mac until you hand over your password",
+    "published_wib": "2026-07-21T18:59:31+07:00",
+    "summary": "A new macOS infostealer tricks victims into revealing their system password and installs a persistent backdoor for future access.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/new-clicklock-stealer-locks-your-mac-until-you-hand-over-your-password"
+    ]
+  }
+]

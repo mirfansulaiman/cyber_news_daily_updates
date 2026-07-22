@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "wp2shell hits WordPress: detecting pre-auth RCE from plugin drop to command execution and North Korean hackers target South Korean software vendors. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Attackers Are Learning to Live Off the AI Toolchain. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "New ransomware group uses printers to deliver ransom notes. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-23",
+  "vol": "003"
+}

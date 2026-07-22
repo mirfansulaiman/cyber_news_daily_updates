@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- wp2shell hits WordPress: detecting pre-auth RCE from plugin drop to command execution
+- New ransomware group uses printers to deliver ransom notes
+- Stadler Rail refuses to pay $12.3 million ransom after ransomware attack
+- North Korean hackers target South Korean software vendors
+- Arista Networks enhances SD-WAN with AI-infused edge threat management
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Attackers Are Learning to Live Off the AI Toolchain. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by wp2shell hits WordPress: detecting pre-auth RCE from plugin drop to command execution. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New ransomware group uses printers to deliver ransom notes. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

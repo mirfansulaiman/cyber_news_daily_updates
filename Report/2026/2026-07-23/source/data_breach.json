@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New ransomware group uses printers to deliver ransom notes",
+    "published_wib": "2026-07-23T06:03:30+07:00",
+    "summary": "The newly identified group, \"XEntry Team,\" is reportedly behind these attacks.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/new-ransomware-group-uses-printers-to-deliver-ransom-notes"
+    ]
+  },
+  {
+    "title": "Stadler Rail refuses to pay $12.3 million ransom after ransomware attack",
+    "published_wib": "2026-07-23T06:01:53+07:00",
+    "summary": "The incident, which occurred in mid-July, involved the theft of non-security-relevant technical information from a supplier.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/stadler-rail-refuses-to-pay-12-3-million-ransom-after-ransomware-attack"
+    ]
+  },
+  {
+    "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+    "published_wib": "2026-07-23T04:43:39+07:00",
+    "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/"
+    ]
+  },
+  {
+    "title": "South Korea discloses data breach impacting diplomats worldwide",
+    "published_wib": "2026-07-23T03:06:54+07:00",
+    "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/"
+    ]
+  },
+  {
+    "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+    "published_wib": "2026-07-22T23:59:17+07:00",
+    "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/"
+    ]
+  },
+  {
+    "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
+    "published_wib": "2026-07-22T22:30:00+07:00",
+    "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/"
+    ]
+  },
+  {
+    "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
+    "published_wib": "2026-07-22T22:02:11+07:00",
+    "summary": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/"
+    ]
+  },
+  {
+    "title": "Chick-fil-A loyalty accounts hijacked using stolen passwords",
+    "published_wib": "2026-07-22T19:46:18+07:00",
+    "summary": "If you have a Chick-fil-A One account, now is a good time to change your password\u2014and make sure it's one you don't use anywhere else.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/07/chick-fil-a-loyalty-accounts-hijacked-using-stolen-passwords"
+    ]
+  },
+  {
+    "title": "Open AI Claims Its AI Models Went Rogue and Hacked Another Company",
+    "published_wib": "2026-07-22T18:40:00+07:00",
+    "summary": "Hugging Face recently disclosed a security breach. OpenAI has now said that it was its AI models which broke containment and hacked Hugging Face themselves",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/"
+    ]
+  },
+  {
+    "title": "Paidwork breach exposes data of 23 million users: Check if you\u2019re affected",
+    "published_wib": "2026-07-22T18:34:49+07:00",
+    "summary": "A reported breach at microtask platform Paidwork exposed personal and financial data of more than 23 million users. Here's how to check if you're affected.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/07/paidwork-breach-exposes-data-of-23-million-users-check-if-youre-affected"
+    ]
+  }
+]

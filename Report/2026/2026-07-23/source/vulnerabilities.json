@@ -1,0 +1,102 @@
+[
+  {
+    "title": "wp2shell hits WordPress: detecting pre-auth RCE from plugin drop to command execution",
+    "published_wib": "2026-07-23T07:00:00+07:00",
+    "summary": "We ran the wp2shell WordPress RCE chain end-to-end with Elastic Defend. Detection rule walkthrough, IOCs, and hunt guidance.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.elastic.co/security-labs/wp2shell-wordpress-rce-detection-elastic-defend"
+    ]
+  },
+  {
+    "title": "North Korean hackers target South Korean software vendors",
+    "published_wib": "2026-07-23T05:57:11+07:00",
+    "summary": "The Kimsuky group compromised a groupware vendor through an externally accessible mail server by exploiting a remote code execution vulnerability.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/north-korean-hackers-target-south-korean-software-vendors"
+    ]
+  },
+  {
+    "title": "Arista Networks enhances SD-WAN with AI-infused edge threat management",
+    "published_wib": "2026-07-23T05:52:26+07:00",
+    "summary": "The Edge Threat Management (ETM) for VeloCloud SD-WAN packages zero trust branch office security with a common operating system, a uniform enforcement engine, and standardized security policies.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/arista-networks-enhances-sd-wan-with-ai-infused-edge-threat-management"
+    ]
+  },
+  {
+    "title": "Hugging Face \u2018attacker\u2019 revealed to be OpenAI agents that escaped testing sandbox",
+    "published_wib": "2026-07-23T04:46:36+07:00",
+    "summary": "OpenAI said GPT-5.6 Sol and a pre-release model exploited vulnerabilities to \u201ccheat\u201d on ExploitGym.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/hugging-face-attacker-revealed-to-be-openai-agents-that-escaped-testing-sandbox"
+    ]
+  },
+  {
+    "title": "Critical Zimbra security update fixes 9 vulnerabilities",
+    "published_wib": "2026-07-23T03:26:09+07:00",
+    "summary": "Business email and collaboration suite Zimbra has received a major security update that fixes several critical issues that could allow attackers to execute malicious code on the server or in users\u2019 browsers. Available in commercial and open-source editions, Zimbra Collaboration Suite is a self-hosted Microsoft Exchange alternative that is popular with busin\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4200221/critical-zimbra-security-update-fixes-9-vulnerabilities.html"
+    ]
+  },
+  {
+    "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
+    "published_wib": "2026-07-23T02:42:42+07:00",
+    "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware"
+    ]
+  },
+  {
+    "title": "AI Threat Detection Is Not Enough Without Adversary Intelligence",
+    "published_wib": "2026-07-23T02:30:00+07:00",
+    "summary": "The 2026 emergence of Anthropic\u2019s Claude Mythos Preview showed security leaders that AI can now find software vulnerabilities faster than the humans responsible for patching them.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.intel471.com/blog/ai-threat-detection-is-not-enough-without-adversary-intelligence"
+    ]
+  },
+  {
+    "title": "Oracle\u2019s July update fixes ten 10.0 vulnerabilities in Fusion Middleware",
+    "published_wib": "2026-07-23T01:14:27+07:00",
+    "summary": "Oracle\u2019s July 2026 Critical Patch Update, its largest ever, contains 1,449 new security patches spanning 32 product families, from Oracle Database and E-Business Suite to PeopleSoft, GoldenGate, Java SE, and Fusion Middleware. Fusion Middleware was particularly hard hit, with new security patches for 355 security vulnerabilities, 219 of them remotely exploi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4200184/oracles-july-update-fixes-ten-10-0-vulnerabilities-in-fusion-middleware.html"
+    ]
+  },
+  {
+    "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+    "published_wib": "2026-07-23T01:07:16+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.1\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
+    ]
+  },
+  {
+    "title": "VU#847406: Duplicati backup software v2.3.0.1 is vulnerable to an incorrect permission assignment vulnerability",
+    "published_wib": "2026-07-23T00:24:02.844545+07:00",
+    "summary": "Overview Duplicati v2.3.0.1 is vulnerable to arbitrary code execution when installed outside the default C:\\Program Files\\Duplicati 2\\ directory. An attacker with local user privileges who can write files to the Duplicati installation directory can execute arbitrary code by placing malicious files, such as DLLs, in that directory. To mitigate this vulnerabi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/847406"
+    ]
+  }
+]
