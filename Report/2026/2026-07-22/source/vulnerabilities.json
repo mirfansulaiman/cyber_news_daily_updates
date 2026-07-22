@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AI can\u2019t fix cybersecurity\u2019s hiring problem",
+    "published_wib": "2026-07-22T11:30:56+07:00",
+    "summary": "Organizations are redefining cybersecurity roles through workforce frameworks and placing greater emphasis on verified skills as AI and new regulatory requirements change hiring. The SANS 2026 Cybersecurity Workforce Survey found demand for specialists in new roles more than doubled over the past year, alongside increased hiring for existing cybersecurity s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/22/cybersecurity-workforce-trends-report/"
+    ]
+  },
+  {
+    "title": "Cloud operations become the next big role for agentic AI",
+    "published_wib": "2026-07-22T11:00:40+07:00",
+    "summary": "Companies are using agentic AI to manage growing application environments, automate routine tasks, and support decisions. Business and IT leaders increasingly see the technology as part of cloud application management, according to Unisys\u2019 AI & Cloud Insights Report. To what extent do the following factors limit your organization\u2019s ability to scale agentic\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/22/agentic-ai-cloud-operations-report/"
+    ]
+  },
+  {
+    "title": "LG to Ban Residential Proxies from Smart TV Apps",
+    "published_wib": "2026-07-22T08:10:38+07:00",
+    "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
+    ]
+  },
+  {
+    "title": "Military-focused apps contain foreign-sourced code, raising data security concerns",
+    "published_wib": "2026-07-22T04:43:50+07:00",
+    "summary": "A study by researchers from Purdue University, the U.S. Military Academy at West Point, and Florida International University examined over 220 apps, finding that nearly two-thirds contained third-party software development kits (SDKs).",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/military-focused-apps-contain-foreign-sourced-code-raising-data-security-concerns"
+    ]
+  },
+  {
+    "title": "Oracle July 2026 Critical Patch Update Addresses 1235 CVEs",
+    "published_wib": "2026-07-22T04:07:46+07:00",
+    "summary": "Oracle addresses 1235 CVEs in its third quarterly update of 2026 with 1449 patches, including 261 critical updates. Key Takeaways The third Critical Patch Update (CPU) for 2026 contains fixes for 1235 unique CVEs in 1449 security updates, the largest CPU release. 261 issues (18% of all patches) were assigned a critical severity rating Oracle E-Business Suit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/oracle-july-2026-critical-patch-update-addresses-1235-cves"
+    ]
+  },
+  {
+    "title": "Qilin exploits Palo Alto Networks GlobalProtect VPN firewalls",
+    "published_wib": "2026-07-22T03:08:42+07:00",
+    "summary": "Qilin exploited a patched Palo Alto VPN flaw, highlighting the cost of delayed patching.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/qilin-exploits-palo-alto-networks-globalprotect-vpn-firewalls"
+    ]
+  },
+  {
+    "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+    "published_wib": "2026-07-22T03:06:55+07:00",
+    "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
+    ]
+  },
+  {
+    "title": "Cisco Launches Low-Cost AI Models for Source Code Security",
+    "published_wib": "2026-07-22T00:44:33+07:00",
+    "summary": "The open-weight Antares models are designed to pinpoint known vulnerabilities in codebases faster and at a fraction of the cost of larger AI models. The post Cisco Launches Low-Cost AI Models for Source Code Security appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/cisco-launches-low-cost-ai-models-for-source-code-security/"
+    ]
+  },
+  {
+    "title": "VU#762226: Plane contains multi-tenant authorization bypass vulnerability",
+    "published_wib": "2026-07-21T23:42:25.662843+07:00",
+    "summary": "Overview The project management tool Plane, versions 1.3.0 and earlier, contains a multi-tenant authorization bypass vulnerability in its asset-management API that allows unauthorized users to access, delete, or duplicate assets that belong to other workspaces. Description Plane is an open-source project management platform that provides multi-tenant worksp\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/762226"
+    ]
+  },
+  {
+    "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+    "published_wib": "2026-07-21T23:41:50+07:00",
+    "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+    ]
+  }
+]

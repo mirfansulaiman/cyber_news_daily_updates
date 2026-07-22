@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Police dismantle Kratos phishing platform, arrest developer",
+    "published_wib": "2026-07-22T06:07:33+07:00",
+    "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/"
+    ]
+  },
+  {
+    "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+    "published_wib": "2026-07-22T04:48:05+07:00",
+    "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai"
+    ]
+  },
+  {
+    "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+    "published_wib": "2026-07-22T01:50:54+07:00",
+    "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/"
+    ]
+  },
+  {
+    "title": "Do more with AWS WAF labels using dynamic label interpolation",
+    "published_wib": "2026-07-22T00:03:16+07:00",
+    "summary": "AWS WAF classifies web traffic by attaching metadata to each request it evaluates. Managed rule groups such as AWS WAF Bot Control and AWS WAF Fraud Control account takeover prevention (ATP) attach labels that describe what they found. A label can record that a request came from a known bot category or that it matched [\u2026]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/"
+    ]
+  },
+  {
+    "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+    "published_wib": "2026-07-21T21:00:10+07:00",
+    "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/"
+    ]
+  },
+  {
+    "title": "JadePuffer returns with ransomware built to target AI models and infrastructure",
+    "published_wib": "2026-07-21T20:38:54+07:00",
+    "summary": "JadePuffer, the threat actor behind the recently documented extortion operation executed end-to-end by an AI agent, is now attempting to leverage ENCFORGE, novel ransomware created to target AI and machine learning (ML) infrastructure. The extortion contact embedded in the ransomware is the same one Sysdig researchers found when analyzing that prior campaig\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/21/jadepuffer-encforge-ransomware/"
+    ]
+  },
+  {
+    "title": "A new extortion cocktail: office printers, small ransoms, and BitLocker",
+    "published_wib": "2026-07-21T20:00:29+07:00",
+    "summary": "We cover two recent cases of BitLocker extortion using RDP, MSSQL, RMM tools, web shells, and printers. The story includes TTPs and recommendations.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://securelist.com/new-extortion-scheme-printers-bitlocker/120718/"
+    ]
+  },
+  {
+    "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
+    "published_wib": "2026-07-21T20:00:00+07:00",
+    "summary": "Analysis by Black Kite warns that ransomware ecosystem is becoming bigger and more fragmented",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
+    ]
+  },
+  {
+    "title": "Don\u2019t trust that \u201cFBI agent\u201d in your DMs",
+    "published_wib": "2026-07-21T18:33:35+07:00",
+    "summary": "The FBI is warning that fraudsters are using fake IC3 accounts and direct messages to target people who've already been scammed.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/dont-trust-that-fbi-agent-in-your-dms"
+    ]
+  },
+  {
+    "title": "Shufti simplifies cross-border compliance with the Glocal Platform",
+    "published_wib": "2026-07-21T18:06:36+07:00",
+    "summary": "Shufti has launched the Shufti Glocal Platform, a compliance lifecycle management solution designed to help organizations manage identity verification, fraud prevention, risk assessment, and regulatory compliance through a single platform across every industry, every region, and every use case. For decades, global expansion has come with an unwritten rule:\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/21/shufti-simplifies-cross-border-compliance-with-the-glocal-platform/"
+    ]
+  }
+]

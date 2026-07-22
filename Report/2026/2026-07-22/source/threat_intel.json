@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+    "published_wib": "2026-07-22T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33174"
+    ]
+  },
+  {
+    "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+    "published_wib": "2026-07-22T05:34:17+07:00",
+    "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/"
+    ]
+  },
+  {
+    "title": "German authorities dismantle Kratos phishing-as-a-service infrastructure",
+    "published_wib": "2026-07-22T04:42:17+07:00",
+    "summary": "The Kratos kit enabled cybercriminals with limited technical skills to harvest credentials, including passwords and session cookies, by providing convincing Microsoft-themed phishing pages.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/german-authorities-dismantle-kratos-phishing-as-a-service-infrastructure"
+    ]
+  },
+  {
+    "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
+    "published_wib": "2026-07-22T01:16:09+07:00",
+    "summary": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/"
+    ]
+  },
+  {
+    "title": "Captive Portal Detection, (Tue, Jul 21st)",
+    "published_wib": "2026-07-21T20:44:56+07:00",
+    "summary": "Not everything our honeypots detect is an attack. Sometimes it is just \"odd traffic\", and this is one example: Our \"First Seen\" list currently includes \"http://detectportal.firefox.co",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33172"
+    ]
+  },
+  {
+    "title": "Your AI agent\u2019s config is now the payload: How attackers are targeting the developer agent harness",
+    "published_wib": "2026-07-21T20:00:00+07:00",
+    "summary": "Attackers have shifted from hiding from AI tools to running inside them. By poisoning the config files that govern AI coding assistants, a new worm class achieves silent persistence, evades AI-based scanners, and spreads across an organization's repositories through developers' own tools. Key takeaways AI coding assistant configuration files, such as settin\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.tenable.com/blog/ai-coding-assistant-agent-harness-attacks"
+    ]
+  },
+  {
+    "title": "New ClickLock Stealer locks your Mac until you hand over your password",
+    "published_wib": "2026-07-21T18:59:31+07:00",
+    "summary": "A new macOS infostealer tricks victims into revealing their system password and installs a persistent backdoor for future access.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/new-clicklock-stealer-locks-your-mac-until-you-hand-over-your-password"
+    ]
+  },
+  {
+    "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+    "published_wib": "2026-07-21T18:55:28+07:00",
+    "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account\u2019s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Uncover North Korean 'ClickFake' Campaign Targeting Web3 Pros",
+    "published_wib": "2026-07-21T16:30:00+07:00",
+    "summary": "In a new campaign, North Korean hacking group Famous Chollima targeted crypto professionals through ClickFix lures to deliver Windows and macOS trojans",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Kali365 Targets US Organizations with Data Theft via Device Code Phishing",
+    "published_wib": "2026-07-21T14:01:11+07:00",
+    "summary": "Kali365 is targeting US organizations with device code phishing attacks that abuse legitimate Microsoft authentication. Instead of directing victims to a fake login form, the phishkit sends them to a real Microsoft page, where they authorize access using an attacker-controlled device code. This makes the attack harder for analysts to spot and more dangerous\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/kali365-phishing-targeting-us/"
+    ]
+  }
+]
