@@ -1,9 +1,9 @@
 name: Generate Daily Report Artifacts
 
 on:
-  # 08:55 WIB = 01:55 UTC — generate poster/PDF dari source yg sudah siap
+  # 05:30 WIB = 22:30 UTC — generate poster/PDF dari source yg sudah siap
   schedule:
-    - cron: "55 1 * * *"
+    - cron: "30 22 * * *"
   push:
     branches: ["main"]
     paths:
