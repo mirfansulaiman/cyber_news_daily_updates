@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "End-to-end encryption and the third round of the \u2018going dark\u2019 debate and How to Evaluate Attack Surface Management Platforms. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New Dolphin X malware uses AI to rank high-value targets. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Australian energy provider Origin says data breach exposes client data. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-24",
+  "vol": "003"
+}

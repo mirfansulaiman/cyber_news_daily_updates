@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Fabricated machine identities pose overlooked security risk
+- End-to-end encryption and the third round of the ‘going dark’ debate
+- How to Evaluate Attack Surface Management Platforms
+- Indicators of Compromise (IOCs) vs Indicators of Attack (IOAs)
+- Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Indicators of Compromise (IOCs) vs Indicators of Attack (IOAs). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by End-to-end encryption and the third round of the ‘going dark’ debate. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Fabricated machine identities pose overlooked security risk. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

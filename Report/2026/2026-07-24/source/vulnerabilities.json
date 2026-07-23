@@ -1,0 +1,102 @@
+[
+  {
+    "title": "End-to-end encryption and the third round of the \u2018going dark\u2019 debate",
+    "published_wib": "2026-07-24T05:53:23+07:00",
+    "summary": "A new paper analyzes the current controversies over end-to-end encryption (E2EE), which governments worldwide are seeking to limit for law enforcement and national security purposes.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/end-to-end-encryption-and-the-third-round-of-the-going-dark-debate"
+    ]
+  },
+  {
+    "title": "How to Evaluate Attack Surface Management Platforms",
+    "published_wib": "2026-07-24T05:30:56+07:00",
+    "summary": "The governance chain evaluation framework tests whether a platform can enforce the workflows that turn discovery into governance",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/buyers-guide/how-to-evaluate-attack-surface-management-platforms"
+    ]
+  },
+  {
+    "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+    "published_wib": "2026-07-24T04:23:18+07:00",
+    "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets"
+    ]
+  },
+  {
+    "title": "Check Point hole grants unauthenticated attackers full SmartConsole admin privileges",
+    "published_wib": "2026-07-24T03:14:58+07:00",
+    "summary": "Check Point has confirmed that a critical security hole in its SmartConsole management tool, one that allows unauthenticated attackers to assume full admin privileges, is now being exploited in the wild. The vulnerability, CVE-2026-16232 , was given a CVSS score of 9.3. In its security alert, Check Point described the bug as one allowing an unauthenticated\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4200913/check-point-hole-grants-unauthenticated-attackers-full-smartconsole-admin-privileges.html"
+    ]
+  },
+  {
+    "title": "4 ways AI-driven defense is rewriting the cybersecurity playbook",
+    "published_wib": "2026-07-24T02:14:31+07:00",
+    "summary": "The cybersecurity landscape has evolved beyond human scale. Today\u2019s adversaries have replaced predictable, manual playbooks with machine-generated attack chains that can breach traditional controls in seconds. To bridge the gap, organizations must move past legacy, reactive controls and embrace a fundamentally different, AI-driven architecture: Agentic Endp\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4200895/4-ways-ai-driven-defense-is-rewriting-the-cybersecurity-playbook-2.html"
+    ]
+  },
+  {
+    "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+    "published_wib": "2026-07-24T01:36:08+07:00",
+    "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it. The NSA\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html"
+    ]
+  },
+  {
+    "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+    "published_wib": "2026-07-23T23:49:27+07:00",
+    "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/"
+    ]
+  },
+  {
+    "title": "Russian Hackers Exploit New \u2018Zero-Click\u2019 Attack Against Western Organizations",
+    "published_wib": "2026-07-23T22:50:00+07:00",
+    "summary": "International agencies issue joint alert over state-backed campaign exploiting a critical vulnerability in the Zimbra Collaboration Suite",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/"
+    ]
+  },
+  {
+    "title": "Linux XFS has a decade-old race condition allowing full root access",
+    "published_wib": "2026-07-23T22:45:00+07:00",
+    "summary": "Linux systems using the XFS filesystem suffer from a race condition that could enable an unprivileged local user to gain full root access. The flaw affects systems with Linux kernel 4.11 or later that have enabled the XFS feature reflink, which permits the creation of copies of a file without actually copying its data. According to Qualys Threat Research Un\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4200808/linux-xfs-has-a-decade-old-race-condition-allowing-full-root-access-2.html"
+    ]
+  },
+  {
+    "title": "VU#492466: Logto Identity Platform has authentication and authorization failures in core protocol handling",
+    "published_wib": "2026-07-23T22:40:37.211938+07:00",
+    "summary": "Overview The Logto platform contains multiple vulnerabilities affecting the identity\u2011processing pipeline. These flaws reduce the reliability of authentication and authorization decisions and may allow attackers to bypass account\u2011ownership checks, skip MFA, replay externally issued SSO responses, or submit identity assertions without proper cryptographic or\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/492466"
+    ]
+  }
+]

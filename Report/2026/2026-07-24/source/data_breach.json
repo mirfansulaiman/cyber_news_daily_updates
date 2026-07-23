@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fabricated machine identities pose overlooked security risk",
+    "published_wib": "2026-07-24T05:57:11+07:00",
+    "summary": "The Hacker News disclosed that a significant and often overlooked security threat involves fabricated machine identities, a concept analogous to synthetic identity fraud in the human realm.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/fabricated-machine-identities-pose-overlooked-security-risk"
+    ]
+  },
+  {
+    "title": "Australian energy provider Origin says data breach exposes client data",
+    "published_wib": "2026-07-24T03:14:35+07:00",
+    "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/"
+    ]
+  },
+  {
+    "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+    "published_wib": "2026-07-23T20:11:09+07:00",
+    "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and nothing else. It starts Chrome or Edge in he\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html"
+    ]
+  },
+  {
+    "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+    "published_wib": "2026-07-23T18:45:00+07:00",
+    "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn't exist. Si\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html"
+    ]
+  },
+  {
+    "title": "Months-long breach exposes South Korean diplomats\u2019 personal data",
+    "published_wib": "2026-07-23T18:04:44+07:00",
+    "summary": "South Korea\u2019s Foreign Ministry has disclosed that attackers breached the Korea National Diplomatic Academy\u2019s online education system, compromising personal data belonging to current and former ministry staff and diplomats stationed abroad. The Korea National Diplomatic Academy launched the online training platform in 2022 to support remote learning during t\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/23/south-korea-diplomatic-academy-data-breach/"
+    ]
+  },
+  {
+    "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+    "published_wib": "2026-07-23T17:49:10+07:00",
+    "summary": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/"
+    ]
+  },
+  {
+    "title": "Chaos ransomware msaRAT hides its C2 channel inside a legitimate browser process",
+    "published_wib": "2026-07-23T17:38:07+07:00",
+    "summary": "Cisco Talos has identified a Rust-based remote access trojan it attributes to the Chaos ransomware group, named msaRAT after four of the binding names left in the binary. The tool starts its own instance of Chrome or Edge on the victim machine and controls it through Chrome DevTools Protocol, a debugging interface built into both browsers. The browser then\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/23/cisco-talos-chaos-ransomware-msarat/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Swiss rail manufacturer Stadler refuses to pay $12.3 million ransom after cyberattack",
+    "published_wib": "2026-07-23T15:54:26+07:00",
+    "summary": "Cybercriminal group Everest is demanding 10 million Swiss francs ($12.3 million) from Swiss rail vehicle manufacturer Stadler after breaching a data exchange platform shared with one of its suppliers through compromised credentials. Stadler operates 16 production and component plants and eight engineering centers, backed by a global service network of more\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/23/stadler-everest-ransom-demand/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Two-Thirds of Ransomware Victims Say AI Boosted Attack Effectiveness",
+    "published_wib": "2026-07-23T15:00:00+07:00",
+    "summary": "A new study of organizations which have fallen victim to ransomware suggests the rise of AI-tools being used by hackers is making life harder for defenders",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
+    "published_wib": "2026-07-23T08:00:00+07:00",
+    "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain"
+    ]
+  }
+]

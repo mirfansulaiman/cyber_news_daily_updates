@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Indicators of Compromise (IOCs) vs Indicators of Attack (IOAs)",
+    "published_wib": "2026-07-24T05:18:30+07:00",
+    "summary": "Each signal type drives different control decisions",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/tech-explainer/indicators-of-compromise-iocs-vs-indicators-of-attack-ioas"
+    ]
+  },
+  {
+    "title": "New Dolphin X malware uses AI to rank high-value targets",
+    "published_wib": "2026-07-24T04:20:34+07:00",
+    "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/"
+    ]
+  },
+  {
+    "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+    "published_wib": "2026-07-24T02:48:30+07:00",
+    "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/"
+    ]
+  },
+  {
+    "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+    "published_wib": "2026-07-23T23:32:35+07:00",
+    "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/"
+    ]
+  },
+  {
+    "title": "Email threat landscape: Q2 2026 trends and insights",
+    "published_wib": "2026-07-23T22:00:00+07:00",
+    "summary": "In the second quarter of 2026, the continuing effects of Microsoft\u2019s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains. The post Email threat landscape: Q2 2026\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/"
+    ]
+  },
+  {
+    "title": "Russian Global Webmail Espionage",
+    "published_wib": "2026-07-23T21:10:53+07:00",
+    "summary": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/russian-webmail-espionage/"
+    ]
+  },
+  {
+    "title": "How attackers hosted a fake Claude download page on the claude.ai domain",
+    "published_wib": "2026-07-23T20:12:21+07:00",
+    "summary": "A threat actor abused Anthropic\u2019s Claude Artifacts feature to funnel users toward malware, Huntress researchers have disclosed. Employees at at least 29 organizations were compromised over two days in July, after searching for the Claude desktop app and clicking a sponsored Bing ad. The ad pointed to the genuine claude.ai domain, but landed on an attacker-p\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/23/anthropic-claude-artifacts-download-malware/"
+    ]
+  },
+  {
+    "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+    "published_wib": "2026-07-23T19:42:12+07:00",
+    "summary": "SentinelOne\u2019s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/"
+    ]
+  },
+  {
+    "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+    "published_wib": "2026-07-23T19:20:23+07:00",
+    "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region;\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html"
+    ]
+  },
+  {
+    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+    "published_wib": "2026-07-23T18:28:54+07:00",
+    "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 packages associated with a legitimate PHP and DevOps developer, di\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html"
+    ]
+  }
+]
