@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Golden Chickens malware-as-a-service resurfaces with four new families",
+    "published_wib": "2026-07-25T05:16:12+07:00",
+    "summary": "The Hacker News disclosed that the threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/golden-chickens-malware-as-a-service-resurfaces-with-four-new-families"
+    ]
+  },
+  {
+    "title": "UK issues alert over Russian zero-click email attacks",
+    "published_wib": "2026-07-25T05:08:30+07:00",
+    "summary": "The UK's National Cyber Security Centre (NCSC) issued an alert regarding a new 'zero-click' threat campaign orchestrated by Russian state-backed hackers targeting organizations across critical sectors, according to a recent report by IT Pro.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/uk-issues-alert-over-russian-zero-click-email-attacks"
+    ]
+  },
+  {
+    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+    "published_wib": "2026-07-24T22:12:35+07:00",
+    "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+    ]
+  },
+  {
+    "title": "Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
+    "published_wib": "2026-07-24T19:00:00+07:00",
+    "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/"
+    ]
+  },
+  {
+    "title": "Beyond the Play Store: How Android threats really spread",
+    "published_wib": "2026-07-24T19:00:00+07:00",
+    "summary": "Some threats never pass through the Play Store. Others arrive later in seemingly legitimate updates. Here's how Malwarebytes detects both.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread"
+    ]
+  },
+  {
+    "title": "ChatGPT Among Top 10 Most Impersonated Brands in Phishing Attacks, Says Check Point",
+    "published_wib": "2026-07-24T18:15:00+07:00",
+    "summary": "OpenAI\u2019s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/"
+    ]
+  },
+  {
+    "title": "Top AIs invent same fake PyPl and npm package names",
+    "published_wib": "2026-07-24T17:39:51+07:00",
+    "summary": "Enterprise software developers continue to be in danger of falling victim to slopsquatting, where AI coding tools hallucinate the existence of nonexistent libraries and hackers create malicious packages in response. The top AI coding tools are remarkably consistent in their hallucinations: Researcher Aleksandr Churilov found the same 127 fake package names\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4201164/top-ais-invent-same-fake-pypl-and-npm-package-names-2.html"
+    ]
+  },
+  {
+    "title": "Tycoon2FA takedown reshapes the phishing landscape",
+    "published_wib": "2026-07-24T17:23:03+07:00",
+    "summary": "Traditional phishing techniques are in decline as a result of the disruption of the Tycoon2FA phishing-as-a-service (PHaaS) platform , Microsoft said in a new report, \u201cEmail threat landscape: Q2 2026 trends and insights\u201d. \u201cPhishing volume linked to the platform fell 92% from pre-disruption averages, including QR code phishing and CAPTCHA-gated phishing both\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4201146/tycoon2fa-takedown-reshapes-the-phishing-landscape.html"
+    ]
+  },
+  {
+    "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+    "published_wib": "2026-07-24T17:09:24+07:00",
+    "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+    "published_wib": "2026-07-24T13:50:57+07:00",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing se\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html"
+    ]
+  }
+]

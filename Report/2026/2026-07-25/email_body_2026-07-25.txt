@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Pope's official prayer app commits cardinal sin, leaks 700K+ users' info
+- Golden Chickens malware-as-a-service resurfaces with four new families
+- Vatican's 'Click to Pray' app leaks personal data of hundreds of thousands
+- Cybersecurity threats escalate with ransomware, data breaches and online fraud
+- UK issues alert over Russian zero-click email attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Golden Chickens malware-as-a-service resurfaces with four new families. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by GitHub to implement two-tier bug bounty program amid AI-generated report surge. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Pope's official prayer app commits cardinal sin, leaks 700K+ users' info. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

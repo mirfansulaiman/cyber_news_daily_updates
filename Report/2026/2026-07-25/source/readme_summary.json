@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "GitHub to implement two-tier bug bounty program amid AI-generated report surge and AI assistant used in cyberattack on Thailand's Ministry of Finance. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Golden Chickens malware-as-a-service resurfaces with four new families. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-25",
+  "vol": "003"
+}
