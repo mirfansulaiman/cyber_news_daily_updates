@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+    "published_wib": "2026-07-25T19:52:43+07:00",
+    "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    ]
+  },
+  {
+    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+    "published_wib": "2026-07-25T17:14:26+07:00",
+    "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+    ]
+  },
+  {
+    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+    "published_wib": "2026-07-25T17:14:03+07:00",
+    "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the W\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+    "published_wib": "2026-07-25T15:30:00+07:00",
+    "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/"
+    ]
+  },
+  {
+    "title": "[+24h Old] GitHub to implement two-tier bug bounty program amid AI-generated report surge",
+    "published_wib": "2026-07-25T05:06:56+07:00",
+    "summary": "GitHub is launching a two-tier bug bounty program starting July 27, 2026, in response to an increase in low-quality, AI-generated vulnerability reports.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/github-to-implement-two-tier-bug-bounty-program-amid-ai-generated-report-surge"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI assistant used in cyberattack on Thailand's Ministry of Finance",
+    "published_wib": "2026-07-25T05:03:15+07:00",
+    "summary": "An open-source AI assistant named Hermes was used in a cyberattack targeting Thailand's Ministry of Finance, compromising sensitive personnel data and internal systems.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-assistant-used-in-cyberattack-on-thailands-ministry-of-finance"
+    ]
+  },
+  {
+    "title": "[+24h Old] OnTrac notifies customers of data breach after network hack",
+    "published_wib": "2026-07-25T02:55:01+07:00",
+    "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hermes AI agent used to automate attack on Thai Finance Ministry",
+    "published_wib": "2026-07-25T02:09:09+07:00",
+    "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+    "published_wib": "2026-07-24T21:15:21+07:00",
+    "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+    "published_wib": "2026-07-24T21:01:11+07:00",
+    "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available and Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "ShinyHunters data leaks fuel $2,000 sextortion email scam. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-26",
+  "vol": "003"
+}

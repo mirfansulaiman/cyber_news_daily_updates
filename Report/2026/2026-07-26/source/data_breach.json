@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+    "published_wib": "2026-07-25T21:16:26+07:00",
+    "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/"
+    ]
+  },
+  {
+    "title": "[+24h Old] DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+    "published_wib": "2026-07-25T16:53:41+07:00",
+    "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal co\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Vatican's 'Click to Pray' app leaks personal data of hundreds of thousands",
+    "published_wib": "2026-07-25T05:10:36+07:00",
+    "summary": "A popular Vatican website and mobile app, 'Click to Pray,' was found to be leaking the names and email addresses of hundreds of thousands of its users.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/vaticans-click-to-pray-app-leaks-personal-data-of-hundreds-of-thousands"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cybersecurity threats escalate with ransomware, data breaches and online fraud",
+    "published_wib": "2026-07-25T05:08:51+07:00",
+    "summary": "The cybersecurity landscape continues to expand with increasing risks for governments, businesses and consumers.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/cybersecurity-threats-escalate-with-ransomware-data-breaches-and-online-fraud"
+    ]
+  },
+  {
+    "title": "[+24h Old] US to deny visas to foreign nationals involved in cybercrime",
+    "published_wib": "2026-07-25T05:01:05+07:00",
+    "summary": "The United States will deny visas to foreign nationals involved in cybercrime, with potential extensions to their immediate families, according to a recent report by The Register.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/us-to-deny-visas-to-foreign-nationals-involved-in-cybercrime"
+    ]
+  },
+  {
+    "title": "[+24h Old] Don\u2019t get fooled by TikTok resin art scams",
+    "published_wib": "2026-07-24T21:56:34+07:00",
+    "summary": "Scammers are using stolen videos and fake artist profiles to trick people into buying resin art that never arrives. Here's how to spot the warning signs.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/07/dont-get-fooled-by-tiktok-resin-art-scams"
+    ]
+  },
+  {
+    "title": "[+24h Old] Call of Duty Mobile scam uses fake free points to steal player accounts",
+    "published_wib": "2026-07-24T21:54:23+07:00",
+    "summary": "A phishing site posing as a free Call of Duty Points giveaway is stealing Activision logins and two-factor authentication codes.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/07/call-of-duty-mobile-scam-uses-fake-free-points-to-steal-player-accounts"
+    ]
+  },
+  {
+    "title": "[+24h Old] In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+    "published_wib": "2026-07-24T21:20:00+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Chick-fil-A data breach affects more than 13,000 customers",
+    "published_wib": "2026-07-24T21:04:29+07:00",
+    "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 30",
+    "published_wib": "2026-07-24T20:00:12+07:00",
+    "summary": "Authorities arrest Kratos's developer, HollowGraph hides C2 in 2050 calendar events, and OpenAI's models breach Hugging Face to steal benchmark answers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/"
+    ]
+  }
+]

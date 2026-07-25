@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable
+- Malicious sites use JavaScript to build malware in browser memory
+- ShinyHunters data leaks fuel $2,000 sextortion email scam
+- Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
+- Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by ShinyHunters data leaks fuel $2,000 sextortion email scam. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
