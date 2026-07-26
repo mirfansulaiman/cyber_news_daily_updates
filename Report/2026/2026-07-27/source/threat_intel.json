@@ -1,0 +1,102 @@
+[
+  {
+    "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+    "published_wib": "2026-07-26T21:13:39+07:00",
+    "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+    "published_wib": "2026-07-26T01:48:44+07:00",
+    "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Malicious sites use JavaScript to build malware in browser memory",
+    "published_wib": "2026-07-25T22:21:09+07:00",
+    "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+    "published_wib": "2026-07-25T17:14:21+07:00",
+    "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more immed\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Golden Chickens malware-as-a-service resurfaces with four new families",
+    "published_wib": "2026-07-25T05:16:12+07:00",
+    "summary": "The Hacker News disclosed that the threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/golden-chickens-malware-as-a-service-resurfaces-with-four-new-families"
+    ]
+  },
+  {
+    "title": "[+48h Old] UK issues alert over Russian zero-click email attacks",
+    "published_wib": "2026-07-25T05:08:30+07:00",
+    "summary": "The UK's National Cyber Security Centre (NCSC) issued an alert regarding a new 'zero-click' threat campaign orchestrated by Russian state-backed hackers targeting organizations across critical sectors, according to a recent report by IT Pro.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/uk-issues-alert-over-russian-zero-click-email-attacks"
+    ]
+  },
+  {
+    "title": "[+48h Old] BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+    "published_wib": "2026-07-24T22:12:35+07:00",
+    "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
+    "published_wib": "2026-07-24T19:00:00+07:00",
+    "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Beyond the Play Store: How Android threats really spread",
+    "published_wib": "2026-07-24T19:00:00+07:00",
+    "summary": "Some threats never pass through the Play Store. Others arrive later in seemingly legitimate updates. Here's how Malwarebytes detects both.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/07/beyond-the-play-store-how-android-threats-really-spread"
+    ]
+  },
+  {
+    "title": "[+48h Old] ChatGPT Among Top 10 Most Impersonated Brands in Phishing Attacks, Says Check Point",
+    "published_wib": "2026-07-24T18:15:00+07:00",
+    "summary": "OpenAI\u2019s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/"
+    ]
+  }
+]
