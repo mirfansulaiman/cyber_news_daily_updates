@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+    "published_wib": "2026-07-28T04:08:15+07:00",
+    "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/"
+    ]
+  },
+  {
+    "title": "Malvertising campaign assembles malware in browser",
+    "published_wib": "2026-07-28T03:41:42+07:00",
+    "summary": "A large-scale malvertising campaign is using fake websites for Solana, Luno, and TradingView, employing malicious JavaScript to assemble malware directly in the user's browser.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/malvertising-campaign-assembles-malware-in-browser"
+    ]
+  },
+  {
+    "title": "Phishing attacks on insurance companies evolve to real-time account hijacking",
+    "published_wib": "2026-07-28T03:40:35+07:00",
+    "summary": "Phishing campaigns targeting financial institutions are evolving from credential harvesting for later use to real-time account hijacking, based on information published by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/phishing-attacks-on-insurance-companies-evolve-to-real-time-account-hijacking"
+    ]
+  },
+  {
+    "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
+    "published_wib": "2026-07-28T02:01:23+07:00",
+    "summary": "Application-layer distributed denial of service (DDoS) attacks are difficult to detect because they closely resemble legitimate traffic. HTTP request floods are now among the most common vectors targeting web applications, using valid-looking requests that blend in with normal user activity. In June 2025, AWS launched the AWS WAF Anti-DDoS managed rule grou\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/"
+    ]
+  },
+  {
+    "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+    "published_wib": "2026-07-27T21:26:00+07:00",
+    "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/"
+    ]
+  },
+  {
+    "title": "Google changes how it names cyber threat actors",
+    "published_wib": "2026-07-27T20:08:23+07:00",
+    "summary": "Google Threat Intelligence Group (GTIG) has started using a new naming system for the threat actors it tracks. The change comes after Mandiant and Google\u2019s Threat Analysis Group (TAG) merged into one unit, leaving the company with two separate naming schemes built up over years. Previously, Mandiant and Google\u2019s Threat Analysis Group maintained separate nam\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/27/google-threat-actors-naming-system/"
+    ]
+  },
+  {
+    "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+    "published_wib": "2026-07-27T20:00:00+07:00",
+    "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/"
+    ]
+  },
+  {
+    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+    "published_wib": "2026-07-27T19:37:49+07:00",
+    "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared docu\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html"
+    ]
+  },
+  {
+    "title": "SourTrade Malvertising Campaign Secretly Builds Malware in the Browser",
+    "published_wib": "2026-07-27T18:30:00+07:00",
+    "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/"
+    ]
+  },
+  {
+    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+    "published_wib": "2026-07-27T17:51:45+07:00",
+    "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been utilized by various unrelated cybercriminal threat clusters\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html"
+    ]
+  }
+]

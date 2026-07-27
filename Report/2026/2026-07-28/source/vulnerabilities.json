@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+    "published_wib": "2026-07-28T05:49:44+07:00",
+    "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Russian hackers exploited Zimbra zero-day in espionage campaigns",
+    "published_wib": "2026-07-28T04:30:49+07:00",
+    "summary": "Russian state-sponsored cybercriminals exploited a zero-day vulnerability in the Zimbra email and collaboration platform to conduct espionage against Western targets, primarily military and government agencies, according to a recent report by Tech Radar.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/russian-hackers-exploited-zimbra-zero-day-in-espionage-campaigns"
+    ]
+  },
+  {
+    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+    "published_wib": "2026-07-28T04:00:25+07:00",
+    "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/"
+    ]
+  },
+  {
+    "title": "Steam forums used for ClickFix cryptominer attacks",
+    "published_wib": "2026-07-28T03:49:10+07:00",
+    "summary": "In a report by Bleeping Computer, threat actors are exploiting Steam discussion forums to distribute cryptominers through a social engineering tactic known as ClickFix.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/steam-forums-used-for-clickfix-cryptominer-attacks"
+    ]
+  },
+  {
+    "title": "The enduring mystery of hacker Phineas Fisher",
+    "published_wib": "2026-07-28T03:47:01+07:00",
+    "summary": "As outlined in TechCrunch, the enigmatic hacker known as Phineas Fisher remains one of the most elusive and impactful figures in cybersecurity, a decade after their most notorious exploits.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/the-enduring-mystery-of-hacker-phineas-fisher"
+    ]
+  },
+  {
+    "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+    "published_wib": "2026-07-28T03:33:29+07:00",
+    "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown"
+    ]
+  },
+  {
+    "title": "OnTrac parcel delivery company reports customer data breach",
+    "published_wib": "2026-07-28T03:31:30+07:00",
+    "summary": "Bleeping Computer reports that the parcel delivery company OnTrac has experienced a data breach, potentially exposing customer personal details following a cyberattack on its corporate network.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ontrac-parcel-delivery-company-reports-customer-data-breach"
+    ]
+  },
+  {
+    "title": "Microsoft unveils MAI-Cyber-1-Flash, promises cybersecurity AI at half the cost",
+    "published_wib": "2026-07-28T02:23:07+07:00",
+    "summary": "Microsoft has introduced MAI-Cyber-1-Flash, a security-focused AI model built into MDASH, the company\u2019s multi-agent vulnerability identification and remediation system. MAI-Cyber-1-Flash is Microsoft\u2019s first model built specifically for cybersecurity work, and the company stated that it went through review by its AI Red Team, adversarial testing, and an ass\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/27/microsoft-mai-cyber-1-flash-ai-model/"
+    ]
+  },
+  {
+    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+    "published_wib": "2026-07-28T01:10:05+07:00",
+    "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo A\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html"
+    ]
+  },
+  {
+    "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+    "published_wib": "2026-07-28T00:16:28+07:00",
+    "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national computer emergency response team, and XLab, t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
+    ]
+  }
+]
