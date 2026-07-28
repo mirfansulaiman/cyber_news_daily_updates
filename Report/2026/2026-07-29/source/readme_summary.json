@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Proof-of-concept exploit released for Certighost Windows AD CS vulnerability and Arista patches critical command injection flaw in VeloCloud Orchestrator exploited in attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Disrupting supply chain attacks on npm and GitHub Actions. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Italian organizations targeted by 148 ransomware attacks in first half of 2026. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-29",
+  "vol": "003"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Proof-of-concept exploit released for Certighost Windows AD CS vulnerability",
+    "published_wib": "2026-07-29T04:55:11+07:00",
+    "summary": "Reported by Bleeping Computer. A proof-of-concept exploit was released for a vulnerability in Windows Active Directory Certificate Services (AD CS) known as Certighost, potentially allowing authenticated attackers to compromise an entire Windows domain.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/proof-of-concept-exploit-released-for-certighost-windows-ad-cs-vulnerability"
+    ]
+  },
+  {
+    "title": "Arista patches critical command injection flaw in VeloCloud Orchestrator exploited in attacks",
+    "published_wib": "2026-07-29T04:52:08+07:00",
+    "summary": "As reported by Bleeping Computer, Arista released a patch for a critical command injection vulnerability affecting on-premises VeloCloud Orchestrator (VCO) deployments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/arista-patches-critical-command-injection-flaw-in-velocloud-orchestrator-exploited-in-attacks"
+    ]
+  },
+  {
+    "title": "Operation Cronos dismantled LockBit ransomware group by undermining affiliate trust",
+    "published_wib": "2026-07-29T04:48:10+07:00",
+    "summary": "As reported by Dark Reading, Operation Cronos, a significant international law enforcement effort, successfully dismantled LockBit, once one of the most dominant ransomware-as-a-service (RaaS) operations globally.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/operation-cronos-dismantled-lockbit-ransomware-group-by-undermining-affiliate-trust"
+    ]
+  },
+  {
+    "title": "Hackers exploit FastJson vulnerability for remote code execution",
+    "published_wib": "2026-07-29T04:47:57+07:00",
+    "summary": "Bleeping Computer disclosed that hackers are actively exploiting a critical vulnerability in the FastJson open-source Java library, enabling remote code execution without requiring user interaction or elevated privileges.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/hackers-exploit-fastjson-vulnerability-for-remote-code-execution"
+    ]
+  },
+  {
+    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+    "published_wib": "2026-07-29T04:33:23+07:00",
+    "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path"
+    ]
+  },
+  {
+    "title": "Malicious Steam workshop map delivered malware to MECCHA CHAMELEON players",
+    "published_wib": "2026-07-29T04:31:48+07:00",
+    "summary": "As outlined in Cyber Insider, a malicious Steam Workshop map for the game MECCHA CHAMELEON exploited a vulnerability in the game's mod-loading system to deliver malware to players' computers.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/malicious-steam-workshop-map-delivered-malware-to-meccha-chameleon-players"
+    ]
+  },
+  {
+    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+    "published_wib": "2026-07-29T04:17:39+07:00",
+    "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/"
+    ]
+  },
+  {
+    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+    "published_wib": "2026-07-29T03:37:06+07:00",
+    "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/"
+    ]
+  },
+  {
+    "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+    "published_wib": "2026-07-29T01:59:07+07:00",
+    "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three ho\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html"
+    ]
+  },
+  {
+    "title": "VU#141367: AT&T's Arris BGW210-700 gateway contains authentication bypass vulnerability in LAN-side management interface",
+    "published_wib": "2026-07-29T01:19:12.342407+07:00",
+    "summary": "Overview Firmware versions 2.7.7 and earlier of the Arris BGW210-700 residential gateway contain an authentication bypass vulnerability, tracked as CVE-2026-16771, that allows any unauthenticated LAN-side user to read sensitive configuration data and modify device settings through web management endpoints. Although this vulnerability was recently discovered\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/141367"
+    ]
+  }
+]

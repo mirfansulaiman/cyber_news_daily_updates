@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Italian organizations targeted by 148 ransomware attacks in first half of 2026",
+    "published_wib": "2026-07-29T04:37:08+07:00",
+    "summary": "Italian organizations faced 148 confirmed ransomware attacks in the first half of 2026, with the manufacturing sector being the most frequently targeted.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/italian-organizations-targeted-by-148-ransomware-attacks-in-first-half-of-2026"
+    ]
+  },
+  {
+    "title": "Google introduces new cybercrime naming taxonomy, diverging from Microsoft's initiative",
+    "published_wib": "2026-07-29T04:27:05+07:00",
+    "summary": "The Register reports that Google unveiled its own taxonomy for categorizing cybercrime groups, a move that appears to sideline a previous industry-wide effort led by Microsoft to standardize threat actor names.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/google-introduces-new-cybercrime-naming-taxonomy-diverging-from-microsofts-initiative"
+    ]
+  },
+  {
+    "title": "Hugging Face breach reignites open-weights debate, raises liability questions",
+    "published_wib": "2026-07-28T22:55:19+07:00",
+    "summary": "The first publicly documented cyberattack run end-to-end by an autonomous AI was an OpenAI benchmark test that escaped its sandbox and breached Hugging Face. In an incident post-mortem compiled with the input from Hugging Face and several hundred members of Cloud Security Alliance\u2019s CISO community, the nonprofit organization laid out the most salient points\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/28/hugging-face-breach-ciso-playbook-open-weight-llms/"
+    ]
+  },
+  {
+    "title": "We rebuilt Malwarebytes Mobile Security for the scams of today",
+    "published_wib": "2026-07-28T19:40:00+07:00",
+    "summary": "Your phone needs more than a lock screen to stay safe. We've rebuilt Malwarebytes Mobile Security to put scam protection first and keep your phone secure.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/product/2026/07/we-rebuilt-malwarebytes-mobile-security-for-the-scams-of-today"
+    ]
+  },
+  {
+    "title": "Coca-Cola Reveals Subsidiary Fairlife Suffered Data Breach",
+    "published_wib": "2026-07-28T18:00:00+07:00",
+    "summary": "Coca Cola claims data was stolen from its Fairlife business after a recent ransomware attack",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/coca-cola-subsidiary-fairlife-data/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Data breach at medical billing firm MCBS affects 1.26 million people",
+    "published_wib": "2026-07-28T16:10:03+07:00",
+    "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts",
+    "published_wib": "2026-07-28T09:28:22+07:00",
+    "summary": "Traveling enterprise employees beware: Think twice before you log onto that oh-so-convenient public Wi-Fi. Since at least June, threat actors have been compromising \u201ccaptive\u201d Wi-Fi gateways and other portal appliances at hotels, conference centers, and similar shared venues to hijack users\u2019 Microsoft 365 accounts, according to the ReliaQuest Threat Research\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4202067/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Samsung\u2019s AI-powered glasses could be looking at your data",
+    "published_wib": "2026-07-28T08:42:36+07:00",
+    "summary": "Now that Samsung has jumped into the crowded AI-powered glasses arena alongside Apple , Google , Meta , and others, CISOs and IT leaders are having to think through whether it makes sense to establish enterprise restrictions on such devices, given the likely data leakage and compliance issues. And even if those tech leaders decide that such policies might m\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4201977/samsungs-ai-powered-glasses-could-be-looking-at-your-data.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Aftercall ads are driving Android users crazy",
+    "published_wib": "2026-07-28T02:00:05+07:00",
+    "summary": "A newly uncovered ad fraud campaign is spreading Android apps that display full-screen ads every time you end a phone call.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/aftercall-ads-are-driving-android-users-crazy"
+    ]
+  },
+  {
+    "title": "[+24h Old] Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+    "published_wib": "2026-07-28T00:29:07+07:00",
+    "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/"
+    ]
+  }
+]

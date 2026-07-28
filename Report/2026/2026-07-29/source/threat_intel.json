@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "published_wib": "2026-07-28T23:00:00+07:00",
+    "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
+    ]
+  },
+  {
+    "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+    "published_wib": "2026-07-28T21:00:10+07:00",
+    "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/"
+    ]
+  },
+  {
+    "title": "Cyberhaven launches Flow to secure data across human and AI workflows",
+    "published_wib": "2026-07-28T20:03:27+07:00",
+    "summary": "Cyberhaven has introduced Cyberhaven Flow, an AI-native data security platform built to protect data across human and AI workflows. Flow connects lineage, identity, and behavior to protect data as it is created, copied, fragmented, and shared, marking a shift in how protection adapts to the changing context of work in the AI era. Flow secures data across ev\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/28/cyberhaven-flow/"
+    ]
+  },
+  {
+    "title": "Infoblox joins crowded EASM market with DNS-centric approach",
+    "published_wib": "2026-07-28T20:00:00+07:00",
+    "summary": "With AI compressing reconnaissance and exploit development from weeks to hours, security vendors are racing to help enterprises identify exposures long before an incident happens. Infoblox is the latest to make that move, announcing its entry into the External Attack Surface Management ( EASM ) market alongside a new Supply Chain Intelligence capability tha\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4202205/infoblox-joins-crowded-easm-market-with-dns-centric-approach.html"
+    ]
+  },
+  {
+    "title": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques",
+    "published_wib": "2026-07-28T20:00:00+07:00",
+    "summary": "Analysis of real-life incident response cases by Cisco Talos warns that phishing remains a powerful method of initial compromise",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/"
+    ]
+  },
+  {
+    "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+    "published_wib": "2026-07-28T18:55:20+07:00",
+    "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html"
+    ]
+  },
+  {
+    "title": "Software Supply Chain Attacks: Weaponizing Trusted Developer Workflows",
+    "published_wib": "2026-07-28T18:00:00+07:00",
+    "summary": "While operational supply chain compromise remains a risk, attackers are increasingly targeting the development pipelines that build and ship software.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.intel471.com/blog/software-supply-chain-attacks-weaponizing-trusted-developer-workflows"
+    ]
+  },
+  {
+    "title": "[+24h Old] Building Resilience Against AiTM Phishing: What SOC Leaders Should Know",
+    "published_wib": "2026-07-28T16:03:42+07:00",
+    "summary": "Email gateways, endpoint controls, and file-centric sandboxing remain essential layers of defense. But many of today\u2019s phishing attacks unfold in ways they weren\u2019t designed to fully expose. How do you build resilience against modern phishing if it has outgrown your SOC\u2019s investigation workflows? Rethinking Phishing Investigations in Modern SOCs While initia\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/enterprise-phishing-resilience/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Mirage Kitten targets Middle East and Africa region with new malware",
+    "published_wib": "2026-07-28T15:00:20+07:00",
+    "summary": "Kaspersky researchers reveal previously undocumented malware attributed to Mirage Kitten (UNC1549, Smoke Sandstorm, Nimbus Manticore): NightLedger backdoor, ArcBridge, and BridgeHead tunneling tools.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/mirage-kitten-new-tools/120811/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AutoIT Payload Injector , (Tue, Jul 28th)",
+    "published_wib": "2026-07-28T14:42:27+07:00",
+    "summary": "For a long time, AutoIT[1] has been pretty common in the malware ecosystem. Threat actors still use it because it's easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a remote process as you'll see below.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33192"
+    ]
+  }
+]

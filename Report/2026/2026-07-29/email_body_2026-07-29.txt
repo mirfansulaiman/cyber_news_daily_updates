@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Proof-of-concept exploit released for Certighost Windows AD CS vulnerability
+- Arista patches critical command injection flaw in VeloCloud Orchestrator exploited in attacks
+- Operation Cronos dismantled LockBit ransomware group by undermining affiliate trust
+- Hackers exploit FastJson vulnerability for remote code execution
+- Italian organizations targeted by 148 ransomware attacks in first half of 2026
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Disrupting supply chain attacks on npm and GitHub Actions. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Proof-of-concept exploit released for Certighost Windows AD CS vulnerability. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Italian organizations targeted by 148 ransomware attacks in first half of 2026. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
