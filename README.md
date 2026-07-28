@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 003 | 2026-07-28 09:00 WIB]
+## Today Updates: [Vol. 003 | 2026-07-29 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Arista patches VeloCloud Orchestrator zero-day exploited in attacks and Russian hackers exploited Zimbra zero-day in espionage campaigns. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Proof-of-concept exploit released for Certighost Windows AD CS vulnerability and Arista patches critical command injection flaw in VeloCloud Orchestrator exploited in attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: New Dysphoria DDoS botnet spreads to 200k devices worldwide. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: Disrupting supply chain attacks on npm and GitHub Actions. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Scammers impersonate ShinyHunters in new sextortion email campaign. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Italian organizations targeted by 148 ransomware attacks in first half of 2026. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-28/poster_2026-07-28_issue-003.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-29/poster_2026-07-29_issue-003.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-28/poster_vulnerabilities_2026-07-28_issue-003.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-29/poster_vulnerabilities_2026-07-29_issue-003.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-28/poster_threat-intel_2026-07-28_issue-003.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-29/poster_threat-intel_2026-07-29_issue-003.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-28/poster_data-breach_2026-07-28_issue-003.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-29/poster_data-breach_2026-07-29_issue-003.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-28/cyber_newsletter_2026-07-28.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-29/cyber_newsletter_2026-07-29.pdf
 
 <!-- DAILY_UPDATES_END -->
 
