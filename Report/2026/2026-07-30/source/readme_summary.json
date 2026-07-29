@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Cisco warns of FMC static credential flaw exploited in zero-day attacks and Amazon identifies North Korean hacker group behind open-source supply chain attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "When AppSec Scanners Become a Supply Chain Attack Vector. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Dealing with AI-Generated Extortion. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-30",
+  "vol": "003"
+}

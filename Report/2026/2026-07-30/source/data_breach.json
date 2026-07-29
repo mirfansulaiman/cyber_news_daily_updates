@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Dealing with AI-Generated Extortion",
+    "published_wib": "2026-07-30T07:00:00+07:00",
+    "summary": "Combat AI-generated extortion and fake ransomware leaks. Learn how organizations can verify data authenticity using robust governance and threat intelligence.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.recordedfuture.com/blog/ai-generated-extortion"
+    ]
+  },
+  {
+    "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+    "published_wib": "2026-07-30T00:43:38+07:00",
+    "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions"
+    ]
+  },
+  {
+    "title": "Buying TikTok views or followers? Here\u2019s what you\u2019re really getting",
+    "published_wib": "2026-07-29T23:54:46+07:00",
+    "summary": "Behind TikTok's booming growth industry are fake engagements, stolen accounts, and a fast track to getting flagged.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/07/buying-tiktok-views-or-followers-heres-what-youre-really-getting"
+    ]
+  },
+  {
+    "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+    "published_wib": "2026-07-29T23:04:59+07:00",
+    "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/"
+    ]
+  },
+  {
+    "title": "AI robocalls: Why caller ID is still lying to you",
+    "published_wib": "2026-07-29T22:15:32+07:00",
+    "summary": "AI is making robocall scams cheaper, more convincing, and harder to spot. Here's why caller ID still isn't enough.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/ai-robocalls-why-caller-id-is-still-lying-to-you"
+    ]
+  },
+  {
+    "title": "OpenAI explains how its AI agent breached Hugging Face",
+    "published_wib": "2026-07-29T21:20:32+07:00",
+    "summary": "OpenAI has published an update on the incident in which one of its agents escaped its sandbox and accessed Hugging Face infrastructure.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/openai-explains-how-its-ai-agent-breached-hugging-face"
+    ]
+  },
+  {
+    "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+    "published_wib": "2026-07-29T20:42:57+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
+    ]
+  },
+  {
+    "title": "Stairwell launches Backstory, pioneering agentic investigation for malware blast radius",
+    "published_wib": "2026-07-29T20:01:52+07:00",
+    "summary": "Stairwell, the AI SOC that stops breaches no one else can, today announced the availability of Backstory, an agentic investigation platform that traces related malware variants, identifies affected systems, and maps the full blast radius of an incident in seconds, so enterprises know what happened, where it spread, and what needs to be contained before prec\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/29/stairwell-backstory-agentic-investigation/"
+    ]
+  },
+  {
+    "title": "The Average Cost of a Data Breach Rises to $5 Million",
+    "published_wib": "2026-07-29T18:00:00+07:00",
+    "summary": "IBM Cost of a Data Breach Report warns that the global average cost of a data breach has reached a record high of $4.99m \u2013 and AI-backed attacks have played a role",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cost-of-a-data-breach-5m-ibm/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Warn of AI-Enhanced Phone Fraud Ecosystem",
+    "published_wib": "2026-07-29T16:30:00+07:00",
+    "summary": "AI is dramatically reducing the barriers to entry for scam phone farm operators, Human Security warns",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/researchers-aienhanced-phone-fraud/"
+    ]
+  }
+]

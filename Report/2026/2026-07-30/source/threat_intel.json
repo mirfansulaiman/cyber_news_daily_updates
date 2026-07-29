@@ -1,0 +1,102 @@
+[
+  {
+    "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+    "published_wib": "2026-07-30T00:06:52+07:00",
+    "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector"
+    ]
+  },
+  {
+    "title": "Word worm crawls into Copilot, spreads chaos",
+    "published_wib": "2026-07-29T23:43:54+07:00",
+    "summary": "Researcher says months of coordination with Microsoft have yet to produce a robust mitigation",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588"
+    ]
+  },
+  {
+    "title": "New Tengu botnet uses hardware watchdog for advanced persistence",
+    "published_wib": "2026-07-29T23:07:09+07:00",
+    "summary": "A new Mirai-derived botnet, dubbed Tengu, was identified with advanced persistence and self-defense mechanisms, including the ability to use a compromised Linux device's hardware watchdog to trigger a reboot when its main process is terminated, according to a recent report by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-tengu-botnet-uses-hardware-watchdog-for-advanced-persistence"
+    ]
+  },
+  {
+    "title": "LogoKit Phishing Kit Screenshots Victim Sites in Real Time",
+    "published_wib": "2026-07-29T23:00:00+07:00",
+    "summary": "LogoKit now builds per-victim phishing pages using live screenshots of the target's real website",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/"
+    ]
+  },
+  {
+    "title": "Secure your npm and pip package updates in Amazon Linux",
+    "published_wib": "2026-07-29T21:53:39+07:00",
+    "summary": "If you use and install packages from npm or PyPI, the first hours after a package is published are the riskiest because scanners can\u2019t analyze packages before publication. Recent supply chain events affecting NodeJS and Python packages have been detected and removed within hours. However, while those packages were available to the general public, it\u2019s [\u2026]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux/"
+    ]
+  },
+  {
+    "title": "Tengu botnet reboots Linux devices to survive removal",
+    "published_wib": "2026-07-29T20:52:33+07:00",
+    "summary": "A new Mirai-derived IoT botnet can force an infected Linux device to reboot once its main process is killed, giving its persistence mechanisms another opportunity to relaunch it, Nozomi Networks Labs has found. The malware, dubbed Tengu, was discovered by a machine-learning system the company uses to identify malware families that do not match known signatu\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/29/tengu-mirai-iot-botnet-linux/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Accuris uses AI to improve BOM decisions and supply chain resilience",
+    "published_wib": "2026-07-29T16:04:26+07:00",
+    "summary": "Accuris has announced new AI capabilities for BOM Intelligence, part of its Supply Chain Intelligence suite. The launch gives engineering, procurement and supply chain teams a clearer way to move from spotting component risk to acting on it: catching obsolescence early, closing compliance gaps and governing sourcing decisions across programs. Every capabili\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/29/accuris-bom-intelligence/"
+    ]
+  },
+  {
+    "title": "[+24h Old] How MFA gets hacked \u2014 and strategies to prevent it",
+    "published_wib": "2026-07-29T15:00:00+07:00",
+    "summary": "The security benefits of multifactor authentication (MFA) are well-known, yet MFA continues to be poorly, sporadically, and inconsistently implemented, undercutting its effectiveness as a security tool while often saddling users with an extra workflow burden \u2014 one of many obstacles to MFA\u2019s success. Frequent news stories that describe innovative ways to cir\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/570795/how-to-hack-2fa.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+    "published_wib": "2026-07-29T11:20:57+07:00",
+    "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implan\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] America bans imported robots due to supply chain and security risks",
+    "published_wib": "2026-07-29T09:16:31+07:00",
+    "summary": "Docs point to China\u2019s Unitree as prime example of the foreign clanker threat",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145"
+    ]
+  }
+]

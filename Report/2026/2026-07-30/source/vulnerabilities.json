@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+    "published_wib": "2026-07-30T04:35:40+07:00",
+    "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
+    "published_wib": "2026-07-30T04:00:12+07:00",
+    "summary": "Amazon is sharing new findings about how a threat actor linked to the Democratic People\u2019s Republic of Korea (DPRK) is targeting open source software libraries, the shared building blocks that companies around the world use to develop applications. Amazon Threat Intelligence has linked several recent compromises of popular Node Package Manager (NPM) librarie\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "Closed models refuse to help researcher swat Linux bug",
+    "published_wib": "2026-07-30T01:33:16+07:00",
+    "summary": "\"I'm sorry, Dave. I'm afraid I can't do that\" is an effective sales pitch for open source",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/07/29/closed-models-refuse-to-help-researcher-swat-linux-bug/5280647"
+    ]
+  },
+  {
+    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+    "published_wib": "2026-07-30T01:10:00+07:00",
+    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database p\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html"
+    ]
+  },
+  {
+    "title": "VU#293714: Arbitrary File Overwrite in Develar app-builder (zipx.Unzip) via Symlink Following on macOS (APFS)",
+    "published_wib": "2026-07-30T00:25:10.943206+07:00",
+    "summary": "Overview A vulnerability in the zipx.Unzip extraction routine of Develar\u2019s app-builder allows an attacker to overwrite arbitrary files on macOS using Apple File System (APFS). The issue arises from a combination of Unicode normalization collisions and unsafe symlink-following behavior. APFS treats certain Unicode equivalent filenames as identical (e.g., \u00df \u2194\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/293714"
+    ]
+  },
+  {
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "published_wib": "2026-07-29T23:00:00+07:00",
+    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/"
+    ]
+  },
+  {
+    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+    "published_wib": "2026-07-29T22:39:30+07:00",
+    "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been cod\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
+    ]
+  },
+  {
+    "title": "AI model discovers cryptographic weaknesses in HAWK and AES",
+    "published_wib": "2026-07-29T22:31:27+07:00",
+    "summary": "The HAWK attack exploits a previously unknown symmetry in the lattice structure of the signature scheme, enabling a key recovery in approximately three hours and 42 minutes on a 96-core server.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-model-discovers-cryptographic-weaknesses-in-hawk-and-aes"
+    ]
+  },
+  {
+    "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+    "published_wib": "2026-07-29T22:31:15+07:00",
+    "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter. \"A malicious ac\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+    ]
+  },
+  {
+    "title": "VU#305509: OPeNDAP Hyrax is vulnerable to SSRF and Credential Disclosure",
+    "published_wib": "2026-07-29T22:18:13.593845+07:00",
+    "summary": "Overview A vulnerability has been discovered in the OPeNDAP Hyrax software solution. A remote attacker with the ability to submit crafted requests to an affected Hyrax instance could cause the application to communicate with unauthorized remote systems. Under certain conditions, the vulnerability may also result in the unintended disclosure of user authenti\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/305509"
+    ]
+  }
+]
