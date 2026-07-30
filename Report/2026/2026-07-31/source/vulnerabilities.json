@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend",
+    "published_wib": "2026-07-31T07:00:00+07:00",
+    "summary": "Every stage of the Hugging Face breach maps to Elastic Defend and SIEM rules already shipping, from worker RCE and credential harvest to self-migrating C2 and GenAI detection.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.elastic.co/security-labs/ai-agent-attack-detection-hugging-face-breach"
+    ]
+  },
+  {
+    "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+    "published_wib": "2026-07-31T05:01:31+07:00",
+    "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/"
+    ]
+  },
+  {
+    "title": "A coordinated attack hit 30+ Minnesota water systems. Who did it, and what does a Rockwell notice add to the picture?",
+    "published_wib": "2026-07-31T04:53:36+07:00",
+    "summary": "A coordinated cyberattack that targeted more than 30 Minnesota community water systems has alarmed industrial cybersecurity experts, not because it caused widespread disruption, but because it appears to represent the first distributed campaign against dozens of small utilities linked by a common operational technology weakness. While the affected communiti\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4203638/a-coordinated-attack-hit-30-minnesota-water-systems-who-did-it-and-what-does-a-rockwell-notice-add-to-the-picture.html"
+    ]
+  },
+  {
+    "title": "Critical Azure Cosmos DB flaw risked cross-tenant compromise",
+    "published_wib": "2026-07-31T03:33:53+07:00",
+    "summary": "Patched Azure Cosmos DB bug threatened Microsoft and customer databases.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/microsoft-patches-azure-cosmos-db-stopping-widespread-cross-service-attack"
+    ]
+  },
+  {
+    "title": "What water utilities need to know about cybersecurity compliance",
+    "published_wib": "2026-07-31T03:15:00+07:00",
+    "summary": "As federal enforcement tightens and states begin stepping in with their own cybersecurity mandates, water and wastewater utilities face a looming wave of hard compliance deadlines, compounded by recent cyber attacks on state water utilities. Key takeaways While the EPA\u2019s national sanitary-survey mandate stalled in court, the agency is aggressively using exi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/water-utilities-cybersecurity-regulatory-compliance"
+    ]
+  },
+  {
+    "title": "AI Harnesses Burst With Potential Exploit Opps",
+    "published_wib": "2026-07-31T02:40:40+07:00",
+    "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps"
+    ]
+  },
+  {
+    "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+    "published_wib": "2026-07-31T01:13:24+07:00",
+    "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/"
+    ]
+  },
+  {
+    "title": "VU#281278: SGLang contains six different vulnerabilities including RCE, data exfiltration, and credential disclosure",
+    "published_wib": "2026-07-31T01:09:29.194540+07:00",
+    "summary": "Overview Six vulnerabilities have been discovered within the SGLang project, including remote code execution (RCE), server-side request forgery (SSRF), local file read, credential leakage, and model weight exfiltration on a target server. Exploitation does not require authentication in most cases, and some vulnerabilities require only network access with no\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/281278"
+    ]
+  },
+  {
+    "title": "Extend Amazon Inspector SBOM Generator with Plugins",
+    "published_wib": "2026-07-31T00:22:54+07:00",
+    "summary": "Amazon Inspector is an automated vulnerability management service that continually scans Amazon Web Services (AWS) workloads for software vulnerabilities. The vulnerability management capabilities of Amazon Inspector are powered by an asset inventory engine known as the Amazon Inspector SBOM Generator (inspector-sbomgen), a standalone command-line tool that\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins/"
+    ]
+  },
+  {
+    "title": "AI takes on a bigger role in finding Chrome vulnerabilities",
+    "published_wib": "2026-07-31T00:01:33+07:00",
+    "summary": "Google has expanded the use of AI in Chrome\u2019s security workflow, using it to find vulnerabilities, triage bug reports, generate patches, and review code to shorten the time between discovering software flaws and delivering security updates. \u201cHistorically, triaging a single security report took anywhere from 5 to 30 or more minutes, and relied primarily on h\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/30/google-chrome-ai-security-workflow/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend
+- South Korea fines telco giant KT $39 million for customer data breach
+- JetBrains warns of critical TeamCity remote code execution flaw
+- A coordinated attack hit 30+ Minnesota water systems. Who did it, and what does a Rockwell notice add to the picture?
+- Critical Azure Cosmos DB flaw risked cross-tenant compromise
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by South Korea fines telco giant KT $39 million for customer data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

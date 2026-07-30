@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend and JetBrains warns of critical TeamCity remote code execution flaw. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "South Korea fines telco giant KT $39 million for customer data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-07-31",
+  "vol": "003"
+}

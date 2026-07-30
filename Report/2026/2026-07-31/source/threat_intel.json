@@ -1,0 +1,102 @@
+[
+  {
+    "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+    "published_wib": "2026-07-31T01:18:24+07:00",
+    "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus mac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html"
+    ]
+  },
+  {
+    "title": "Industry CISOs urge resilience, AI governance and regulatory reform",
+    "published_wib": "2026-07-31T00:54:27+07:00",
+    "summary": "CISOs urge resilience, supply chain security and simpler cyber rules.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/analysis/industry-cisos-urge-resilience-ai-governance-and-regulatory-reform"
+    ]
+  },
+  {
+    "title": "Malwarebytes for Windows, now available on the Microsoft Store",
+    "published_wib": "2026-07-30T23:01:11+07:00",
+    "summary": "Install Malwarebytes for Windows from the Microsoft Store with the same full protection and features.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/product/2026/07/malwarebytes-for-windows-now-available-on-the-microsoft-store"
+    ]
+  },
+  {
+    "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+    "published_wib": "2026-07-30T21:01:11+07:00",
+    "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/"
+    ]
+  },
+  {
+    "title": "AI agents gain access to financial workflows amid growing governance gaps",
+    "published_wib": "2026-07-30T20:00:00+07:00",
+    "summary": "AI agents are now being allowed to create business records, approve transactions, and execute financial workflows. ERP security firm Pathlock says most organizations don\u2019t know if that is all they are doing. The company\u2019s 2026 AI Governance Gap Report found that 79% of organizations do not have a dedicated AI governance team, despite AI agents being increas\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4203384/ai-agents-gain-access-to-financial-workflows-amid-growing-governance-gaps.html"
+    ]
+  },
+  {
+    "title": "Hidden prompt turns Microsoft Copilot into an AI worm",
+    "published_wib": "2026-07-30T19:58:45+07:00",
+    "summary": "A new type of attack can trick Microsoft Copilot for Word into spreading hidden prompt injections from document to document.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm"
+    ]
+  },
+  {
+    "title": "CISA sets a new SBOM baseline",
+    "published_wib": "2026-07-30T19:23:36+07:00",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA), together with its co-authoring partners, has released the 2026 Minimum Elements for a Software Bill of Materials (SBOM), replacing the 2021 guidance published by the National Telecommunications and Information Administration (NTIA). An SBOM is a list of the components that make up a software pa\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/30/cisa-sbom-guidance-updated/"
+    ]
+  },
+  {
+    "title": "\u2018DangleGeddon\u2019: AI Could Weaponize Forgotten DNS Records at Global Scale",
+    "published_wib": "2026-07-30T19:15:24+07:00",
+    "summary": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post \u2018DangleGeddon\u2019: AI Could Weaponize Forgotten DNS Records at Global Scale appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/"
+    ]
+  },
+  {
+    "title": "Teams-Themed Phishing Campaign Abused Legitimate Microsoft Login Pages",
+    "published_wib": "2026-07-30T19:00:00+07:00",
+    "summary": "Check Point researchers detail phishing attack as an example of attackers dropping fake Microsoft login pages in favor of abusing Microsoft\u2019s legitimate authentication infrastructure",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/teams-phishing-abused-legit/"
+    ]
+  },
+  {
+    "title": "Attackers are using Microsoft\u2019s legitimate login system to camouflage phishing attacks",
+    "published_wib": "2026-07-30T18:22:45+07:00",
+    "summary": "Attackers are moving away from fake Microsoft login pages in favor of abusing Microsoft\u2019s own authentication system, letting phishing campaigns slip past the warning signs employees are trained to spot, according to Check Point. Between June 25 and the second week of July, researchers found over 200 phishing emails targeting around 120 organizations in a wi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/30/microsoft-authentication-system-phishing/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "South Korea fines telco giant KT $39 million for customer data breach",
+    "published_wib": "2026-07-31T05:28:30+07:00",
+    "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/"
+    ]
+  },
+  {
+    "title": "Read This Before You Buy That TV Streaming Stick",
+    "published_wib": "2026-07-30T23:49:00+07:00",
+    "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
+    ]
+  },
+  {
+    "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+    "published_wib": "2026-07-30T23:46:15+07:00",
+    "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/"
+    ]
+  },
+  {
+    "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+    "published_wib": "2026-07-30T22:56:33+07:00",
+    "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/"
+    ]
+  },
+  {
+    "title": "Analog Devices discloses data breach, says operations unaffected",
+    "published_wib": "2026-07-30T22:12:25+07:00",
+    "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/"
+    ]
+  },
+  {
+    "title": "The Network Has Become the Control Plane for AI Security",
+    "published_wib": "2026-07-30T18:32:46+07:00",
+    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets,\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html"
+    ]
+  },
+  {
+    "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+    "published_wib": "2026-07-30T18:16:23+07:00",
+    "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/"
+    ]
+  },
+  {
+    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+    "published_wib": "2026-07-30T17:32:59+07:00",
+    "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In this campaign, the group combines new vulnerable-driver abu\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] A Scattered Spider member was indicted. Microsoft\u2019s GDID went to trial.",
+    "published_wib": "2026-07-30T15:25:00+07:00",
+    "summary": "A recently released criminal complaint against Peter Stokes , an alleged member of the Scattered Spider cybercrime group , reveals previously unpublicized details about Windows telemetry\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4203079/a-scattered-spider-member-was-indicted-microsofts-gdid-went-to-trial.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Toy Ghouls\u2019 new toy: the GenieLocker ransomware",
+    "published_wib": "2026-07-30T15:00:57+07:00",
+    "summary": "Kaspersky experts dissect GenieLocker: new custom ransomware variants for Windows, Linux, and ESXi systems. We found this family in attacks by Toy Ghouls, a financially motivated extortion group.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/"
+    ]
+  }
+]
