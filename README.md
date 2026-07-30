@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 003 | 2026-07-30 09:00 WIB]
+## Today Updates: [Vol. 003 | 2026-07-31 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Cisco warns of FMC static credential flaw exploited in zero-day attacks and Amazon identifies North Korean hacker group behind open-source supply chain attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend and JetBrains warns of critical TeamCity remote code execution flaw. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: When AppSec Scanners Become a Supply Chain Attack Vector. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Dealing with AI-Generated Extortion. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: South Korea fines telco giant KT $39 million for customer data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-30/poster_2026-07-30_issue-003.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-31/poster_2026-07-31_issue-003.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-30/poster_vulnerabilities_2026-07-30_issue-003.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-31/poster_vulnerabilities_2026-07-31_issue-003.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-30/poster_threat-intel_2026-07-30_issue-003.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-31/poster_threat-intel_2026-07-31_issue-003.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-30/poster_data-breach_2026-07-30_issue-003.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-31/poster_data-breach_2026-07-31_issue-003.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-30/cyber_newsletter_2026-07-30.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-07-31/cyber_newsletter_2026-07-31.pdf
 
 <!-- DAILY_UPDATES_END -->
 
