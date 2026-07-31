@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fuyao operation uses Android TV boxes for ad fraud",
+    "published_wib": "2026-08-01T05:44:06+07:00",
+    "summary": "Bitsight researchers uncovered the operation by monitoring an expired domain used for factory backdoors and telemetry.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/fuyao-operation-uses-android-tv-boxes-for-ad-fraud"
+    ]
+  },
+  {
+    "title": "AI chatbots outperform humans in building trust for scams",
+    "published_wib": "2026-08-01T05:24:54+07:00",
+    "summary": "Researchers from four universities conducted a study pitting AI chatbots against human scammers in a simulation of \"pig butchering\" scams, a form of romance scam that escalates to fake cryptocurrency investments.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/ai-chatbots-outperform-humans-in-building-trust-for-scams"
+    ]
+  },
+  {
+    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+    "published_wib": "2026-08-01T05:16:42+07:00",
+    "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/"
+    ]
+  },
+  {
+    "title": "Rogue AI, the Bar, Breaches, BMC, Hugging Face, Helmuth von Multke, Ike, Shieldfont, - SWN #603",
+    "published_wib": "2026-08-01T04:00:00+07:00",
+    "summary": "Rogue AI, the Bar, Breaches, BMC, Hugging Face, Helmuth von Multke, Ike, Shieldfont, - SWN #603",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15060-rogue-ai-the-bar-breaches-bmc-hugging-face-helmuth-von-multke-ike-shieldfont-swn-603"
+    ]
+  },
+  {
+    "title": "Fake Fortnite rewards are stealing players\u2019 accounts",
+    "published_wib": "2026-07-31T23:16:58+07:00",
+    "summary": "Scammers are using fake V-Bucks offers and locker value sites to hijack Fortnite accounts.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/07/fake-fortnite-rewards-are-stealing-players-accounts"
+    ]
+  },
+  {
+    "title": "What we learned about zero-trust from the OpenAI breach of HuggingFace",
+    "published_wib": "2026-07-31T22:37:59+07:00",
+    "summary": "Here\u2019s why in a world where AI models can hack other companies, we have to outreason our adversaries.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/perspective/what-we-learned-about-zero-trust-from-the-openai-breach-of-huggingface"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 31",
+    "published_wib": "2026-07-31T20:00:08+07:00",
+    "summary": "Police flag 4,000 URLs to disrupt The Com, theft victims sue Apple over a $1.8M wallet scam, and OpenAI and Anthropic models reach real systems in cyber tests.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-31-8/"
+    ]
+  },
+  {
+    "title": "Cybercrime goes subscription: AI, malware and infrastructure on demand",
+    "published_wib": "2026-07-31T20:00:02+07:00",
+    "summary": "Cybercrime has become a commercialized ecosystem where criminals can buy or rent nearly every capability needed to launch sophisticated attacks. These services provide anonymity, plausible deniability, and access to short-lived infrastructure that is difficult to detect, attribute, and disrupt, enabling low-skilled actors to operate at scale, according to t\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/07/31/infoblox-domain-abuse-campaigns-report/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Anthropic Reveals Claude Escaped Testing, Breaching Three Companies",
+    "published_wib": "2026-07-31T15:35:00+07:00",
+    "summary": "Anthropic has revealed that Claude AI models compromised third-party organizations",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CareCloud Data Breach Impacts Over 350,000",
+    "published_wib": "2026-07-31T14:51:43+07:00",
+    "summary": "In March 2026, hackers stole personal, financial, and medical information from the company\u2019s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/"
+    ]
+  }
+]
