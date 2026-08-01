@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
+    "published_wib": "2026-08-01T14:22:32+07:00",
+    "summary": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33206"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+    "published_wib": "2026-08-01T13:29:05+07:00",
+    "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] New HollowFrame loader and Matryoshka malware family discovered",
+    "published_wib": "2026-08-01T05:48:36+07:00",
+    "summary": "The attack chain begins with a spear-phishing email containing a link to an encrypted archive.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/new-hollowframe-loader-and-matryoshka-malware-family-discovered"
+    ]
+  },
+  {
+    "title": "[+24h Old] Arch Linux disables AUR package adoption to stop malware flood",
+    "published_wib": "2026-08-01T04:38:08+07:00",
+    "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+    "published_wib": "2026-08-01T04:01:37+07:00",
+    "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers worldw\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 2026-07-31: SmartApeSG ClickFix campaign pushes unidentified RAT",
+    "published_wib": "2026-08-01T03:54:00+07:00",
+    "summary": "2026-07-31: SmartApeSG ClickFix campaign pushes unidentified RAT",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/07/31/index.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+    "published_wib": "2026-07-31T23:39:31+07:00",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the fi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ESET tracks rise in malicious AI skills and adaptable malware",
+    "published_wib": "2026-07-31T21:01:11+07:00",
+    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+    "published_wib": "2026-07-31T18:24:59+07:00",
+    "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-c\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake Flash Player installs AtlasRAT",
+    "published_wib": "2026-07-31T18:03:29+07:00",
+    "summary": "Researchers have uncovered a new campaign that spreads the AtlasRAT remote access Trojan by disguising it as a Flash Player installer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/07/fake-flash-player-installs-atlasrat"
+    ]
+  }
+]

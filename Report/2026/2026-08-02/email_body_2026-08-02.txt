@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Rails patches critical Active Storage flaw with RCE potential
+- Ruby on Rails Patches Critical Vulnerability
+- [+24h Old] Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)
+- [+24h Old] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
+- [+24h Old] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Rails patches critical Active Storage flaw with RCE potential. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Fuyao operation uses Android TV boxes for ad fraud. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

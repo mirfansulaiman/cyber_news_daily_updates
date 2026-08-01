@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "published_wib": "2026-08-01T21:20:30+07:00",
+    "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/"
+    ]
+  },
+  {
+    "title": "Ruby on Rails Patches Critical Vulnerability",
+    "published_wib": "2026-08-01T18:15:00+07:00",
+    "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+    "published_wib": "2026-08-01T14:12:42+07:00",
+    "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Interpol's I-GRIP mechanism intercepts millions in fraud attempts",
+    "published_wib": "2026-08-01T05:30:47+07:00",
+    "summary": "The I-GRIP initiative connects law enforcement agencies across 196 countries with financial institutions to expedite the process of stopping fraudulent money transfers.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/interpols-i-grip-mechanism-intercepts-millions-in-fraud-attempts"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+    "published_wib": "2026-08-01T00:35:35+07:00",
+    "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+    "published_wib": "2026-07-31T22:47:02+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/"
+    ]
+  },
+  {
+    "title": "[+24h Old] VU#243636: VPS.org one-click deployment templates contain multiple vulnerabilities",
+    "published_wib": "2026-07-31T22:15:50.485667+07:00",
+    "summary": "Overview VPS.org's one-click deployment templates provision services with default passwords and predefined network bindings instead of generating randomized secrets or applying per-deployment hardening measures. Description VPS.org is a cloud and virtual private server hosting provider that offers a library of templates for quickly provisioning common appli\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/243636"
+    ]
+  },
+  {
+    "title": "[+24h Old] Chinese Hacker Uses DeepSeek AI to Orchestrate Vulnerability Exploits",
+    "published_wib": "2026-07-31T22:00:00+07:00",
+    "summary": "A Chinese-speaking threat actor has been using DeepSeek\u2019s AI models to orchestrate cyber-attacks targeting Asian organizations",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-hacker-deepseek-ai/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Broadcom patches vulnerabilities all over VMware",
+    "published_wib": "2026-07-31T20:38:24+07:00",
+    "summary": "Broadcom has addresses five vulnerabilities in its VMware product range, three of which have been accorded a \u201ccritical\u201d rating. The affected products are: VMware ESX, VMware vCenter, VMware Workstation, VMware Fusion, VMware Cloud Foundation, VMware vSphere Foundation, VMware Telco Cloud Platform, and VMware Telco Cloud Infrastructure CVE-2026-59309 affects\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4203947/broadcom-patches-vulnerabilities-all-over-vmware.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Interpol Leverages Global System to Curtail Fraud Payments",
+    "published_wib": "2026-07-31T20:30:00+07:00",
+    "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments"
+    ]
+  }
+]
