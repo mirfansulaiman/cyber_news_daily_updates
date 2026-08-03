@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
+    "published_wib": "2026-08-04T04:21:11+07:00",
+    "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw"
+    ]
+  },
+  {
+    "title": "The AI Act kicks into action, forces companies to be clear about AI chatbots",
+    "published_wib": "2026-08-04T04:08:29+07:00",
+    "summary": "The European Union (EU) has started enforcing key parts of the AI Act, with immediate, visible consequences for chatbots, deepfakes and other consumer\u2011facing AI.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots"
+    ]
+  },
+  {
+    "title": "New Tool Traces AI Videos Back to Their Source",
+    "published_wib": "2026-08-04T03:42:28+07:00",
+    "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection"
+    ]
+  },
+  {
+    "title": "N-able addresses critical N-central vulnerabilities exploited by attackers",
+    "published_wib": "2026-08-04T02:34:57+07:00",
+    "summary": "Attackers leveraged an authentication bypass vulnerability, identified as CVE-2026-18556 and later expanded by CVE-2026-18577, to achieve remote administrative access to N-central servers.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/n-able-addresses-critical-n-central-vulnerabilities-exploited-by-attackers"
+    ]
+  },
+  {
+    "title": "Defcon badges feature new open-source chip for enhanced security",
+    "published_wib": "2026-08-04T02:17:25+07:00",
+    "summary": "The Baochip-1x is a \"mostly\" open-source microcontroller that allows for verifiable security.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/defcon-badges-feature-new-open-source-chip-for-enhanced-security"
+    ]
+  },
+  {
+    "title": "Critical vulnerability in Rails Active Storage could lead to RCE",
+    "published_wib": "2026-08-04T02:03:13+07:00",
+    "summary": "The vulnerability specifically affects Active Storage versions prior to 7.2.3.2, 8.0.x before 8.0.5.1, and 8.1.x before 8.1.3.1, particularly when the libvips image processing library is in use.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-vulnerability-in-rails-active-storage-could-lead-to-rce"
+    ]
+  },
+  {
+    "title": "INC Ransomware chains two SonicWall SMA 1000 zero-days in attacks",
+    "published_wib": "2026-08-04T02:01:38+07:00",
+    "summary": "INC ransomware exploits SonicWall zero-days, prompting compromise fears.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/inc-ransomware-chains-two-sonicwall-sma-1000-zero-days-in-attacks"
+    ]
+  },
+  {
+    "title": "Coldcard hardware wallet firmware flaw led to $70 million Bitcoin theft",
+    "published_wib": "2026-08-04T02:00:17+07:00",
+    "summary": "The vulnerability, identified by Block and detailed by Galaxy Research, occurred because a deterministic software pseudorandom number generator (PRNG) was used instead of the intended hardware random number generator (RNG) for seed generation.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/coldcard-hardware-wallet-firmware-flaw-led-to-70-million-bitcoin-theft"
+    ]
+  },
+  {
+    "title": "Adobe fixes critical vulnerabilities in Campaign Classic and Bridge",
+    "published_wib": "2026-08-04T00:03:15+07:00",
+    "summary": "The critical vulnerability in Adobe Campaign Classic, identified as CVE-2026-48449, stems from incorrect authorization and poses a significant risk for remote code execution.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/adobe-fixes-critical-vulnerabilities-in-campaign-classic-and-bridge"
+    ]
+  },
+  {
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "published_wib": "2026-08-04T00:00:56+07:00",
+    "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/"
+    ]
+  }
+]

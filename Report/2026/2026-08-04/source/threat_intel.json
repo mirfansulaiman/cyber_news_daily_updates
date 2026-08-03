@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "published_wib": "2026-08-04T03:01:22+07:00",
+    "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/"
+    ]
+  },
+  {
+    "title": "Google Chrome to block malicious policy-installed extensions",
+    "published_wib": "2026-08-04T02:26:21+07:00",
+    "summary": "This new protection, currently in development and planned to be enabled by default, aims to combat malware abuse of Chrome's enterprise policy features on unmanaged consumer devices.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/google-chrome-to-block-malicious-policy-installed-extensions"
+    ]
+  },
+  {
+    "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+    "published_wib": "2026-08-04T02:25:10+07:00",
+    "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/"
+    ]
+  },
+  {
+    "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+    "published_wib": "2026-08-04T01:43:53+07:00",
+    "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html"
+    ]
+  },
+  {
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "published_wib": "2026-08-03T23:24:47+07:00",
+    "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
+    ]
+  },
+  {
+    "title": "South Korea warns of nation-state actors using phishing and compromised websites",
+    "published_wib": "2026-08-03T23:22:45+07:00",
+    "summary": "The phishing attacks involve disguised job applicants sending resumes with malicious links or impersonating recruiters with password-protected ZIP files containing malware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/south-korea-warns-of-nation-state-actors-using-phishing-and-compromised-websites"
+    ]
+  },
+  {
+    "title": "Russian spies turn public Wi-Fi into malware delivery systems",
+    "published_wib": "2026-08-03T22:39:05+07:00",
+    "summary": "Keyloggers, audio-visual surveillance, and token theft on CaptivePortal's agenda as hospitality sector put on alert",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/03/russias-svr-borks-public-wi-fis-for-digital-surveillance/5282399"
+    ]
+  },
+  {
+    "title": "Midnight Blizzard Targets Travelers via Captive Portals",
+    "published_wib": "2026-08-03T21:30:00+07:00",
+    "summary": "Russian actor Storm-2945 hijacked hotel captive portals to push fake updates and steal tokens",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/captivecrunch-midnight-blizzard/"
+    ]
+  },
+  {
+    "title": "HollowFrame Loader Uses Fake Python DLL to Evade Defender",
+    "published_wib": "2026-08-03T18:26:00+07:00",
+    "summary": "New HollowFrame loader hid Go code in a fake Python DLL after pre-staging Defender exclusions",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
+    "published_wib": "2026-08-03T16:17:37+07:00",
+    "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "\u201cAdult TikTok\u201d searches lead to scams",
+    "published_wib": "2026-08-04T04:35:18+07:00",
+    "summary": "That \"free\" adult TikTok site could leave you with spam, unwanted apps, or fake verification fees.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/adult-tiktok-searches-lead-to-scams"
+    ]
+  },
+  {
+    "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
+    "published_wib": "2026-08-04T03:31:12+07:00",
+    "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps"
+    ]
+  },
+  {
+    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+    "published_wib": "2026-08-03T23:15:13+07:00",
+    "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple vict\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html"
+    ]
+  },
+  {
+    "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
+    "published_wib": "2026-08-03T22:32:05+07:00",
+    "summary": "The payments giant says BioCatch\u2019s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/"
+    ]
+  },
+  {
+    "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+    "published_wib": "2026-08-03T22:04:39+07:00",
+    "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/"
+    ]
+  },
+  {
+    "title": "3rd August \u2013 Threat Intelligence Report",
+    "published_wib": "2026-08-03T20:15:55+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 27th July, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Minnesota IT Services has confirmed coordinated cyberattacks affecting more than 30 community water utilities across the state. The incidents briefly disrupted a treatment plant in Braham and affected industrial\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
+    "published_wib": "2026-08-03T20:02:06+07:00",
+    "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/"
+    ]
+  },
+  {
+    "title": "Say Hello to Agent Insta: Closing the Detection Gap in Exposure Management at Machine Speed",
+    "published_wib": "2026-08-03T19:45:00+07:00",
+    "summary": "Executive Summary Frontier AI has turned CVE weaponization timelines to hours, making scan-bound detection a growing compliance and breach-risk challenge. Agent Insta powers InstaScan to deliver scanless detection by transforming existing inventory, telemetry, and threat intelligence into validated exposure findings within minutes of disclosure. Operating 2\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/08/03/instascan-agent-insta-scanless-detection"
+    ]
+  },
+  {
+    "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+    "published_wib": "2026-08-03T18:45:14+07:00",
+    "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/"
+    ]
+  },
+  {
+    "title": "UK government investment arm cops to 40-hour leak of officials' contact details",
+    "published_wib": "2026-08-03T18:02:00+07:00",
+    "summary": "Employee failed to follow security policy, leaving internal management file open to the public",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/03/uk-government-investment-arm-cops-to-40-hour-leak-of-officials-contact-details/5282213"
+    ]
+  }
+]
