@@ -1,0 +1,102 @@
+[
+  {
+    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+    "published_wib": "2026-08-05T05:18:20+07:00",
+    "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/"
+    ]
+  },
+  {
+    "title": "Bogus SQLite vulnerabilities highlight flaws in CVE pipeline",
+    "published_wib": "2026-08-05T03:05:06+07:00",
+    "summary": "The Register reports that a batch of critical and high-rated SQLite CVEs, which were recently added to the National Vulnerability Database (NVD) with enrichment from CISA, were identified as technically invalid by security researchers.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/bogus-sqlite-vulnerabilities-highlight-flaws-in-cve-pipeline"
+    ]
+  },
+  {
+    "title": "Airlock Digital Unveils Agentic AI Control & Governance to Extend Preventative Endpoint Security",
+    "published_wib": "2026-08-04T23:49:31+07:00",
+    "summary": "Airlock Digital , a leader in preventative endpoint security, today announced Agentic AI Control & Governance at Black Hat USA 2026\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4204310/airlock-digital-unveils-agentic-ai-control-governance-to-extend-preventative-endpoint-security.html"
+    ]
+  },
+  {
+    "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
+    "published_wib": "2026-08-04T22:38:00+07:00",
+    "summary": "Experts warn hotfix not optional. MSPs warned attacker gains 'full administrative access to an N-central console'",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894"
+    ]
+  },
+  {
+    "title": "AI helps Microsoft bug hunters chase a record $20M payday",
+    "published_wib": "2026-08-04T21:40:49+07:00",
+    "summary": "Broader bounty rules added to a swelling volume of machine-assisted vulnerability reports",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821"
+    ]
+  },
+  {
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "published_wib": "2026-08-04T21:00:10+07:00",
+    "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/"
+    ]
+  },
+  {
+    "title": "ServiceNow organizes autonomous security around six solution areas",
+    "published_wib": "2026-08-04T20:35:13+07:00",
+    "summary": "ServiceNow has announced an acceleration of its Autonomous Security vision with six unified solutions that help deliver prevention-first, AI-native cyber defense across unified exposure management, continuous vulnerability detection, cyber-physical security, identity and access security, and agentic incident response, and cyber risk and compliance. With new\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/04/servicenow-ai-specialists/"
+    ]
+  },
+  {
+    "title": "Snyk unveils continuous AI pentesting and agent red teaming",
+    "published_wib": "2026-08-04T20:15:51+07:00",
+    "summary": "Snyk has announced the general availability of Evo Continuous Offensive Security (COS), enabling security teams to continuously test applications with autonomous, AI-powered pentesting and AI agent red teaming while providing validated proof of what attackers could actually exploit. AI is accelerating software release cycles while rapidly expanding the expo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/04/snyk-evo-continuous-offensive-security-cos/"
+    ]
+  },
+  {
+    "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software",
+    "published_wib": "2026-08-04T20:00:11+07:00",
+    "summary": "Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain. The post The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/"
+    ]
+  },
+  {
+    "title": "RapidFort Runtime brings continuous CVE monitoring and tamper detection",
+    "published_wib": "2026-08-04T19:55:56+07:00",
+    "summary": "RapidFort has launched RapidFort Runtime, a real-time security solution that extends RapidFort\u2019s SSCS capabilities into live production environments. The offerings provide end-to-end continuous threat elimination, from curated, independently malware-scanned open-source software before deployment to continuous CVE monitoring and tamper detection in productio\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/04/rapidfort-runtime/"
+    ]
+  }
+]

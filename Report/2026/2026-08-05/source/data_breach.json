@@ -1,0 +1,102 @@
+[
+  {
+    "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+    "published_wib": "2026-08-05T00:54:04+07:00",
+    "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/"
+    ]
+  },
+  {
+    "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
+    "published_wib": "2026-08-04T21:30:00+07:00",
+    "summary": "WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/"
+    ]
+  },
+  {
+    "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+    "published_wib": "2026-08-04T20:54:13+07:00",
+    "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/"
+    ]
+  },
+  {
+    "title": "Tennessee congressional hopeful accused of shooting license plate cameras",
+    "published_wib": "2026-08-04T19:08:00+07:00",
+    "summary": "Cops arrest budding politician for allegedly dealing with Flock's expansion the American way",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/us-house-candidate-allegedly-shoots-down-four-flock-cameras/5282696"
+    ]
+  },
+  {
+    "title": "Travelers targeted when logging into hotel Wi-Fi networks",
+    "published_wib": "2026-08-04T19:05:16+07:00",
+    "summary": "Russian cybercrime groups are running a campaign that abuses hospitality Wi-Fi to steal information from travelers worldwide.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/travelers-targeted-when-logging-into-hotel-wi-fi-networks"
+    ]
+  },
+  {
+    "title": "AI Accounts for Over Half of Cybercrime in Africa, Says Interpol",
+    "published_wib": "2026-08-04T17:00:00+07:00",
+    "summary": "Interpol claims AI is driving a surge in cybercrime in Africa, with related losses doubling",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-accounts-over-half-cybercrime/"
+    ]
+  },
+  {
+    "title": "[+24h Old] UK\u2019s Police National Legal Database Reveals Data Breach",
+    "published_wib": "2026-08-04T15:40:00+07:00",
+    "summary": "The UK\u2019s Police National Legal Database and Ask the Police service have been breached",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/uks-police-national-legal-database/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Major Cyber Attacks in July 2026: US and EU Organizations Hit by Phishing, RATs, and Stealers",
+    "published_wib": "2026-08-04T15:30:51+07:00",
+    "summary": "July 2026 showed how trusted business workflows can quickly turn into account takeover, data exposure, fraud, and persistent access. ANY.RUN observed attacks that put cloud accounts, financial processes, sensitive data, and business continuity at risk across the US, Europe, and Brazil. Here are the major attacks from July, the business risks they exposed, a\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/major-cyber-attacks-july-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers are crafting malicious AI instruction files to turn agents into criminal helpers",
+    "published_wib": "2026-08-04T15:25:00+07:00",
+    "summary": "AI agents are increasingly being deployed across the enterprise, a rapid adoption that has significantly broadened the organization\u2019s attack surface, turning sharable AI agent resources and configuration files into backdoors, security experts warn. AI-assisted software developers have been increasingly targeted through malicious IDE extensions, rogue MCP se\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4204731/attackers-are-crafting-malicious-ai-instruction-files-to-turn-your-agentic-workflows-into-quiet-criminal-helpers.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] WhatsApp account takeover scam asks you to \u201cvote for my friend\u201d",
+    "published_wib": "2026-08-04T13:22:48+07:00",
+    "summary": "Scammers are trying to take over WhatsApp accounts by sending messages asking people to vote for a friend in a fake online contest.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/whatsapp-account-takeover-scam-asks-you-to-vote-for-my-friend"
+    ]
+  }
+]

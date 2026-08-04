@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ChainDrop credential stealing worm infects over 400 npm packages
+- TP-Link patches Omada ZTP flaws allowing hackers to breach networks
+- Phishing service spoofs RingCentral to steal Microsoft 365 accounts
+- Randomness, Grey, Deepseek, Sonicwall, Spice, CaptiveCrunch, eBay, and Aaran Leyland - SWN #604
+- Apple battles it out again with the UK over encrypted iCloud access
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ChainDrop credential stealing worm infects over 400 npm packages. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by TP-Link patches Omada ZTP flaws allowing hackers to breach networks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

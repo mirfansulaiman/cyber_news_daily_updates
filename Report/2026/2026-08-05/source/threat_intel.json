@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ChainDrop credential stealing worm infects over 400 npm packages",
+    "published_wib": "2026-08-05T05:37:24+07:00",
+    "summary": "A self-propagating worm-like attack is hitting the npm registry, having infected 444 packages from more than a dozen publishers so far. The impact is massive, with the packages affected amounting to more than 2 billion monthly downloads combined. The attack began with the compromise of a GitHub account belonging to Jared Wray, who maintains Keyv, a package\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4205276/chaindrop-credential-stealing-worm-infects-over-400-npm-packages.html"
+    ]
+  },
+  {
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+    "published_wib": "2026-08-05T04:45:36+07:00",
+    "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/"
+    ]
+  },
+  {
+    "title": "Randomness, Grey, Deepseek, Sonicwall, Spice, CaptiveCrunch, eBay, and Aaran Leyland - SWN #604",
+    "published_wib": "2026-08-05T04:00:00+07:00",
+    "summary": "Randomness, Grey, Deepseek, Sonicwall, Spice, CaptiveCrunch, eBay, and Aaran Leyland - SWN #604",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15062-randomness-grey-deepseek-sonicwall-spice-captivecrunch-ebay-and-aaran-leyland-swn-604"
+    ]
+  },
+  {
+    "title": "Apple battles it out again with the UK over encrypted iCloud access",
+    "published_wib": "2026-08-05T03:30:13+07:00",
+    "summary": "Apple is fighting another attempt by the UK's Home Office to get a backdoor providing access to encrypted iCloud data.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/apple-battles-it-out-again-with-uk-over-encrypted-icloud-access"
+    ]
+  },
+  {
+    "title": "New npm packages deliver remote access trojan targeting Alibaba developers",
+    "published_wib": "2026-08-05T03:05:22+07:00",
+    "summary": "A new set of malicious npm packages were discovered targeting users of Alibaba developer tools with a cross-platform remote access trojan (RAT).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-npm-packages-deliver-remote-access-trojan-targeting-alibaba-developers"
+    ]
+  },
+  {
+    "title": "Fake Roblox Xeno executor installers distribute malware",
+    "published_wib": "2026-08-05T03:01:52+07:00",
+    "summary": "Fake Xeno Executor installers are targeting Roblox players with malware that provides remote access and steals sensitive information.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/fake-roblox-xeno-executor-installers-distribute-malware"
+    ]
+  },
+  {
+    "title": "Russia-linked Midnight Blizzard targets hotel Wi-Fi networks in US, Europe",
+    "published_wib": "2026-08-05T02:33:18+07:00",
+    "summary": "Hotel Wi-Fi phishing campaign targets business travelers, Microsoft warns.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/news/russia-linked-midnight-blizzard-targets-hotel-wi-fi-networks-in-us-europe"
+    ]
+  },
+  {
+    "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+    "published_wib": "2026-08-05T02:03:09+07:00",
+    "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/"
+    ]
+  },
+  {
+    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+    "published_wib": "2026-08-05T00:27:39+07:00",
+    "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. \"Greatness supports AiTM [adve\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html"
+    ]
+  },
+  {
+    "title": "Keyv, cacheable npm supply chain attack hits 400-plus packages",
+    "published_wib": "2026-08-04T23:54:38+07:00",
+    "summary": "The attack is believed to be related to Mini Shai-Hulud.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/news/keyv-cacheable-npm-supply-chain-attack-hits-400-plus-packages"
+    ]
+  }
+]
