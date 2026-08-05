@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages
+- Ransom Cartel ransomware creator sentenced to 16 years in prison
+- Security validation should begin where attackers begin
+- Why security validation must follow the attack path
+- Hackers run khunt post-exploitation toolkit from Oracle database
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Security validation should begin where attackers begin. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ransom Cartel ransomware creator sentenced to 16 years in prison. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

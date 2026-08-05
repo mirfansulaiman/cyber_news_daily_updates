@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Shai-Hulud strikes again: CHAINDROP worm hits 400+ npm packages",
+    "published_wib": "2026-08-06T07:00:00+07:00",
+    "summary": "Elastic Security Labs identified the return of Shai-Hulud. Attackers compromised the keyv maintainer and deployed CHAINDROP, a worm that uses stolen npm credentials to backdoor co-owned packages totaling over 1.3 billion monthly downloads.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.elastic.co/security-labs/shai-hulud-chaindrop-npm-supply-chain"
+    ]
+  },
+  {
+    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+    "published_wib": "2026-08-06T01:44:31+07:00",
+    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html"
+    ]
+  },
+  {
+    "title": "QuickFox VPN targeted in long-standing supply chain attack delivering FDMTP backdoor",
+    "published_wib": "2026-08-06T00:18:38+07:00",
+    "summary": "In a report by The Hacker News, researchers disclosed a long-standing supply chain attack targeting QuickFox, a VPN and network acceleration tool used by overseas Chinese users.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/brief/quickfox-vpn-targeted-in-long-standing-supply-chain-attack-delivering-fdmtp-backdoor"
+    ]
+  },
+  {
+    "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+    "published_wib": "2026-08-05T22:48:39+07:00",
+    "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide appeared first on Microsoft\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/"
+    ]
+  },
+  {
+    "title": "Google Blogger locks hundreds of blogs in malware false positive",
+    "published_wib": "2026-08-05T21:59:29+07:00",
+    "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/"
+    ]
+  },
+  {
+    "title": "How AI-powered phishing killed blocklists for good",
+    "published_wib": "2026-08-05T21:01:11+07:00",
+    "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/"
+    ]
+  },
+  {
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    "published_wib": "2026-08-05T20:41:27+07:00",
+    "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
+    ]
+  },
+  {
+    "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+    "published_wib": "2026-08-05T19:48:49+07:00",
+    "summary": "Palo Alto Networks researchers have demonstrated attacks against Google\u2019s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/"
+    ]
+  },
+  {
+    "title": "One C2 kit. 30 customers. 2 governments",
+    "published_wib": "2026-08-05T17:00:00+07:00",
+    "summary": "I was mapping the command-and-control infrastructure behind a state-linked intrusion set when the query came back and effectively ended the exercise I thought I was running. The malware resolved its C2 address by reading a smart contract on a public blockchain. Public reporting described one contract. Working from the chain rather than the sample, I found t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4205129/one-c2-kit-30-customers-2-governments.html"
+    ]
+  },
+  {
+    "title": "ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs",
+    "published_wib": "2026-08-05T17:00:00+07:00",
+    "summary": "A new npm worm has compromised packages with over two billion monthly installs",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/"
+    ]
+  }
+]

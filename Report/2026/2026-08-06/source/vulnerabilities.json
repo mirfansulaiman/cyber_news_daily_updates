@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Security validation should begin where attackers begin",
+    "published_wib": "2026-08-06T05:12:04+07:00",
+    "summary": "Modern attacks increasingly begin with the web application. Customer portals, partner platforms, APIs, external business applications, and AI-powered services have become the front door to the enterprise. The systems organizations build to create value are now the same systems attackers target for initial access. For years, security teams have invested heav\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4205779/security-validation-should-begin-where-attackers-begin.html"
+    ]
+  },
+  {
+    "title": "Why security validation must follow the attack path",
+    "published_wib": "2026-08-06T04:36:04+07:00",
+    "summary": "For years organizations have strengthened their security posture by investing in specialized tools for applications, identities, endpoints, networks, and cloud infrastructure. Those investments remain essential, but the way attackers operate has changed dramatically. Today\u2019s adversaries move laterally, chaining together weaknesses across multiple technologi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4205771/why-security-validation-must-follow-the-attack-path.html"
+    ]
+  },
+  {
+    "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+    "published_wib": "2026-08-06T02:55:25+07:00",
+    "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/"
+    ]
+  },
+  {
+    "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+    "published_wib": "2026-08-06T02:40:00+07:00",
+    "summary": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/"
+    ]
+  },
+  {
+    "title": "Pre-auth RCE in enterprise Java hits Bonita and OFBiz servers",
+    "published_wib": "2026-08-06T01:45:14+07:00",
+    "summary": "An attacker sends a single web request to a Bonita server and lands inside an internal API that assumed nobody could reach it. The request arrives unauthenticated. From there the attacker runs code on the host. Bonita BPM handles loan approvals, insurance claims, and employee onboarding for banks, insurers, and government agencies, and its internal surface\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/05/pre-auth-rce-java-bonita-ofbiz-cve-2026-31986/"
+    ]
+  },
+  {
+    "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+    "published_wib": "2026-08-06T01:03:31+07:00",
+    "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack"
+    ]
+  },
+  {
+    "title": "COLDCARD security audit phishing attack installs remote access tool",
+    "published_wib": "2026-08-06T00:49:41+07:00",
+    "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/"
+    ]
+  },
+  {
+    "title": "IBM's agentic AI platform is under active attack - patch now",
+    "published_wib": "2026-08-05T23:44:39+07:00",
+    "summary": "A critical Langflow flaw allowing RCE on default deployments is being exploited, says the CISA",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535"
+    ]
+  },
+  {
+    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+    "published_wib": "2026-08-05T22:51:33+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/"
+    ]
+  },
+  {
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "published_wib": "2026-08-05T22:14:05+07:00",
+    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through applicat\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html"
+    ]
+  }
+]

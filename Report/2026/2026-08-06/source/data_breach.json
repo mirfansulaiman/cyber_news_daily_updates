@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+    "published_wib": "2026-08-06T06:00:50+07:00",
+    "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/"
+    ]
+  },
+  {
+    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+    "published_wib": "2026-08-06T01:33:47+07:00",
+    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the c\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+    ]
+  },
+  {
+    "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+    "published_wib": "2026-08-06T00:57:15+07:00",
+    "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana"
+    ]
+  },
+  {
+    "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
+    "published_wib": "2026-08-06T00:56:15+07:00",
+    "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every supply-chain incident I have worked. In the keyv/cacheable compromise that has been unfolding since yesterday, it is the one thing you should\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33218"
+    ]
+  },
+  {
+    "title": "Cybercrime victims lose an average of $9,468, with global toll exceeding $1.24 trillion",
+    "published_wib": "2026-08-06T00:14:23+07:00",
+    "summary": "New figures reveal that cybercrime victims are losing an average of $9,468 per incident, highlighting the escalating global scale of this problem.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/cybercrime-victims-lose-an-average-of-9468-with-global-toll-exceeding-1-24-trillion"
+    ]
+  },
+  {
+    "title": "CAF Bank online service restored after attempted fraud and login removal",
+    "published_wib": "2026-08-06T00:04:45+07:00",
+    "summary": "CAF Bank restored its online banking service after a prolonged outage lasting more than 10 days, which the bank attributed to attempted fraud and a subsequent attack aimed at removing user logins.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/caf-bank-online-service-restored-after-attempted-fraud-and-login-removal"
+    ]
+  },
+  {
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "published_wib": "2026-08-05T22:36:03+07:00",
+    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html"
+    ]
+  },
+  {
+    "title": "London cops handed victim's new address and number to her stalker, watchdog says",
+    "published_wib": "2026-08-05T20:30:00+07:00",
+    "summary": "Met ordered to improve safeguards after two preventable data breaches",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/05/london-cops-handed-victims-new-address-and-number-to-her-stalker-watchdog-says/5283382"
+    ]
+  },
+  {
+    "title": "INTERPOL flags AI as the new engine of African cybercrime",
+    "published_wib": "2026-08-05T19:24:24+07:00",
+    "summary": "Africa\u2019s growing digital economy is exposing governments, businesses and internet users to a rising wave of cybercrime. The continent recorded more than 1.1 billion mobile subscriptions and over $1.1 trillion in digital transactions in 2025, while more than 570 million people relied on the internet for banking, government services, healthcare and education.\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/05/interpol-africa-cybercrime-trends/"
+    ]
+  },
+  {
+    "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+    "published_wib": "2026-08-05T18:35:23+07:00",
+    "summary": "Hackers stole personal information, medical records, and financial information from the organization\u2019s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/"
+    ]
+  }
+]
