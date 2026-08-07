@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Living off the coding agent: Two tales of tunnels and LaunchAgents
+- Forcepoint's Ronan Murphy on securing the data layer AI just set on fire
+- Fortra's Josh Davies on the evolving exploitation of trust
+- AI chat bots are sliding into League of Legends friend requests
+- Metabase SQLi zero-day exploited in customer data-theft attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Living off the coding agent: Two tales of tunnels and LaunchAgents. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Forcepoint's Ronan Murphy on securing the data layer AI just set on fire. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by AI chat bots are sliding into League of Legends friend requests. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

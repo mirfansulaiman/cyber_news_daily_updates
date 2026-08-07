@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Forcepoint's Ronan Murphy on securing the data layer AI just set on fire and Fortra's Josh Davies on the evolving exploitation of trust. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Living off the coding agent: Two tales of tunnels and LaunchAgents. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Unlimited Technology Systems breach impacts 3.8 million people. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-08-08",
+  "vol": "004"
+}

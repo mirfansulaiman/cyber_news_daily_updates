@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Living off the coding agent: Two tales of tunnels and LaunchAgents",
+    "published_wib": "2026-08-08T06:59:59+07:00",
+    "summary": "Agent-parented reverse tunnels and LaunchAgents can expose a local admin app to the internet. Endpoint still needs to treat that as high severity even when the activity looks like vibe-coded ops, not confirmed malware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.elastic.co/security-labs/coding-agent-launchagent-tunnel-detection"
+    ]
+  },
+  {
+    "title": "Vishing group UNC6671 now focuses on extorting M&A firms",
+    "published_wib": "2026-08-08T02:00:32+07:00",
+    "summary": "Experts urge managed-device logins and audit log monitoring to stop phishing-led cloud data theft.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/news/vishing-group-unc6671-now-focuses-on-extorting-ma-firms"
+    ]
+  },
+  {
+    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+    "published_wib": "2026-08-08T01:48:17+07:00",
+    "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\"\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
+    ]
+  },
+  {
+    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+    "published_wib": "2026-08-08T01:29:08+07:00",
+    "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
+    ]
+  },
+  {
+    "title": "Trojanized AI skills gain 1.7M installs in agent-targeted attack",
+    "published_wib": "2026-08-08T00:45:11+07:00",
+    "summary": "Researchers have uncovered an extremely effective attack campaign that involved AI agent skills trojanized to deploy a credential stealer. The incident is part of a growing trend in which attackers are targeting the AI software supply chain by poisoning sharable instruction and configuration files for agentic tools. Discovered by researchers from security f\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4206851/trojanized-ai-skills-gain-1-7m-installs-in-agent-targeted-attack.html"
+    ]
+  },
+  {
+    "title": "Zbtlink denies backdoor claims amid firmware download pause",
+    "published_wib": "2026-08-08T00:16:22+07:00",
+    "summary": "VulnCheck CTO Jacob Baines claims that Zbtlink routers are intentionally designed to communicate with command and control servers, a feature he calls a \"phone-home trojan horse.\"",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/zbtlink-denies-backdoor-claims-amid-firmware-download-pause"
+    ]
+  },
+  {
+    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+    "published_wib": "2026-08-07T21:26:42+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/"
+    ]
+  },
+  {
+    "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+    "published_wib": "2026-08-07T21:00:10+07:00",
+    "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 32",
+    "published_wib": "2026-08-07T20:00:57+07:00",
+    "summary": "Snowflake hacker's guilty plea covers a 100M-record breach, Mythos 5 spends 34 hours trying to backdoor real code, and ChainDrop's worm spreads via npm.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/"
+    ]
+  },
+  {
+    "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+    "published_wib": "2026-08-07T17:38:27+07:00",
+    "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses residential proxies to disguise malicious\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html"
+    ]
+  }
+]
