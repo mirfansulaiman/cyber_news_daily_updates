@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+    "published_wib": "2026-08-07T03:07:24+07:00",
+    "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/"
+    ]
+  },
+  {
+    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+    "published_wib": "2026-08-07T00:00:56+07:00",
+    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
+    ]
+  },
+  {
+    "title": "Meta AI model hacked a company during misconfigured cyber test",
+    "published_wib": "2026-08-06T23:11:39+07:00",
+    "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/"
+    ]
+  },
+  {
+    "title": "Snowflake Hacker Pleads Guilty in US Court",
+    "published_wib": "2026-08-06T21:56:31+07:00",
+    "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/"
+    ]
+  },
+  {
+    "title": "Snowflake hacker pleads guilty, faces up to 32 years in prison",
+    "published_wib": "2026-08-06T19:30:07+07:00",
+    "summary": "A Canadian man is facing decades in prison for hacking customer accounts at cloud storage provider Snowflake and stealing data from more than 165 organizations. Connor Riley Moucka, also known as \u201cWaifu\u201d and \u201cJudische,\u201d 26, of Kitchener, Ontario, pleaded guilty in federal court in Washington state to computer fraud, wire fraud, aggravated identity theft, an\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/06/snowflake-canadian-hacker-pleaded-guilty/"
+    ]
+  },
+  {
+    "title": "Scammers target OnlyFans users with deepfakes",
+    "published_wib": "2026-08-06T18:38:27+07:00",
+    "summary": "Criminals are impersonating OnlyFans creators using AI tools in order to scam followers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/scammers-target-onlyfans-users-with-deepfakes"
+    ]
+  },
+  {
+    "title": "Amazon and Apple impersonated in \u201c$149.99 unauthorized charge\u201d scam",
+    "published_wib": "2026-08-06T17:55:11+07:00",
+    "summary": "Different logos, different color schemes, same scam.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/amazon-and-apple-impersonated-in-149-99-unauthorized-charge-scam"
+    ]
+  },
+  {
+    "title": "Canadian Hacker Pleads Guilty Over Snowflake Extortion Campaign",
+    "published_wib": "2026-08-06T17:15:00+07:00",
+    "summary": "A Canadian hacker has admitted involvement in the widespread compromise of 165 Snowflake customer accounts used to steal data and extort victims",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/canadian-hacker-guilty-snowflake/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+    "published_wib": "2026-08-06T16:30:30+07:00",
+    "summary": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK\u2019s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+    "published_wib": "2026-08-06T14:19:54+07:00",
+    "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, acco\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html"
+    ]
+  }
+]

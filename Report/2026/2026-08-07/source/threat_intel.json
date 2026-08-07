@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+    "published_wib": "2026-08-07T05:37:17+07:00",
+    "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/"
+    ]
+  },
+  {
+    "title": "ChainDrop: Inside a Self-Propagating npm Worm",
+    "published_wib": "2026-08-07T05:26:39+07:00",
+    "summary": "Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing. The post ChainDrop: Inside a Self-Propagating npm Worm appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/"
+    ]
+  },
+  {
+    "title": "APPLE-SA-07-27-2026-8 Safari 26.6",
+    "published_wib": "2026-08-07T02:27:17+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 06 APPLE-SA-07-27-2026-8 Safari 26.6 Safari 26.6 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/128073\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/23"
+    ]
+  },
+  {
+    "title": "APPLE-SA-07-27-2026-7 visionOS 26.6",
+    "published_wib": "2026-08-07T02:27:16+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 06 APPLE-SA-07-27-2026-7 visionOS 26.6 visionOS 26.6 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/128070\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/22"
+    ]
+  },
+  {
+    "title": "APPLE-SA-07-27-2026-6 watchOS 26.6",
+    "published_wib": "2026-08-07T02:27:15+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 06 APPLE-SA-07-27-2026-6 watchOS 26.6 watchOS 26.6 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/128068\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/21"
+    ]
+  },
+  {
+    "title": "Podcast: Compliance Won\u2019t Save You: The Future of Cyber Risk with Edna Conway",
+    "published_wib": "2026-08-06T19:00:00+07:00",
+    "summary": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won\u2019t Save You: The Future of Cyber Risk with Edna Conway appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/"
+    ]
+  },
+  {
+    "title": "IT department put sticky notes on the laptops to help employees log in",
+    "published_wib": "2026-08-06T19:00:00+07:00",
+    "summary": "Leaving this information exposed allowed someone else to gain access",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/06/it-department-put-sticky-notes-on-the-laptops-to-help-employees-log-in/5283662"
+    ]
+  },
+  {
+    "title": "[+24h Old] Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+    "published_wib": "2026-08-06T15:05:22+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Chinese router vendor denies its firmware contains backdoors \u2013 but pauses downloads to fix security issues anyway",
+    "published_wib": "2026-08-06T11:57:43+07:00",
+    "summary": "It\u2019s just a remote maintenance function, says Zbtlink",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+    "published_wib": "2026-08-06T09:00:02+07:00",
+    "summary": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33222"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
+    "published_wib": "2026-08-07T04:42:50+07:00",
+    "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement"
+    ]
+  },
+  {
+    "title": "Why exposure management is replacing vulnerability management",
+    "published_wib": "2026-08-07T04:42:35+07:00",
+    "summary": "Vulnerability management isn\u2019t failing because security teams lack visibility. Most organizations already have more findings than they can reasonably address. Yet despite all those findings, many CISOs still struggle to answer a deceptively simple question: Are we actually becoming harder to attack? That question sits at the center of a growing problem. Sec\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4206354/why-exposure-management-is-replacing-vulnerability-management.html"
+    ]
+  },
+  {
+    "title": "OVSwrap vulnerability allows local privilege escalation on Linux",
+    "published_wib": "2026-08-07T04:28:38+07:00",
+    "summary": "As reported by Security Affairs, a 13-year-old Linux kernel flaw named OVSwrap was disclosed, enabling local users to gain root privileges on many default-configured distributions utilizing Open vSwitch.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ovswrap-vulnerability-allows-local-privilege-escalation-on-linux"
+    ]
+  },
+  {
+    "title": "CL.0 desync in www.microsoft.com",
+    "published_wib": "2026-08-07T02:40:03+07:00",
+    "summary": "Posted by shed riot on Aug 06 # Summary I reported the issue to the Microsoft Security Response Center twice: * VULN-165381, MSRC case 102964 * VULN-165876, MSRC case 103259 In both cases, they do not appear to have even looked at the PoCs, and so have failed to adequately investigate before reaching a decision. # Vulnerability CWE-444: HTTP Request/Respons\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/34"
+    ]
+  },
+  {
+    "title": "CVE-2026-15013 \u2013 miniOrange SAML SSO <= 5.4.3 Unauthenticated Authentication Bypass (PoC)",
+    "published_wib": "2026-08-07T02:36:09+07:00",
+    "summary": "Posted by \u00d6ner Efe G\u00fcng\u00f6r on Aug 06 Hello Full Disclosure, I'd like to share an independent lab Proof-of-Concept for CVE-2026-15013. ### CVE-2026-15013 \u2013 miniOrange SAML SSO Authentication Bypass SAML Signature Algorithm Confusion vulnerability. An unauthenticated attacker can forge a valid SAMLResponse by forcing HMAC-SHA1 verification against the IdP's pu\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/33"
+    ]
+  },
+  {
+    "title": "[KIS-2026-16] Telenia Software TVox <= 26.5.3 (nice) Local Privilege Escalation Vulnerability",
+    "published_wib": "2026-08-07T02:34:39+07:00",
+    "summary": "Posted by Egidio Romano on Aug 06 ------------------------------------------------------------------------------- Telenia Software TVox Vulnerability ------------------------------------------------------------------------------- [-] Software Link: https://www.teleniasoftware.com [-] Affected Versions: Version 26.5.3 and prior 26.x versions. Version 24.9.21\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/32"
+    ]
+  },
+  {
+    "title": "[KIS-2026-15] Telenia Software TVox <= 26.5.3 (action_audio.php) OS Command Injection Vulnerability",
+    "published_wib": "2026-08-07T02:34:38+07:00",
+    "summary": "Posted by Egidio Romano on Aug 06 ------------------------------------------------------------------------------------- Telenia Software TVox Vulnerability ------------------------------------------------------------------------------------- [-] Software Link: https://www.teleniasoftware.com [-] Affected Versions: Version 26.5.3 and prior 26.x versions. Ver\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/31"
+    ]
+  },
+  {
+    "title": "[KIS-2026-14] Telenia Software TVox <= 26.5.3 (set_env.php) Authentication Bypass Vulnerability",
+    "published_wib": "2026-08-07T02:34:37+07:00",
+    "summary": "Posted by Egidio Romano on Aug 06 --------------------------------------------------------------------------------- Telenia Software TVox Vulnerability --------------------------------------------------------------------------------- [-] Software Link: https://www.teleniasoftware.com [-] Affected Versions: Version 26.5.3 and prior 26.x versions. Version 24.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/30"
+    ]
+  },
+  {
+    "title": "[KIS-2026-13] vBulletin <= 6.2.1 (runMaths) Remote Code Execution Vulnerability",
+    "published_wib": "2026-08-07T02:34:35+07:00",
+    "summary": "Posted by Egidio Romano on Aug 06 ----------------------------------------------------------------- vBulletin ----------------------------------------------------------------- [-] Software Link: https://www.vbulletin.com [-] Affected Versions: Version 5.7.5 and prior 5.x versions. Version 6.2.1 and prior 6.x versions. [-] Vulnerability Description: The vuln\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/29"
+    ]
+  },
+  {
+    "title": "[SYSS-2026-050]: DICOM Toolkit (DCMTK) - Integer Overflow or Wraparound (CWE-190)",
+    "published_wib": "2026-08-07T02:31:07+07:00",
+    "summary": "Posted by Matthias Deeg via Fulldisclosure on Aug 06 Advisory ID: SYSS-2026-050 Product: DCMTK (DICOM ToolKit) Manufacturer: OFFIS e.V. / DCMTK Community Affected Version(s): 3.7.0 Tested Version(s): 3.7.0 Vulnerability Type: Integer Overflow or Wraparound (CWE-190) Risk Level: Medium Solution Status: Fixed Manufacturer Notification: 2026-07-02 Solution Dat\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/28"
+    ]
+  }
+]

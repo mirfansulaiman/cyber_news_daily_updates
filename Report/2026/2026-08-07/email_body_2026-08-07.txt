@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ClickFix attack pushes macOS infostealer for crypto theft attacks
+- ChainDrop: Inside a Self-Propagating npm Worm
+- The Coordination Gap: How Attackers Are Outpacing Law Enforcement
+- Why exposure management is replacing vulnerability management
+- OVSwrap vulnerability allows local privilege escalation on Linux
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ClickFix attack pushes macOS infostealer for crypto theft attacks. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by The Coordination Gap: How Attackers Are Outpacing Law Enforcement. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
