@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers breach TrueConf to trojanize client installers with backdoors
+- Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data
+- [+24h Old] New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+- [+24h Old] Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
+- [+24h Old] N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Living off the coding agent: Two tales of tunnels and LaunchAgents. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers breach TrueConf to trojanize client installers with backdoors. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

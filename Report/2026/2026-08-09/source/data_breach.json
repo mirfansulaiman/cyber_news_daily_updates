@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+    "published_wib": "2026-08-08T15:03:57+07:00",
+    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read ema\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI chat bots are sliding into League of Legends friend requests",
+    "published_wib": "2026-08-08T04:26:41+07:00",
+    "summary": "Chat bots are sending friend requests in Riot immediately after ending your game. What are the scammers up to now?",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/08/ai-chat-bots-are-sliding-into-league-of-legends-friend-requests"
+    ]
+  },
+  {
+    "title": "[+24h Old] Unlimited Technology Systems breach impacts 3.8 million people",
+    "published_wib": "2026-08-08T02:30:41+07:00",
+    "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/"
+    ]
+  },
+  {
+    "title": "[+24h Old] UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+    "published_wib": "2026-08-08T01:16:13+07:00",
+    "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threa\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware attacks spike as world distracted by AI",
+    "published_wib": "2026-08-07T23:45:00+07:00",
+    "summary": "What, you didn't think the top gangs were busy watching agents escape their sandboxes too, did you?",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/07/ransomware-attacks-spike-as-world-distracted-by-ai/5284934"
+    ]
+  },
+  {
+    "title": "[+24h Old] Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder",
+    "published_wib": "2026-08-07T20:59:16+07:00",
+    "summary": "Investigation into whether staff improperly accessed Minnie Merriman\u2019s file after she was named for the first time this week",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/07/nhs-tayside-investigates-breach-concerning-data-of-dead-girl/5284815"
+    ]
+  },
+  {
+    "title": "[+24h Old] Snowflake attacker pleads guilty to hack of 165 companies\u2019 data",
+    "published_wib": "2026-08-07T20:22:34+07:00",
+    "summary": "A Canadian hacker has admitted being part of a group responsible for several major cyberattacks. Connor Riley Moucka pleaded guilty to being part of a coterie of hackers that hit 165 organizations, resulting in the theft of customer records and the extortion of millions of dollars. Industry sources have identified Moucka as one of the main players in attack\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4206739/snowflake-attacker-pleads-guilty-to-hack-of-165-companies-data.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Vishing Extortion Group UNC6671 Rebrands After Making Millions",
+    "published_wib": "2026-08-07T18:06:01+07:00",
+    "summary": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Google Links Redact Extortion Group to BlackFile Rebrand",
+    "published_wib": "2026-08-07T16:40:00+07:00",
+    "summary": "BlackFile has rebranded as Redact after an alleged affiliate hijack, with Google linking the group to ongoing vishing and extortion campaigns",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/redact-extortion-group-blackfile/"
+    ]
+  },
+  {
+    "title": "[+48h Old] What does a data breach cost? AI is a sizable factor",
+    "published_wib": "2026-08-07T15:25:00+07:00",
+    "summary": "The financial impact of a data breach is substantial for any modern business, regardless of industry or size. IBM\u2019s latest Cost of a Data Breach report discovered that, from March 2025 to February 2026, the average cost of a data breach rose to $6 million, up 35% from $4.44 million a year earlier. The 2026 report, conducted by Ponemon Institute and sponsore\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html"
+    ]
+  }
+]
