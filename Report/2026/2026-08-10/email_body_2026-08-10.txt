@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- [+24h Old] Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026
+- [+24h Old] Hackers breach TrueConf to trojanize client installers with backdoors
+- [+24h Old] Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data
+- [+48h Old] New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+- [+48h Old] Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Week in review: Cisco fixes IMC bug, Patch Tuesday forecast, Black Hat USA 2026. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers breach TrueConf to trojanize client installers with backdoors. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
