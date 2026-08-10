@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+    "published_wib": "2026-08-11T00:42:00+07:00",
+    "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/"
+    ]
+  },
+  {
+    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+    "published_wib": "2026-08-10T23:38:37+07:00",
+    "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. \"StormEncryptor is written in C++ and appen\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html"
+    ]
+  },
+  {
+    "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
+    "published_wib": "2026-08-10T23:25:22+07:00",
+    "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk"
+    ]
+  },
+  {
+    "title": "New turnkey kit makes it easy for anyone to become a scammer",
+    "published_wib": "2026-08-10T22:27:33+07:00",
+    "summary": "We discovered a kit that gave us an insight into how modern online scams are built, promoted, and potentially used to target everyday consumers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/new-turnkey-kit-makes-it-easy-for-anyone-to-become-a-scammer"
+    ]
+  },
+  {
+    "title": "Talk to the LLM: How AI exposes 'pig butchering' scams",
+    "published_wib": "2026-08-10T22:02:37+07:00",
+    "summary": "A security researcher is using AI to study and expose long-duration scams that abuse online trust.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/news/talk-to-the-llm-how-ai-exposes-pig-butchering-scams"
+    ]
+  },
+  {
+    "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
+    "published_wib": "2026-08-10T22:00:00+07:00",
+    "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The post DeadLock ransomware: Breaking down a Rust-based encrypt\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+    ]
+  },
+  {
+    "title": "Cyberattack on Steam hardware shipper leaks names, addresses, and order data",
+    "published_wib": "2026-08-10T21:34:36+07:00",
+    "summary": "Video game publisher Valve is alerting customers in Europe to a data breach at CEVA Logistics, its Steam hardware shipping partner. Reports from affected customers began surfacing on social media earlier today, after Valve started sending out data breach notification emails. \u201cBetween July 29 2026 and August 1, 2026, a cyberattack hit CEVA Logistics, the com\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/10/valve-data-breach-ceva-logistics-steam-hardware/"
+    ]
+  },
+  {
+    "title": "Member of The Com sent to prison for blackmail, sextortion",
+    "published_wib": "2026-08-10T19:56:28+07:00",
+    "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/"
+    ]
+  },
+  {
+    "title": "One-click flaw in Atlassian Rovo exposed enterprise data via prompt injection attack",
+    "published_wib": "2026-08-10T18:59:41+07:00",
+    "summary": "Atlassian\u2019s enterprise AI assistant Rovo, which is usually connected across sensitive work environments like Slack, Microsoft 365, and Google Workspace, was found vulnerable to data leaks through malicious instructions. At DEF CON 34 , researchers from Varonis demonstrated an attack that used Rovo\u2019s rovoChatPrompt parameter to place attacker-controlled inst\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4207306/one-click-flaw-in-atlassian-rovo-exposed-enterprise-data-via-prompt-injection-attack.html"
+    ]
+  },
+  {
+    "title": "Valve notifies Steam hardware customers of a data breach",
+    "published_wib": "2026-08-10T18:47:55+07:00",
+    "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/"
+    ]
+  }
+]

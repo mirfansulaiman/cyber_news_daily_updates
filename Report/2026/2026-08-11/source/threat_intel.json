@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Permanent Threat: Analyzing Aeternum\u2019s Blockchain-Based C2 Operations and Communications",
+    "published_wib": "2026-08-11T05:00:02+07:00",
+    "summary": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution. The post The Permanent Threat: Analyzing Aeternum\u2019s Blockchain-Based C2 Operations and Communications appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/"
+    ]
+  },
+  {
+    "title": "North Korean spies are running local LLMs to cause AI mischief",
+    "published_wib": "2026-08-11T00:23:12+07:00",
+    "summary": "Kimsuky's phishing attacks get an AI boost",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632"
+    ]
+  },
+  {
+    "title": "WordPress Plugins Compromised Without a Single File Change",
+    "published_wib": "2026-08-10T21:30:00+07:00",
+    "summary": "Poisoned JSON feed let attackers backdoor WordPress sites without changing any plugin files",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/"
+    ]
+  },
+  {
+    "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+    "published_wib": "2026-08-10T21:01:11+07:00",
+    "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasingly adding device trust to their Zero Trust strategies. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/"
+    ]
+  },
+  {
+    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+    "published_wib": "2026-08-10T20:19:58+07:00",
+    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
+    ]
+  },
+  {
+    "title": "Microsoft Entra ID is removing an extra MFA hurdle for Windows Hello and macOS PSSO users",
+    "published_wib": "2026-08-10T20:19:07+07:00",
+    "summary": "Microsoft is changing how Entra ID handles MFA for people who sign in with Windows Hello for Business (WHfB) or macOS Platform Single Sign-On (PSSO). The rollout reaches worldwide and GCC tenants starting early October 2026, with completion expected by late November. Microsoft says the change \u201chelps organizations expand the use of phishing-resistant authent\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/10/entra-id-windows-hello-macos-psso-standalone-mfa/"
+    ]
+  },
+  {
+    "title": "Smile, You\u2019re on Camera. Part 2: Hiring Lazarus APT\u2019s IT Workers in a Fake DeFi Startup",
+    "published_wib": "2026-08-10T19:41:39+07:00",
+    "summary": "Editor\u2019s note: This work is a collaboration between Mauro Eldritch from BCA LTD, a company dedicated to threat intelligence and hunting, Heiner Garc\u00eda from NorthScan, a threat intelligence initiative uncovering North Korean IT worker infiltration, and ANY.RUN, the leading company in malware analysis and threat intelligence. The article was written by Mauro\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/"
+    ]
+  },
+  {
+    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+    "published_wib": "2026-08-10T19:25:04+07:00",
+    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
+    ]
+  },
+  {
+    "title": "IT threat evolution in Q2 2026. Non-mobile statistics",
+    "published_wib": "2026-08-10T17:00:37+07:00",
+    "summary": "The report presents key trends and statistics on malware that targeted personal computers running Windows and macOS, as well as internet of things (IoT) devices, during Q2 2026.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/malware-report-q2-2026-pc-iot-statistics/120960/"
+    ]
+  },
+  {
+    "title": "Go-Based macOS Malware Steals Crypto and Secrets",
+    "published_wib": "2026-08-10T17:00:00+07:00",
+    "summary": "A macOS malware variant has been detected stealing crypto, passwords and more",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/gobased-macos-malware-crypto-and/"
+    ]
+  }
+]

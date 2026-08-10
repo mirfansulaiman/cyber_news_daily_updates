@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications
+- Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius
+- OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users
+- Progress LoadMaster bug added to CISA list of exploited vulnerabilities
+- The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New StormEncryptor ransomware used by former Medusa affiliate. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
