@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Zoom zero-click RCE flaws allow attackers to compromise meeting participants
+- DeadLock ransomware uses blockchain to resist infrastructure takedown
+- Microsoft Patch Tuesday, August 2026 Security Update Review
+- Microsoft's Patch Tuesday Deluge Continues With August Updates
+- 421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Sandworm hackers target IT pros with trojanized WireGuard VPN client. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Zoom zero-click RCE flaws allow attackers to compromise meeting participants. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by DeadLock ransomware uses blockchain to resist infrastructure takedown. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Zoom zero-click RCE flaws allow attackers to compromise meeting participants",
+    "published_wib": "2026-08-12T05:56:27+07:00",
+    "summary": "Zoom has fixed four vulnerabilities across its applications, including two that could allow attackers who join a meeting to execute malicious code on the systems of all other meeting participants with no interaction required from them. Three of the vulnerabilities affect all Zoom client applications for all platforms before versions 7.1.5 and 7.0.6, while t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4208223/zoom-zero-click-rce-flaws-allow-attackers-to-compromise-meeting-participants.html"
+    ]
+  },
+  {
+    "title": "Microsoft Patch Tuesday, August 2026 Security Update Review",
+    "published_wib": "2026-08-12T04:55:19+07:00",
+    "summary": "The August 2026 Microsoft Patch Tuesday release delivers security fixes for vulnerabilities affecting a wide range of Microsoft products and services. As attackers continue to exploit unpatched vulnerabilities, timely patching remains critical for reducing exposure and strengthening enterprise security. Microsoft Patch Tuesday for August 2026 This month\u2019s r\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/vulnerabilities-threat-research/patch-tuesday/2026/08/11/microsoft-patch-tuesday-august-2026-security-update-review"
+    ]
+  },
+  {
+    "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+    "published_wib": "2026-08-12T04:42:34+07:00",
+    "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues"
+    ]
+  },
+  {
+    "title": "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one",
+    "published_wib": "2026-08-12T04:31:00+07:00",
+    "summary": "Sysadmins, welcome to your new norm",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
+    ]
+  },
+  {
+    "title": "Microsoft Plugs Nearly 400 Security Holes",
+    "published_wib": "2026-08-12T04:28:35+07:00",
+    "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
+    ]
+  },
+  {
+    "title": "Microsoft SharePoint Server bug exploited in ransomware attacks",
+    "published_wib": "2026-08-12T04:20:04+07:00",
+    "summary": "CISA gave no specifics, but one expert said it's potentially the work of China-linked Storm-2603.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/recent-sharepoint-server-bug-case-escalates-to-ransomware"
+    ]
+  },
+  {
+    "title": "Squirrel Soup, Ghostjacking, OpenSource, Gunra, Beesafe, AI threats, SBOMS, and more - SWN #606",
+    "published_wib": "2026-08-12T04:00:00+07:00",
+    "summary": "Squirrel Soup, Ghostjacking, OpenSource, Gunra, Beesafe, AI threats, SBOMS, and more - SWN #606",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15280-squirrel-soup-ghostjacking-opensource-gunra-beesafe-ai-threats-sboms-and-more-swn-606"
+    ]
+  },
+  {
+    "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+    "published_wib": "2026-08-12T03:10:55+07:00",
+    "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+    ]
+  },
+  {
+    "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+    "published_wib": "2026-08-12T02:45:31+07:00",
+    "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/"
+    ]
+  },
+  {
+    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+    "published_wib": "2026-08-12T01:46:07+07:00",
+    "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/"
+    ]
+  }
+]

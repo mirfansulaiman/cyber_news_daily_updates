@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+    "published_wib": "2026-08-12T04:07:24+07:00",
+    "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/"
+    ]
+  },
+  {
+    "title": "Fake CCleaner installs GhostDesk Chrome spyware",
+    "published_wib": "2026-08-12T03:41:27+07:00",
+    "summary": "A convincing fake CCleaner website delivers a multi-stage malware attack that installs a spyware extension inside Chrome.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-ccleaner-installs-ghostdesk-chrome-spyware"
+    ]
+  },
+  {
+    "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+    "published_wib": "2026-08-12T02:36:37+07:00",
+    "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 202\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html"
+    ]
+  },
+  {
+    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    "published_wib": "2026-08-12T01:36:47+07:00",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subg\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
+    ]
+  },
+  {
+    "title": "Shattering the Dream \u2013 When a Job Offer Becomes a Zero-Day Attack",
+    "published_wib": "2026-08-12T00:30:00+07:00",
+    "summary": "Key Points Introduction Since early 2026, Check Point Research has tracked a wave of the Operation Dream Job campaign. This wave primarily targeted the defense sector worldwide, with a particular emphasis on companies operating in the aerospace and aviation industries. We observed the threat actor distributing modified PDF viewers designed to execute malici\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/"
+    ]
+  },
+  {
+    "title": "Wesco confirms security incident after ExfilSquad claims data theft",
+    "published_wib": "2026-08-11T22:59:35+07:00",
+    "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/"
+    ]
+  },
+  {
+    "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+    "published_wib": "2026-08-11T20:00:00+07:00",
+    "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/"
+    ]
+  },
+  {
+    "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+    "published_wib": "2026-08-11T17:00:16+07:00",
+    "summary": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Supply Chain Security: How ANY.RUN Helps US and EU Enterprises Prevent Incidents",
+    "published_wib": "2026-08-11T14:39:10+07:00",
+    "summary": "Supply chain vulnerabilities represent a growing attack surface for US and EU organizations. With advanced threat tactics on the rise, reducing Mean Time to Detect (MTTD) and Respond (MTTR) is essential. ANY.RUN integrates directly into the SOC workflows as an investigative layer, providing fast malware analysis and threat intelligence to help security team\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/supply-chain-security-for-us-and-eu-companies/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
+    "published_wib": "2026-08-11T09:00:03+07:00",
+    "summary": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33232"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+    "published_wib": "2026-08-12T05:15:22+07:00",
+    "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
+    ]
+  },
+  {
+    "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+    "published_wib": "2026-08-12T04:16:25+07:00",
+    "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa"
+    ]
+  },
+  {
+    "title": "Threat Hunting Case Study: The Gentlemen",
+    "published_wib": "2026-08-12T03:30:00+07:00",
+    "summary": "Analyzing The Gentlemen ransomware group's attack chain and how to hunt for their privileged group manipulation technique before they spread through the NETLOGON share folder on Windows domain controllers.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.intel471.com/blog/threat-hunting-case-study-the-gentlemen"
+    ]
+  },
+  {
+    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+    "published_wib": "2026-08-11T23:35:27+07:00",
+    "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion proc\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
+    ]
+  },
+  {
+    "title": "Valve warns Steam hardware buyers: Expect fake delivery scams",
+    "published_wib": "2026-08-11T23:31:55+07:00",
+    "summary": "The warning affects recent buyers of Steam hardware, including the hugely popular Steam Deck.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/08/valve-warns-steam-hardware-buyers-expect-fake-delivery-scams"
+    ]
+  },
+  {
+    "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
+    "published_wib": "2026-08-11T19:27:00+07:00",
+    "summary": "Face-swap software blinked for 'barely a second,' giving Spanish cops the break they needed",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934"
+    ]
+  },
+  {
+    "title": "Logistics Giant Ceva Suffers Data Breach Impacting European Clients",
+    "published_wib": "2026-08-11T17:45:00+07:00",
+    "summary": "Supply chain attack and data breach at Ceva Logistics appears to have a large blast radius",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] US and South Korea warn of Gunra ransomware targeting govt agencies",
+    "published_wib": "2026-08-11T16:47:06+07:00",
+    "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ransomware gangs don\u2019t need control system access to disrupt industrial production",
+    "published_wib": "2026-08-11T16:32:04+07:00",
+    "summary": "Disrupting IT systems that support industrial environments can be enough to interrupt production, even when ransomware operators do not gain direct access to industrial control systems (ICS), according to Dragos. The company identified 1,140 ransomware incidents involving industrial organizations in the second quarter of 2026, up 12% from 1,020 in Q1. The f\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/11/industrial-ransomware-attacks-q2-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+    "published_wib": "2026-08-11T16:16:24+07:00",
+    "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is anothe\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
+    ]
+  }
+]
