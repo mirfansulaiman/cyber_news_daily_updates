@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New 'Plug and Pwn' attacks exploit Windows Plug and Play for SYSTEM privileges",
+    "published_wib": "2026-08-13T04:41:28+07:00",
+    "summary": "Security researchers Alejandro Hernando and Borja Mart\u00ednez demonstrated attacks at DEF CON 34 that exploit Windows' automatic hardware identification and driver installation process.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-plug-and-pwn-attacks-exploit-windows-plug-and-play-for-system-privileges"
+    ]
+  },
+  {
+    "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+    "published_wib": "2026-08-13T04:08:54+07:00",
+    "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow"
+    ]
+  },
+  {
+    "title": "Researcher creates workaround for Microsoft Defender security patch",
+    "published_wib": "2026-08-13T04:07:24+07:00",
+    "summary": "Just weeks after Microsoft patched a critical hole in Microsoft Defender, a cybersecurity researcher has posted an apparent workaround that provides system-level control to attackers once they gain any level of access. The researcher, who goes by the name Nightmare Eclipse, has been engaged in a long-running battle with Microsoft Security\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4208760/researcher-creates-workaround-for-microsoft-defender-security-patch.html"
+    ]
+  },
+  {
+    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+    "published_wib": "2026-08-13T03:54:59+07:00",
+    "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
+    ]
+  },
+  {
+    "title": "Critical VMware vCenter flaw actively exploited in 47 countries",
+    "published_wib": "2026-08-13T01:53:51+07:00",
+    "summary": "Unspecified APT group has made attacks across 361 unique IP addresses in 47 countries.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/critical-vmware-vcenter-flaw-actively-exploited-in-47-countries"
+    ]
+  },
+  {
+    "title": "The vulnerability flood is here. Here\u2019s what it means \u2013 and how to prepare",
+    "published_wib": "2026-08-13T01:05:22+07:00",
+    "summary": "We can't control the pace of AI-driven vulnerability discovery, but we can control how fast we respond.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/native/the-vulnerability-flood-is-here-heres-what-it-means-and-how-to-prepare"
+    ]
+  },
+  {
+    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "published_wib": "2026-08-13T00:39:27+07:00",
+    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
+    ]
+  },
+  {
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+    "published_wib": "2026-08-12T22:38:08+07:00",
+    "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/"
+    ]
+  },
+  {
+    "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+    "published_wib": "2026-08-12T21:47:01+07:00",
+    "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/"
+    ]
+  },
+  {
+    "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+    "published_wib": "2026-08-12T21:09:50+07:00",
+    "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html"
+    ]
+  }
+]

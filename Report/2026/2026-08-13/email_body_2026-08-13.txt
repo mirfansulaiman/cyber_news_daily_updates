@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Android malware combo takes out loans and relays victims' credit cards
+- Akira ransomware attacker uses Safe Mode reboot to evade EDR
+- Thailand plans mandatory multi-factor authentication after massive data leak
+- Uber Freight investigating data security incident after Helix claims breach
+- Colombia's Ministry of Justice hit by ransomware attack
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Android malware combo takes out loans and relays victims' credit cards. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by New 'Plug and Pwn' attacks exploit Windows Plug and Play for SYSTEM privileges. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Akira ransomware attacker uses Safe Mode reboot to evade EDR. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

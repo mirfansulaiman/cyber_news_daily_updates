@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Akira ransomware attacker uses Safe Mode reboot to evade EDR",
+    "published_wib": "2026-08-13T05:14:13+07:00",
+    "summary": "The ransomware payload ultimately failed to deploy due to insufficient virtual memory.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/news/akira-ransomware-attacker-uses-safe-mode-reboot-to-evade-edr"
+    ]
+  },
+  {
+    "title": "Thailand plans mandatory multi-factor authentication after massive data leak",
+    "published_wib": "2026-08-13T05:02:09+07:00",
+    "summary": "The Digital Economy and Society Minister is seeking cabinet approval for compulsory multi-factor authentication across all government systems.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/thailand-plans-mandatory-multi-factor-authentication-after-massive-data-leak"
+    ]
+  },
+  {
+    "title": "Uber Freight investigating data security incident after Helix claims breach",
+    "published_wib": "2026-08-13T04:59:13+07:00",
+    "summary": "The incident at Uber Freight, the logistics arm of the ride-sharing giant, comes after the Helix group listed the company on its data leak site on August 6, claiming to have accessed mailboxes, OneDrive accounts, and accounts receivable.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/uber-freight-investigating-data-security-incident-after-helix-claims-breach"
+    ]
+  },
+  {
+    "title": "Colombia's Ministry of Justice hit by ransomware attack",
+    "published_wib": "2026-08-13T04:57:31+07:00",
+    "summary": "The attack, which impacted services related to illicit-drug monitoring and legal processes, followed a warning from Colombia's national CERT about increased ransomware group focus on the country.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/colombias-ministry-of-justice-hit-by-ransomware-attack"
+    ]
+  },
+  {
+    "title": "Uber Freight keeps on trucking after extortion crew breaks in",
+    "published_wib": "2026-08-12T21:32:58+07:00",
+    "summary": "Helix claims nearly a million files, while the logistics biz says operations never hit the brakes",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/12/uber-freight-keeps-on-trucking-after-extortion-crew-breaks-in/5286782"
+    ]
+  },
+  {
+    "title": "WindRelay Malware Pairs With SpyNote RAT in Live-Call Scam",
+    "published_wib": "2026-08-12T21:30:00+07:00",
+    "summary": "New WindRelay NFC malware paired with SpyNote RAT let a fraudster clone a card mid-call",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/windrelay-nfc-relay-spynote-rat/"
+    ]
+  },
+  {
+    "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+    "published_wib": "2026-08-12T21:00:00+07:00",
+    "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition"
+    ]
+  },
+  {
+    "title": "Exposed: Woeful security at UK criminal records office that led to sensitive data leak",
+    "published_wib": "2026-08-12T20:40:00+07:00",
+    "summary": "Nobody patched the CMS or read the alerts, and ACRO still cannot tell whether info was exfiltrated",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/12/exposed-woeful-security-at-uk-criminal-records-office-that-led-to-sensitive-data-leak/5286736"
+    ]
+  },
+  {
+    "title": "WhatsApp Unveils New Scam Alert Feature",
+    "published_wib": "2026-08-12T20:00:00+07:00",
+    "summary": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/"
+    ]
+  },
+  {
+    "title": "Akira ransomware scum blocked victim's security tools \u2013 and broke their own encryptor",
+    "published_wib": "2026-08-12T20:00:00+07:00",
+    "summary": "Gives a whole new meaning to Safe Mode",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515"
+    ]
+  }
+]
