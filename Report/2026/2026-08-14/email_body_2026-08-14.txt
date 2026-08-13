@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Loongson processors vulnerable to LoongLeak cache attack
+- APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9
+- APPLE-SA-08-06-2026-3 macOS Sonoma 14.8.9
+- Ukraine shuts down 94 fraudulent call centers, seize millions in cash
+- The Breached WiFi AI Ports... What? - PSW #939
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Global Threat Campaign Hits Critical VMware vCenter Flaw. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Loongson processors vulnerable to LoongLeak cache attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

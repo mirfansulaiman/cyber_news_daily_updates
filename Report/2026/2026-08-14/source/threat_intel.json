@@ -1,0 +1,102 @@
+[
+  {
+    "title": "APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9",
+    "published_wib": "2026-08-14T04:54:10+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 13 APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9 macOS Sequoia 15.7.9 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/148171\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/37"
+    ]
+  },
+  {
+    "title": "APPLE-SA-08-06-2026-3 macOS Sonoma 14.8.9",
+    "published_wib": "2026-08-14T04:54:08+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 13 APPLE-SA-08-06-2026-3 macOS Sonoma 14.8.9 macOS Sonoma 14.8.9 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/148172\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/36"
+    ]
+  },
+  {
+    "title": "AI agents wage near-autonomous cyberattack on Asian government networks",
+    "published_wib": "2026-08-13T20:23:10+07:00",
+    "summary": "Autonomous AI agents built on open-source frameworks breached Taiwanese government systems, compromised credentials, and probed a nuclear safety agency in a multi-day cyberattack that researchers say signals a new phase in AI-enabled operations. The campaign unfolded over four days in early July, during which multiple AI agents operated in parallel to map n\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4209210/ai-agents-wage-near-autonomous-cyberattack-on-asian-government-networks.html"
+    ]
+  },
+  {
+    "title": "New Android malware lets criminals use your bank card in real time",
+    "published_wib": "2026-08-13T18:34:25+07:00",
+    "summary": "Social engineering, a Remote Access Trojan (RAT), and NFC relay malware walk up to an ATM. It's no joke. Together, they can empty your bank account.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/mobile/2026/08/new-android-malware-lets-criminals-use-your-bank-card-in-real-time"
+    ]
+  },
+  {
+    "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
+    "published_wib": "2026-08-13T17:00:00+07:00",
+    "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft"
+    ]
+  },
+  {
+    "title": "[+24h Old] Armored Likho expands its cyber-espionage toolkit",
+    "published_wib": "2026-08-13T15:00:15+07:00",
+    "summary": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/armored-likho-still-toolkit/121033/"
+    ]
+  },
+  {
+    "title": "[+24h Old] DDoS attacks hit record scale as 1 Tbps+ campaigns become more common",
+    "published_wib": "2026-08-13T11:30:10+07:00",
+    "summary": "DDoS attacks grew in scale during the first half of 2026, bringing larger traffic floods, shorter attack durations, and increasingly automated campaigns. Cloudflare\u2019s H1 2026 DDoS Threat Report shows threat actors relying on multi-vector techniques and large-scale network-layer attacks to disrupt online services across multiple industries. L3/4 attack-size\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/13/cloudflare-h1-2026-ddos-trends-report/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+    "published_wib": "2026-08-13T09:00:03+07:00",
+    "summary": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33244"
+    ]
+  },
+  {
+    "title": "[+24h Old] Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+    "published_wib": "2026-08-13T08:26:53+07:00",
+    "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor is collecting and tracking. The model I use for this testing\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33242"
+    ]
+  },
+  {
+    "title": "[+24h Old] Malware Crypting Services and the Threat Actors Who Sell Them",
+    "published_wib": "2026-08-13T07:00:00+07:00",
+    "summary": "Insikt Group analyzes 24 threat actors selling malware crypting services. Learn about their evasion techniques, market dynamics, and how defenders can prioritize behavioral detection over static analysis.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.recordedfuture.com/research/malware-crypting-services-threat-actors"
+    ]
+  }
+]
