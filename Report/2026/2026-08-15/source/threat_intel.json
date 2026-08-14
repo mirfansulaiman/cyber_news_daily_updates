@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AI-driven energy buildout raises cybersecurity, supply chain risks",
+    "published_wib": "2026-08-15T03:23:50+07:00",
+    "summary": "AI-driven energy growth brings new cyber and supply chain risks to critical infrastructure.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/analysis/ai-driven-energy-buildout-raises-cybersecurity-supply-chain-risks"
+    ]
+  },
+  {
+    "title": "New Mirai-Based Linux Botnet \u2018Evooo1Bot\u2019 Turns Victims Into Proxies",
+    "published_wib": "2026-08-14T20:00:00+07:00",
+    "summary": "Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/"
+    ]
+  },
+  {
+    "title": "New Android malware relays bank cards to fraudsters while victims still hold them",
+    "published_wib": "2026-08-14T18:08:19+07:00",
+    "summary": "Group-IB researchers discovered WindRelay, a new Android malware built to capture live payment card data over NFC (Near Field Communication) and relay it to attackers in real time. WindRelay is paired with the SpyNote remote access trojan, which gives attackers remote access to a victim\u2019s device. Attack chain overview (Source: Group-IB) How the scam unfolds\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/14/windrelay-android-nfc-relay-malware/"
+    ]
+  },
+  {
+    "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+    "published_wib": "2026-08-14T17:45:00+07:00",
+    "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim\u2019s browser to steal cookie data",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
+    ]
+  },
+  {
+    "title": "[+24h Old] APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+    "published_wib": "2026-08-14T16:00:14+07:00",
+    "summary": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+    "published_wib": "2026-08-14T13:41:43+07:00",
+    "summary": "The Rust-based macOS infostealer harvests users\u2019 passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+    "published_wib": "2026-08-14T09:00:03+07:00",
+    "summary": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33246"
+    ]
+  },
+  {
+    "title": "[+24h Old] APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9",
+    "published_wib": "2026-08-14T04:54:10+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 13 APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9 macOS Sequoia 15.7.9 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/148171\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/37"
+    ]
+  },
+  {
+    "title": "[+24h Old] APPLE-SA-08-06-2026-3 macOS Sonoma 14.8.9",
+    "published_wib": "2026-08-14T04:54:08+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 13 APPLE-SA-08-06-2026-3 macOS Sonoma 14.8.9 macOS Sonoma 14.8.9 addresses the following issues. Information about the security content is also available at https://support.apple.com/en-us/148172\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/36"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI agents wage near-autonomous cyberattack on Asian government networks",
+    "published_wib": "2026-08-13T20:23:10+07:00",
+    "summary": "Autonomous AI agents built on open-source frameworks breached Taiwanese government systems, compromised credentials, and probed a nuclear safety agency in a multi-day cyberattack that researchers say signals a new phase in AI-enabled operations. The campaign unfolded over four days in early July, during which multiple AI agents operated in parallel to map n\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4209210/ai-agents-wage-near-autonomous-cyberattack-on-asian-government-networks.html"
+    ]
+  }
+]

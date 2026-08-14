@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Trezor confirms shipping partner data breach affecting over 13,000 customers",
+    "published_wib": "2026-08-15T04:41:43+07:00",
+    "summary": "While the breach was initially believed to affect only recent orders, new information suggests older orders may also be compromised.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/trezor-confirms-shipping-partner-data-breach-affecting-over-13000-customers"
+    ]
+  },
+  {
+    "title": "ExfilSquad data extortion group linked to 13 victim data leaks",
+    "published_wib": "2026-08-15T04:24:37+07:00",
+    "summary": "ExfilSquad, which emerged on July 26, initially claimed to have exfiltrated data from 15 organizations.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/exfilsquad-data-extortion-group-linked-to-13-victim-data-leaks"
+    ]
+  },
+  {
+    "title": "ShinyHunters group claims responsibility for RingCentral data breach",
+    "published_wib": "2026-08-15T04:21:41+07:00",
+    "summary": "The incident, which occurred in July, was disclosed by RingCentral as the result of a sophisticated social engineering campaign.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/shinyhunters-group-claims-responsibility-for-ringcentral-data-breach"
+    ]
+  },
+  {
+    "title": "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
+    "published_wib": "2026-08-15T00:34:57+07:00",
+    "summary": "Another one bites the dust",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003"
+    ]
+  },
+  {
+    "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+    "published_wib": "2026-08-14T22:58:50+07:00",
+    "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office"
+    ]
+  },
+  {
+    "title": "Researchers Confirm ExfilSquad\u2019s Access to Sensitive Data Across 13 Organizations",
+    "published_wib": "2026-08-14T21:49:00+07:00",
+    "summary": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/"
+    ]
+  },
+  {
+    "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+    "published_wib": "2026-08-14T21:00:10+07:00",
+    "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/"
+    ]
+  },
+  {
+    "title": "WhatsApp is testing a new warning for scam messages",
+    "published_wib": "2026-08-14T19:05:43+07:00",
+    "summary": "An optional new feature uses on-device AI to flag messages that look like scams.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/whatsapp-is-testing-a-new-warning-for-scam-messages"
+    ]
+  },
+  {
+    "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+    "published_wib": "2026-08-14T18:57:51+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Shell investigates 'potential incident' after Clop data theft claims",
+    "published_wib": "2026-08-14T18:55:45+07:00",
+    "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/"
+    ]
+  }
+]
