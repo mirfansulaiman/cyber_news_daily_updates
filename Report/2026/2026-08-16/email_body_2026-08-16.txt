@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New Evooo1Bot Linux botnet turns routers into traffic relay nodes
+- ChainDrop worm crawls into npm supply chain, evades standard defenses
+- [+24h Old] The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure
+- [+24h Old] MacOS AmnesiaStealer malware spread through ClickFix, grants live browser control
+- [+24h Old] Ready for the flood: How exposure management prepares you for the Mythos vulnerability onslaught
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Evooo1Bot Linux botnet turns routers into traffic relay nodes. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Trezor confirms shipping partner data breach affecting over 13,000 customers. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

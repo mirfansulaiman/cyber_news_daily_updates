@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure and Ready for the flood: How exposure management prepares you for the Mythos vulnerability onslaught. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Trezor confirms shipping partner data breach affecting over 13,000 customers. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-08-16",
+  "vol": "004"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+    "published_wib": "2026-08-15T08:36:57+07:00",
+    "summary": "Tenable\u2019s Research Special Operations (RSO) team has been tracking a cluster of agentic AI threat activity since late July 2026. The Taiwan autonomous AI cyber attack confirmed what the cluster data already showed: near-autonomous offensive AI has crossed from theoretical risk to operational reality. Key Takeaways Taiwan's Ministry of Digital Affairs confir\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ready for the flood: How exposure management prepares you for the Mythos vulnerability onslaught",
+    "published_wib": "2026-08-15T05:28:05+07:00",
+    "summary": "How proactive prioritization will save time and effort when your team faces a wave of AI-discovered vulnerabilities.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/ready-for-the-flood-how-exposure-management-prepares-you-for-the-mythos-vulnerability-onslaught"
+    ]
+  },
+  {
+    "title": "[+24h Old] MacOS screen sharing vulnerability actively exploited for crypto mining",
+    "published_wib": "2026-08-15T04:27:25+07:00",
+    "summary": "The vulnerability, identified as CVE-2026-65400, has a severity rating of 7.1 out of 10 and stems from a flaw in macOS' screen sharing capability.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/macos-screen-sharing-vulnerability-actively-exploited-for-crypto-mining"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw",
+    "published_wib": "2026-08-15T01:04:26+07:00",
+    "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI",
+    "published_wib": "2026-08-15T00:32:46+07:00",
+    "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai"
+    ]
+  },
+  {
+    "title": "[+24h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 33",
+    "published_wib": "2026-08-14T22:21:37+07:00",
+    "summary": "Courts sentence Com member for sextorting 117 minors, joint advisory warns of Gunra ransomware, and ShieldBreak bypasses MS Defender for SYSTEM access.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+    "published_wib": "2026-08-14T21:59:55+07:00",
+    "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Max severity SAP Commerce Cloud flaw now targeted in attacks",
+    "published_wib": "2026-08-14T20:45:18+07:00",
+    "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Salesforce, ServiceNow data targeted in \u2018City-Forum\u2019 attacks",
+    "published_wib": "2026-08-14T20:33:12+07:00",
+    "summary": "Records held in Salesforce and ServiceNow systems are under attack leaving user data exposed, according to researchers at Reco. The attack appears similar to those perpetrated by the extortion group ShinyHunters, Reco said. ShinyHunters has been particularly active this year, attacking dating sites in January and Oracle in June , and there are fears that th\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4209788/salesforce-servicenow-data-targeted-in-city-forum-attacks.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Oracle\u2019s new database security tool is free \u2014 for six months",
+    "published_wib": "2026-08-14T20:12:04+07:00",
+    "summary": "Oracle has released a security tool intended to provide organizations with a centralized view of security risk across their database environments. Oracle Database Security Central will be available free of charge until the end of February 2027. It arrives at a critical time for Oracle customers, with attackers targeting security flaws to exploit the company\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4209792/oracles-new-database-security-tool-is-free-for-six-months-2.html"
+    ]
+  }
+]
