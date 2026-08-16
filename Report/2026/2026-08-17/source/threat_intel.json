@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+    "published_wib": "2026-08-17T00:29:52+07:00",
+    "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/"
+    ]
+  },
+  {
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "published_wib": "2026-08-16T22:07:44+07:00",
+    "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+    "published_wib": "2026-08-15T21:14:38+07:00",
+    "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ChainDrop worm crawls into npm supply chain, evades standard defenses",
+    "published_wib": "2026-08-15T17:31:00+07:00",
+    "summary": "Shai-Hulud variant poisons 444 packages, spreads via tarballs and dev-tool hooks",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"
+    ]
+  },
+  {
+    "title": "[+48h Old] MacOS AmnesiaStealer malware spread through ClickFix, grants live browser control",
+    "published_wib": "2026-08-15T06:49:48+07:00",
+    "summary": "A fake GitHub download page hosts the malicious ClickFix command.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/macos-amnesiastealer-malware-spread-through-clickfix-grants-live-browser-control"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Mirai-Based Linux Botnet \u2018Evooo1Bot\u2019 Turns Victims Into Proxies",
+    "published_wib": "2026-08-14T20:00:00+07:00",
+    "summary": "Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Android malware relays bank cards to fraudsters while victims still hold them",
+    "published_wib": "2026-08-14T18:08:19+07:00",
+    "summary": "Group-IB researchers discovered WindRelay, a new Android malware built to capture live payment card data over NFC (Near Field Communication) and relay it to attackers in real time. WindRelay is paired with the SpyNote remote access trojan, which gives attackers remote access to a victim\u2019s device. Attack chain overview (Source: Group-IB) How the scam unfolds\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/14/windrelay-android-nfc-relay-malware/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+    "published_wib": "2026-08-14T17:45:00+07:00",
+    "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim\u2019s browser to steal cookie data",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
+    ]
+  },
+  {
+    "title": "[+48h Old] AI-driven energy buildout raises cybersecurity, supply chain risks",
+    "published_wib": "2026-08-15T03:23:50+07:00",
+    "summary": "AI-driven energy growth brings new cyber and supply chain risks to critical infrastructure.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/analysis/ai-driven-energy-buildout-raises-cybersecurity-supply-chain-risks"
+    ]
+  },
+  {
+    "title": "[+48h Old] APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+    "published_wib": "2026-08-14T16:00:14+07:00",
+    "summary": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/"
+    ]
+  }
+]
