@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Video Call Exploit Chains Two Flaws in Unisoc Modems and Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Hacker claims 3.6 million Azure account records stolen from major companies. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-08-18",
+  "vol": "004"
+}

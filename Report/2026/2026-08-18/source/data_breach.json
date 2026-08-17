@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+    "published_wib": "2026-08-18T02:35:01+07:00",
+    "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/"
+    ]
+  },
+  {
+    "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders",
+    "published_wib": "2026-08-18T02:12:39+07:00",
+    "summary": "Pok\u00e9mon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/"
+    ]
+  },
+  {
+    "title": "Detecting cloud ransomware in Azure with Tenable One\u2019s cloud detection and response capabilities",
+    "published_wib": "2026-08-17T22:15:00+07:00",
+    "summary": "Learn how Tenable One Cloud Exposure helps you unmask the sophisticated tactics of cybercrime group Storm-0501, which carries out Azure-based cloud ransomware campaigns. Tenable One Cloud Exposure uses AI-powered threat stories to expose Storm-0501 TTPs, backed by precision-engineered threat detection alerts. Key takeaways Storm-0501 demonstrates that cloud\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.tenable.com/blog/detecting-cloud-ransomware-in-azure-with-tenable-ones-cloud-detection-and-response"
+    ]
+  },
+  {
+    "title": "France\u2019s tax authority admits hackers made off with data on 678,000 individuals",
+    "published_wib": "2026-08-17T21:20:20+07:00",
+    "summary": "France\u2019s tax authority has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems, saying the intrusion exposed data on 678,000 individuals and professionals. The incident came to light after an alleged attacker using the alias \u201cZeroBytes\u201d took credit on a cybercrime forum and listed a stolen database f\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/"
+    ]
+  },
+  {
+    "title": "680,000 Impacted by French Tax Authority Data Breach",
+    "published_wib": "2026-08-17T20:53:55+07:00",
+    "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/"
+    ]
+  },
+  {
+    "title": "17th August \u2013 Threat Intelligence Report",
+    "published_wib": "2026-08-17T20:37:34+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 17th August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Colombia\u2019s Ministry of Justice has experienced a ransomware attack that affected part of its technology infrastructure and disrupted public services related to illicit-drug monitoring and legal processes. Offic\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Philips and GE investigating Clop ransomware data theft claims",
+    "published_wib": "2026-08-17T18:25:02+07:00",
+    "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/"
+    ]
+  },
+  {
+    "title": "SafePal breach affects 39,798 customers, data allegedly for sale",
+    "published_wib": "2026-08-17T17:29:57+07:00",
+    "summary": "Cryptocurrency wallet maker SafePal disclosed a data breach that exposed order information for 39,798 customers, including names, email addresses, shipping addresses, phone numbers and purchase details. The company traced the exposure to an authorization flaw in a plug-in used for order tracking. Under certain conditions, the flaw let one customer view anot\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/17/safepal-data-breach-customer-order-information/"
+    ]
+  },
+  {
+    "title": "French tax authority data breach affects 678,000 individuals",
+    "published_wib": "2026-08-17T17:09:48+07:00",
+    "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
+    ]
+  },
+  {
+    "title": "[+24h Old] SafePal Data Breach Hits Tens of Thousands of Customers",
+    "published_wib": "2026-08-17T16:10:00+07:00",
+    "summary": "Nearly 40,000 customers of hardware wallet provider SafePal have been impacted by a data breach",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/"
+    ]
+  }
+]

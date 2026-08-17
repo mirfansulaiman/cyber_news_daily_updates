@@ -1,0 +1,102 @@
+[
+  {
+    "title": "APPLE-SA-08-17-2026-2 iOS 18.7.10 and iPadOS 18.7.10",
+    "published_wib": "2026-08-18T05:01:22+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Aug 17 APPLE-SA-08-17-2026-2 iOS 18.7.10 and iPadOS 18.7.10 iOS 18.7.10 and iPadOS 18.7.10 addresses the following issues. Information about the security content is also available at https://support.apple.com/148287\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/38"
+    ]
+  },
+  {
+    "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+    "published_wib": "2026-08-18T03:26:34+07:00",
+    "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware"
+    ]
+  },
+  {
+    "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+    "published_wib": "2026-08-17T22:44:34+07:00",
+    "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos"
+    ]
+  },
+  {
+    "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+    "published_wib": "2026-08-17T21:33:58+07:00",
+    "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global password for authentication. Apple adapted the protocol for it\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33252"
+    ]
+  },
+  {
+    "title": "Why data quality dictates security operations success",
+    "published_wib": "2026-08-17T20:54:32+07:00",
+    "summary": "As AI takes on more security operations center (SOC) workflows to automate threat triage, indicator extraction, and incident report generation, security operations leaders face a persistent question: Does SOC performance depend more on the large language model (LLM) deployed or on the underlying quality of the security data it consumes? Academic studies off\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4206800/why-data-quality-dictates-security-operations-success.html"
+    ]
+  },
+  {
+    "title": "New macOS malware turns stolen browsers into attacker-controlled sessions",
+    "published_wib": "2026-08-17T18:35:40+07:00",
+    "summary": "Mac users are being freshly warned of suspicious websites asking them to open Terminal and install software. Jamf Threat Labs has uncovered a multi-stage macOS infostealer, dubbed AmnesiaStealer, that uses a ClickFix-style fake GitHub download page to trick victims into executing a command that installs malware. The campaign is designed to steal credentials\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4210464/new-macos-malware-turns-stolen-browsers-into-attacker-controlled-sessions.html"
+    ]
+  },
+  {
+    "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
+    "published_wib": "2026-08-17T18:09:57+07:00",
+    "summary": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+    "published_wib": "2026-08-17T16:29:55+07:00",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Infostealers Harvest 1.7 Billion Credentials in Six Months",
+    "published_wib": "2026-08-17T14:30:00+07:00",
+    "summary": "Flashpoint data reveals infostealers were responsible for taking 1.7 billion credentials in the first half of 2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/infostealers-17-billion/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+    "published_wib": "2026-08-17T09:00:02+07:00",
+    "summary": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33250"
+    ]
+  }
+]
