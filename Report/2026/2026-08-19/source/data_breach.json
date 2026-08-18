@@ -1,0 +1,102 @@
+[
+  {
+    "title": "McDonald's employee records allegedly stolen from Azure",
+    "published_wib": "2026-08-19T04:34:42+07:00",
+    "summary": "The seller, operating under the name TheHatman, advertised the data dump, titled \"McDonalds 1.7M+ Azure Internal Employee Dump,\" on a forum.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/mcdonalds-employee-records-allegedly-stolen-from-azure"
+    ]
+  },
+  {
+    "title": "Internet users increasingly frustrated by AI slop and data leaks",
+    "published_wib": "2026-08-19T04:28:17+07:00",
+    "summary": "A recent survey by Incogni reveals that over half of internet users believe their personal data will inevitably be exposed, leading to anxiety for 63% of respondents.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/internet-users-increasingly-frustrated-by-ai-slop-and-data-leaks"
+    ]
+  },
+  {
+    "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+    "published_wib": "2026-08-19T02:05:33+07:00",
+    "summary": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18) appeared first on Unit 42 .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/"
+    ]
+  },
+  {
+    "title": "Clop created custom web shell for Windchill data theft attacks",
+    "published_wib": "2026-08-19T00:29:51+07:00",
+    "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/"
+    ]
+  },
+  {
+    "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+    "published_wib": "2026-08-18T23:58:16+07:00",
+    "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html"
+    ]
+  },
+  {
+    "title": "Thousands of Hacked WordPress Sites, One Operation: Unmasking StopAndProtect",
+    "published_wib": "2026-08-18T20:05:44+07:00",
+    "summary": "Research by: Jarom\u00edr Ho\u0159ej\u0161\u00ed (@JaromirHorejsi) Key points Introduction We first noticed a ransomware family called StopAndProtect in the middle of May 2026. Further analysis of the infrastructure reveals that the infection chain starts with a ClickFix social-engineering technique, which prompts victims to execute a PowerShell command. This leads to two stag\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/"
+    ]
+  },
+  {
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "published_wib": "2026-08-18T20:00:00+07:00",
+    "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "title": "Heights Finance data breach: What customers need to know",
+    "published_wib": "2026-08-18T17:36:14+07:00",
+    "summary": "Leaked personal and financial data of around 750,000 US citizens, including SSNs and bank details, could put victims at risk of identity theft and phishing.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/08/heights-finance-data-breach-what-customers-need-to-know"
+    ]
+  },
+  {
+    "title": "Three-quarters of Ransomware Attacks Target Mid-Market Firms",
+    "published_wib": "2026-08-18T17:00:00+07:00",
+    "summary": "Black Kite finds mid-market is the sweet spot for ransomware as manufacturers are most likely to be hit",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] OpenAI tightens defenses after AI agents breach research environment",
+    "published_wib": "2026-08-18T16:41:36+07:00",
+    "summary": "Following the OpenAI-Hugging Face incident, in which an agentic collective autonomously penetrated OpenAI\u2019s research infrastructure and another company\u2019s production infrastructure by chaining together multiple weaknesses, OpenAI began strengthening its safety requirements. The weaknesses included previously unknown vulnerabilities and credentials leaked onl\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/18/openai-strengthening-security-measures/"
+    ]
+  }
+]

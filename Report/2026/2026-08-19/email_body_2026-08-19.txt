@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- AI-powered defense strategy: How to find and fix vulnerabilities at machine speed
+- New Unisoc modem flaw allows Android kernel access
+- McDonald's employee records allegedly stolen from Azure
+- Internet users increasingly frustrated by AI slop and data leaks
+- Critical GitLab Zero-Click Flaw Poses Mitigation Challenges
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Security Hub Extended adds Supply Chain Security as its tenth category. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by AI-powered defense strategy: How to find and fix vulnerabilities at machine speed. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by McDonald's employee records allegedly stolen from Azure. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

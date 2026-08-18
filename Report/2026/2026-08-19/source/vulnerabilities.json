@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AI-powered defense strategy: How to find and fix vulnerabilities at machine speed",
+    "published_wib": "2026-08-19T05:04:45+07:00",
+    "summary": "As vulnerability discovery is industrialized, remediation must combine AI automation, environmental context and human expertise.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/ai-powered-defense-strategy-how-to-find-and-fix-vulnerabilities-at-machine-speed"
+    ]
+  },
+  {
+    "title": "New Unisoc modem flaw allows Android kernel access",
+    "published_wib": "2026-08-19T04:48:51+07:00",
+    "summary": "Researchers demonstrated this exploit chain on a Realme C33 smartphone, confirming its effectiveness on devices with specific Android security patches.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-unisoc-modem-flaw-allows-android-kernel-access"
+    ]
+  },
+  {
+    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
+    "published_wib": "2026-08-19T04:25:58+07:00",
+    "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges"
+    ]
+  },
+  {
+    "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
+    "published_wib": "2026-08-19T03:46:26+07:00",
+    "summary": "When deploying AI agents with Amazon Bedrock AgentCore, organizations benefit from built-in modern support for OAuth 2.0, AWS Identity and Access Management (IAM), and API key authentication through Amazon Bedrock AgentCore Gateway. However, some enterprise environments still use legacy authentication mechanisms such as HTTP Basic Authentication (Basic Auth\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/"
+    ]
+  },
+  {
+    "title": "Critical GitLab flaw allows attackers to delete and modify public repos",
+    "published_wib": "2026-08-19T02:33:31+07:00",
+    "summary": "GitLab has fixed a critical vulnerability that could allow unauthenticated attackers to perform unauthorized modifications inside code repositories or to completely delete them with a single HTTP request. The patched releases also address a second high-risk cross-site request forgery (CSRF) flaw. The critical vulnerability, tracked as CVE-2026-19478 , is de\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4211140/critical-gitlab-flaw-allows-attackers-to-delete-and-modify-public-repos.html"
+    ]
+  },
+  {
+    "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
+    "published_wib": "2026-08-19T01:32:01+07:00",
+    "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries"
+    ]
+  },
+  {
+    "title": "CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now",
+    "published_wib": "2026-08-19T01:06:38+07:00",
+    "summary": "Executive Summary CVE-2026-68820 is an actively exploited Windows vulnerability listed in CISA\u2019s Known Exploited Vulnerabilities (KEV) Catalog, with a remediation deadline as suggested by CISA BOD 26-04. CISA BOD 26-04 introduces risk-based remediation timelines ranging from 3 to 14 days, increasing the pressure on teams to move quickly from patch availabil\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/08/18/cve-2026-68820-kev-bod-26-04-requirements"
+    ]
+  },
+  {
+    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+    "published_wib": "2026-08-19T00:44:05+07:00",
+    "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html"
+    ]
+  },
+  {
+    "title": "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
+    "published_wib": "2026-08-18T22:26:00+07:00",
+    "summary": "Phishing, malvertising attacks could target devs to gain access to private corporate networks",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/18/cisa-gives-feds-3-days-to-fix-actively-exploited-ray-rce-bug/5289007"
+    ]
+  },
+  {
+    "title": "Enterprise Applications Carry 4.31x More Critical and High Vulnerabilities",
+    "published_wib": "2026-08-18T22:00:00+07:00",
+    "summary": "Enterprise software creation has accelerated as vulnerability levels rise, Sonatype finds",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/enterprise-apps-critical-high/"
+    ]
+  }
+]

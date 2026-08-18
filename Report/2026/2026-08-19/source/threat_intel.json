@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
+    "published_wib": "2026-08-19T00:04:28+07:00",
+    "summary": "Since February, we\u2019ve grown AWS Security Hub Extended from 14 curated partners across 9 categories to 23 partners across 10. At Black Hat this month, 14 of those partners were at the Amazon Web Services (AWS) booth demoing live. Four of those partners delivered theater talks and ten were featured on SecurityLive streaming. We hosted [\u2026]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/"
+    ]
+  },
+  {
+    "title": "NETSCOUT expands Adaptive DDoS Protection with outbound attack mitigation",
+    "published_wib": "2026-08-18T20:39:08+07:00",
+    "summary": "NETSCOUT has announced an extension of its Adaptive DDoS Protection (ADP) solution enabling service providers to automatically detect and mitigate outbound DDoS attack traffic. By extending protection from the attack target towards its source, NETSCOUT helps operators prevent compromised subscriber devices from disrupting their own networks, consuming costl\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/18/netscout-expands-adaptive-ddos-protection-with-outbound-attack-mitigation/"
+    ]
+  },
+  {
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+    "published_wib": "2026-08-18T20:00:00+07:00",
+    "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
+    ]
+  },
+  {
+    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+    "published_wib": "2026-08-18T18:20:00+07:00",
+    "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reake\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html"
+    ]
+  },
+  {
+    "title": "New Malware turns Microsoft cloud into its control center",
+    "published_wib": "2026-08-18T18:07:45+07:00",
+    "summary": "Security researchers are warning of a newly uncovered Python malware framework that routes much of its command-and-control (C2) activity through Microsoft services that defenders already expect to see. The Ontinue Cyber Defense Center discovered the implant while investigating an active campaign in July and has since tracked it as TWINLOOT. It was seen usin\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4210973/new-malware-turns-microsoft-cloud-into-its-control-center.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
+    "published_wib": "2026-08-18T09:00:03+07:00",
+    "summary": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33256"
+    ]
+  },
+  {
+    "title": "[+24h Old] 'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+    "published_wib": "2026-08-18T03:26:34+07:00",
+    "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware"
+    ]
+  },
+  {
+    "title": "[+24h Old] Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+    "published_wib": "2026-08-17T22:44:34+07:00",
+    "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos"
+    ]
+  },
+  {
+    "title": "[+24h Old] Apple Screen Sharing Security, (Mon, Aug 17th)",
+    "published_wib": "2026-08-17T21:33:58+07:00",
+    "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global password for authentication. Apple adapted the protocol for it\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33252"
+    ]
+  },
+  {
+    "title": "[+24h Old] Why data quality dictates security operations success",
+    "published_wib": "2026-08-17T20:54:32+07:00",
+    "summary": "As AI takes on more security operations center (SOC) workflows to automate threat triage, indicator extraction, and incident report generation, security operations leaders face a persistent question: Does SOC performance depend more on the large language model (LLM) deployed or on the underlying quality of the security data it consumes? Academic studies off\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4206800/why-data-quality-dictates-security-operations-success.html"
+    ]
+  }
+]
