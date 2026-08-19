@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+    "published_wib": "2026-08-20T03:59:58+07:00",
+    "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/"
+    ]
+  },
+  {
+    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+    "published_wib": "2026-08-20T03:32:09+07:00",
+    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns"
+    ]
+  },
+  {
+    "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+    "published_wib": "2026-08-20T03:07:12+07:00",
+    "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/"
+    ]
+  },
+  {
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "published_wib": "2026-08-20T02:02:40+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker contr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+    ]
+  },
+  {
+    "title": "Heights Finance data breach impacts over 700,000 customers",
+    "published_wib": "2026-08-19T20:28:00+07:00",
+    "summary": "The breach, which occurred on May 7, 2026, exposed the personal and financial information of potentially over 730,000 Texans, and affected individuals in Alabama, Tennessee, Georgia, and South Carolina.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/heights-finance-data-breach-impacts-over-700000-customers"
+    ]
+  },
+  {
+    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+    "published_wib": "2026-08-19T18:25:28+07:00",
+    "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a who\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html"
+    ]
+  },
+  {
+    "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
+    "published_wib": "2026-08-19T18:07:21+07:00",
+    "summary": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/"
+    ]
+  },
+  {
+    "title": "Scammers are using fake crypto AML checkers to drain your wallet",
+    "published_wib": "2026-08-19T17:55:06+07:00",
+    "summary": "We found wallet-checking sites impersonating real anti-money laundering services that trick people into approving access to scammers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/08/scammers-are-using-fake-crypto-aml-checkers-to-drain-your-wallet"
+    ]
+  },
+  {
+    "title": "Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware",
+    "published_wib": "2026-08-19T17:50:00+07:00",
+    "summary": "The FBI warned that the RaaS operation has significantly enhanced its tactics, techniques and procedures, making it harder for defenders to counter",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/"
+    ]
+  },
+  {
+    "title": "Medusa ransomware gang has hit over 500 organizations, CISA warns",
+    "published_wib": "2026-08-19T17:18:51+07:00",
+    "summary": "Medusa ransomware has breached more than 500 organizations since it first appeared in June 2021, the FBI, CISA, and the Department of Health and Human Services (HHS) said in an updated joint advisory. The update builds on an advisory first issued in March 2025 and draws on FBI investigations conducted as late as April 2026. \u201cMedusa developers and affiliates\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/"
+    ]
+  }
+]

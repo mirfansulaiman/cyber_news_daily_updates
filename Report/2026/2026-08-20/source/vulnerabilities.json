@@ -1,0 +1,102 @@
+[
+  {
+    "title": "VU#874418: RDK-B WebUI contains multiple vulnerabilities",
+    "published_wib": "2026-08-20T02:28:37.210827+07:00",
+    "summary": "Overview RDK Central RDK-B WebUI version, rdkb-2025q4-kirkstone, contains multiple vulnerabilities involving memory corruption, improper authentication, race conditions, and insufficient input validation. An attacker with network access to an affected WebUI may be able to bypass authentication, obtain administrative access, cause a denial-of-service conditi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/874418"
+    ]
+  },
+  {
+    "title": "Medusa ransomware group attacked more than 500 victims since 2021",
+    "published_wib": "2026-08-20T01:31:36+07:00",
+    "summary": "Medusa ransomware hit 500-plus victims, exploiting critical flaws at increasing speed.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/medusa-ransomware-group-attacked-more-than-500-victims-since-2021"
+    ]
+  },
+  {
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "published_wib": "2026-08-20T01:06:44+07:00",
+    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them int\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html"
+    ]
+  },
+  {
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "published_wib": "2026-08-20T00:50:01+07:00",
+    "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/"
+    ]
+  },
+  {
+    "title": "Exclusive: Linux Foundation's Akrites to Go Live in September",
+    "published_wib": "2026-08-19T22:30:00+07:00",
+    "summary": "The Linux Foundation's Akrites initiative will become operational in September, when it will begin accepting AI-powered vulnerability reports for open-source projects",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/"
+    ]
+  },
+  {
+    "title": "Critical vulnerability in Ray framework allows remote code execution",
+    "published_wib": "2026-08-19T21:06:00+07:00",
+    "summary": "The vulnerability, rated 9.4 under CVSS v4, was disclosed in November 2025 and allows attackers to exploit browsers like Firefox and Safari to achieve remote code execution (RCE) on a vulnerable Ray system.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-vulnerability-in-ray-framework-allows-remote-code-execution"
+    ]
+  },
+  {
+    "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+    "published_wib": "2026-08-19T21:00:10+07:00",
+    "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/"
+    ]
+  },
+  {
+    "title": "Oracle Critical Patch Update, August 2026 Security Update Review",
+    "published_wib": "2026-08-19T20:49:27+07:00",
+    "summary": "Oracle released its August edition of Critical Patch Update. The update received patches for 943 security vulnerabilities. Some of the vulnerabilities addressed in this update impact more than one product. These patches address vulnerabilities in various product families, including third-party components in Oracle products. In this Oracle Critical Patch Upd\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/vulnerabilities-threat-research/2026/08/19/oracle-critical-patch-update-august-2026-security-update-review"
+    ]
+  },
+  {
+    "title": "Snowflake flaw slips past AI checks, gets exploited by another AI",
+    "published_wib": "2026-08-19T18:09:07+07:00",
+    "summary": "An autonomous AI security agent developed by cloud security firm Wiz identified and exploited a critical vulnerability in Snowflake\u2019s GitHub Actions pipeline, while GitHub Copilot had previously reviewed the code change without flagging the flaw. The vulnerable code was part of a pull request (PR) that GitHub Copilot was involved in, though Wiz has clarifie\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4211501/snowflake-flaw-slips-past-ai-checks-gets-exploited-by-another-ai.html"
+    ]
+  },
+  {
+    "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+    "published_wib": "2026-08-19T18:01:48+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+    ]
+  }
+]

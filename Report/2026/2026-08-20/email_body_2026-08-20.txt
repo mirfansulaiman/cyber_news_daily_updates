@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Rogue ransomware affiliate poses as recovery firm to steal payments
+- No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns
+- Healthtech firm CareCloud data breach impacts 3.7 million patients
+- VU#874418: RDK-B WebUI contains multiple vulnerabilities
+- Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hackers compromise 14,500 Dahua web cameras in 35-day campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by VU#874418: RDK-B WebUI contains multiple vulnerabilities. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Rogue ransomware affiliate poses as recovery firm to steal payments. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

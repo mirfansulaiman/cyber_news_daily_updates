@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+    "published_wib": "2026-08-20T01:09:13+07:00",
+    "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/"
+    ]
+  },
+  {
+    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+    "published_wib": "2026-08-19T23:58:23+07:00",
+    "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats"
+    ]
+  },
+  {
+    "title": "MaaS Campaign Combines ClickFix, ErrTraffic and Cruciferra",
+    "published_wib": "2026-08-19T22:00:00+07:00",
+    "summary": "eSentire uncovered a malware campaign combining ClickFix lures with ErrTraffic and Cruciferra",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/maas-clickfix-errtraffic-cruciferra/"
+    ]
+  },
+  {
+    "title": "Geekom admits malware found in legacy mini PC driver download",
+    "published_wib": "2026-08-19T21:20:00+07:00",
+    "summary": "The compromised LAN driver, hosted on a legacy support page, allowed the Asruex backdoor to operate with administrator-level permissions.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/geekom-admits-malware-found-in-legacy-mini-pc-driver-download"
+    ]
+  },
+  {
+    "title": "Grandoreiro Resurfaces in Mexico With New DLL Sideloading Campaign",
+    "published_wib": "2026-08-19T21:00:00+07:00",
+    "summary": "Grandoreiro is active after its 2024 disruption, with Mexico now accounting for 40% of detections",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/grandoreiro-mexico-dll-sideloading/"
+    ]
+  },
+  {
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "published_wib": "2026-08-19T20:12:17+07:00",
+    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in la\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html"
+    ]
+  },
+  {
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "published_wib": "2026-08-19T18:34:28+07:00",
+    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed worki\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
+    ]
+  },
+  {
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "published_wib": "2026-08-19T18:30:00+07:00",
+    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to A\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html"
+    ]
+  },
+  {
+    "title": "Hunt Malware & Phishing Threats with ANY.RUN for Proactive Enterprise Security",
+    "published_wib": "2026-08-19T17:27:03+07:00",
+    "summary": "One of the biggest challenges for every threat hunter is navigating endless alerts, scattered indicators, behavioral evidence, and infrastructural context. Data collection is just the first step \u2013 but how do you turn it into findings that lead to proactive protection against malware and phishing? ANY.RUN Threat Intelligence has the answer. Threat Intelligen\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/proactive-threat-hunting/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
+    "published_wib": "2026-08-19T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33258"
+    ]
+  }
+]
