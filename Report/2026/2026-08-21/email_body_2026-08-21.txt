@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Critical flaw patched in popular JavaScript sandbox used in AI projects
+- Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
+- Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
+- Citrix issues critical security updates for its NetScaler devices
+- Hackers poison arrayref Rust crate to push infostealer malware
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Critical flaw patched in popular JavaScript sandbox used in AI projects. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

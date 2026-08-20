@@ -1,0 +1,102 @@
+[
+  {
+    "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
+    "published_wib": "2026-08-21T00:30:39+07:00",
+    "summary": "Follow the money",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560"
+    ]
+  },
+  {
+    "title": "Ransomware crook poses as recovery firm to steal payments from fellow extortionists",
+    "published_wib": "2026-08-20T21:27:00+07:00",
+    "summary": "Because apparently even ransomware gangs can't trust the people they do business with",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344"
+    ]
+  },
+  {
+    "title": "French tax authority says break-in exposed data of 600K, including some private messages",
+    "published_wib": "2026-08-20T19:33:00+07:00",
+    "summary": "Stolen details range from contact information to household finances and withholding rates",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249"
+    ]
+  },
+  {
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "published_wib": "2026-08-20T18:26:08+07:00",
+    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html"
+    ]
+  },
+  {
+    "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+    "published_wib": "2026-08-20T17:38:28+07:00",
+    "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking a\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html"
+    ]
+  },
+  {
+    "title": "New Manic Android malware can exfiltrate data through nearby devices",
+    "published_wib": "2026-08-20T17:02:02+07:00",
+    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI is making fraud harder to spot and identity harder to prove",
+    "published_wib": "2026-08-20T12:00:07+07:00",
+    "summary": "Online fraud has become a routine concern for consumers and businesses that rely on digital accounts, payments and customer service. Experian\u2019s 2026 U.S. Identity & Fraud Report describes a market where scams extend across messages, websites, documents, voices, images and account activity. Security measures that make consumers feel most secure (Source: Expe\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/20/experian-digital-identity-fraud-risks-report/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Rogue ransomware affiliate poses as recovery firm to steal payments",
+    "published_wib": "2026-08-20T03:59:58+07:00",
+    "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/"
+    ]
+  },
+  {
+    "title": "[+24h Old] No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+    "published_wib": "2026-08-20T03:32:09+07:00",
+    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns"
+    ]
+  },
+  {
+    "title": "[+24h Old] Healthtech firm CareCloud data breach impacts 3.7 million patients",
+    "published_wib": "2026-08-20T03:07:12+07:00",
+    "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/"
+    ]
+  }
+]

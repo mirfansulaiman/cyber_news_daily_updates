@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Critical flaw patched in popular JavaScript sandbox used in AI projects",
+    "published_wib": "2026-08-21T04:00:59+07:00",
+    "summary": "A critical sandbox escape vulnerability was discovered and patched in isolated-vm, a library for running JavaScript code inside an isolated process. If exploited, the vulnerability could allow attackers to hijack the host\u2019s control flow, which could enable remote code execution. Isolated-vm is downloaded more than 1 million times per week and is also used a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4212151/critical-flaw-patched-in-popular-javascript-sandbox-used-in-ai-projects.html"
+    ]
+  },
+  {
+    "title": "Citrix issues critical security updates for its NetScaler devices",
+    "published_wib": "2026-08-21T01:54:09+07:00",
+    "summary": "Citrix is urging its NetScaler ADC and NetScaler Gateway customers to quickly patch two critical security holes, one involving a memory overflow vulnerability leading to unpredictable behavior or denial of service, and the other allowing authentication bypass. Citrix said in an advisory that supported versions of customer-managed NetScaler ADC and NetScaler\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4212082/citrix-issues-critical-security-updates-for-its-netscaler-devices.html"
+    ]
+  },
+  {
+    "title": "N-able Bug Exposes Password Vault Master Keys",
+    "published_wib": "2026-08-21T00:39:24+07:00",
+    "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys"
+    ]
+  },
+  {
+    "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+    "published_wib": "2026-08-21T00:32:51+07:00",
+    "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing"
+    ]
+  },
+  {
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+    "published_wib": "2026-08-21T00:23:48+07:00",
+    "summary": "A lot of this week\u2019s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html"
+    ]
+  },
+  {
+    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+    "published_wib": "2026-08-20T23:59:44+07:00",
+    "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html"
+    ]
+  },
+  {
+    "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+    "published_wib": "2026-08-20T21:50:49+07:00",
+    "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland\u2019s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/"
+    ]
+  },
+  {
+    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+    "published_wib": "2026-08-20T21:39:48+07:00",
+    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/"
+    ]
+  },
+  {
+    "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days",
+    "published_wib": "2026-08-20T21:02:12+07:00",
+    "summary": "Executive Summary ShieldBreak (CVE-2026-69414) is a zero-day elevation-of-privilege vulnerability in the Microsoft Malware Protection Engine used by Microsoft Defender, allowing a low-privilege local attacker to escalate to SYSTEM. A public PoC was released on August 12, 2026, and Microsoft assigned the CVE on August 14, and no patch is available yet. Qualy\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/08/20/shieldbreak-the-windows-defender-zero-day-with-no-patch-detect-it-mitigate-it-with-qualys"
+    ]
+  },
+  {
+    "title": "Frequently asked questions about the active threat to Siemens S7 Series PLCs",
+    "published_wib": "2026-08-20T21:01:58+07:00",
+    "summary": "A joint cybersecurity advisory released by multiple U.S. government agencies warns that threat actors are using AI-generated exploitation scripts to target exposed Siemens S7 Series PLCs across critical infrastructure sectors. Key Takeaways Unattributed threat actors are exploiting known weaknesses and unnecessary internet exposure to conduct reconnaissance\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/frequently-asked-questions-about-the-active-threat-to-siemens-s7-series-plcs"
+    ]
+  }
+]

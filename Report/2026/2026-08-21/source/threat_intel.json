@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+    "published_wib": "2026-08-21T03:22:35+07:00",
+    "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html"
+    ]
+  },
+  {
+    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+    "published_wib": "2026-08-21T02:59:19+07:00",
+    "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clust\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
+    ]
+  },
+  {
+    "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+    "published_wib": "2026-08-21T00:53:52+07:00",
+    "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/"
+    ]
+  },
+  {
+    "title": "Inside the fourth wave of the Shai-Hulud npm worm",
+    "published_wib": "2026-08-20T22:14:43+07:00",
+    "summary": "The signed packages were authentic \u2013 but that\u2019s precisely the problem: the provenance lied.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/perspective/inside-the-fourth-wave-of-the-shai-hulud-npm-worm"
+    ]
+  },
+  {
+    "title": "JFrog Artifactory Flaws Enable Software Supply Chain Attacks",
+    "published_wib": "2026-08-20T21:30:00+07:00",
+    "summary": "Two Artifactory flaws allowed attackers to poison package metadata across software repositories",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/"
+    ]
+  },
+  {
+    "title": "How MSPs can catch phishing attacks email filters miss",
+    "published_wib": "2026-08-20T21:01:11+07:00",
+    "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/"
+    ]
+  },
+  {
+    "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+    "published_wib": "2026-08-20T20:30:00+07:00",
+    "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign"
+    ]
+  },
+  {
+    "title": "Grandoreiro banking trojan resurfaces with new campaign targeting Latin America",
+    "published_wib": "2026-08-20T20:07:00+07:00",
+    "summary": "The latest campaign, observed in May 2026, utilizes DLL sideloading to execute the banking trojan.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/grandoreiro-banking-trojan-resurfaces-with-new-campaign-targeting-latin-america"
+    ]
+  },
+  {
+    "title": "Grok chat duped into swallowing injected instructions",
+    "published_wib": "2026-08-20T20:00:00+07:00",
+    "summary": "A spoonful of encryption helps the malware go down",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019"
+    ]
+  },
+  {
+    "title": "Black Hat/DEF CON attendees targeted in malware scheme with Google Doc lure",
+    "published_wib": "2026-08-20T19:50:14+07:00",
+    "summary": "A malicious Google Apps Script sidebar leads to payloads for both macOS and Windows.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/black-hat-def-con-attendees-targeted-in-malware-scheme-with-google-doc-lure"
+    ]
+  }
+]
