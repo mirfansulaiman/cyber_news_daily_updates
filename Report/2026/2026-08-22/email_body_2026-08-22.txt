@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Navy warns of multi-pronged adversary campaign targeting personnel and installations
+- New Agent Tesla malware version uses emoji obfuscation to evade detection
+- Senator Wyden seeks review of federal law enforcement hacking tools
+- New malware targets Android car head units for ad fraud and botnet creation
+- Attackers use FTP banners to hide new E4del and PINHOLE RATs
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Navy warns of multi-pronged adversary campaign targeting personnel and installations. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Senator Wyden seeks review of federal law enforcement hacking tools. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hospital for Sick Children discloses employee data breach due to third-party software flaw. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

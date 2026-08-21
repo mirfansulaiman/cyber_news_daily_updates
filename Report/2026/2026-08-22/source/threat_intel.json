@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Navy warns of multi-pronged adversary campaign targeting personnel and installations",
+    "published_wib": "2026-08-22T04:02:16+07:00",
+    "summary": "The campaign includes direct threats and harassment via social media, doxing, drone activity near Navy assets, ground-level surveillance, physical attacks, and probes of security measures.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/navy-warns-of-multi-pronged-adversary-campaign-targeting-personnel-and-installations"
+    ]
+  },
+  {
+    "title": "New Agent Tesla malware version uses emoji obfuscation to evade detection",
+    "published_wib": "2026-08-22T03:58:58+07:00",
+    "summary": "The latest Agent Tesla campaign utilizes a JScript dropper that incorporates Unicode emoji characters to disrupt signature-based detection and obscure the malicious code.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-agent-tesla-malware-version-uses-emoji-obfuscation-to-evade-detection"
+    ]
+  },
+  {
+    "title": "New malware targets Android car head units for ad fraud and botnet creation",
+    "published_wib": "2026-08-22T03:42:27+07:00",
+    "summary": "Kaspersky discovered the threat in June 2026, noting that the malware spreads through the built-in updaters of the head unit firmware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-malware-targets-android-car-head-units-for-ad-fraud-and-botnet-creation"
+    ]
+  },
+  {
+    "title": "Attackers use FTP banners to hide new E4del and PINHOLE RATs",
+    "published_wib": "2026-08-22T03:38:40+07:00",
+    "summary": "The attack chain begins with a ZIP archive, likely distributed via phishing, which initiates an LNK-based infection.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/attackers-use-ftp-banners-to-hide-new-e4del-and-pinhole-rats"
+    ]
+  },
+  {
+    "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "published_wib": "2026-08-22T01:53:00+07:00",
+    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached backgrou\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+    ]
+  },
+  {
+    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+    "published_wib": "2026-08-22T01:01:30+07:00",
+    "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/"
+    ]
+  },
+  {
+    "title": "2026-08-21: SmartApeSG ClickFix campaign leads to two RATs",
+    "published_wib": "2026-08-22T00:49:00+07:00",
+    "summary": "2026-08-21: SmartApeSG ClickFix campaign leads to two RATs",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/08/21/index.html"
+    ]
+  },
+  {
+    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+    "published_wib": "2026-08-21T22:41:44+07:00",
+    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread throu\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html"
+    ]
+  },
+  {
+    "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+    "published_wib": "2026-08-21T22:11:16+07:00",
+    "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/"
+    ]
+  },
+  {
+    "title": "Hackers poison popular Rust crates to steal developers' credentials",
+    "published_wib": "2026-08-21T21:57:00+07:00",
+    "summary": "Malicious updates turned routine builds into a delivery system for infostealer malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075"
+    ]
+  }
+]
