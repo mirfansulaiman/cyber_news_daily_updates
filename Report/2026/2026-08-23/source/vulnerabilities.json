@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Senator Wyden seeks review of federal law enforcement hacking tools",
+    "published_wib": "2026-08-22T03:49:42+07:00",
+    "summary": "Wyden has formally requested the U.S. Government Accountability Office (GAO) to conduct a comprehensive inquiry into how agencies such as the FBI, DEA, ICE Homeland Security Investigations, and the Secret Service utilize these sophisticated surveillance technologies.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/senator-wyden-seeks-review-of-federal-law-enforcement-hacking-tools"
+    ]
+  },
+  {
+    "title": "[+24h Old] Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
+    "published_wib": "2026-08-21T23:29:00+07:00",
+    "summary": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156"
+    ]
+  },
+  {
+    "title": "[+24h Old] Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+    "published_wib": "2026-08-21T23:27:52+07:00",
+    "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+    "published_wib": "2026-08-21T22:52:10+07:00",
+    "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] VU#756733: Calix GS7 XGS GS5239XG residential router contains missing authentication vulnerability",
+    "published_wib": "2026-08-21T21:44:16.922507+07:00",
+    "summary": "Overview The Calix GS7 XGS GS5239XG router running firmware EXOS/6.6.47 contains a missing authentication vulnerability that exposes its UPnP (Universal Plug and Play) WANIPConnection service on the public WAN interface. Description Calix GS7 XGS GS5239XG is a residential gateway that provides routing, NAT, and firewall functionality for home networks. The\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/756733"
+    ]
+  },
+  {
+    "title": "[+24h Old] Critical Isolated-vm Vulnerability Leads to RCE on Host",
+    "published_wib": "2026-08-21T19:26:07+07:00",
+    "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CISA orders feds to patch actively exploited TrueConf Server flaws",
+    "published_wib": "2026-08-21T19:25:33+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)",
+    "published_wib": "2026-08-21T19:20:33+07:00",
+    "summary": "Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, reportedly exploited in the wild. Entra ID is Microsoft\u2019s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to Microsoft 365, Azure, and connected third-party apps. Tracked as CVE-2026-69836, with the maximum CVS\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft patches max severity code execution, privilege escalation flaws",
+    "published_wib": "2026-08-21T18:04:10+07:00",
+    "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+    "published_wib": "2026-08-21T17:03:11+07:00",
+    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
+    ]
+  }
+]

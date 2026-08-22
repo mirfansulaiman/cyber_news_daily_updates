@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "published_wib": "2026-08-22T21:14:24+07:00",
+    "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+    "published_wib": "2026-08-22T15:30:00+07:00",
+    "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/"
+    ]
+  },
+  {
+    "title": "[+24h Old] TrueConf flaws enabling attacks on meeting participants added to KEV catalog",
+    "published_wib": "2026-08-22T06:15:56+07:00",
+    "summary": "The flaws have been used by the Head Mare APT hacktivist group to spread PhantomCore malware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/trueconf-flaws-enabling-attacks-on-meeting-participants-added-to-kev-catalog"
+    ]
+  },
+  {
+    "title": "[+24h Old] Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+    "published_wib": "2026-08-22T06:00:21+07:00",
+    "summary": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls The post Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/sdlc-supply-chain/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Navy warns of multi-pronged adversary campaign targeting personnel and installations",
+    "published_wib": "2026-08-22T04:02:16+07:00",
+    "summary": "The campaign includes direct threats and harassment via social media, doxing, drone activity near Navy assets, ground-level surveillance, physical attacks, and probes of security measures.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/navy-warns-of-multi-pronged-adversary-campaign-targeting-personnel-and-installations"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Agent Tesla malware version uses emoji obfuscation to evade detection",
+    "published_wib": "2026-08-22T03:58:58+07:00",
+    "summary": "The latest Agent Tesla campaign utilizes a JScript dropper that incorporates Unicode emoji characters to disrupt signature-based detection and obscure the malicious code.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-agent-tesla-malware-version-uses-emoji-obfuscation-to-evade-detection"
+    ]
+  },
+  {
+    "title": "[+24h Old] New malware targets Android car head units for ad fraud and botnet creation",
+    "published_wib": "2026-08-22T03:42:27+07:00",
+    "summary": "Kaspersky discovered the threat in June 2026, noting that the malware spreads through the built-in updaters of the head unit firmware.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-malware-targets-android-car-head-units-for-ad-fraud-and-botnet-creation"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers use FTP banners to hide new E4del and PINHOLE RATs",
+    "published_wib": "2026-08-22T03:38:40+07:00",
+    "summary": "The attack chain begins with a ZIP archive, likely distributed via phishing, which initiates an LNK-based infection.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/attackers-use-ftp-banners-to-hide-new-e4del-and-pinhole-rats"
+    ]
+  },
+  {
+    "title": "[+24h Old] 14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+    "published_wib": "2026-08-22T01:53:00+07:00",
+    "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached backgrou\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+    "published_wib": "2026-08-22T01:01:30+07:00",
+    "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers infect Android car head units with proxy botnet malware
+- [+24h Old] Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight
+- [+24h Old] AWS Security makes an inscrutable choice
+- [+24h Old] TrueConf flaws enabling attacks on meeting participants added to KEV catalog
+- [+24h Old] Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hackers infect Android car head units with proxy botnet malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Senator Wyden seeks review of federal law enforcement hacking tools. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by AWS Security makes an inscrutable choice. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
