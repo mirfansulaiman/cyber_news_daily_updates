@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs",
+    "published_wib": "2026-08-23T15:00:00+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Windows 11\u2019s strongest security defenses can be bypassed without a screwdriver Researchers from the University of Birmingham and Durham University have found a way to knock down some of the toughest protections in Windows 11 without physically opening or modify\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/"
+    ]
+  },
+  {
+    "title": "[+48h Old] AWS Security makes an inscrutable choice",
+    "published_wib": "2026-08-22T06:42:41+07:00",
+    "summary": "Quarantining leaked credentials is not good enough",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hundreds of leaked AWS keys give full control over corporate accounts",
+    "published_wib": "2026-08-21T22:55:15+07:00",
+    "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Is Online Privacy Possible? How Digital Identities Can Help",
+    "published_wib": "2026-08-21T21:00:10+07:00",
+    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/"
+    ]
+  },
+  {
+    "title": "[+48h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 34",
+    "published_wib": "2026-08-21T20:00:56+07:00",
+    "summary": "U.S. indicts Iranian cyber espionage operations, Medusa ransomware breaches 500 organizations, and attackers exploit a critical Windows protocol flaw.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Medical records, SSNs, and bank details exposed in CareCloud data breach",
+    "published_wib": "2026-08-21T18:50:55+07:00",
+    "summary": "Healthcare technology provider CareCloud confirmed that 3.75 million people were affected by a March data breach.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/medical-records-ssns-and-bank-details-exposed-in-carecloud-data-breach"
+    ]
+  },
+  {
+    "title": "[+48h Old] SickKids data breach exposes employee and job applicant info",
+    "published_wib": "2026-08-21T17:10:42+07:00",
+    "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hospital for Sick Children discloses employee data breach due to third-party software flaw",
+    "published_wib": "2026-08-22T03:33:37+07:00",
+    "summary": "SickKids confirmed that clinical systems and patient records were not affected, though its public-facing Careers website was temporarily taken offline.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/hospital-for-sick-children-discloses-employee-data-breach-due-to-third-party-software-flaw"
+    ]
+  },
+  {
+    "title": "[+48h Old] Ransomware takes aim at enterprise resilience",
+    "published_wib": "2026-08-21T15:25:00+07:00",
+    "summary": "Ransomware remains one of the most disruptive cyber threats organizations face. Companies have strengthened their cyber defenses over the years, but attackers in 2026 have become faster, more targeted, and increasingly reliant on AI , forcing the need for a change in how organizations approach cyber resilience. From the rise of AI-enabled attacks and extort\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4212157/ransomware-takes-aim-at-enterprise-resilience.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] A $25 template helped scammers build hundreds of phantom bank domains",
+    "published_wib": "2026-08-21T12:00:59+07:00",
+    "summary": "A phrase on a suspicious website turned into an investigation of phantom banks built to support scams, according to new research from Allure Security. Molly DeQuattro, the company\u2019s VP of Operations, was reviewing a domain that resembled the brand of one of its financial services clients. The page carried none of that client\u2019s branding. It presented an unre\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/21/phantom-bank-websites-fraud-research/"
+    ]
+  }
+]
