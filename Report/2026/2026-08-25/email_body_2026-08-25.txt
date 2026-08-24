@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- AWS patches flaw in 7 SDKs
+- WordPress plugin vulnerabilities allow admin account takeover
+- Metal Gear Online 3 vulnerability allowed remote code execution
+- Microsoft says Entra ID identity software not exploited, revises CVE
+- Exploited Zimbra Flaw Highlights Shrinking Window to Patch
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Foul Language: WordlistLoader Disguises Malware as Ordinary Text. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by AWS patches flaw in 7 SDKs. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by ReliaQuest confirms failed data-theft attack after ShinyHunters breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

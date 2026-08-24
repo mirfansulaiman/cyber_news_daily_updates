@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AWS patches flaw in 7 SDKs",
+    "published_wib": "2026-08-25T05:28:09+07:00",
+    "summary": "The flaw allowed for the redirection of API calls by manipulating the region field within the SDK's hostname template.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/aws-patches-flaw-in-seven-sdks-after-pi-inc-discovery"
+    ]
+  },
+  {
+    "title": "WordPress plugin vulnerabilities allow admin account takeover",
+    "published_wib": "2026-08-25T05:20:18+07:00",
+    "summary": "The vulnerabilities, tracked as CVE-2026-61979 and CVE-2026-15981, can be chained together to bypass authentication.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/wordpress-plugin-vulnerabilities-allow-admin-account-takeover"
+    ]
+  },
+  {
+    "title": "Metal Gear Online 3 vulnerability allowed remote code execution",
+    "published_wib": "2026-08-25T05:16:36+07:00",
+    "summary": "The vulnerability, discovered by researcher Alice Cecchetto and detailed by CERT/CC, stemmed from a heap-based buffer overflow in the game's player-removal mechanism.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/metal-gear-online-3-vulnerability-allowed-remote-code-execution"
+    ]
+  },
+  {
+    "title": "Microsoft says Entra ID identity software not exploited, revises CVE",
+    "published_wib": "2026-08-25T04:52:02+07:00",
+    "summary": "While the urgency has changed, security pros say teams should still review Entra ID logs for anything suspicious before the patch.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/microsoft-says-entra-id-identity-software-not-exploited-revises-cve"
+    ]
+  },
+  {
+    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+    "published_wib": "2026-08-25T04:46:55+07:00",
+    "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch"
+    ]
+  },
+  {
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+    "published_wib": "2026-08-25T04:39:39+07:00",
+    "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021"
+    ]
+  },
+  {
+    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+    "published_wib": "2026-08-25T04:14:30+07:00",
+    "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
+    ]
+  },
+  {
+    "title": "CISA adds Zimbra Collaboration Suite bug to exploited vulnerabilities list",
+    "published_wib": "2026-08-25T04:10:32+07:00",
+    "summary": "Experts warn that it\u2019s the fifth time Zimbra made the KEV this year.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisa-adds-zimbra-collaboration-suite-bug-to-exploited-vulnerabilities-list"
+    ]
+  },
+  {
+    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+    "published_wib": "2026-08-25T02:26:32+07:00",
+    "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
+    ]
+  },
+  {
+    "title": "VU#728712: Konami's Metal Gear Online 3 contains a heap-based buffer overflow",
+    "published_wib": "2026-08-24T21:57:41.816549+07:00",
+    "summary": "Overview Konami's Metal Gear Online 3 video game contains a heap-based buffer overflow that can be triggered by an input\u2011validation vulnerability that allows match hosts to remotely execute arbitrary code on lobby members' machines through specially crafted data. Description Metal Gear Online 3 is an online 8 vs. 8 competitive shooter game that uses Steam M\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/728712"
+    ]
+  }
+]
