@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+    "published_wib": "2026-08-26T02:50:16+07:00",
+    "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw"
+    ]
+  },
+  {
+    "title": "CISA adds Oracle WebLogic bug to its list of exploited vulnerabilities",
+    "published_wib": "2026-08-26T01:14:21+07:00",
+    "summary": "Experts say exploiting WebLogic middleware gives attackers access to an enterprise's core business apps.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisa-adds-oracle-weblogic-bug-to-its-list-of-exploited-vulnerabilities"
+    ]
+  },
+  {
+    "title": "VU#308749: Remote Code Execution and Arbitrary File Read Vulnerabilities in Kaltura Servers",
+    "published_wib": "2026-08-25T23:11:49.036497+07:00",
+    "summary": "Overview The Kaltura HTML5 Player Library (mwEmbed / html5lib) contains two vulnerabilities, both involving the same insecure deserialization flaw, that enable arbitrary file read and remote code execution. Affected versions include html5lib v2.45, v2.103 and earlier, and other v2.x releases that expose the vulnerable mwEmbedLoader.php endpoint. Until a ven\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/308749"
+    ]
+  },
+  {
+    "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
+    "published_wib": "2026-08-25T23:09:00+07:00",
+    "summary": "Attackers now ready to exploit how things work, rather than just break them, says Oracle support expert",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335"
+    ]
+  },
+  {
+    "title": "The patch window is collapsing: Why security needs a new control plane",
+    "published_wib": "2026-08-25T23:00:00+07:00",
+    "summary": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
+    ]
+  },
+  {
+    "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
+    "published_wib": "2026-08-25T22:03:33+07:00",
+    "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request Forgery (SSRF) vulnerability. One way to prevent these type\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33280"
+    ]
+  },
+  {
+    "title": "INTERPOL crackdown on West African crime rings uncovers troubling new trend",
+    "published_wib": "2026-08-25T21:01:06+07:00",
+    "summary": "Police across 22 countries arrested 58 people and identified 263 suspects during an eight-month INTERPOL operation targeting West African organized crime groups. Suspects detained in an operation targeting West African crime groups (Source: INTERPOL) Operation Jackal IV ran from November 2025 to June 2026. The goal was to disrupt money laundering, flag high\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/"
+    ]
+  },
+  {
+    "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+    "published_wib": "2026-08-25T20:33:12+07:00",
+    "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Unpatched Calix router vulnerability allows remote attackers to expose home networks",
+    "published_wib": "2026-08-25T20:28:56+07:00",
+    "summary": "The flaw, identified as CVE-2026-75501, affects devices running EXOS/6.6.47 firmware.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/unpatched-calix-router-vulnerability-allows-remote-attackers-to-expose-home-networks"
+    ]
+  },
+  {
+    "title": "Nucleus wants to get ahead of scanners on new vulnerabilities",
+    "published_wib": "2026-08-25T20:00:00+07:00",
+    "summary": "There usually is a crucial time lapse from when a vulnerability is newly disclosed to when security scanners are finally updated to scan for it. Nucleus Security says it wants to close that gap. The cybersecurity outfit focused on unified exposure management is expanding its platform with Nucleus Helix, an AI Agent for natural-language interaction with secu\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4213644/nucleus-wants-to-get-ahead-of-scanners-on-new-vulnerabilities.html"
+    ]
+  }
+]

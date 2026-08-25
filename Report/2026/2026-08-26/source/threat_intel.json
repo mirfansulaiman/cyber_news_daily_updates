@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+    "published_wib": "2026-08-26T04:39:01+07:00",
+    "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/"
+    ]
+  },
+  {
+    "title": "Massive DDoS attack disrupts Norway\u2019s government digital services",
+    "published_wib": "2026-08-25T22:52:36+07:00",
+    "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/"
+    ]
+  },
+  {
+    "title": "ZeroTokens Phishing Platform Steers Attacks in Real Time",
+    "published_wib": "2026-08-25T21:30:00+07:00",
+    "summary": "ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/"
+    ]
+  },
+  {
+    "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+    "published_wib": "2026-08-25T20:19:41+07:00",
+    "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first intr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
+    ]
+  },
+  {
+    "title": "New 'Sleepwalker' backdoor uses custom command language",
+    "published_wib": "2026-08-25T20:18:38+07:00",
+    "summary": "Discovered by malware researcher Dominik Reichel, Sleepwalker impersonates Microsoft's dpapi.dll and loads via side-loading into ESET Management Agent.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-sleepwalker-backdoor-uses-custom-command-language-remains-hidden"
+    ]
+  },
+  {
+    "title": "Fake Recruiter Scams Target Corporate Credentials on Mobile",
+    "published_wib": "2026-08-25T20:00:00+07:00",
+    "summary": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/"
+    ]
+  },
+  {
+    "title": "Fake OpenAI Codex download tricks macOS users into installing malware",
+    "published_wib": "2026-08-25T19:40:44+07:00",
+    "summary": "A malware campaign using a sponsored search ad and a fake OpenAI Codex download page to trick macOS users into pasting a malicious command into Terminal has been uncovered by Cato Networks. It\u2019s a variation of ClickFix, a popular social engineering technique that persuades victims to execute the infection step themselves rather than opening a malicious file\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/25/fake-openai-codex-download-macos-users/"
+    ]
+  },
+  {
+    "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+    "published_wib": "2026-08-25T18:56:15+07:00",
+    "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected compani\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html"
+    ]
+  },
+  {
+    "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+    "published_wib": "2026-08-25T18:52:43+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor\u2019s use of npm isn't to infect develo\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
+    ]
+  },
+  {
+    "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+    "published_wib": "2026-08-25T18:33:44+07:00",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with re\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html"
+    ]
+  }
+]

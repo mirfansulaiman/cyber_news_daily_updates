@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- LACMA data breach last year exposed social security and medical data
+- Hackers abuse npm mirrors to host phishing redirect pages
+- AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes
+- Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw
+- U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hackers abuse npm mirrors to host phishing redirect pages. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by LACMA data breach last year exposed social security and medical data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

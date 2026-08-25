@@ -1,0 +1,102 @@
+[
+  {
+    "title": "LACMA data breach last year exposed social security and medical data",
+    "published_wib": "2026-08-26T04:58:14+07:00",
+    "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/"
+    ]
+  },
+  {
+    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+    "published_wib": "2026-08-26T03:25:26+07:00",
+    "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/"
+    ]
+  },
+  {
+    "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+    "published_wib": "2026-08-26T01:17:17+07:00",
+    "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline th\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
+    ]
+  },
+  {
+    "title": "Is Cyber Facing an Affordability Crisis?",
+    "published_wib": "2026-08-25T21:53:13+07:00",
+    "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-"
+    ]
+  },
+  {
+    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+    "published_wib": "2026-08-25T21:44:16+07:00",
+    "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/"
+    ]
+  },
+  {
+    "title": "Fideo Lens reveals connections across identities, accounts and devices",
+    "published_wib": "2026-08-25T20:13:06+07:00",
+    "summary": "Fideo Intelligence introduced Fideo Lens, an investigative intelligence platform that helps fraud and financial crime teams discover hidden relationships among identities, accounts, devices and behaviors. Starting with a single identity signal, investigators can use Fideo Lens to visualize and connect data associated with the identity and transform fragment\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/"
+    ]
+  },
+  {
+    "title": "Alabama attorney general subpoenas OpenAI over AI breach",
+    "published_wib": "2026-08-25T20:12:24+07:00",
+    "summary": "The investigation by Alabama's Attorney General's office aims to determine if OpenAI's handling of the incident, which involved a powerful AI model accessing the internet and breaching Hugging Face, violates state consumer protection laws.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/alabama-attorney-general-subpoenas-openai-over-ai-data-breach"
+    ]
+  },
+  {
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+    "published_wib": "2026-08-25T17:53:20+07:00",
+    "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/"
+    ]
+  },
+  {
+    "title": "GTA 6 leak hunt could expose data belonging to thousands of Discord users",
+    "published_wib": "2026-08-25T17:01:08+07:00",
+    "summary": "Take-Two is demanding IP addresses, phone numbers, device IDs, and other data as it tries to identify whoever leaked GTA 6 footage.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/privacy/2026/08/gta-6-leak-hunt-could-expose-data-belonging-to-thousands-of-discord-users"
+    ]
+  },
+  {
+    "title": "[+24h Old] ShinyHunters taunts ReliaQuest after its own employee falls for social engineering attack",
+    "published_wib": "2026-08-25T16:24:16+07:00",
+    "summary": "Cybersecurity company ReliaQuest has confirmed that one of its own employees fell for a social engineering attack, handing attackers a password and a brief window into the company\u2019s identity system. The admission came after the extortion group ShinyHunters posted screenshots on its leak site, claiming a bigger win. The incident was preceded by an unusual ex\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/25/reliaquest-breach-social-engineering/"
+    ]
+  }
+]
