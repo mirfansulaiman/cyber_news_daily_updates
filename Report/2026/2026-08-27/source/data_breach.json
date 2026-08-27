@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Carhartt data breach claims inflated by synthetic data, analysis finds",
+    "published_wib": "2026-08-27T05:44:59+07:00",
+    "summary": "ShinyHunters had claimed to leak 50GB of Carhartt's data on August 13, following a negotiation attempt after an initial extortion demand of $3.3 million.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/carhartt-data-breach-claims-inflated-by-synthetic-data-analysis-finds"
+    ]
+  },
+  {
+    "title": "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed",
+    "published_wib": "2026-08-26T22:13:00+07:00",
+    "summary": "One AI and two trained eyes delved into the heavily padded leaks",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/26/carhartt-data-breach-affects-129m-half-of-what-shinyhunters-claimed/5292626"
+    ]
+  },
+  {
+    "title": "Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects",
+    "published_wib": "2026-08-26T20:30:00+07:00",
+    "summary": "Interpol operation leads to 58 arrests and identifies 263 suspects across 22 countries",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/"
+    ]
+  },
+  {
+    "title": "Bogus recruiters go after high-value corporate credentials on mobile",
+    "published_wib": "2026-08-26T17:05:55+07:00",
+    "summary": "Scammers posing as HR staff at well-known companies are running interview scheduling scams that end with a stolen corporate password, according to Zimperium. Attackers are using a technique called browser-in-the-browser, or BitB, which CTM360 documented in earlier research on recruitment phishing. They scrape public profile data and use it to craft convinci\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/26/recruitment-scam-corporate-passwords-mobile/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Beware of fake Indeed interview apps used to install spyware",
+    "published_wib": "2026-08-26T15:00:00+07:00",
+    "summary": "Scammers are posing as employers on Indeed to trick job seekers into installing fake Android interview apps that deliver malware.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware"
+    ]
+  },
+  {
+    "title": "[+24h Old] INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+    "published_wib": "2026-08-26T14:54:12+07:00",
+    "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks \u2013 such as the Black Axe and other similar groups\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Sensitive Information Exposed in Nutex Health Data Breach",
+    "published_wib": "2026-08-26T14:41:50+07:00",
+    "summary": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+    "published_wib": "2026-08-26T12:47:28+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is cr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] LACMA data breach last year exposed social security and medical data",
+    "published_wib": "2026-08-26T04:58:14+07:00",
+    "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+    "published_wib": "2026-08-26T03:25:26+07:00",
+    "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/"
+    ]
+  }
+]

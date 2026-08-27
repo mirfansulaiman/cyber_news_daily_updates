@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ubiquiti patches 3 critical remote code execution vulnerabilities",
+    "published_wib": "2026-08-27T05:31:49+07:00",
+    "summary": "The vulnerabilities include improper input validation in the UniFi Protect Application (CVE-2026-77537), a CRLF injection flaw in UniFi OS devices (CVE-2026-77550), and a command injection flaw in the UniFi Talk Application (CVE-2026-77554).",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ubiquiti-patches-three-critical-remote-code-execution-vulnerabilities"
+    ]
+  },
+  {
+    "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+    "published_wib": "2026-08-27T04:33:20+07:00",
+    "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/"
+    ]
+  },
+  {
+    "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+    "published_wib": "2026-08-27T01:48:24+07:00",
+    "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/"
+    ]
+  },
+  {
+    "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
+    "published_wib": "2026-08-27T00:39:19+07:00",
+    "summary": "A single alert from one security service tells you something happened. Read that signal alongside activity from other services and your own business context, and you will know whether what happened is part of a multi-stage attack. Consider a short sequence. An identity calls GetCallerIdentity from a source address it hasn\u2019t previously used. Within minutes,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/"
+    ]
+  },
+  {
+    "title": "FD - Half-click unauthenticated remote code execution on Horde Groupware IMP (from a stored XSS)",
+    "published_wib": "2026-08-26T23:46:52+07:00",
+    "summary": "Posted by Evan Tang on Aug 26 https://blog.evan.lat/posts/CVE-2026-65053/ the blog talks about two vulns that are chainable together. for the sake of brevity ill write up on the stored xss one. in lib/Mime/Status.php, we see a pretty viable xss sink: $out .= ' ' . $val\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/115"
+    ]
+  },
+  {
+    "title": "[NotCVE-2026-0013] CHIRP Kenwood ITM Driver Eval Injection Allows Arbitrary Code Execution via Crafted Radio File",
+    "published_wib": "2026-08-26T23:46:38+07:00",
+    "summary": "Posted by advisories on Aug 26 ---------------------------------------------------------------------------- NotCVE Advisory \u2014 NotCVE-2026-0013 ---------------------------------------------------------------------------- [-] Summary: Eval injection in the Kenwood ITM file format driver of CHIRP, an open-source application for programming amateur radios, allo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/114"
+    ]
+  },
+  {
+    "title": "[NotCVE-2026-0012] EmpManageX Hardcoded Administrative Credentials in Login API Allow Full Access to Employee Records",
+    "published_wib": "2026-08-26T23:46:36+07:00",
+    "summary": "Posted by advisories on Aug 26 ---------------------------------------------------------------------------- NotCVE Advisory \u2014 NotCVE-2026-0012 ---------------------------------------------------------------------------- [-] Summary: kamalpanse18 EmpManageX, a Flask-based employee management application, ships hard-coded administrative credentials in its aut\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/113"
+    ]
+  },
+  {
+    "title": "[NotCVE-2026-0011] Nmap 7.99 and Earlier nselib/packet.lua Zero-Length TCP Option Infinite Loop Allows Remote Denial of Service",
+    "published_wib": "2026-08-26T23:46:35+07:00",
+    "summary": "Posted by advisories on Aug 26 ---------------------------------------------------------------------------- NotCVE Advisory \u2014 NotCVE-2026-0011 ---------------------------------------------------------------------------- [-] Summary: Nmap 7.99 and earlier contain a loop with an unreachable exit condition in the Packet:parse_options() method of nselib/packet.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/112"
+    ]
+  },
+  {
+    "title": "[NotCVE-2026-0010] Barrier 2.4.0 for Windows Unauthenticated IPC Command Execution Allows Local Privilege Escalation to SYSTEM",
+    "published_wib": "2026-08-26T23:46:34+07:00",
+    "summary": "Posted by advisories on Aug 26 ---------------------------------------------------------------------------- NotCVE Advisory \u2014 NotCVE-2026-0010 ---------------------------------------------------------------------------- [-] Summary: Barrier 2.4.0 for Windows contains a local privilege escalation vulnerability in the IPC command interface exposed by the barr\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/111"
+    ]
+  },
+  {
+    "title": "[NotCVE-2026-0009] NitroShare Desktop 0.3.4 Path Traversal Allows LAN-Adjacent Arbitrary File Write",
+    "published_wib": "2026-08-26T23:46:33+07:00",
+    "summary": "Posted by advisories on Aug 26 ---------------------------------------------------------------------------- NotCVE Advisory \u2014 NotCVE-2026-0009 ---------------------------------------------------------------------------- [-] Summary: NitroShare Desktop 0.3.4 contains a path traversal vulnerability in its LAN file transfer receive path. The transfer service i\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/110"
+    ]
+  }
+]

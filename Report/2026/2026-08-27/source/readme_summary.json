@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Ubiquiti patches 3 critical remote code execution vulnerabilities and Critical Avada WordPress theme flaw enables zero-click RCE. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Carhartt data breach claims inflated by synthetic data, analysis finds. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-08-27",
+  "vol": "004"
+}

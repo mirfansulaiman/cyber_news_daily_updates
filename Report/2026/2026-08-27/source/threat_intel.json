@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+    "published_wib": "2026-08-27T09:00:03+07:00",
+    "summary": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33286"
+    ]
+  },
+  {
+    "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+    "published_wib": "2026-08-27T07:06:03+07:00",
+    "summary": "Beijing's botnets busted.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+    ]
+  },
+  {
+    "title": "Nimbus Manticore expands infrastructure and malware arsenal",
+    "published_wib": "2026-08-27T05:51:09+07:00",
+    "summary": "Nimbus Manticore, associated with the Tortoiseshell (Imperial Kitten) cluster, has been observed using an SSH-based tunneling utility and a C++ backdoor similar to its existing TWOSTROKE implant.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/nimbus-manticore-expands-infrastructure-and-malware-arsenal"
+    ]
+  },
+  {
+    "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+    "published_wib": "2026-08-27T04:33:06+07:00",
+    "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal"
+    ]
+  },
+  {
+    "title": "Android Malware Hijacks Update System for Car Head Units",
+    "published_wib": "2026-08-27T00:33:45+07:00",
+    "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units"
+    ]
+  },
+  {
+    "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+    "published_wib": "2026-08-26T22:35:05+07:00",
+    "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html"
+    ]
+  },
+  {
+    "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
+    "published_wib": "2026-08-26T22:23:45+07:00",
+    "summary": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/"
+    ]
+  },
+  {
+    "title": "Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel",
+    "published_wib": "2026-08-26T21:30:00+07:00",
+    "summary": "Group-IB uncovered new Tortoiseshell infrastructure, including a backdoor and SSH tunneling tool",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/"
+    ]
+  },
+  {
+    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    "published_wib": "2026-08-26T20:44:31+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscript\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html"
+    ]
+  },
+  {
+    "title": "AnonyMousKIT phishing-as-a-service uses AI voice calls to steal iPhone passcodes",
+    "published_wib": "2026-08-26T19:46:44+07:00",
+    "summary": "A phishing-as-a-service (PhaaS) platform called AnonyMousKIT is automating the theft of Apple ID credentials needed to remove Activation Lock from stolen iPhones, SOCRadar found. \u201cBy leveraging a critical flaw \u2013 the use of bare relative paths \u2013 the investigation unraveled a reseller supply chain of 506 domains and 168 storefront brands active since early 20\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/26/anonymouskit-phishing-stolen-iphone/"
+    ]
+  }
+]
