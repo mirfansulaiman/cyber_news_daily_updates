@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Print management outfit PaperCut is under 0-day attack, and it\u2019s drawing customers\u2019 blood",
+    "published_wib": "2026-08-28T12:29:53+07:00",
+    "summary": "The fix is either an unvalidated and unofficial emergency patch or taking the server offline",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
+    ]
+  },
+  {
+    "title": "New infosec products of the month: August 2026",
+    "published_wib": "2026-08-28T11:00:52+07:00",
+    "summary": "Here\u2019s a look at the most interesting products from the past week, featuring releases from A10 Networks, Abnormal AI, F5 Networks, Intezer, Netscout, ScienceLogic, Searchlight Cyber, SelectHub, ServiceNow, Snyk, Tanium, and Tufin. ServiceNow organizes autonomous security around six solution areas ServiceNow has announced an acceleration of its Autonomous Se\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/28/new-infosec-products-of-the-month-august-2026/"
+    ]
+  },
+  {
+    "title": "From browser control to agent control: Governing the new AI workforce",
+    "published_wib": "2026-08-28T04:47:54+07:00",
+    "summary": "Oversight of AI agents requires a new approach that looks at the modern endpoint from the inside out.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/from-browser-control-to-agent-control-governing-the-new-ai-workforce"
+    ]
+  },
+  {
+    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+    "published_wib": "2026-08-28T01:36:19+07:00",
+    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by wh\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+    ]
+  },
+  {
+    "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
+    "published_wib": "2026-08-28T00:25:09+07:00",
+    "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026"
+    ]
+  },
+  {
+    "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+    "published_wib": "2026-08-27T23:31:53+07:00",
+    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+    "published_wib": "2026-08-27T22:13:00+07:00",
+    "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a Windows filesystem. The Windows path traversal\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"
+    ]
+  },
+  {
+    "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+    "published_wib": "2026-08-27T22:12:16+07:00",
+    "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing their real behavior, exposed systems getting scanned, and explo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html"
+    ]
+  },
+  {
+    "title": "How to Evaluate Endpoint Exposure, Hardening, and Patch Management Platforms",
+    "published_wib": "2026-08-27T21:40:11+07:00",
+    "summary": "How to Evaluate Endpoint Exposure, Hardening, and Patch Management Platforms",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/buyers-guide/how-to-evaluate-endpoint-exposure-hardening-and-patch-management-platforms"
+    ]
+  },
+  {
+    "title": "How to build an exposure management program the business trusts: Lessons from Tenable\u2019s CSO",
+    "published_wib": "2026-08-27T21:30:00+07:00",
+    "summary": "Discover how Tenable\u2019s shift to an AI-driven exposure management program helped Tenable\u2019s CSO, Robert Huber, overcome tool sprawl, unify data silos, mitigate the risk of rapid AI adoption, and shift from presenting granular, technical metrics to communicating business risk that the C-suite and the board can understand. Key takeaways Security tool sprawl and\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/how-to-build-an-exposure-management-program-the-business-trusts-lessons-from-tenables-cso"
+    ]
+  }
+]

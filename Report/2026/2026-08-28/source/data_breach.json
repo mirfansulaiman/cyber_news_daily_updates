@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Manchester Airports Group says hackers stole travelers' data",
+    "published_wib": "2026-08-27T23:12:26+07:00",
+    "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/"
+    ]
+  },
+  {
+    "title": "ATF responds to 'major' cybersecurity incident after ransomware gang's claims",
+    "published_wib": "2026-08-27T22:25:52+07:00",
+    "summary": "US Justice Department investigating the breach",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/atf-responds-to-major-cybersecurity-incident-after-ransomware-gangs-claims/5292990"
+    ]
+  },
+  {
+    "title": "Fake listings can turn trusted platforms into scam springboards",
+    "published_wib": "2026-08-27T21:36:03+07:00",
+    "summary": "A trusted name on a trusted platform does not guarantee a trustworthy listing. It could still lead to a tech support scammer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/fake-listings-can-turn-trusted-platforms-into-scam-springboards"
+    ]
+  },
+  {
+    "title": "Two alleged TeamPCP hackers arrested over global supply chain attacks",
+    "published_wib": "2026-08-27T20:59:02+07:00",
+    "summary": "Two men from Western Australia have been charged after police allege they were part of TeamPCP, a cybercrime group that planted malicious code in open-source software, then used it to break into organizations around the world. The Australian Federal Police (AFP), working with the FBI and Western Australia Police Force (WAPF), arrested a 21-year-old from Cot\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/27/alleged-teampcp-hackers-arrested-australia/"
+    ]
+  },
+  {
+    "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+    "published_wib": "2026-08-27T20:31:13+07:00",
+    "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/"
+    ]
+  },
+  {
+    "title": "Why Ransomware Economics Favor Volume Over Prestige Attacks",
+    "published_wib": "2026-08-27T20:24:33+07:00",
+    "summary": "Why Ransomware Economics Favor Volume Over Prestige Attacks",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/feature/why-ransomware-economics-favor-volume-over-prestige-attacks"
+    ]
+  },
+  {
+    "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
+    "published_wib": "2026-08-27T19:48:03+07:00",
+    "summary": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/"
+    ]
+  },
+  {
+    "title": "Fake Apple Pay charge brings the classic tech support scam to your phone",
+    "published_wib": "2026-08-27T19:17:21+07:00",
+    "summary": "Built for mobile users, this tech support scam uses a fake Apple Pay alert and browser tricks to pressure victims into calling a scam number.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/08/fake-apple-pay-charge-brings-the-classic-tech-support-scam-to-your-phone"
+    ]
+  },
+  {
+    "title": "Carhartt data breach exposes information of 12.9 million accounts",
+    "published_wib": "2026-08-27T18:10:04+07:00",
+    "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/"
+    ]
+  },
+  {
+    "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+    "published_wib": "2026-08-27T18:04:15+07:00",
+    "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
+    ]
+  }
+]

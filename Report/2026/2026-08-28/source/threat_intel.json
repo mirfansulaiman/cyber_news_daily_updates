@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Australian cops cuff alleged TeamPCP masterminds",
+    "published_wib": "2026-08-28T10:33:54+07:00",
+    "summary": "Alleged crew behind the Shai-Hulud worm and other supply chain attacks nabbed with help from the FBI",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+    "published_wib": "2026-08-28T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33294"
+    ]
+  },
+  {
+    "title": "Chinese Routers Sold Worldwide Contain Backdoors",
+    "published_wib": "2026-08-28T02:31:45+07:00",
+    "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors"
+    ]
+  },
+  {
+    "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
+    "published_wib": "2026-08-27T21:17:26+07:00",
+    "summary": "The White House\u2019s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/"
+    ]
+  },
+  {
+    "title": "OpenAI disrupts Russian-linked AI influence campaign targeting Western audiences",
+    "published_wib": "2026-08-27T20:31:00+07:00",
+    "summary": "The operation leveraged ChatGPT accounts to amplify the work of a think tank called the International Burke Institute (IBI).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/openai-disrupts-russian-linked-ai-influence-campaign-targeting-western-audiences"
+    ]
+  },
+  {
+    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    "published_wib": "2026-08-27T18:00:57+07:00",
+    "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health materials, real estate-related content,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
+    "published_wib": "2026-08-27T16:57:28+07:00",
+    "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33290"
+    ]
+  },
+  {
+    "title": "[+24h Old] GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    "published_wib": "2026-08-27T16:33:38+07:00",
+    "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data the\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI takes down China-linked hacking network behind attacks on NASA, DOJ and U.S. Senate",
+    "published_wib": "2026-08-27T14:19:34+07:00",
+    "summary": "The Justice Department and FBI have seized domains tied to two hacking tools built and run by a Chinese state-sponsored group, cutting off access to malware that had been used against U.S. government agencies for years. The tools, known as QScan and QTRouter, were developed by a group called QTFY, which court documents tie to a Nanjing-based company. Accord\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/27/fbi-disrupts-china-linked-hacking-network/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+    "published_wib": "2026-08-27T09:00:03+07:00",
+    "summary": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33286"
+    ]
+  }
+]
