@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ServiceNow patches three maximum severity flaws that could put enterprise data at risk
+- McKesson discloses breach after ShinyHunters claims patient data theft
+- Aurora ransomware actors leverage AI tool for exploitation campaigns
+- Former DIA IT specialist pleads guilty to attempting to leak classified information
+- Critical vulnerability in GiveWP plugin allows remote code execution
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by SVG attachments used in widespread phishing campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by ServiceNow patches three maximum severity flaws that could put enterprise data at risk. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by McKesson discloses breach after ShinyHunters claims patient data theft. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

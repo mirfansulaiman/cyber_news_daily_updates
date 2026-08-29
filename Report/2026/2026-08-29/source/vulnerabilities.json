@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ServiceNow patches three maximum severity flaws that could put enterprise data at risk",
+    "published_wib": "2026-08-29T05:59:31+07:00",
+    "summary": "Code injection and SQL injection attacks have been around for decades, and they are still tried-and-true ways for attackers to compromise systems. ServiceNow\u2019s latest trio of maximum severity flaws shows that even AI-era platforms remain vulnerable to these techniques: The software provider has released patches for three bugs in its ServiceNow AI Platform t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4215430/servicenow-patches-three-maximum-severity-flaws-that-could-put-enterprise-data-at-risk.html"
+    ]
+  },
+  {
+    "title": "Aurora ransomware actors leverage AI tool for exploitation campaigns",
+    "published_wib": "2026-08-29T04:47:52+07:00",
+    "summary": "The Aurora ransomware group utilized Cursor Agent for post-compromise activities, providing it with credentials or existing access to victim networks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/aurora-ransomware-actors-leverage-ai-tool-for-exploitation-campaigns"
+    ]
+  },
+  {
+    "title": "Critical vulnerability in GiveWP plugin allows remote code execution",
+    "published_wib": "2026-08-29T04:37:46+07:00",
+    "summary": "The vulnerability, present in GiveWP versions up to 4.16.7.1, is exploitable by chaining three issues: an unsafe PHP data unserialization helper, a donation processing flow that stores attacker-controlled serialized objects, and a gadget chain within bundled libraries that enables arbitrary system command execution.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-vulnerability-in-givewp-plugin-allows-remote-code-execution"
+    ]
+  },
+  {
+    "title": "CISA adds ownCloud, Linux Kernel, and JFrog Artifactory flaws to exploited vulnerabilities list",
+    "published_wib": "2026-08-29T04:35:17+07:00",
+    "summary": "The newly cataloged vulnerabilities include CVE-2023-49105, an improper authentication flaw in ownCloud Server affecting versions 10.6.0 through 10.13.0, which allows unauthenticated attackers to access or modify user files.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-owncloud-linux-kernel-and-jfrog-artifactory-flaws-to-exploited-vulnerabilities-list"
+    ]
+  },
+  {
+    "title": "Two root remote code execution flaws found in Unitree G1 EDU robot",
+    "published_wib": "2026-08-29T04:31:39+07:00",
+    "summary": "The vulnerabilities, tracked as CVE-2026-76639 and CVE-2026-76640, present distinct attack vectors. CVE-2026-76639 involves a network-adjacent path through chat_go and bashrunner, leading to root code execution.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/two-root-remote-code-execution-flaws-found-in-unitree-g1-edu-robot"
+    ]
+  },
+  {
+    "title": "CISA urges software vendors to adopt secure by design practices",
+    "published_wib": "2026-08-29T04:30:10+07:00",
+    "summary": "CISA's review of vulnerabilities from 2024 and 2025 reveals that the most frequently exploited flaws, often found in the Known Exploited Vulnerability (KEV) catalog, are rooted in long-standing weaknesses.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-urges-software-vendors-to-adopt-secure-by-design-practices"
+    ]
+  },
+  {
+    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+    "published_wib": "2026-08-29T03:38:47+07:00",
+    "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affec\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+    ]
+  },
+  {
+    "title": "PaperCut releases second emergency patch for exploited flaws",
+    "published_wib": "2026-08-29T02:08:26+07:00",
+    "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
+    ]
+  },
+  {
+    "title": "GPUThor hardware attack can root Nvidia GPU systems",
+    "published_wib": "2026-08-29T01:46:28+07:00",
+    "summary": "Hardware security researchers from University of Toronto have developed a new memory bit flipping technique that significantly improves on previously known attacks against GPU memory. The new method can defeat the error-correcting codes (ECC) defense used on enterprise Nvidia GPUs and can lead to root access on the underlying system. Dubbed GPUThor, the tec\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4215392/gputhor-hardware-attack-can-root-nvidia-gpu-systems.html"
+    ]
+  },
+  {
+    "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+    "published_wib": "2026-08-29T01:18:55+07:00",
+    "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/"
+    ]
+  }
+]
