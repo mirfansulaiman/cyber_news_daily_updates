@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
+- Hasbro Data Breach Exposed Employee Personal Information
+- [+24h Old] TerminalFix campaign deploys a reverse tunnel through multistage intrusion
+- [+24h Old] ServiceNow patches three maximum severity flaws that could put enterprise data at risk
+- [+24h Old] McKesson discloses breach after ShinyHunters claims patient data theft
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by TerminalFix campaign deploys a reverse tunnel through multistage intrusion. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hasbro Data Breach Exposed Employee Personal Information. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
