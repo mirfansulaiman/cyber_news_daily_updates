@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited",
+    "published_wib": "2026-08-30T15:00:48+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Unpatched Zimbra servers are falling to CVE-2026-73570 attacks At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2026-73570, the Shadowserver Foundation shared on Monday. AI supply chain risk is showing up in devel\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/"
+    ]
+  },
+  {
+    "title": "[+24h Old] CyberDanube Security Research 20260611-0 | Multiple Denial of Service Vulnerabilities in Dahua IPC/SD/NVR/XVR/EVS/VTO/VTH/ASI/TPC Camera Series",
+    "published_wib": "2026-08-30T13:19:12+07:00",
+    "summary": "Posted by Thomas Weber | CyberDanube via Fulldisclosure on Aug 29 CyberDanube Security Research 20260611-0 ------------------------------------------------------------------------------- title| Multiple Denial of Service product| Dahua DH-IPC-HFW Series vulnerable version| fixed version| Versions build including and after 2026-03-26. CVE number| CVE-2026-29\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/120"
+    ]
+  },
+  {
+    "title": "[+24h Old] Multiple Integer Overflows in U-Boot Filesystem Parsing (CVE-2025-70290 through CVE-2025-70293)",
+    "published_wib": "2026-08-30T13:19:03+07:00",
+    "summary": "Posted by t.preissl via Fulldisclosure on Aug 29 -----BEGIN SECURITY ADVISORY----- Title: Multiple Integer Overflows in U-Boot Filesystem Handling Author: Timo Prei\u00dfl Date: 2026-02-11 CVEs: CVE-2025-70290, CVE-2025-70291, CVE-2025-70292, CVE-2025-70293 Affected: Denx U-Boot Fixed in: v2026.04-rc1 (commit adccdb2) == Overview == Multiple integer overflow vul\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/119"
+    ]
+  },
+  {
+    "title": "[+24h Old] JSON Deserialiser Unconstrained Resource Consumption Proof of Concept",
+    "published_wib": "2026-08-30T13:17:58+07:00",
+    "summary": "Posted by Daniel Owens via Fulldisclosure on Aug 29 On 26 October 2025 we published \"Struts2 and Related Framework Array/Collection DoS\", which was followed up on 07 March 2026 by \"JSON Deserialiser Unconstrained Resource Consumption Quick Overview\". Today we are publishing a proof of concept that we have been using for more than 15 years against Struts2, N\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/117"
+    ]
+  },
+  {
+    "title": "[+24h Old] Dovecot Security Advisory 3/2026",
+    "published_wib": "2026-08-30T13:16:26+07:00",
+    "summary": "Posted by Aki Tuomi on Aug 29 Hi! We're sharing our latest advisory with you and like to thank everyone who contributed in finding and solving those vulnerabilities. This advisory will also be published at https://documentation.open-xchange.com/dovecot/security/advisories/html/2026/oxdc-adv-2026-0003.html --- Classification: TLP:GREEN Internal reference: DO\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Aug/116"
+    ]
+  },
+  {
+    "title": "[+24h Old] Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "published_wib": "2026-08-29T23:25:03+07:00",
+    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8)\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] ServiceNow patches three maximum severity flaws that could put enterprise data at risk",
+    "published_wib": "2026-08-29T05:59:31+07:00",
+    "summary": "Code injection and SQL injection attacks have been around for decades, and they are still tried-and-true ways for attackers to compromise systems. ServiceNow\u2019s latest trio of maximum severity flaws shows that even AI-era platforms remain vulnerable to these techniques: The software provider has released patches for three bugs in its ServiceNow AI Platform t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4215430/servicenow-patches-three-maximum-severity-flaws-that-could-put-enterprise-data-at-risk.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Aurora ransomware actors leverage AI tool for exploitation campaigns",
+    "published_wib": "2026-08-29T04:47:52+07:00",
+    "summary": "The Aurora ransomware group utilized Cursor Agent for post-compromise activities, providing it with credentials or existing access to victim networks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/aurora-ransomware-actors-leverage-ai-tool-for-exploitation-campaigns"
+    ]
+  },
+  {
+    "title": "[+48h Old] Critical vulnerability in GiveWP plugin allows remote code execution",
+    "published_wib": "2026-08-29T04:37:46+07:00",
+    "summary": "The vulnerability, present in GiveWP versions up to 4.16.7.1, is exploitable by chaining three issues: an unsafe PHP data unserialization helper, a donation processing flow that stores attacker-controlled serialized objects, and a gadget chain within bundled libraries that enables arbitrary system command execution.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-vulnerability-in-givewp-plugin-allows-remote-code-execution"
+    ]
+  },
+  {
+    "title": "[+48h Old] CISA adds ownCloud, Linux Kernel, and JFrog Artifactory flaws to exploited vulnerabilities list",
+    "published_wib": "2026-08-29T04:35:17+07:00",
+    "summary": "The newly cataloged vulnerabilities include CVE-2023-49105, an improper authentication flaw in ownCloud Server affecting versions 10.6.0 through 10.13.0, which allows unauthenticated attackers to access or modify user files.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-owncloud-linux-kernel-and-jfrog-artifactory-flaws-to-exploited-vulnerabilities-list"
+    ]
+  }
+]

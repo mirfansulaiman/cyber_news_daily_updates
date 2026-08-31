@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Hasbro Data Breach Exposed Employee Personal Information",
+    "published_wib": "2026-08-29T18:55:00+07:00",
+    "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/"
+    ]
+  },
+  {
+    "title": "[+48h Old] McKesson discloses breach after ShinyHunters claims patient data theft",
+    "published_wib": "2026-08-29T05:40:17+07:00",
+    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Former DIA IT specialist pleads guilty to attempting to leak classified information",
+    "published_wib": "2026-08-29T04:40:55+07:00",
+    "summary": "A former Defense Intelligence Agency IT specialist has pleaded guilty to attempting to pass secret and top-secret information to foreign spies following a successful FBI sting operation.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/former-dia-it-specialist-pleads-guilty-to-attempting-to-leak-classified-information"
+    ]
+  },
+  {
+    "title": "[+48h Old] Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "published_wib": "2026-08-29T04:30:52+07:00",
+    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transpo\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 35",
+    "published_wib": "2026-08-28T23:01:30+07:00",
+    "summary": "Authorities disrupt global cybercrime rings, attackers abuse DocuSign in NovaCookies phishing, and Spark RAT targets Cambodia with vulnerable drivers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-8/"
+    ]
+  },
+  {
+    "title": "[+48h Old] In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
+    "published_wib": "2026-08-28T22:35:34+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang\u2019s claims. The post In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/"
+    ]
+  },
+  {
+    "title": "[+48h Old] US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
+    "published_wib": "2026-08-28T22:00:00+07:00",
+    "summary": "The IT specialist began contacting a foreign government within days of being assigned to the DIA\u2019s Insider Threat Division",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248"
+    ]
+  },
+  {
+    "title": "[+48h Old] ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
+    "published_wib": "2026-08-28T20:59:14+07:00",
+    "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a \u2018major incident\u2019 and it\u2019s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Toy-making giant Hasbro disclose data breach affecting employees",
+    "published_wib": "2026-08-28T18:46:57+07:00",
+    "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/"
+    ]
+  },
+  {
+    "title": "[+48h Old] The first 24 hours of an AI agent security incident",
+    "published_wib": "2026-08-28T17:00:00+07:00",
+    "summary": "Most of what I read on AI agent security follows the same shape: a taxonomy of risks, a list of governance principles and a call to \u201cadopt responsible AI practices.\u201d That\u2019s useful for a board deck. It\u2019s nearly useless at 2 a.m. when an autonomous agent with live credentials has just done something nobody authorized, and someone is asking me what happens nex\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4214961/the-first-24-hours-of-an-ai-agent-security-incident.html"
+    ]
+  }
+]

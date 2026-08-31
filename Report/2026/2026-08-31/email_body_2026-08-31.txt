@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Anthropic warns infostealer malware is hijacking Claude sessions to drain usage
+- Chrome Web Store extensions caught stealing crypto, browser data
+- [+24h Old] Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited
+- [+24h Old] TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
+- [+24h Old] CyberDanube Security Research 20260611-0 | Multiple Denial of Service Vulnerabilities in Dahua IPC/SD/NVR/XVR/EVS/VTO/VTH/ASI/TPC Camera Series
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hasbro Data Breach Exposed Employee Personal Information. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

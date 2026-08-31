@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited and CyberDanube Security Research 20260611-0 | Multiple Denial of Service Vulnerabilities in Dahua IPC/SD/NVR/XVR/EVS/VTO/VTH/ASI/TPC Camera Series. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Hasbro Data Breach Exposed Employee Personal Information. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-08-31",
+  "vol": "004"
+}
