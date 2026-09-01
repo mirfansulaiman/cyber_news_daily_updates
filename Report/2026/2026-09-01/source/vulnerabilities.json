@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+    "published_wib": "2026-09-01T03:47:54+07:00",
+    "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/"
+    ]
+  },
+  {
+    "title": "Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off",
+    "published_wib": "2026-09-01T03:19:16+07:00",
+    "summary": "Microsoft on Friday reported that a glitch is causing Windows to tell users that Microsoft Defender Antivirus is turned off when it is in fact fully functional, a bug that the vendor says it is working to fix. Consultants say that this advisory raises a major concern in that it will train users to ignore critical alerts, which makes them far more susceptibl\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4216607/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off-2.html"
+    ]
+  },
+  {
+    "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+    "published_wib": "2026-09-01T00:18:31+07:00",
+    "summary": "AWS IAM Identity Center integrates with external identity provider (IdP) to provide customers with a centralized authentication and authorization solution for AWS resources across AWS Organizations. AWS continues to invest into IAM Identity Center with a growing number of AWS services that natively integrate with IAM Identity Center. As your AWS organizatio\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting/"
+    ]
+  },
+  {
+    "title": "Threat actors are posing as AI crawlers to hunt for exposed credentials",
+    "published_wib": "2026-08-31T21:39:22+07:00",
+    "summary": "Attackers are disguising automated scanning as traffic from AI crawlers operated by OpenAI, Anthropic, Google, Perplexity and other companies while searching websites for exposed credentials and configuration files, according to GreyNoise. (Source: GreyNoise) \u201cEvery program that visits a website announces itself in one line of the request. Chrome says it is\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/"
+    ]
+  },
+  {
+    "title": "Attackers plant remote access tools on compromised PaperCut servers",
+    "published_wib": "2026-08-31T21:38:33+07:00",
+    "summary": "The threat actor targeting internet-facing PaperCut Application Servers is covertly installing legitimate remote access software on them, PaperCut Software shared in the most recent update on the ongoing attack campaign. PaperCut zero-days exploited to deploy remote access tools The vendor first warned of in-the-wild compromises on August 27, 2026, when it\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/"
+    ]
+  },
+  {
+    "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit",
+    "published_wib": "2026-08-31T21:32:34+07:00",
+    "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/"
+    ]
+  },
+  {
+    "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
+    "published_wib": "2026-08-31T20:59:19+07:00",
+    "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Risk Advisory: Cloud Logging Is Not the Same as Incident Readiness",
+    "published_wib": "2026-08-31T20:02:40+07:00",
+    "summary": "Risk Advisory: Cloud Logging Is Not the Same as Incident Readiness",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/risk-advisory/risk-advisory-cloud-logs-are-not-incident-readiness"
+    ]
+  },
+  {
+    "title": "Critical Ruby on Rails Vulnerability in Attackers\u2019 Crosshairs",
+    "published_wib": "2026-08-31T18:24:17+07:00",
+    "summary": "Named KindaRails2Shell, the arbitrary file read flaw allows attackers to extract secrets and execute arbitrary code remotely. The post Critical Ruby on Rails Vulnerability in Attackers\u2019 Crosshairs appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/"
+    ]
+  },
+  {
+    "title": "OpenAI-led coalition warns AI will compress cyberattack timelines, expose enterprise weaknesses",
+    "published_wib": "2026-08-31T18:22:28+07:00",
+    "summary": "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before they are exploited. \u201cIn the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasin\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4215838/openai-led-coalition-warns-ai-will-compress-cyberattack-timelines-expose-enterprise-weaknesses.html"
+    ]
+  }
+]

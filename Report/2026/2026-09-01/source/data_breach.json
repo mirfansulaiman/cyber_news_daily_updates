@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
+    "published_wib": "2026-09-01T05:10:38+07:00",
+    "summary": "McKesson admits breach as ShinyHunters demands $55.2M",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537"
+    ]
+  },
+  {
+    "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+    "published_wib": "2026-09-01T00:24:28+07:00",
+    "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing insider threat is part of what has been des\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html"
+    ]
+  },
+  {
+    "title": "McKesson confirms cyber incident after ShinyHunters claims patient-data theft",
+    "published_wib": "2026-08-31T21:46:50+07:00",
+    "summary": "Healthcare company McKesson acknowledged a data breach. ShinyHunters claims to have stolen hundred of millions of records",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/08/mckesson-confirms-cyber-incident-after-shinyhunters-claims-patient-data-theft"
+    ]
+  },
+  {
+    "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+    "published_wib": "2026-08-31T20:30:01+07:00",
+    "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/"
+    ]
+  },
+  {
+    "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
+    "published_wib": "2026-08-31T20:14:46+07:00",
+    "summary": "The ShinyHunters extortion group has claimed the theft of 284 million records from the company\u2019s systems. The post McKesson Confirms Data Breach as Attacker Deadline Looms appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/"
+    ]
+  },
+  {
+    "title": "31th August \u2013 Threat Intelligence Report",
+    "published_wib": "2026-08-31T19:58:42+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 31st August, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Manchester Airports Group, the UK operator of Manchester, London Stansted, and East Midlands airports, has disclosed a cyberattack that exposed data belonging to about 8.7 million customers. The compromised inf\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+    "published_wib": "2026-08-31T18:47:24+07:00",
+    "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime gr\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html"
+    ]
+  },
+  {
+    "title": "Extortion Group Claims Manchester Airports Group Data Breach",
+    "published_wib": "2026-08-31T17:29:10+07:00",
+    "summary": "FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online. The post Extortion Group Claims Manchester Airports Group Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Nigerians extradited to US for sextortion, deaths of two teens",
+    "published_wib": "2026-08-31T16:22:47+07:00",
+    "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Life as a CISO in Hollywood: Keeping New Films Leak-Free & 4 Black Hat Interviews - Dan Meacham, John Hultquist, Ronan Murphy, Ellen Boehm, Frank Vukovits - ESW #474",
+    "published_wib": "2026-08-31T16:00:00+07:00",
+    "summary": "Life as a CISO in Hollywood: Keeping New Films Leak-Free & 4 Black Hat Interviews - Dan Meacham, John Hultquist, Ronan Murphy, Ellen Boehm, Frank Vukovits - ESW #474",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/14938-life-as-a-ciso-in-hollywood-keeping-new-films-leak-free-4-black-hat-interviews-dan-meacham-john-hultquist-ronan-murphy-ellen-boehm-frank-vukovits-esw-474"
+    ]
+  }
+]

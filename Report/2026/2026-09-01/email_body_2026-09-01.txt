@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)
+- Healthcare cyberattacks hit pacemakers and millions of patient records
+- Anthropic Users Hit by Infostealer Attacks, Session Thefts
+- Cronos blockchain restarts after $74 million Tectonic exploit
+- 'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cronos blockchain restarts after $74 million Tectonic exploit. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Healthcare cyberattacks hit pacemakers and millions of patient records. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

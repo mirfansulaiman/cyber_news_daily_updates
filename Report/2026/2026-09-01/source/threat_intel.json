@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+    "published_wib": "2026-09-01T07:33:21+07:00",
+    "summary": "Introduction",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33300"
+    ]
+  },
+  {
+    "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+    "published_wib": "2026-09-01T04:08:46+07:00",
+    "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
+    ]
+  },
+  {
+    "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
+    "published_wib": "2026-09-01T03:25:36+07:00",
+    "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks"
+    ]
+  },
+  {
+    "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+    "published_wib": "2026-09-01T01:51:04+07:00",
+    "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/"
+    ]
+  },
+  {
+    "title": "China-linked campaign targets high-value networks, critical infrastructure",
+    "published_wib": "2026-09-01T01:47:48+07:00",
+    "summary": "Fire Ant targets routers and authentication systems to spy, steal credentials and evade detection.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/fire-ant-campaign-targets-high-value-networks-and-critical-infrastructure"
+    ]
+  },
+  {
+    "title": "Attack hides malware in PNGs and drops custom reverse tunnel on victims' machines",
+    "published_wib": "2026-09-01T01:26:03+07:00",
+    "summary": "Next-level ClickFix wave sets off multi-stage attack chain",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/31/attack-hides-malware-in-pngs-and-drops-custom-reverse-tunnel-on-victims-machines/5293480"
+    ]
+  },
+  {
+    "title": "AI killed the typo. Now it's time to rewrite phishing training.",
+    "published_wib": "2026-08-31T23:13:44+07:00",
+    "summary": "AI-powered phishing makes old warning signs obsolete, forcing security training to focus on verification.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/perspective/ai-killed-the-typo-now-its-time-to-rewrite-phishing-training"
+    ]
+  },
+  {
+    "title": "Anthropic cracks down on hijacked user accounts mining AI tokens",
+    "published_wib": "2026-08-31T23:03:46+07:00",
+    "summary": "Commodity malware steals authenticated sessions, letting thieves freeload on victims' paid usage",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/31/anthropic-cracks-down-on-hijacked-user-accounts-mining-ai-tokens/5293461"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    "published_wib": "2026-08-31T20:50:00+07:00",
+    "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, ex\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
+    ]
+  },
+  {
+    "title": "Breaking the Seal: Static Deobfuscation of JSCeal\u2019s Compiled V8 Bytecode",
+    "published_wib": "2026-08-31T20:38:28+07:00",
+    "summary": "Research by: hasherezade Key Points Introduction JSCeal is a stealer delivered as compiled V8 bytecode (.jsc) and executed by a bundled Node.js runtime, targeting cryptocurrency applications (other vendors also tag it with the names WEEVILPROXY or MeadowLocust). Its campaign activity dates back to March 2024 [1]; Check Point Research has been tracking the m\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/"
+    ]
+  }
+]

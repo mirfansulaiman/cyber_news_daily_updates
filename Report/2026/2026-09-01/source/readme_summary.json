@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Cronos blockchain restarts after $74 million Tectonic exploit and Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st). Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Healthcare cyberattacks hit pacemakers and millions of patient records. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-01",
+  "vol": "005"
+}
