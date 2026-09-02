@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+    "published_wib": "2026-09-02T06:54:07+07:00",
+    "summary": "23-year-old botnet down",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795"
+    ]
+  },
+  {
+    "title": "Silver Fox uses adware to distribute ValleyRAT backdoor",
+    "published_wib": "2026-09-02T06:33:49+07:00",
+    "summary": "As reported by The Hacker News, the threat actor known as Silver Fox is distributing the ValleyRAT backdoor disguised as a signed Chinese adware application.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/silver-fox-uses-adware-to-distribute-valleyrat-backdoor"
+    ]
+  },
+  {
+    "title": "Cloudflare launches adaptive intelligence to combat bot attacks",
+    "published_wib": "2026-09-02T06:28:37+07:00",
+    "summary": "The introduction of Adaptive Intelligence addresses the increasing ease and low cost for attackers to rent compromised devices and employ sophisticated impersonation techniques.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/cloudflare-launches-adaptive-intelligence-to-combat-bot-attacks"
+    ]
+  },
+  {
+    "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+    "published_wib": "2026-09-02T05:48:28+07:00",
+    "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat.\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/"
+    ]
+  },
+  {
+    "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+    "published_wib": "2026-09-02T04:30:18+07:00",
+    "summary": "Introduction",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33300"
+    ]
+  },
+  {
+    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+    "published_wib": "2026-09-02T03:53:23+07:00",
+    "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/"
+    ]
+  },
+  {
+    "title": "Chinese-speaking threat actors targeting Mexican Android users with remote access Trojan",
+    "published_wib": "2026-09-02T00:00:00+07:00",
+    "summary": "Intel 471 uncovered PanDa, a newly identified Android RAT targeting Spanish-speaking users in Mexico through malicious Meta Ads. The operation leverages AppPanda to scale phishing campaigns and deliver extensive surveillance capabilities.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.intel471.com/blog/chinese-speaking-threat-actors-targeting-mexican-android-users-with-remote-access-trojan"
+    ]
+  },
+  {
+    "title": "Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks",
+    "published_wib": "2026-09-01T21:07:16+07:00",
+    "summary": "A coordinated voice-phishing (vishing) campaign, named Spring Ring, used fake IT support accounts on Microsoft Teams to trick employees into installing malware or granting remote access to their computers, according to Unit 42, Palo Alto Networks\u2019 threat intelligence team. The campaign ran between January and April 2026 and reached more than 150 employees a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/"
+    ]
+  },
+  {
+    "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
+    "published_wib": "2026-09-01T20:56:42+07:00",
+    "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain"
+    ]
+  },
+  {
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+    "published_wib": "2026-09-01T20:08:58+07:00",
+    "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html"
+    ]
+  }
+]

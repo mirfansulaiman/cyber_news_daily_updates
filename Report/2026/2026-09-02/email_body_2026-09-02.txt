@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes
+- Cronos network resumes activity after $74 million lending exploit
+- Silver Fox uses adware to distribute ValleyRAT backdoor
+- What happens when AI models take aim at ICS exploits
+- Cloudflare launches adaptive intelligence to combat bot attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cronos network resumes activity after $74 million lending exploit. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Stronger Security Drives Ransomware Groups to Recruit From Within. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

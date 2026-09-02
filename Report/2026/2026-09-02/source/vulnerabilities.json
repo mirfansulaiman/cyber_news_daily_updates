@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cronos network resumes activity after $74 million lending exploit",
+    "published_wib": "2026-09-02T06:39:57+07:00",
+    "summary": "The attacker exploited the Tectonic platform, a decentralized finance lending application on the Cronos network, by inflating the price of the TONIC token by 100 times.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cronos-network-resumes-activity-after-74-million-lending-exploit"
+    ]
+  },
+  {
+    "title": "What happens when AI models take aim at ICS exploits",
+    "published_wib": "2026-09-02T06:31:59+07:00",
+    "summary": "LLMs have shown great improvement in vulnerability research and exploit development capabilities over the past six months. But it\u2019s one thing to find vulnerabilities in well documented open-source projects and an entirely different skillset to decrypt file systems and reverse-engineer closed-source low-level firmware in highly specialized embedded devices.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4217212/what-happens-when-ai-models-take-aim-at-ics-exploits.html"
+    ]
+  },
+  {
+    "title": "Cryptography expert: AI could make software too secure, impacting government hacking capabilities",
+    "published_wib": "2026-09-02T06:14:40+07:00",
+    "summary": "Cryptography professor Matthew Green has raised concerns that artificial intelligence could make software so secure that law enforcement and intelligence agencies may lose their ability to lawfully hack criminals, with further coverage provided by TechCrunch.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-could-make-software-too-secure-impacting-government-hacking-capabilities"
+    ]
+  },
+  {
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "published_wib": "2026-09-02T05:40:28+07:00",
+    "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification comp\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+    ]
+  },
+  {
+    "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+    "published_wib": "2026-09-02T04:05:53+07:00",
+    "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure"
+    ]
+  },
+  {
+    "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+    "published_wib": "2026-09-02T03:48:52+07:00",
+    "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"
+    ]
+  },
+  {
+    "title": "JFrog Artifactory flaw exploited days after patch release",
+    "published_wib": "2026-09-02T02:38:34+07:00",
+    "summary": "Attackers exploited a JFrog Artifactory flaw days after its patch, threatening software supply chains.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/jfrog-artifactory-flaw-exploited-days-after-patch-release"
+    ]
+  },
+  {
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+    "published_wib": "2026-09-02T00:54:22+07:00",
+    "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/"
+    ]
+  },
+  {
+    "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+    "published_wib": "2026-09-02T00:53:11+07:00",
+    "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog Artifactory contains an authentication\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
+    ]
+  },
+  {
+    "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+    "published_wib": "2026-09-02T00:19:24+07:00",
+    "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct f\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html"
+    ]
+  }
+]

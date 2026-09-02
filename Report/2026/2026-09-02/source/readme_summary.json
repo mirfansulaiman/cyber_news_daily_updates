@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Cronos network resumes activity after $74 million lending exploit and What happens when AI models take aim at ICS exploits. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Stronger Security Drives Ransomware Groups to Recruit From Within. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-02",
+  "vol": "005"
+}
