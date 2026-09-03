@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- SonicWall reports two major security holes under active exploit
+- AI’s Vulnerability Surge May Be More Manageable Than First Feared
+- Hackers exploit Sangoma Switchvox flaw to deploy reverse shells
+- SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE
+- Managing identity source transition for AWS IAM Identity Center
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by SonicWall reports two major security holes under active exploit. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

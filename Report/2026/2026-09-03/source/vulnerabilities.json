@@ -1,0 +1,102 @@
+[
+  {
+    "title": "SonicWall reports two major security holes under active exploit",
+    "published_wib": "2026-09-03T06:22:10+07:00",
+    "summary": "SonicWall on Monday reported two major security holes in its Secure Mobile Access 1000 series appliances, both of which it said are being actively exploited, and published patches for each. Consultants called the holes, one of which permits remote attacks that bypass authentication, highly troubling. In its security alert , SonicWall described the first hol\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4217682/sonicwall-reports-two-major-security-holes-under-active-exploit-2.html"
+    ]
+  },
+  {
+    "title": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared",
+    "published_wib": "2026-09-03T04:14:06+07:00",
+    "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams \u2014 if they have the right strategies.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared"
+    ]
+  },
+  {
+    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+    "published_wib": "2026-09-03T04:00:13+07:00",
+    "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/"
+    ]
+  },
+  {
+    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+    "published_wib": "2026-09-03T03:43:59+07:00",
+    "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce"
+    ]
+  },
+  {
+    "title": "Managing identity source transition for AWS IAM Identity Center",
+    "published_wib": "2026-09-03T03:36:31+07:00",
+    "summary": "September 2, 2026: This post was republished to include Active Directory migration strategies and automation for permission sets. AWS IAM Identity Center manages user access to Amazon Web Services (AWS) resources, including both AWS accounts and applications. You can use IAM Identity Center to create and manage user identities within the Identity Center ide\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/"
+    ]
+  },
+  {
+    "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+    "published_wib": "2026-09-03T02:30:00+07:00",
+    "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/"
+    ]
+  },
+  {
+    "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+    "published_wib": "2026-09-03T02:28:46+07:00",
+    "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/"
+    ]
+  },
+  {
+    "title": "SonicWall advises customers to patch two new SMA1000 zero-days",
+    "published_wib": "2026-09-03T02:17:20+07:00",
+    "summary": "Attackers are chaining two SonicWall SMA1000 zero-days to gain remote code execution.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/sonicwall-advises-customers-to-patch-two-new-sma1000-zero-days"
+    ]
+  },
+  {
+    "title": "SonicWall's SMA1000 boxes under active attack again",
+    "published_wib": "2026-09-02T23:05:00+07:00",
+    "summary": "Miscreants use chained zero days to pwn boxen as third-party SOCs say further attacks 'almost certain'",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969"
+    ]
+  },
+  {
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+    "published_wib": "2026-09-02T22:47:08+07:00",
+    "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/"
+    ]
+  }
+]
