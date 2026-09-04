@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- OpenAI commits $1B in AI credits to frontline cyber defenders
+- French hospital fined €500,000 after breach exposes data of 727,000
+- OpenAI targets small utilities with $1 billion cyber defense initiative
+- Incident response guide for AWS CloudTrail investigations – Part 2
+- Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Phishing campaign targets widely used RMM platforms in 46 countries. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by OpenAI commits $1B in AI credits to frontline cyber defenders. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by French hospital fined €500,000 after breach exposes data of 727,000. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

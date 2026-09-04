@@ -1,0 +1,102 @@
+[
+  {
+    "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
+    "published_wib": "2026-09-04T06:47:05+07:00",
+    "summary": "Daybreak program brings subsidized models, training, and support to under-resourced teams",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382"
+    ]
+  },
+  {
+    "title": "OpenAI targets small utilities with $1 billion cyber defense initiative",
+    "published_wib": "2026-09-04T04:28:53+07:00",
+    "summary": "In a keynote speech during a summit at OpenAI\u2019s headquarters attended by 300 enterprise security leaders and CISOs from Fortune 1000 companies, OpenAI President Greg Brockman announced Daybreak for Frontline Defenders, a new global initiative to help frontline defenders use frontier cyber AI to protect essential services in the United States and around the\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4218373/openai-targets-small-utilities-with-1-billion-cyber-defense-initiative.html"
+    ]
+  },
+  {
+    "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+    "published_wib": "2026-09-04T04:03:02+07:00",
+    "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.cloudflare.com/vulnerability-discovery-remediation/"
+    ]
+  },
+  {
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+    "published_wib": "2026-09-04T01:28:12+07:00",
+    "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/"
+    ]
+  },
+  {
+    "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
+    "published_wib": "2026-09-04T01:08:22+07:00",
+    "summary": "A shared security 'Nightmare'",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318"
+    ]
+  },
+  {
+    "title": "VU#889462: Casdoor authentication server is vulnerable to authorization bypass",
+    "published_wib": "2026-09-04T00:03:30.139953+07:00",
+    "summary": "Overview Casdoor is an open-source Access Management (IAM) platform used to manage web applications. An authorization bypass vulnerability affects Casdoor versions 3.115.0 and earlier. The vulnerability allows a non-global organization administrator to perform unauthorized administrative actions against arbitrary organizations by exploiting inconsistent obj\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/889462"
+    ]
+  },
+  {
+    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+    "published_wib": "2026-09-03T22:52:07+07:00",
+    "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
+    ]
+  },
+  {
+    "title": "Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone",
+    "published_wib": "2026-09-03T22:25:00+07:00",
+    "summary": "Pegasus infected a Serbian student activist's iPhone through an iMessage zero-click exploit",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/pegasus-zero-click-exploit/"
+    ]
+  },
+  {
+    "title": "Drowning in CVEs and thirsty for answers? Try CTEM",
+    "published_wib": "2026-09-03T22:00:00+07:00",
+    "summary": "SPONSORED FEATURE: Boards want to know if they're less exposed than last quarter. Patching metrics aren't the solution",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906"
+    ]
+  },
+  {
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+    "published_wib": "2026-09-03T21:52:20+07:00",
+    "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/"
+    ]
+  }
+]
