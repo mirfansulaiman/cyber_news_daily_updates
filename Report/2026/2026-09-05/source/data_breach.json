@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Thomson Reuters court software breach exposes sensitive data in Canada and US",
+    "published_wib": "2026-09-05T03:32:17+07:00",
+    "summary": "The incident, detected on June 30, impacted the C-Track Canada system, exposing files from three Ontario courts.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/thomson-reuters-court-software-breach-exposes-sensitive-data-in-canada-and-us"
+    ]
+  },
+  {
+    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+    "published_wib": "2026-09-04T23:56:45+07:00",
+    "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Scammers have figured out the best time to text you",
+    "published_wib": "2026-09-04T12:00:59+07:00",
+    "summary": "The suspicious calls, texts, and DMs you got recently aren\u2019t a coincidence, according to Malwarebytes. Scammers have worked out which platform gets them the best results for each type of con, and they stick to that formula. (Source: Malwarebytes) The company looked at its own threat data collected between April 15 and July 14, 2026, and tracked more than 20\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/04/scam-texts-peak-research/"
+    ]
+  },
+  {
+    "title": "[+24h Old] French hospital fined \u20ac500,000 after breach exposes data of 727,000",
+    "published_wib": "2026-09-04T05:01:37+07:00",
+    "summary": "France's data protection authority (CNIL) has fined H\u00f4pital priv\u00e9 de la Loire \u20ac500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Incident response guide for AWS CloudTrail investigations \u2013 Part 2",
+    "published_wib": "2026-09-04T04:15:53+07:00",
+    "summary": "In Part 1 of this guide, we examined two common incident scenarios: cross-account Amazon Simple Storage Service (Amazon S3) data deletion with ransomware implications, and cryptocurrency mining deployed through AWS CloudFormation using exposed AWS Management Console credentials. We also introduced key incident response terminology and investigative framewor\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Large Enterprises Targeted in Fake Merger & Acquisition Scams",
+    "published_wib": "2026-09-04T03:18:14+07:00",
+    "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams"
+    ]
+  },
+  {
+    "title": "[+24h Old] What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+    "published_wib": "2026-09-04T02:42:39+07:00",
+    "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest"
+    ]
+  },
+  {
+    "title": "[+24h Old] Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+    "published_wib": "2026-09-03T22:35:19+07:00",
+    "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+    "published_wib": "2026-09-03T21:39:05+07:00",
+    "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court re\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+    "published_wib": "2026-09-03T21:38:49+07:00",
+    "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours"
+    ]
+  }
+]

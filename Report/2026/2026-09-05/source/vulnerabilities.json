@@ -1,0 +1,102 @@
+[
+  {
+    "title": "PostGREShell vulnerability allows server takeover",
+    "published_wib": "2026-09-05T03:44:58+07:00",
+    "summary": "The vulnerability stems from missing authorization in PostgreSQL's logical decoding feature.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/postgreshell-vulnerability-allows-server-takeover"
+    ]
+  },
+  {
+    "title": "Cisco addresses critical vulnerabilities in Nexus 9000 switches and IOS XR",
+    "published_wib": "2026-09-05T03:35:42+07:00",
+    "summary": "The critical Nexus vulnerability (CVE-2026-20212) allows unauthenticated attackers to execute code with root privileges by binding to an unrestricted IP address and reaching TCP ports 43210 and 43211.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisco-addresses-critical-vulnerabilities-in-nexus-9000-switches-and-ios-xr"
+    ]
+  },
+  {
+    "title": "OSPAR 2026 report now available with 167 services in scope",
+    "published_wib": "2026-09-05T01:13:04+07:00",
+    "summary": "We\u2019re pleased to confirm the successful completion of our annual Amazon Web Services (AWS) Outsourced Service Provider\u2019s Audit Report (OSPAR) assessment on July 29, 2026, in line with the OSPAR version 2.0 framework. The Association of Banks in Singapore (ABS) established the Guidelines on Control Objectives and Procedures for Outsourced Service Providers (\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/ospar-2026-report-now-available-with-167-services-in-scope/"
+    ]
+  },
+  {
+    "title": "In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation",
+    "published_wib": "2026-09-04T23:18:30+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft\u2019s Cloud Patches, Hacked Dropbox Accounts, Guardio\u2019s $1.1B Valuation appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/"
+    ]
+  },
+  {
+    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+    "published_wib": "2026-09-04T23:11:06+07:00",
+    "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/"
+    ]
+  },
+  {
+    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+    "published_wib": "2026-09-04T22:25:59+07:00",
+    "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/"
+    ]
+  },
+  {
+    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+    "published_wib": "2026-09-04T22:20:19+07:00",
+    "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
+    ]
+  },
+  {
+    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+    "published_wib": "2026-09-04T21:51:13+07:00",
+    "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it re\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    ]
+  },
+  {
+    "title": "FBI investigates breach of 153 million driving license records at IDscan.net",
+    "published_wib": "2026-09-04T20:47:47+07:00",
+    "summary": "Drivers in North America received a nasty shock this week when it was revealed that digital scans of 153 million drivers\u2019 licenses were for sale on the dark web. Among the victims were US Defense Secretary Pete Hegseth \u2013 and investigative reporter Brian Krebs, who has dug deep into the data breach on his blog KrebsOnSecurity\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4218789/fbi-investigates-breach-of-153-million-driving-license-records-at-idscan-net.html"
+    ]
+  },
+  {
+    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+    "published_wib": "2026-09-04T20:23:12+07:00",
+    "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/"
+    ]
+  }
+]

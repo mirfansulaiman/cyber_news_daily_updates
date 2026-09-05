@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New Linux toolkit found in trojanized HAProxy targeting South Korean organizations
+- PostGREShell vulnerability allows server takeover
+- Cisco addresses critical vulnerabilities in Nexus 9000 switches and IOS XR
+- Thomson Reuters court software breach exposes sensitive data in Canada and US
+- OSPAR 2026 report now available with 167 services in scope
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Linux toolkit found in trojanized HAProxy targeting South Korean organizations. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by PostGREShell vulnerability allows server takeover. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Thomson Reuters court software breach exposes sensitive data in Canada and US. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
