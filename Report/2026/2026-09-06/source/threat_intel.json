@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] New Linux toolkit found in trojanized HAProxy targeting South Korean organizations",
+    "published_wib": "2026-09-05T03:51:16+07:00",
+    "summary": "The implant, identified by Rapid7 Labs with medium confidence as originating from North Korean state-sponsored actors, targets entities in South Korea's automotive and media sectors.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-linux-toolkit-found-in-trojanized-haproxy-targeting-south-korean-organizations"
+    ]
+  },
+  {
+    "title": "[+24h Old] The hidden work of modernizing Malwarebytes",
+    "published_wib": "2026-09-05T00:15:42+07:00",
+    "summary": "Why disciplined dependency modernization is one of the highest-leverage engineering investments a security product can make.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes"
+    ]
+  },
+  {
+    "title": "[+24h Old] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+    "published_wib": "2026-09-04T22:57:15+07:00",
+    "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microso\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Angry Birds: Toy Ghouls\u2019 new toys",
+    "published_wib": "2026-09-04T17:00:05+07:00",
+    "summary": "Kaspersky GERT experts have discovered new backdoors used by the Toy Ghouls group. One version of the backdoor uses the HiveMQ MQTT broker as its command-and-control server; the other uses the Matrix-based Element messenger.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Microsoft Teams is about to make QR code phishing much harder",
+    "published_wib": "2026-09-04T15:28:51+07:00",
+    "summary": "Microsoft is preparing a new feature for Teams users that will help them stay safe from QR code phishing. Teams will automatically hide QR codes sent by people outside the organization. Users will need to reveal the image first before they can view or scan it. It\u2019s currently in development, with rollout expected to begin in October 2026 for Android, desktop\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/04/microsoft-teams-qr-code-phishing-protection/"
+    ]
+  },
+  {
+    "title": "[+48h Old] ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
+    "published_wib": "2026-09-04T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33310"
+    ]
+  },
+  {
+    "title": "[+48h Old] ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+    "published_wib": "2026-09-04T01:02:47+07:00",
+    "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web addr\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] StreamRat Android malware spreads through Meta and TikTok ads",
+    "published_wib": "2026-09-03T23:04:24+07:00",
+    "summary": "Social media ads for a free streaming service exposed roughly 570,000 people to StreamRat, a banking Trojan that can take control of infected phones.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/09/streamrat-android-malware-spreads-through-meta-and-tiktok-ads"
+    ]
+  },
+  {
+    "title": "[+48h Old] ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+    "published_wib": "2026-09-03T23:00:00+07:00",
+    "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
+    ]
+  },
+  {
+    "title": "[+48h Old] BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+    "published_wib": "2026-09-03T22:26:47+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised sys\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html"
+    ]
+  }
+]

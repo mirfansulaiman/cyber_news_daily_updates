@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
+- Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
+- Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
+- Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted
+- Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Linux toolkit found in trojanized HAProxy targeting South Korean organizations. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
