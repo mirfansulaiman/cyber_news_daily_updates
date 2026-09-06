@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th) and Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Attackers conceal phishing lures using invisible Unicode characters. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-07",
+  "vol": "005"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+    "published_wib": "2026-09-07T04:43:17+07:00",
+    "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is installed.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33314"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+    "published_wib": "2026-09-06T16:32:38+07:00",
+    "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News\u2019s September 6 review of the warn\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast",
+    "published_wib": "2026-09-06T15:00:56+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Anthropic locks out Claude users after infostealers hijack login sessions Anthropic has started locking users out of their Claude accounts due to their login sessions having been compromised through infostealer malware. September 2026 Patch Tuesday forecast: Al\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/06/week-in-review-claude-accounts-compromised-through-infostealer-patch-tuesday-forecast/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "published_wib": "2026-09-06T03:14:47+07:00",
+    "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on Septemb\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+    "published_wib": "2026-09-05T23:52:33+07:00",
+    "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run thei\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+    "published_wib": "2026-09-05T23:05:08+07:00",
+    "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can explo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+    "published_wib": "2026-09-05T20:00:28+07:00",
+    "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+    "published_wib": "2026-09-05T14:31:53+07:00",
+    "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 \u2013 an authentication bypass and remote code execution chain \u2013 to conduct command execut\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] PostGREShell vulnerability allows server takeover",
+    "published_wib": "2026-09-05T03:44:58+07:00",
+    "summary": "The vulnerability stems from missing authorization in PostgreSQL's logical decoding feature.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/postgreshell-vulnerability-allows-server-takeover"
+    ]
+  },
+  {
+    "title": "[+48h Old] Cisco addresses critical vulnerabilities in Nexus 9000 switches and IOS XR",
+    "published_wib": "2026-09-05T03:35:42+07:00",
+    "summary": "The critical Nexus vulnerability (CVE-2026-20212) allows unauthenticated attackers to execute code with root privileges by binding to an unrestricted IP address and reaching TCP ports 43210 and 43211.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisco-addresses-critical-vulnerabilities-in-nexus-9000-switches-and-ios-xr"
+    ]
+  }
+]
