@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 005 | 2026-09-06 09:00 WIB]
+## Today Updates: [Vol. 005 | 2026-09-07 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores and Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th) and Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: The hidden work of modernizing Malwarebytes. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: Attackers conceal phishing lures using invisible Unicode characters. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
 Identity and edge access risks remain elevated: Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-06/poster_2026-09-06_issue-005.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-07/poster_2026-09-07_issue-005.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-06/poster_vulnerabilities_2026-09-06_issue-005.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-07/poster_vulnerabilities_2026-09-07_issue-005.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-06/poster_threat-intel_2026-09-06_issue-005.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-07/poster_threat-intel_2026-09-07_issue-005.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-06/poster_data-breach_2026-09-06_issue-005.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-07/poster_data-breach_2026-09-07_issue-005.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-06/cyber_newsletter_2026-09-06.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-09-07/cyber_newsletter_2026-09-07.pdf
 
 <!-- DAILY_UPDATES_END -->
 
