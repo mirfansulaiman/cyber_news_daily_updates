@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Loyalty points fraud is funding hacker holidays (Lock and Code S07E18)",
+    "published_wib": "2026-09-08T01:23:18+07:00",
+    "summary": "This week on the Lock and Code podcast, we speak with Kim Sutherland about loyalty points fraud and how everyday people can stay safe.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/podcast/2026/09/loyalty-points-fraud-is-funding-hacker-holidays-lock-and-code-s07e18"
+    ]
+  },
+  {
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "published_wib": "2026-09-07T22:51:56+07:00",
+    "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html"
+    ]
+  },
+  {
+    "title": "7th September \u2013 Threat Intelligence Report",
+    "published_wib": "2026-09-07T21:54:29+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 7th Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Thomson Reuters, a global information and technology company, has disclosed a breach of its C-Track court case-management platform affecting courts across 11 US states and Canada. An unauthorized party obtain\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Mathspace discloses data breach affecting over 1 million people",
+    "published_wib": "2026-09-07T20:05:11+07:00",
+    "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/"
+    ]
+  },
+  {
+    "title": "Trezor data breach impact now reaches 81,000 customers",
+    "published_wib": "2026-09-07T19:16:32+07:00",
+    "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/"
+    ]
+  },
+  {
+    "title": "OpenAI Agents Hijack Another Victim Website",
+    "published_wib": "2026-09-07T19:03:04+07:00",
+    "summary": "OpenAI agents made 15,000\u201318,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/openai-agents-hijack-another-victim-website/"
+    ]
+  },
+  {
+    "title": "Rhysida Publishes Berlin Government Data After \u20ac2m Extortion Demand Refused",
+    "published_wib": "2026-09-07T19:00:00+07:00",
+    "summary": "The ransomware group\u2019s published dataset reportedly includes Berlin state employee data, as well as highly sensitive emergency plans",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/"
+    ]
+  },
+  {
+    "title": "New CISO appointments 2026",
+    "published_wib": "2026-09-07T17:09:50+07:00",
+    "summary": "The upper ranks of corporate security are seeing a high rate of change as companies try to adapt to the evolving threat landscape. Many companies are hiring a chief security officer (CSO) or chief information security officer (CISO) for the first time to support a deeper commitment to information security. Follow this column to keep up with new appointments\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Multiple Class Action Lawsuits Filed Against IDScan",
+    "published_wib": "2026-09-07T16:10:00+07:00",
+    "summary": "Several victims of a recent breach of driver\u2019s license information have sued the company they believe responsible",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Shadow AI Epidemic: Uncovering Agents on the Endpoint, British Library Breach, & News - Amit Assaraf - ESW #475",
+    "published_wib": "2026-09-07T16:00:00+07:00",
+    "summary": "Shadow AI Epidemic: Uncovering Agents on the Endpoint, British Library Breach, & News - Amit Assaraf - ESW #475",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15198-shadow-ai-epidemic-uncovering-agents-on-the-endpoint-british-library-breach-news-amit-assaraf-esw-475"
+    ]
+  }
+]

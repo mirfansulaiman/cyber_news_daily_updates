@@ -1,0 +1,102 @@
+[
+  {
+    "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+    "published_wib": "2026-09-07T22:39:51+07:00",
+    "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/"
+    ]
+  },
+  {
+    "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+    "published_wib": "2026-09-07T19:12:08+07:00",
+    "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/"
+    ]
+  },
+  {
+    "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+    "published_wib": "2026-09-07T18:45:48+07:00",
+    "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/"
+    ]
+  },
+  {
+    "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+    "published_wib": "2026-09-07T18:36:39+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-d\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html"
+    ]
+  },
+  {
+    "title": "UK food supply chain at risk from hostile attacks",
+    "published_wib": "2026-09-07T17:06:10+07:00",
+    "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719"
+    ]
+  },
+  {
+    "title": "[+24h Old] A week in security (August 31 \u2013 September 6)",
+    "published_wib": "2026-09-07T14:01:00+07:00",
+    "summary": "Last week on Malwarebytes Labs: Stay safe!",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/09/a-week-in-security-august-31-september-6"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers conceal phishing lures using invisible Unicode characters",
+    "published_wib": "2026-09-06T21:23:46+07:00",
+    "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Linux toolkit found in trojanized HAProxy targeting South Korean organizations",
+    "published_wib": "2026-09-05T03:51:16+07:00",
+    "summary": "The implant, identified by Rapid7 Labs with medium confidence as originating from North Korean state-sponsored actors, targets entities in South Korea's automotive and media sectors.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-linux-toolkit-found-in-trojanized-haproxy-targeting-south-korean-organizations"
+    ]
+  },
+  {
+    "title": "[+48h Old] The hidden work of modernizing Malwarebytes",
+    "published_wib": "2026-09-05T00:15:42+07:00",
+    "summary": "Why disciplined dependency modernization is one of the highest-leverage engineering investments a security product can make.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/09/the-hidden-work-of-modernizing-malwarebytes"
+    ]
+  },
+  {
+    "title": "[+48h Old] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+    "published_wib": "2026-09-04T22:57:15+07:00",
+    "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microso\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
+    ]
+  }
+]

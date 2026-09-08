@@ -1,0 +1,102 @@
+[
+  {
+    "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+    "published_wib": "2026-09-08T01:12:09+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forg\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html"
+    ]
+  },
+  {
+    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+    "published_wib": "2026-09-07T23:50:29+07:00",
+    "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    "published_wib": "2026-09-07T21:36:07+07:00",
+    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol des\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html"
+    ]
+  },
+  {
+    "title": "Hackers exploit RouterOS flaws to hijack MikroTik devices without authentication",
+    "published_wib": "2026-09-07T21:07:20+07:00",
+    "summary": "Attackers are exploiting a chain of RouterOS vulnerabilities to hijack MikroTik devices with SSH open to the internet, CERT Polska found. CERT Polska, Poland\u2019s national CSIRT team, have discovered six vulnerabilities in RouterOS and coordinated their disclosure with MikroTik. Among the six, two combined let an attacker take full control of a device without\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/07/mikrotik-routeros-ssh-vulnerabilities-exploited/"
+    ]
+  },
+  {
+    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
+    "published_wib": "2026-09-07T20:26:00+07:00",
+    "summary": "Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770"
+    ]
+  },
+  {
+    "title": "N-able Releases Hotfix for Critical Remote Code Execution Vulnerability",
+    "published_wib": "2026-09-07T19:45:00+07:00",
+    "summary": "The vulnerability, CVE-2026-86218, was allocated a maximum-severity rating by the software provider itself",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/"
+    ]
+  },
+  {
+    "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+    "published_wib": "2026-09-07T19:15:57+07:00",
+    "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/"
+    ]
+  },
+  {
+    "title": "Sam Altman calls GPT-6 Astra rollout \u2018messy\u2019 as enterprise users wait for access",
+    "published_wib": "2026-09-07T19:14:18+07:00",
+    "summary": "OpenAI\u2019s rollout of its GPT-6 Astra model ran into early access issues after paying ChatGPT users were unable to use the system shortly after launch, prompting CEO Sam Altman to apologize and say the release had been \u201cmessy.\u201d \u201cFirst, sorry for the messy rollout,\u201d OpenAI CEO Sam Altman acknowledged the issue in a post on X. \u201cSecond, when we screw up, we try\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4219249/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access.html"
+    ]
+  },
+  {
+    "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+    "published_wib": "2026-09-07T18:58:37+07:00",
+    "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/"
+    ]
+  },
+  {
+    "title": "N-able patches critical N-central zero-day exploited in the wild (CVE-2026-86218)",
+    "published_wib": "2026-09-07T18:55:57+07:00",
+    "summary": "N-able released an emergency hotfix for CVE-2026-86218, a remote code execution (RCE) flaw affecting N-central, its remote monitoring and management (RMM) solution popular with managed service providers (MSPs). In its release notes, N-able described CVE-2026-86218 as a \u201ccritical-CVSS-rated vulnerability that could allow for pre-authenticated remote code exe\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/"
+    ]
+  }
+]
