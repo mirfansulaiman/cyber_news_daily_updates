@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New Android RAT uses worm to target exposed ADB services
+- Mars Security launches real-time threat intelligence to detection platform
+- MikroTik routers targeted by active SSH zero-day exploitation
+- Broadcom patches critical VMware Workstation and Fusion VM escape vulnerabilities
+- Madagascar strengthens digital identity program with new cybercrime laws
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Android RAT uses worm to target exposed ADB services. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Mars Security launches real-time threat intelligence to detection platform. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Madagascar strengthens digital identity program with new cybercrime laws. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

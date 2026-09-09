@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Madagascar strengthens digital identity program with new cybercrime laws",
+    "published_wib": "2026-09-09T05:47:30+07:00",
+    "summary": "The Malagasy government has submitted two cybercrime bills to parliament, aiming to modernize the national cybercrime framework and ratify the UN Convention against Cybercrime (Hanoi Convention).",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/madagascar-strengthens-digital-identity-program-with-new-cybercrime-laws"
+    ]
+  },
+  {
+    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+    "published_wib": "2026-09-09T03:35:14+07:00",
+    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/"
+    ]
+  },
+  {
+    "title": "Closing the accountability divide: How to prove what happened in a breach",
+    "published_wib": "2026-09-09T03:17:03+07:00",
+    "summary": "It's not enough to contain an incident. You must also understand why and how it happened.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/resource/closing-the-accountability-divide-how-to-prove-what-happened-in-a-breach"
+    ]
+  },
+  {
+    "title": "Hackers Return $263 Million Stolen From Liquid Network",
+    "published_wib": "2026-09-08T23:35:54+07:00",
+    "summary": "Alleged \u2018white-hat\u2019 hackers drained $320 million from Liquid\u2019s federation wallet, demanding a bug fix. The post Hackers Return $263 Million Stolen From Liquid Network appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/"
+    ]
+  },
+  {
+    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+    "published_wib": "2026-09-08T23:35:47+07:00",
+    "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/"
+    ]
+  },
+  {
+    "title": "BigBear phishing crew nets thousands of Microsoft 365 credentials",
+    "published_wib": "2026-09-08T20:26:00+07:00",
+    "summary": "Researchers got inside the crooks' admin panel and found 5,137 stolen records tied to 461 organizations",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944"
+    ]
+  },
+  {
+    "title": "The Shared Clipboard Inside the Sandbox: Cross-Account Data Leakage in ChatGPT",
+    "published_wib": "2026-09-08T20:00:18+07:00",
+    "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction Over the past several years, AI assistants have moved far beyond text generation. Modern systems can execute code, install additional dependencies, analyze user files, and access data through connected services. These capabilities significantly increase the practical value of LLMs, but they also chang\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/"
+    ]
+  },
+  {
+    "title": "Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
+    "published_wib": "2026-09-08T20:00:00+07:00",
+    "summary": "The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons. The post Party\u2019s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/"
+    ]
+  },
+  {
+    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+    "published_wib": "2026-09-08T19:40:48+07:00",
+    "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/"
+    ]
+  },
+  {
+    "title": "Extortion crews have their eyes on high-value AI data, Google warns",
+    "published_wib": "2026-09-08T19:00:00+07:00",
+    "summary": "Companies 'don't want their IP exposed, so they're willing to pay'",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640"
+    ]
+  }
+]

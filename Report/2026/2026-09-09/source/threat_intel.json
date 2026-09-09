@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Android RAT uses worm to target exposed ADB services",
+    "published_wib": "2026-09-09T06:03:44+07:00",
+    "summary": "The RAT employs a concealed loader and a worm that actively scans for exposed Android Debug Bridge (ADB) services to install itself on vulnerable devices.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-android-rat-uses-worm-to-target-exposed-adb-services"
+    ]
+  },
+  {
+    "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+    "published_wib": "2026-09-09T04:03:46+07:00",
+    "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign"
+    ]
+  },
+  {
+    "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
+    "published_wib": "2026-09-09T00:25:37+07:00",
+    "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access"
+    ]
+  },
+  {
+    "title": "Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
+    "published_wib": "2026-09-08T21:41:21+07:00",
+    "summary": "Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation. Reflectiz, the continuous web exposure management company, today launched a multi-agent penetration testing platform for websites. Multiple specialized AI agents discover, attack, and validate\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4219697/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests.html"
+    ]
+  },
+  {
+    "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+    "published_wib": "2026-09-08T20:48:16+07:00",
+    "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours. Google Threat Intelligence Group (GTIG) said it has observed attackers with divers\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html"
+    ]
+  },
+  {
+    "title": "AI Coding Tools Now a Prime Target for Threat Actors, Google Warns",
+    "published_wib": "2026-09-08T19:02:00+07:00",
+    "summary": "Google warned that the rapid integration of AI-assisted coding tools has significantly expanded software supply chain risks",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/"
+    ]
+  },
+  {
+    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+    "published_wib": "2026-09-08T18:54:29+07:00",
+    "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html"
+    ]
+  },
+  {
+    "title": "THost9 Android RAT Pairs Packed Loader With ADB Worm",
+    "published_wib": "2026-09-08T18:15:00+07:00",
+    "summary": "THost9 hides its payload and uses ADB to spread across exposed Android devices and containers",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/"
+    ]
+  },
+  {
+    "title": "BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA",
+    "published_wib": "2026-09-08T17:48:42+07:00",
+    "summary": "A phishing-as-a-service operation targeting Microsoft 365 users has harvested thousands of session cookies that could be used to hijack authenticated sessions after victims complete multifactor authentication, CloudSEK said. The cybersecurity firm said in a report that it uncovered the operation, known as BigBear 2.0, in June after gaining access to its adm\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4219606/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa.html"
+    ]
+  },
+  {
+    "title": "HVNC Backdoor Targets LATAM Organizations with Fake Tax and DocuSign Lures",
+    "published_wib": "2026-09-08T17:24:30+07:00",
+    "summary": "Editor\u2019s note: The analysis is authored by Moises Cerqueira, malware researcher & threat hunter. You can find Moises on LinkedIn and X. Fake tax documents are being used to target organizations across LATAM, delivering a custom HVNC backdoor built for stealthy, persistent access. Once installed, the malware can give attackers hidden remote control, steal br\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/hvnc-backdoor-targets-latam/"
+    ]
+  }
+]
