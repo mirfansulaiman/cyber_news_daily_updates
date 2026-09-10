@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits
+- Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks
+- AdaptHealth confirms 4.1 million people exposed in July cyberattack
+- Mythos Vulnerability Firehose Hits a Human Bottleneck
+- MikroTik patches flaws currently being exploited to take over routers
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by AdaptHealth confirms 4.1 million people exposed in July cyberattack. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Veradigm warns of patient data breach after ransomware gang claims attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

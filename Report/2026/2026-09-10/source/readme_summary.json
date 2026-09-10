@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits and Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "AdaptHealth confirms 4.1 million people exposed in July cyberattack. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Veradigm warns of patient data breach after ransomware gang claims attack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-10",
+  "vol": "005"
+}

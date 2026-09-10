@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+    "published_wib": "2026-09-09T22:31:23+07:00",
+    "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/"
+    ]
+  },
+  {
+    "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
+    "published_wib": "2026-09-09T21:30:00+07:00",
+    "summary": "Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/"
+    ]
+  },
+  {
+    "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+    "published_wib": "2026-09-09T21:23:55+07:00",
+    "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include crede\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html"
+    ]
+  },
+  {
+    "title": "$245 million in stolen crypto funded racketeering crew\u2019s lavish lifestyle",
+    "published_wib": "2026-09-09T19:11:36+07:00",
+    "summary": "A 22-year-old man built his fortune by breaking into strangers\u2019 digital wallets, then spent it on nightclub tabs, private jets, and a fleet of cars worth millions. Malone Lam, a Singapore citizen, pleaded guilty this week in a Washington D.C. federal court to running a racketeering conspiracy that stole and laundered more than $245 million in cryptocurrency\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/09/singapore-man-pleads-guilty-245-million-crypto-theft/"
+    ]
+  },
+  {
+    "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise",
+    "published_wib": "2026-09-09T19:00:00+07:00",
+    "summary": "Ninety-five percent of organizations believe they have visibility into their AI and machine identity exposures, yet only 36% are actually monitoring them. SpyCloud , the leader in identity threat protection, today released its annual SpyCloud Identity Threat Report , a survey-based study finding that non-human identities (NHIs) \u2013 the AI agents, service acco\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4220209/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise.html"
+    ]
+  },
+  {
+    "title": "ShinyHunters claims Florida DMV breach, puts data on the clock",
+    "published_wib": "2026-09-09T18:25:52+07:00",
+    "summary": "ShinyHunters is claiming to have broken into a Florida government database containing sensitive information on the state\u2019s drivers. The notorious extortion group said it has breached the Florida Department of Highway Safety and Motor Vehicles\u2019 Driver and Vehicle Information Database (DAVID) and claims to have stolen more than 200,000 records. As evidence, t\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4220193/shinyhunters-claims-florida-dmv-breach-puts-data-on-the-clock.html"
+    ]
+  },
+  {
+    "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
+    "published_wib": "2026-09-09T17:00:00+07:00",
+    "summary": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Man gets 15 years for extorting women with AI-generated porn videos",
+    "published_wib": "2026-09-09T15:44:22+07:00",
+    "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/"
+    ]
+  },
+  {
+    "title": "[+24h Old] DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+    "published_wib": "2026-09-09T03:35:14+07:00",
+    "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/"
+    ]
+  },
+  {
+    "title": "[+24h Old] BigBear phishing crew nets thousands of Microsoft 365 credentials",
+    "published_wib": "2026-09-08T20:26:00+07:00",
+    "summary": "Researchers got inside the crooks' admin panel and found 5,137 stolen records tied to 461 organizations",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944"
+    ]
+  }
+]

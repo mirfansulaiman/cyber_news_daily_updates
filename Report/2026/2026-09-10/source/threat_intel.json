@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+    "published_wib": "2026-09-10T04:30:36+07:00",
+    "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
+    ]
+  },
+  {
+    "title": "Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls",
+    "published_wib": "2026-09-09T22:00:00+07:00",
+    "summary": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/"
+    ]
+  },
+  {
+    "title": "ClickFix Moves into the Browser to Steal Cryptocurrency",
+    "published_wib": "2026-09-09T20:45:00+07:00",
+    "summary": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/"
+    ]
+  },
+  {
+    "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
+    "published_wib": "2026-09-09T19:32:13+07:00",
+    "summary": "Distillation is an \u2018attack\u2019 against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/"
+    ]
+  },
+  {
+    "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
+    "published_wib": "2026-09-09T17:00:55+07:00",
+    "summary": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/"
+    ]
+  },
+  {
+    "title": "[+24h Old] F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "published_wib": "2026-09-09T14:36:49+07:00",
+    "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back cl\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+    "published_wib": "2026-09-09T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33322"
+    ]
+  },
+  {
+    "title": "[+24h Old] Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+    "published_wib": "2026-09-09T04:03:46+07:00",
+    "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign"
+    ]
+  },
+  {
+    "title": "[+24h Old] ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
+    "published_wib": "2026-09-09T00:25:37+07:00",
+    "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access"
+    ]
+  },
+  {
+    "title": "[+24h Old] Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
+    "published_wib": "2026-09-08T21:41:21+07:00",
+    "summary": "Specialized team of AI agents that discover, attack, and validate web vulnerabilities, leveraging pre-existing site context to eliminate noise and speed remediation. Reflectiz, the continuous web exposure management company, today launched a multi-agent penetration testing platform for websites. Multiple specialized AI agents discover, attack, and validate\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4219697/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests.html"
+    ]
+  }
+]

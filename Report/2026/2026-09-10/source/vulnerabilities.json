@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+    "published_wib": "2026-09-10T05:28:53+07:00",
+    "summary": "Mind the patch gap, please and thank you",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399"
+    ]
+  },
+  {
+    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+    "published_wib": "2026-09-10T04:40:44+07:00",
+    "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+    "published_wib": "2026-09-10T04:19:55+07:00",
+    "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck"
+    ]
+  },
+  {
+    "title": "MikroTik patches flaws currently being exploited to take over routers",
+    "published_wib": "2026-09-10T03:00:12+07:00",
+    "summary": "Networking gear manufacturer MikroTik has released patches for six vulnerabilities in its RouterOS firmware, two of which can be chained together to take over devices without authentication over SSH. The exploit chain, dubbed MikroTrick, is already being used by attackers in the wild. The vulnerabilities , found by researchers from the CERT Polska, are loca\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4220390/mikrotik-patches-flaws-currently-being-exploited-to-take-over-routers.html"
+    ]
+  },
+  {
+    "title": "The state of AI for security: Measuring what matters most for building trust",
+    "published_wib": "2026-09-10T02:09:14+07:00",
+    "summary": "Security teams are starting to actively use AI for security work, including vulnerability triage, penetration testing, threat modeling, incident response, and code review. The promise is speed, but a security tool that moves fast and raises too many false alarms doesn\u2019t save time. Engineers spend time on false alarms, on-call is noisier, and teams distrust\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/"
+    ]
+  },
+  {
+    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+    "published_wib": "2026-09-10T01:26:05+07:00",
+    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compou\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html"
+    ]
+  },
+  {
+    "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
+    "published_wib": "2026-09-10T00:46:24+07:00",
+    "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33324"
+    ]
+  },
+  {
+    "title": "Serial Microsoft 0-day hunter drops yet another Defender exploit",
+    "published_wib": "2026-09-10T00:23:00+07:00",
+    "summary": "A bypass of a bypass of a bypass",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/09/serial-microsoft-0-day-hunter-drops-yet-another-defender-exploit/5295335"
+    ]
+  },
+  {
+    "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+    "published_wib": "2026-09-09T23:56:25+07:00",
+    "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/"
+    ]
+  },
+  {
+    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+    "published_wib": "2026-09-09T23:34:05+07:00",
+    "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html"
+    ]
+  }
+]
