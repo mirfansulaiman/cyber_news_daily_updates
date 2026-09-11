@@ -1,0 +1,102 @@
+[
+  {
+    "title": "2026-09-08: XWorm infection",
+    "published_wib": "2026-09-11T03:05:00+07:00",
+    "summary": "2026-09-08: XWorm infection",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/09/08/index.html"
+    ]
+  },
+  {
+    "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+    "published_wib": "2026-09-10T23:00:00+07:00",
+    "summary": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/"
+    ]
+  },
+  {
+    "title": "PaperCut MF/NG flaws attacked with hundreds of AI agents",
+    "published_wib": "2026-09-10T20:55:42+07:00",
+    "summary": "The AI-assisted campaign enabled attackers to gain domain admin in as little as 5 minutes.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/news/papercut-mfng-flaws-attacked-with-hundreds-of-ai-agents"
+    ]
+  },
+  {
+    "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+    "published_wib": "2026-09-10T18:33:43+07:00",
+    "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+    "published_wib": "2026-09-10T17:10:11+07:00",
+    "summary": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33328"
+    ]
+  },
+  {
+    "title": "[+24h Old] ANY.RUN Secures Leader Status in G2\u2019s Malware Analysis Rankings",
+    "published_wib": "2026-09-10T16:39:01+07:00",
+    "summary": "We\u2019re excited to share that ANY.RUN has once again been recognized by G2 as a leader in malware analysis. In G2\u2019s Fall 2026 awards, we earned both Momentum Leader and Grid Leader recognition, highlighting our continued growth and strong position in the market. Most importantly, these achievements reflect the trust security professionals place in ANY.RUN [\u2026]\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/g2-leader-fall-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Product showcase: GitGuardian Honeytoken catches credential theft as it happens",
+    "published_wib": "2026-09-10T12:30:24+07:00",
+    "summary": "Credential harvesting on developer machines has widened. Earlier infostealers worked from a short list of known targets, mostly browser stores and a few cloud credential paths. The families active now cast a much wider net. Shai-Hulud, for instance, ran a secret scanner across the entire filesystem and validated whatever it turned up, rather than checking a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Cybercriminals are building phishing pages that exist only inside victims\u2019 browsers",
+    "published_wib": "2026-09-10T12:00:14+07:00",
+    "summary": "A phishing campaign routes victims through genuine Microsoft OAuth and Teams infrastructure before showing them a fake login page built entirely inside their own browser, according to researchers at Barracuda. \u201cInstead of delivering a phishing page from a web server, the malicious content is assembled inside the victim\u2019s browser using a blob URL \u2014 a tempora\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/"
+    ]
+  },
+  {
+    "title": "[+24h Old] AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+    "published_wib": "2026-09-10T04:30:36+07:00",
+    "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls",
+    "published_wib": "2026-09-09T22:00:00+07:00",
+    "summary": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/"
+    ]
+  }
+]

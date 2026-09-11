@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
+    "published_wib": "2026-09-11T03:36:03+07:00",
+    "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data"
+    ]
+  },
+  {
+    "title": "When English becomes exploit code: The hidden risk inside MCP servers",
+    "published_wib": "2026-09-11T03:28:01+07:00",
+    "summary": "A harmless-looking sentence can influence an agent's choices once it enters a model's context.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/when-english-becomes-exploit-code-the-hidden-risk-inside-mcp-servers"
+    ]
+  },
+  {
+    "title": "CISA: WatchGuard Firebox bug exploited in ransomware campaigns",
+    "published_wib": "2026-09-11T02:47:06+07:00",
+    "summary": "Ransomware gangs are exploiting a WatchGuard Firebox flaw that CISA flagged nine months ago.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisa-watchguard-firebox-bug-exploited-in-ransomware-campaigns"
+    ]
+  },
+  {
+    "title": "VU#687587: AOMEI Backupper amwrtdrv.sys local privilege escalation vulnerability allows arbitrary writes to physical disks",
+    "published_wib": "2026-09-11T00:46:33.261977+07:00",
+    "summary": "Overview An incorrect permissions assignment vulnerability in the amwrtdrv.sys kernel driver, included with AOMEI Backupper 8.4.0, allows an unprivileged local user to perform arbitrary writes to the physical disk. When Secure Boot is disabled, this can be leveraged to execute arbitrary UEFI-level code before the operating system loads. This allows an attac\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/687587"
+    ]
+  },
+  {
+    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+    "published_wib": "2026-09-10T22:55:56+07:00",
+    "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/"
+    ]
+  },
+  {
+    "title": "BlueMoon exploit kit turns Chrome and Windows flaws into attacks",
+    "published_wib": "2026-09-10T22:49:13+07:00",
+    "summary": "Four different espionage groups used the same exploit kit to target recently fixed flaws, showing why \u201cpatch later\u201d is a dangerous gamble.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malwarebytes.com/blog/bugs/2026/09/bluemoon-exploit-kit-turns-chrome-and-windows-flaws-into-attacks"
+    ]
+  },
+  {
+    "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+    "published_wib": "2026-09-10T22:43:58+07:00",
+    "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/"
+    ]
+  },
+  {
+    "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+    "published_wib": "2026-09-10T22:29:12+07:00",
+    "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit"
+    ]
+  },
+  {
+    "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+    "published_wib": "2026-09-10T21:11:34+07:00",
+    "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/"
+    ]
+  },
+  {
+    "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
+    "published_wib": "2026-09-10T20:39:52+07:00",
+    "summary": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/"
+    ]
+  }
+]

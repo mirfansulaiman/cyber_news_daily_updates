@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Android malware encrypts files, steals data, and harasses victims",
+    "published_wib": "2026-09-11T04:40:43+07:00",
+    "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/"
+    ]
+  },
+  {
+    "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+    "published_wib": "2026-09-11T02:15:07+07:00",
+    "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/"
+    ]
+  },
+  {
+    "title": "Follow the Money: The Financial Sector's Threat Landscape in 2026",
+    "published_wib": "2026-09-11T01:45:00+07:00",
+    "summary": "The financial sector moves trillions of dollars a day, making it one of the most heavily targeted industries in the world. Intel 471's latest report breaks down the threat landscape facing financial institutions, from ransomware and extortion groups to initial access brokers, nation-state activity and insider risks.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.intel471.com/blog/follow-the-money-the-financial-sectors-threat-landscape-in-2026"
+    ]
+  },
+  {
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "published_wib": "2026-09-11T00:47:38+07:00",
+    "summary": "A lot of this week\u2019s security news has the same awkward answer to one question: \u201cWhy was that allowed to work?\u201d An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn\u2019t. Different stories, same basic prob\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html"
+    ]
+  },
+  {
+    "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+    "published_wib": "2026-09-11T00:23:05+07:00",
+    "summary": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post Protecting organizations from AI-assisted executive impersonation and invoice fraud appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
+    ]
+  },
+  {
+    "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
+    "published_wib": "2026-09-10T21:55:33+07:00",
+    "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/"
+    ]
+  },
+  {
+    "title": "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
+    "published_wib": "2026-09-10T20:13:00+07:00",
+    "summary": "Have I Been Pwned logs leaked records spanning patients, staff, and providers",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550"
+    ]
+  },
+  {
+    "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
+    "published_wib": "2026-09-10T20:00:00+07:00",
+    "summary": "MantaxOtax Android malware combines ransomware with extensive spyware capabilities",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/"
+    ]
+  },
+  {
+    "title": "4.1 Million Impacted by AdaptHealth Data Breach",
+    "published_wib": "2026-09-10T18:20:43+07:00",
+    "summary": "In June 2026, hackers stole personal, health, and insurance information from AdaptHealth\u2019s systems. The post 4.1 Million Impacted by AdaptHealth Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/"
+    ]
+  },
+  {
+    "title": "The longitude problem: In the AI era, detection is won on facts, not guesses",
+    "published_wib": "2026-09-10T17:00:00+07:00",
+    "summary": "For most of the age of sail, a captain could find his latitude in minutes and could not find his longitude at all. Latitude you could read off the sun. Longitude, your position east to west, offered no such trick. Three weeks into the Atlantic, a navigator knew how far north he was and could only estimate how far along he had come. The estimate was often wr\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4220266/the-longitude-problem-in-the-ai-era-detection-is-won-on-facts-not-guesses.html"
+    ]
+  }
+]
