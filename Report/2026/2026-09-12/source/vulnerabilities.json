@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Why AI raises the stakes for exposure validation",
+    "published_wib": "2026-09-12T04:49:32+07:00",
+    "summary": "AI dominated the conversation at Fal.Con 2026, but one of the most important takeaways wasn\u2019t simply how AI is changing cyber defense. It was how AI is changing the speed and scale of a problem defenders already face. Security teams already have more vulnerabilities and security signals than they can reasonably act on. As AI makes it faster to discover vuln\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4221299/why-ai-raises-the-stakes-for-exposure-validation.html"
+    ]
+  },
+  {
+    "title": "Max severity GitLab path traversal flaw under active reconnaissance",
+    "published_wib": "2026-09-12T04:19:47+07:00",
+    "summary": "The flaw could enable sensitive files to be read with just an HTTP request.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/max-severity-gitlab-path-traversal-flaw-under-active-reconnaissance"
+    ]
+  },
+  {
+    "title": "VU#369611: ExLlamaV3 contains Denial of Service vulnerability via insufficient bounds checking on kernel dispatch index",
+    "published_wib": "2026-09-12T03:11:37.865781+07:00",
+    "summary": "Overview An out-of-bounds (OOB) memory access vulnerability involving unchecked array indexing has been identified in the exllamav3_ext compute unified device architecture ( CUDA ) extension. Successful exploitation can lead to an immediate denial of service or application instability. This vulnerability is tracked as CVE-2026-84286. Description An OOB memo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/369611"
+    ]
+  },
+  {
+    "title": "Check Point patches two critical VPN gateway bugs",
+    "published_wib": "2026-09-12T02:00:00+07:00",
+    "summary": "Check Point fixed two 9.8-severity VPN flaws before any known exploitation in the wild.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/check-point-patches-two-critical-vpn-gateway-bugs"
+    ]
+  },
+  {
+    "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+    "published_wib": "2026-09-12T01:44:03+07:00",
+    "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate"
+    ]
+  },
+  {
+    "title": "More JFrog Artifactory bugs under attack, and all 3 have patches",
+    "published_wib": "2026-09-12T00:43:30+07:00",
+    "summary": "If you're waiting for a sign to upgrade to a fixed version: this is it",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943"
+    ]
+  },
+  {
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    "published_wib": "2026-09-11T23:30:18+07:00",
+    "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+    ]
+  },
+  {
+    "title": "ConnectWise patches critical ScreenConnect authentication failure after five days",
+    "published_wib": "2026-09-11T23:17:07+07:00",
+    "summary": "ConnectWise has issued a security update for ScreenConnect, five days after warning customers the product could allow files to be transferred and executed through active remote sessions without authorization or confirmation. The company warned customers on Sept. 3 of the problem with support and access sessions in ConnectWise Remote Access, advising admins\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4221263/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days-2.html"
+    ]
+  },
+  {
+    "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+    "published_wib": "2026-09-11T23:11:08+07:00",
+    "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/"
+    ]
+  },
+  {
+    "title": "India\u2019s STPI serves TerminalFix-style attack via fake Cloudflare check",
+    "published_wib": "2026-09-11T22:26:58+07:00",
+    "summary": "A website linked to India\u2019s Software Technology Parks of India (STPI) is serving a spoofed Cloudflare verification page that silently copies a malicious string to visitors\u2019 clipboards and prompts them to execute it via Windows Terminal, in a technique consistent with emerging TerminalFix-style attacks. STPI, a Government of India organization that supports\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4221243/indias-stpi-serves-terminalfix-style-attack-via-fake-cloudflare-check.html"
+    ]
+  }
+]

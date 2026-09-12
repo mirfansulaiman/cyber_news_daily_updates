@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Why AI raises the stakes for exposure validation
+- Max severity GitLab path traversal flaw under active reconnaissance
+- 9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615
+- VU#369611: ExLlamaV3 contains Denial of Service vulnerability via insufficient bounds checking on kernel dispatch index
+- Threat Actor Generates 1M Personalized Fraud Emails in 3 Days
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by 9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Why AI raises the stakes for exposure validation. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Threat Actor Generates 1M Personalized Fraud Emails in 3 Days. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
