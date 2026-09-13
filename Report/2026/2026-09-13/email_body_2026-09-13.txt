@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
+- Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent
+- BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days
+- [+24h Old] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
+- [+24h Old] Why AI raises the stakes for exposure validation
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Threat Actor Generates 1M Personalized Fraud Emails in 3 Days. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
