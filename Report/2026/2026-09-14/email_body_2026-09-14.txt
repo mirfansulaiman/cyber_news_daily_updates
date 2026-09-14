@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers exploit Tencent app flaw to deploy GrayRabbit malware
+- Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
+- [+24h Old] Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited
+- [+24h Old] CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
+- [+24h Old] Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers exploit Tencent app flaw to deploy GrayRabbit malware. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+48h Old] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "published_wib": "2026-09-12T16:07:56+07:00",
+    "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] 9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615",
+    "published_wib": "2026-09-12T04:00:00+07:00",
+    "summary": "9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15298-9-11-at-25-offerloader-gemini-cli-liquid-10-doom-josh-marpet-and-more-swn-615"
+    ]
+  },
+  {
+    "title": "[+48h Old] Artifactory flaws chained in attacks deploying backdoor malware",
+    "published_wib": "2026-09-11T23:29:44+07:00",
+    "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+    ]
+  },
+  {
+    "title": "[+48h Old] In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+    "published_wib": "2026-09-11T21:19:18+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+    "published_wib": "2026-09-11T21:10:20+07:00",
+    "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader rep\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+    "published_wib": "2026-09-11T21:01:11+07:00",
+    "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
+    "published_wib": "2026-09-11T20:30:00+07:00",
+    "summary": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365\u2019s Direct Send to send malicious emails",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+    "published_wib": "2026-09-11T19:48:04+07:00",
+    "summary": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
+    "published_wib": "2026-09-11T19:15:00+07:00",
+    "summary": "Swapping legal work for malware development ended in extradition and a guilty plea",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841"
+    ]
+  },
+  {
+    "title": "[+48h Old] Android malware creates a hidden copy of your banking app",
+    "published_wib": "2026-09-11T19:14:55+07:00",
+    "summary": "The Gigabud banking Trojan can clone a banking app into a separate work profile on an Android device to help hide fraudulent transactions.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/mobile/2026/09/android-malware-creates-a-hidden-copy-of-your-banking-app"
+    ]
+  }
+]
