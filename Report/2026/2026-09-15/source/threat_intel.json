@@ -1,0 +1,102 @@
+[
+  {
+    "title": "HBO Max Reddit account compromised to serve ClickFix attacks",
+    "published_wib": "2026-09-15T05:43:01+07:00",
+    "summary": "Part of a 'massive 48-hour malvertising blitz' targeting macOS and Windows machines with malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408"
+    ]
+  },
+  {
+    "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+    "published_wib": "2026-09-15T04:37:28+07:00",
+    "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink"
+    ]
+  },
+  {
+    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+    "published_wib": "2026-09-15T01:34:16+07:00",
+    "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/"
+    ]
+  },
+  {
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    "published_wib": "2026-09-15T01:01:49+07:00",
+    "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html"
+    ]
+  },
+  {
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+    "published_wib": "2026-09-14T23:15:58+07:00",
+    "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/"
+    ]
+  },
+  {
+    "title": "[+24h Old] UK.gov begins killing off passwords for 23 million users",
+    "published_wib": "2026-09-14T16:16:11+07:00",
+    "summary": "Passkeys promise fewer phishing headaches \u2013 and \u00a3600 a day off Whitehall's SMS bill",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/14/ukgov-begins-killing-off-passwords-for-23-million-users/5296088"
+    ]
+  },
+  {
+    "title": "[+24h Old] How to level up from security pro to security leader",
+    "published_wib": "2026-09-14T15:25:00+07:00",
+    "summary": "There comes a time in a cybersecurity professional\u2019s life when being a tech expert is no longer enough. The next step may lead to management or the C-suite, but the goal demands a different kind of expertise. Technical skills will continue to serve a new CISO well, but the role demands additional capabilities built on that foundation. That may mean prioriti\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4221303/how-to-level-up-from-security-pro-to-security-leader.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+    "published_wib": "2026-09-14T09:00:03+07:00",
+    "summary": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33334"
+    ]
+  },
+  {
+    "title": "[+48h Old] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "published_wib": "2026-09-12T16:07:56+07:00",
+    "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that t\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] 9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615",
+    "published_wib": "2026-09-12T04:00:00+07:00",
+    "summary": "9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15298-9-11-at-25-offerloader-gemini-cli-liquid-10-doom-josh-marpet-and-more-swn-615"
+    ]
+  }
+]

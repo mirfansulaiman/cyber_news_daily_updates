@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+    "published_wib": "2026-09-15T03:36:02+07:00",
+    "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/"
+    ]
+  },
+  {
+    "title": "Bitsight connects threat intelligence and exposure monitoring across the supply chain",
+    "published_wib": "2026-09-14T20:42:56+07:00",
+    "summary": "Bitsight access to a broad risk dataset, combining threat intelligence and continuous exposure monitoring to help teams mitigate risk across the supply chain. \u201cThe surge in third-party-originating cybersecurity breaches demands a fundamental shift in how cybersecurity leaders and their teams manage third-party cybersecurity risks,\u201d said Gartner. \u201cCybersecur\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/14/bitsight-beacon/"
+    ]
+  },
+  {
+    "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+    "published_wib": "2026-09-14T20:03:35+07:00",
+    "summary": "The company unintentionally disclosed users\u2019 information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/"
+    ]
+  },
+  {
+    "title": "14th September \u2013 Threat Intelligence Report",
+    "published_wib": "2026-09-14T19:22:06+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 14th Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES IDScan.net, a US identity verification provider, has disclosed a data breach after detecting unauthorized access on September 1. Exposed data included names and government identification numbers, while a cri\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+    "published_wib": "2026-09-14T19:15:23+07:00",
+    "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/"
+    ]
+  },
+  {
+    "title": "Revolut Confirms Data Breach Through Fake Government Requests",
+    "published_wib": "2026-09-14T18:20:00+07:00",
+    "summary": "An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Telus Warns Customers of Account Breaches",
+    "published_wib": "2026-09-14T16:56:57+07:00",
+    "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/telus-warns-customers-of-account-breaches/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Revolut discloses data breach exposing financial info, passports",
+    "published_wib": "2026-09-14T15:48:24+07:00",
+    "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+    "published_wib": "2026-09-14T14:24:39+07:00",
+    "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox A\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] What we know about the Revolut data breach so far",
+    "published_wib": "2026-09-14T14:02:51+07:00",
+    "summary": "Someone impersonating a government agency, using an email address on that agency\u2019s domain, obtained sensitive customer records from Revolut. The bank confirmed the incident on Saturday, September 12. The London-based fintech told TechCrunch that a limited number of customers were affected and that it had contacted them directly. The notification Revolut ema\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/"
+    ]
+  }
+]
