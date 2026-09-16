@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+    "published_wib": "2026-09-15T23:40:14+07:00",
+    "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
+    ]
+  },
+  {
+    "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+    "published_wib": "2026-09-15T22:30:24+07:00",
+    "summary": "A hacker claims to have stolen 7.5 million customer records after breaching the company\u2019s systems. The post Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/"
+    ]
+  },
+  {
+    "title": "Most Fraudulent Hires Receive Credentials Before Detection",
+    "published_wib": "2026-09-15T22:15:00+07:00",
+    "summary": "A new report highlights the vast growth in fraudulent candidates, presenting significant insider threat challenges to organizations",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/"
+    ]
+  },
+  {
+    "title": "Most Firms Unable to Recover Quickly from Ransomware",
+    "published_wib": "2026-09-15T21:30:00+07:00",
+    "summary": "Fenix24 found only four of more than 800 clients came close to stated ransomware recovery targets of 24-48 hours",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/four-of-800-clients-hit-ransomware/"
+    ]
+  },
+  {
+    "title": "F5 Bot Defense uses real-time risk scoring to detect fraud and abuse",
+    "published_wib": "2026-09-15T20:55:44+07:00",
+    "summary": "F5 has announced enhancements to F5 Distributed Cloud Bot Defense, introducing new device intelligence capabilities and specialized agentic AI protections. These capabilities bring persistent device context and continuous risk decisioning to application security, giving organizations the real-time agent management designed to help welcome trusted digital in\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/15/f5-distributed-cloud-bot-defense-enhancements/"
+    ]
+  },
+  {
+    "title": "Black Axe Members Extradited to US Over Internet Fraud Claims",
+    "published_wib": "2026-09-15T20:45:00+07:00",
+    "summary": "Alleged Black Axe leaders extradited to the US over romance scams, BEC and money laundering claims",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/black-axe-members-extradited-us/"
+    ]
+  },
+  {
+    "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
+    "published_wib": "2026-09-15T20:32:00+07:00",
+    "summary": "The man allegedly wrote the code that powered the Lockergoga, MegaCortex, and Nefilim operations",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482"
+    ]
+  },
+  {
+    "title": "Globalgig expands managed security portfolio to protect enterprise AI",
+    "published_wib": "2026-09-15T20:21:28+07:00",
+    "summary": "Globalgig has expanded its managed security portfolio to cover enterprise AI, bringing together services that discover, assess, and protect the AI applications, agents, models, and data enterprises are putting into production. The services are delivered through the same managed model that already covers the edge, endpoints, identities, and security operatio\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/15/globalgig-expands-managed-security-with-ai-protection/"
+    ]
+  },
+  {
+    "title": "eBook: Identity-First Threat Intelligence",
+    "published_wib": "2026-09-15T20:00:09+07:00",
+    "summary": "Attackers increasingly bypass traditional defenses by logging in with credentials that have already been stolen, exposed, or sold on the Dark Web. As infostealer malware accelerates credential theft, organizations need greater visibility into identity risk across Active Directory, IAM, and authentication environments. Download the e-book to explore: How inf\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Suspected Black Axe gang leaders face cybercrime charges in the US",
+    "published_wib": "2026-09-15T16:50:25+07:00",
+    "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/"
+    ]
+  }
+]

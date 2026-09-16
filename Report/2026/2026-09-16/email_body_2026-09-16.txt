@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- The vulnpocalypse rains iBugs down on Apple with record-setting number of patches
+- Acronis warns of actively exploited flaw in its cPanel backup plugin
+- Oracle September 2026 Critical Security Patch Update addresses 672 CVEs
+- Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites
+- Microsoft Issues Emergency Fixes After Massive Patch Tuesday
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by The vulnpocalypse rains iBugs down on Apple with record-setting number of patches. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by CenterPoint Energy confirms customer data stolen in cyberattack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

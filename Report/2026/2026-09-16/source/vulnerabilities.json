@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+    "published_wib": "2026-09-16T04:38:31+07:00",
+    "summary": "September Patch Tuesday part 2?",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679"
+    ]
+  },
+  {
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "published_wib": "2026-09-16T04:37:35+07:00",
+    "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/"
+    ]
+  },
+  {
+    "title": "Oracle September 2026 Critical Security Patch Update addresses 672 CVEs",
+    "published_wib": "2026-09-16T04:00:28+07:00",
+    "summary": "Oracle addresses 672 CVEs in its September 2026 Critical Security Patch Update with 673 patches, including 104 critical updates. Key Takeaways The September 2026 Critical Security Patch Update (CSPU) contains fixes for 672 unique CVEs in 673 security updates 104 issues (15.5% of all patches) were assigned a critical severity rating Oracle E-Business Suite r\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/oracle-september-2026-critical-security-patch-update-addresses-672-cves"
+    ]
+  },
+  {
+    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+    "published_wib": "2026-09-16T03:16:00+07:00",
+    "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
+    ]
+  },
+  {
+    "title": "Critical Cisco Secure Email Gateway zero-day gives attackers root access",
+    "published_wib": "2026-09-16T02:56:58+07:00",
+    "summary": "Cisco released emergency patches for a critical vulnerability in its Secure Email Gateway appliance that could allow attackers to take over the device by simply sending malicious crafted emails to users. The flaw was already being exploited in the wild when the fixes were released. Tracked as CVE-2026-76461, the vulnerability is described by Cisco as an SQL\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4222391/critical-cisco-secure-email-gateway-zero-day-gives-attackers-root-access.html"
+    ]
+  },
+  {
+    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident",
+    "published_wib": "2026-09-16T02:27:19+07:00",
+    "summary": "The 'Breaking' News: The OpenAI\u2013Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk"
+    ]
+  },
+  {
+    "title": "Patched VMware vCenter bug targeted in ransomware campaigns",
+    "published_wib": "2026-09-16T02:13:26+07:00",
+    "summary": "Ransomware groups exploit a critical VMware vCenter bug just seven weeks after patch released.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/patched-vmware-vcenter-bug-targeted-in-ransomware-campaigns"
+    ]
+  },
+  {
+    "title": "Before You Patch. Why Patch Reliability Matters for Confident Deployment",
+    "published_wib": "2026-09-16T01:00:53+07:00",
+    "summary": "Executive Summary Microsoft\u2019s September 2026 security updates, KB5124008 and KB5124012, have been linked to USB audio failures on some Windows systems, highlighting the operational risk that can accompany security patching. Qualys TruRisk Eliminate classified both updates as Low Reliability, signaling the need for additional validation before production dep\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/09/15/before-you-patch-why-patch-reliability-matters-for-confident-deployment"
+    ]
+  },
+  {
+    "title": "Cisco email security boxes can be rooted by... an email",
+    "published_wib": "2026-09-15T23:01:00+07:00",
+    "summary": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
+    ]
+  },
+  {
+    "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+    "published_wib": "2026-09-15T23:00:00+07:00",
+    "summary": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage. The post $1 Million Sandbox Challenge Uncovers Linux Kernel Flaws appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/"
+    ]
+  }
+]
