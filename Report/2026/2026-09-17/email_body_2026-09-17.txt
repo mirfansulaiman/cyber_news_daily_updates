@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- CISA decides weekly vulnerability bulletin isn't necessary anymore
+- Iranian hackers use CHOSEN BRICK Windows malware to spy on targets
+- ConnectWise ScreenConnect bug exploited in the wild, CISA says
+- LinkedIn fights for the right to tell customers when the feds want their data
+- Malware bypasses browser checks to force install Chrome, Edge extensions
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Iranian hackers use CHOSEN BRICK Windows malware to spy on targets. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CISA decides weekly vulnerability bulletin isn't necessary anymore. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Spain's data agency gets first report of AI-powered data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

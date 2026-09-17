@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CISA decides weekly vulnerability bulletin isn't necessary anymore",
+    "published_wib": "2026-09-17T03:33:48+07:00",
+    "summary": "Agency's shift from static CVSS scores to risk-based prioritization sends the old format packing September 28",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968"
+    ]
+  },
+  {
+    "title": "ConnectWise ScreenConnect bug exploited in the wild, CISA says",
+    "published_wib": "2026-09-17T02:58:09+07:00",
+    "summary": "Experts warn teams to patch right away to prevent a potential ransomware incident.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/connectwise-screenconnect-bug-exploited-in-the-wild-cisa-says"
+    ]
+  },
+  {
+    "title": "LinkedIn fights for the right to tell customers when the feds want their data",
+    "published_wib": "2026-09-17T02:50:34+07:00",
+    "summary": "Microsoft\u2019s top lawyer argued Tuesday that legislators \u201cmust make secrecy [orders] the exception\u201d in government subpoenas demanding information about LinkedIn users. LinkedIn, which is owned by Microsoft, is fighting what it calls overly broad subpoena demands from the US government, which sometimes come with secrecy orders that prevent LinkedIn from alerti\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4222946/linkedin-fights-for-the-right-to-tell-customers-when-the-feds-want-their-data.html"
+    ]
+  },
+  {
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+    "published_wib": "2026-09-17T01:50:53+07:00",
+    "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/"
+    ]
+  },
+  {
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "published_wib": "2026-09-17T01:14:22+07:00",
+    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+    ]
+  },
+  {
+    "title": "Google Pixel phones pwned in zero-click attacks",
+    "published_wib": "2026-09-17T00:56:31+07:00",
+    "summary": "CISA gives federal agencies just 3 days to patch",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936"
+    ]
+  },
+  {
+    "title": "VU#369093: MLflow dspy and statsmodels flavors bypass pickle deserialization control",
+    "published_wib": "2026-09-17T00:10:46.251142+07:00",
+    "summary": "Overview A vulnerability in MLflow\u2019s dspy and statsmodels model flavors allows unauthorized pickle deserialization executions despite a safety control. Specifically, the dspy flavor conditionally applies the control based on the model path\u2019s file extension, and the statsmodels flavor does not apply the control. Description MLflow is an open-source platform\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/369093"
+    ]
+  },
+  {
+    "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+    "published_wib": "2026-09-16T23:39:19+07:00",
+    "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/"
+    ]
+  },
+  {
+    "title": "Big Tech\u2019s AI safety rift signals disruption and disparity for enterprises",
+    "published_wib": "2026-09-16T23:19:26+07:00",
+    "summary": "A growing divide among leading AI companies over how to secure increasingly powerful models is beginning to translate into challenges for enterprise IT, with implications for how organizations access, deploy, and govern AI systems. The latest flashpoint came after Meta CEO Mark Zuckerberg called for neutral evaluators to independently test AI models, pushin\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4222904/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises-3.html"
+    ]
+  },
+  {
+    "title": "Oracle\u2019s September patches put Fusion Middleware back in the hot seat",
+    "published_wib": "2026-09-16T22:54:18+07:00",
+    "summary": "Oracle\u2019s September 2026 Critical Security Patch Update has arrived with 673 new security patches spanning 17 Oracle product families, with Oracle E-Business Suite accounting for the largest share at 159 patches, followed by Fusion Middleware with 153. Of these, 19 E-Business Suite vulnerabilities and 78 Fusion Middleware vulnerabilities can be remotely expl\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4222875/oracles-september-patches-put-fusion-middleware-back-in-the-hot-seat-2.html"
+    ]
+  }
+]

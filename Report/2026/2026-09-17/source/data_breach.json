@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Spain's data agency gets first report of AI-powered data breach",
+    "published_wib": "2026-09-17T00:26:41+07:00",
+    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
+    ]
+  },
+  {
+    "title": "The true cost of a ransomware attack, with and without BCDR",
+    "published_wib": "2026-09-16T21:00:10+07:00",
+    "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/"
+    ]
+  },
+  {
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+    "published_wib": "2026-09-16T19:11:19+07:00",
+    "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/"
+    ]
+  },
+  {
+    "title": "280,000 Impacted by Premier Medical Group Data Breach",
+    "published_wib": "2026-09-16T17:47:18+07:00",
+    "summary": "In June 2026, hackers accessed files containing patients\u2019 names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/"
+    ]
+  },
+  {
+    "title": "CenterPoint Energy confirms data breach following claims on hacking forum",
+    "published_wib": "2026-09-16T17:35:02+07:00",
+    "summary": "CenterPoint Energy disclosed that an unauthorized third party got into customer data through one of its external systems, after online claims by a hacker that millions of records had been stolen from the company. CenterPoint Energy is a Houston-based public utility company that provides electricity and natural gas services. It serves about 7 million custome\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/16/centerpoint-energy-data-breach-hacker-claims/"
+    ]
+  },
+  {
+    "title": "[+24h Old] You don\u2019t have to join the hack-back program to inherit its risk",
+    "published_wib": "2026-09-16T16:00:00+07:00",
+    "summary": "The obvious question about Washington\u2019s new private offensive cyber program is which security vendors will join it. The CSO question is what happens to you when one of your vendors does. The August 12 National Security Presidential Memorandum , \u201cExpanding Capabilities to Combat Transnational Cyber-Enabled Crime,\u201d directs the National Coordination Center to\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4222302/you-dont-have-to-join-the-hack-back-program-to-inherit-its-risk.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI helps scammers build convincing antivirus renewal pages",
+    "published_wib": "2026-09-16T15:41:19+07:00",
+    "summary": "A fake Avast renewal page shows how AI is helping scammers create more convincing traps with polished designs and fluent copy.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/09/ai-helps-scammers-build-convincing-antivirus-renewal-pages"
+    ]
+  },
+  {
+    "title": "[+24h Old] CenterPoint Energy confirms customer data stolen in cyberattack",
+    "published_wib": "2026-09-15T23:40:14+07:00",
+    "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Most Fraudulent Hires Receive Credentials Before Detection",
+    "published_wib": "2026-09-15T22:15:00+07:00",
+    "summary": "A new report highlights the vast growth in fraudulent candidates, presenting significant insider threat challenges to organizations",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Most Firms Unable to Recover Quickly from Ransomware",
+    "published_wib": "2026-09-15T21:30:00+07:00",
+    "summary": "Fenix24 found only four of more than 800 clients came close to stated ransomware recovery targets of 24-48 hours",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/four-of-800-clients-hit-ransomware/"
+    ]
+  }
+]
