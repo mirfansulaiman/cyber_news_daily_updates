@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom
+- New RatHat Android malware uses AI to automate device control
+- CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus
+- Cisco patches max-severity ISE flaw, the second critical zero-day this week
+- AI hates CAPTCHAs - PSW #944
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New RatHat Android malware uses AI to automate device control. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

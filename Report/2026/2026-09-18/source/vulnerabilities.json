@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+    "published_wib": "2026-09-18T05:42:29+07:00",
+    "summary": "Plugin4Shell attack affects all the major coding agents, researchers say",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335"
+    ]
+  },
+  {
+    "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+    "published_wib": "2026-09-18T04:23:50+07:00",
+    "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus"
+    ]
+  },
+  {
+    "title": "Cisco patches max-severity ISE flaw, the second critical zero-day this week",
+    "published_wib": "2026-09-18T04:03:58+07:00",
+    "summary": "Cisco released patches for an actively exploited authentication bypass vulnerability in its Cisco Identity Services Engine (ISE) platform, which is used for enterprise network access control and policy enforcement. This is the second zero-day flaw Cisco has been forced to release emergency patches for this week, after fixing a critical vulnerability in its\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4223535/cisco-patches-max-severity-ise-flaw-the-second-critical-zero-day-this-week.html"
+    ]
+  },
+  {
+    "title": "Cisco patches 10.0 ISE bug exploited in the wild",
+    "published_wib": "2026-09-18T02:35:54+07:00",
+    "summary": "Actively exploited Cisco ISE flaw could give attackers a path to expand network access.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisco-patches-10-0-ise-bug-exploited-in-the-wild"
+    ]
+  },
+  {
+    "title": "The Autonomous Engine Behind Remediation, and What Finally Makes It Safe",
+    "published_wib": "2026-09-18T02:05:17+07:00",
+    "summary": "Executive Summary Vulnerability exploitation now happens at a speed that manual, ticket-based remediation can\u2019t match. Qualys\u2019s Enterprise TruRisk Management Platform closes that gap with autonomous remediation: exposures are prioritized by threat, business, and environmental context, then validated by TruConfirm and Agent Val before any resource is committ\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/09/17/the-autonomous-engine-behind-remediation-and-what-finally-makes-it-safe"
+    ]
+  },
+  {
+    "title": "OpenAI admits six new misalignment incidents under new reporting framework",
+    "published_wib": "2026-09-17T22:46:10+07:00",
+    "summary": "OpenAI has published six new reports detailing AI model misalignment, including instances of hidden instructions, unauthorized communication, and attempts to locate exposed API keys, adding to the evidence that its AI systems bypassed controls during testing. The reports, based on internal evaluations, describe models taking actions beyond defined constrain\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4223458/openai-admits-six-new-misalignment-incidents-under-new-reporting-framework.html"
+    ]
+  },
+  {
+    "title": "VU#280377: Dokploy is vulnerable to OS command injection",
+    "published_wib": "2026-09-17T22:02:59.850052+07:00",
+    "summary": "Overview Dokploy versions 0.29.8 and 0.29.11, as well as commit 24b02f5 on the canary branch, are vulnerable to OS command injection during the backup creation and restoration processes. The vulnerability stems from unsanitized shell command construction that can allow an attacker to escalate privileges and lead to full compromise of the target device. Desc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/280377"
+    ]
+  },
+  {
+    "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+    "published_wib": "2026-09-17T21:28:00+07:00",
+    "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/"
+    ]
+  },
+  {
+    "title": "Flaws in The Events Calendar WordPress plugin enable unauthenticated RCE",
+    "published_wib": "2026-09-17T20:37:19+07:00",
+    "summary": "Both flaws can be exploited by leaving an anonymous comment on an event page.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/flaws-in-the-events-calendar-wordpress-plugin-enable-unauthenticated-rce"
+    ]
+  },
+  {
+    "title": "Iranian strikes on AWS facilities left customer data beyond recovery in Bahrain, UAE",
+    "published_wib": "2026-09-17T20:12:47+07:00",
+    "summary": "Six months after Iranian drone strikes tore through its Middle East infrastructure, Amazon Web Services (AWS) has acknowledged the permanent loss of customer data in Bahrain and the UAE. In two updates posted September 15, AWS said it can no longer recover customer data and resources stored in its Middle East (Bahrain) region, known as me-south-1, or in one\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/17/aws-middle-east-outage-permanent-data-loss-bahrain-uae/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New RatHat Android malware uses AI to automate device control",
+    "published_wib": "2026-09-18T04:50:26+07:00",
+    "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/"
+    ]
+  },
+  {
+    "title": "AI hates CAPTCHAs - PSW #944",
+    "published_wib": "2026-09-18T04:00:00+07:00",
+    "summary": "AI hates CAPTCHAs - PSW #944",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15242-ai-hates-captchas-psw-944"
+    ]
+  },
+  {
+    "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+    "published_wib": "2026-09-18T02:15:38+07:00",
+    "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america"
+    ]
+  },
+  {
+    "title": "China's Salt Typhoon backdoors Latin American orgs with new snooping malware",
+    "published_wib": "2026-09-18T01:00:17+07:00",
+    "summary": "Beware the SparroWocky, my son! The backdoor that bites\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286"
+    ]
+  },
+  {
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+    "published_wib": "2026-09-18T00:11:34+07:00",
+    "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/"
+    ]
+  },
+  {
+    "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
+    "published_wib": "2026-09-17T22:06:44+07:00",
+    "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an employee of a legitimate company.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33348"
+    ]
+  },
+  {
+    "title": "FamousSparrow Swaps SparrowDoor For New SparroWocky Backdoor",
+    "published_wib": "2026-09-17T22:00:00+07:00",
+    "summary": "ESET said FamousSparrow has replaced SparrowDoor with SparroWocky",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin/"
+    ]
+  },
+  {
+    "title": "A fake ChatGPT billing email is after your OpenAI password",
+    "published_wib": "2026-09-17T20:01:40+07:00",
+    "summary": "A fake ChatGPT billing email is steering users to a copy of the OpenAI login page that keeps whatever username and password they type. Josh Varden of Cofense\u2019s Phishing Defense Center traced the email\u2019s payment button through a Google redirect to the attacker\u2019s page. The lure targets ChatGPT users on work and personal accounts alike, and it copies the kind\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/17/chatgpt-phishing-email-openai-password/"
+    ]
+  },
+  {
+    "title": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents",
+    "published_wib": "2026-09-17T20:00:53+07:00",
+    "summary": "Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as \"The Odyssey,\" and uses the Solana blockchain to hide its C2 infrastructure.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/"
+    ]
+  },
+  {
+    "title": "New Chinese-Made \u2018RatHat\u2019 Android Malware Leverages AI to Steal Financial Data",
+    "published_wib": "2026-09-17T20:00:00+07:00",
+    "summary": "Researchers at Zimperium have uncovered a new Android malware strain, dubbed RatHat, with spyware and backdoor capabilities",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/"
+    ]
+  }
+]

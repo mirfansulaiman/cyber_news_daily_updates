@@ -1,0 +1,102 @@
+[
+  {
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+    "published_wib": "2026-09-17T22:45:29+07:00",
+    "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/"
+    ]
+  },
+  {
+    "title": "Security spending is growing \u2014 except for the typical CISO",
+    "published_wib": "2026-09-17T22:37:31+07:00",
+    "summary": "Security budgets may be growing on paper, but for a majority of CISOs, the money isn\u2019t moving in quite the same direction. The budgets grew by 5% on average in 2026, up from 4% last year. But that average hides a much weaker picture: median budget growth remained at 0%. And while 64% of CISOs asked for an increase this cycle, only 45% received one, meaning\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html"
+    ]
+  },
+  {
+    "title": "London property manager breach may have exposed bank details and lockbox codes",
+    "published_wib": "2026-09-17T22:30:00+07:00",
+    "summary": "City Relay says intruders accessed its Metabase Cloud instance twice and extracted customer data",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232"
+    ]
+  },
+  {
+    "title": "Revolut phishing texts appear days after data breach",
+    "published_wib": "2026-09-17T21:07:15+07:00",
+    "summary": "Revolut customers received phishing texts only days after the digital bank acknowledged disclosing customer data to a government impostor.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach"
+    ]
+  },
+  {
+    "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+    "published_wib": "2026-09-17T20:57:41+07:00",
+    "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/"
+    ]
+  },
+  {
+    "title": "Druva expands identity resilience with ransomware detection",
+    "published_wib": "2026-09-17T19:29:26+07:00",
+    "summary": "Druva has announced new capabilities for Druva Identity Resilience alongside the launch of Ransomware Detection, a new feature fueled by a proprietary AI threat pipeline. Powered by Dru MetaGraph, the new offerings use behavioral intelligence and built-in validation to turn suspicious behavior into actionable evidence, definitively confirm impact, and accel\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/17/druva-identity-resilience-ransomware-detection/"
+    ]
+  },
+  {
+    "title": "Scammers leave AI fingerprints all over fake antivirus renewal page",
+    "published_wib": "2026-09-17T17:10:31+07:00",
+    "summary": "AI appears to be helping scammers with little web development skill build convincing fake antivirus-renewal pages, Malwarebytes found. The researchers came across a scam page impersonating Avast, aimed at users in Belgium, that was more polished than most sites of its kind. The page told visitors their Avast Premium Security subscription had renewed for \u20ac12\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/17/ai-antivirus-renewal-scam-fake-pages/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Spain reports first data breach involving autonomous AI agent",
+    "published_wib": "2026-09-17T15:39:44+07:00",
+    "summary": "Spain\u2019s data protection authority (AEPD) has reported its first data breach blamed on an AI agent acting on its own, after the system reportedly logged into a company\u2019s network, found a way to alter personal records, and pulled invoice data. \u201cBefore drawing any conclusions, it should be noted that the available information comes from the notification submit\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 16 governance tools for securing your AI fleet",
+    "published_wib": "2026-09-17T15:25:00+07:00",
+    "summary": "Every DevOps team member knows that dealing with an AI is like being a circus lion tamer. The boss and the audience are happy when the lions sit on the pedestal and roar on cue, but there\u2019s always the danger that they\u2019ll go rogue and bring the whole show to a quick and disastrous end. The reality is that running LLMs in production means being ready to handl\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4223011/16-governance-tools-for-securing-your-ai-fleet.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI Agent Carries Out Multi-Stage Data Theft Attack",
+    "published_wib": "2026-09-17T15:25:00+07:00",
+    "summary": "Spanish data protection agency AEPD reveals the country\u2019s first AI-powered data breach",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/"
+    ]
+  }
+]
