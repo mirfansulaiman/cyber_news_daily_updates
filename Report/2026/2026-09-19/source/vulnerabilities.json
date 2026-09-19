@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New CISA-hosted VINCE-NT system revealed for coordinated vulnerability disclosure",
+    "published_wib": "2026-09-19T05:01:00+07:00",
+    "summary": "CISA says the new system is more streamlined and secure, enabling faster coordination.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure"
+    ]
+  },
+  {
+    "title": "Congress pledges mental health support after Cyber Command suicides",
+    "published_wib": "2026-09-19T03:32:40+07:00",
+    "summary": "Lawmakers seek more mental health resources after five Cyber Command personnel died by suicide.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/congress-pledges-mental-health-support-after-cyber-command-suicides"
+    ]
+  },
+  {
+    "title": "AI reshapes exposure management around real-world risk, says Brinqa exec",
+    "published_wib": "2026-09-19T02:44:46+07:00",
+    "summary": "AI-driven attacks are shifting exposure management toward exploitability and faster risk reduction.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/ai-reshapes-exposure-management-around-real-world-risk-says-brinqa-exec"
+    ]
+  },
+  {
+    "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+    "published_wib": "2026-09-19T02:26:47+07:00",
+    "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues"
+    ]
+  },
+  {
+    "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+    "published_wib": "2026-09-19T01:02:24+07:00",
+    "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an olde\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html"
+    ]
+  },
+  {
+    "title": "How teams can patch faster when a bug gets added to CISA's KEV",
+    "published_wib": "2026-09-19T00:17:15+07:00",
+    "summary": "KEV remediation rates are low \u2013 here\u2019s what we need to do so teams can patch a KEV item before a ransomware attack hits.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/perspective/how-teams-can-patch-faster-when-a-bug-gets-added-to-cisas-kev"
+    ]
+  },
+  {
+    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+    "published_wib": "2026-09-18T23:56:19+07:00",
+    "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
+    ]
+  },
+  {
+    "title": "CISA is ending its monthly vulnerability bulletin",
+    "published_wib": "2026-09-18T23:52:04+07:00",
+    "summary": "The rise in AI-generated security threats may just have generated one casualty: the death of the weekly bulletin of security threats from the US Cybersecurity Infrastructure and Security Agency (CISA). The agency will discontinue its weekly bulletin of known vulnerabilities from September 28\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4223933/cisa-is-ending-its-monthly-vulnerability-bulletin.html"
+    ]
+  },
+  {
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+    "published_wib": "2026-09-18T23:00:38+07:00",
+    "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/"
+    ]
+  },
+  {
+    "title": "A zero-click RCE flaw in AI coding agents could have exposed enterprise systems",
+    "published_wib": "2026-09-18T22:42:30+07:00",
+    "summary": "Popular AI coding agents such as OpenAI\u2019s Codex, Anthropic\u2019s Claude Code, Google\u2019s Gemini CLI, and Microsoft-owned GitHub Copilot were vulnerable to a zero-click attack that enabled attackers to execute malicious code, even without developer interaction, by swapping a trusted plugin from an online marketplace for a malicious one, potentially giving them a f\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4223909/a-zero-click-rce-flaw-in-ai-coding-agents-could-have-exposed-enterprise-systems-2.html"
+    ]
+  }
+]

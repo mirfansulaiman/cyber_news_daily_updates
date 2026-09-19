@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Android malware uses AI to steal bank logins and PINs",
+    "published_wib": "2026-09-18T22:37:04+07:00",
+    "summary": "RatHat can navigate infected phones while stealing bank logins, authentication codes, and screen-lock PINs.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/09/new-android-malware-uses-ai-to-steal-bank-logins-and-pins"
+    ]
+  },
+  {
+    "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+    "published_wib": "2026-09-18T22:24:16+07:00",
+    "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html"
+    ]
+  },
+  {
+    "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+    "published_wib": "2026-09-18T22:19:06+07:00",
+    "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
+    ]
+  },
+  {
+    "title": "GhostCode attackers abuse device codes to take over Microsoft 365 accounts",
+    "published_wib": "2026-09-18T22:18:40+07:00",
+    "summary": "Microsoft 365 users are being tricked into handing over access to their accounts by a new phishing kit, GhostCode, that exploits a weakness in a legitimate device authorization flow. Researchers in eSentire\u2019s threat response unit identified the campaign in late August 2026. The kit abuses Microsoft\u2019s OAuth 2.0 device authorization grant flow, a legitimate m\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html"
+    ]
+  },
+  {
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    "published_wib": "2026-09-18T17:40:06+07:00",
+    "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Intervi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html"
+    ]
+  },
+  {
+    "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+    "published_wib": "2026-09-18T17:12:33+07:00",
+    "summary": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+    "published_wib": "2026-09-18T16:46:57+07:00",
+    "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+    "published_wib": "2026-09-18T16:18:03+07:00",
+    "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on verbose comments, placeholder code, and statis\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+    "published_wib": "2026-09-18T13:17:25+07:00",
+    "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phishing) and malvertising campaigns leading to deceptive third-\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+    "published_wib": "2026-09-18T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33350"
+    ]
+  }
+]

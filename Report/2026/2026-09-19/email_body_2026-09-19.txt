@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New CISA-hosted VINCE-NT system revealed for coordinated vulnerability disclosure
+- Congress pledges mental health support after Cyber Command suicides
+- AI reshapes exposure management around real-world risk, says Brinqa exec
+- Cisco Zero-Day Highlights API Endpoint Authentication Issues
+- Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Android malware uses AI to steal bank logins and PINs. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by New CISA-hosted VINCE-NT system revealed for coordinated vulnerability disclosure. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

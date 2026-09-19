@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "New CISA-hosted VINCE-NT system revealed for coordinated vulnerability disclosure and Congress pledges mental health support after Cyber Command suicides. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New Android malware uses AI to steal bank logins and PINs. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-19",
+  "vol": "005"
+}
