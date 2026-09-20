@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- TigerByte Cyber Emerges From Stealth With $3 Million in Funding
+- North Korean WaterPlum hackers infected 30,000 devices worldwide
+- ShinyHunters hacks Clop leak site, threatens to extort ransomware gang
+- Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+- Identity Visibility in 2026: The Foundation of Identity Security
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Spear Phishing: How the attack works and how to stop it. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by TigerByte Cyber Emerges From Stealth With $3 Million in Funding. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by ShinyHunters hacks Clop leak site, threatens to extort ransomware gang. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

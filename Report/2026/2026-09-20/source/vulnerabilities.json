@@ -1,0 +1,102 @@
+[
+  {
+    "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+    "published_wib": "2026-09-19T21:30:00+07:00",
+    "summary": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/"
+    ]
+  },
+  {
+    "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+    "published_wib": "2026-09-19T21:05:15+07:00",
+    "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+    ]
+  },
+  {
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    "published_wib": "2026-09-19T20:28:48+07:00",
+    "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous g\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+    "published_wib": "2026-09-19T16:31:17+07:00",
+    "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manag\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "published_wib": "2026-09-19T15:18:54+07:00",
+    "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code executio\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "published_wib": "2026-09-19T13:24:10+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulner\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+    "published_wib": "2026-09-19T11:51:46+07:00",
+    "summary": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it's the first new standard HTTP verb since \"PATCH\" in 2010!",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33352"
+    ]
+  },
+  {
+    "title": "[+24h Old] New CISA-hosted VINCE-NT system revealed for coordinated vulnerability disclosure",
+    "published_wib": "2026-09-19T05:01:00+07:00",
+    "summary": "CISA says the new system is more streamlined and secure, enabling faster coordination.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/new-cisa-hosted-vince-nt-system-revealed-for-coordinated-vulnerability-disclosure"
+    ]
+  },
+  {
+    "title": "[+24h Old] Congress pledges mental health support after Cyber Command suicides",
+    "published_wib": "2026-09-19T03:32:40+07:00",
+    "summary": "Lawmakers seek more mental health resources after five Cyber Command personnel died by suicide.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/congress-pledges-mental-health-support-after-cyber-command-suicides"
+    ]
+  },
+  {
+    "title": "[+24h Old] AI reshapes exposure management around real-world risk, says Brinqa exec",
+    "published_wib": "2026-09-19T02:44:46+07:00",
+    "summary": "AI-driven attacks are shifting exposure management toward exploitability and faster risk reduction.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/ai-reshapes-exposure-management-around-real-world-risk-says-brinqa-exec"
+    ]
+  }
+]
