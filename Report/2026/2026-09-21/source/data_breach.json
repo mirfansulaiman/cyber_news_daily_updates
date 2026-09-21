@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+    "published_wib": "2026-09-19T20:48:32+07:00",
+    "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Identity Visibility in 2026: The Foundation of Identity Security",
+    "published_wib": "2026-09-19T20:28:41+07:00",
+    "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complic\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] FBI: Fake cop and government impersonation scams cost victims $1.6B",
+    "published_wib": "2026-09-18T23:19:27+07:00",
+    "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499"
+    ]
+  },
+  {
+    "title": "[+48h Old] New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
+    "published_wib": "2026-09-18T20:30:00+07:00",
+    "summary": "Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Settra ransomware group uses MeshAgent RMM in recent attacks",
+    "published_wib": "2026-09-18T18:00:00+07:00",
+    "summary": "The nascent threat actor has claimed 93 victims since June 2026.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/news/settra-ransomware-group-uses-meshagent-rmm-in-recent-attacks"
+    ]
+  },
+  {
+    "title": "[+48h Old] Manufacturing Accounts for 22% of all Ransomware Victims",
+    "published_wib": "2026-09-18T15:00:00+07:00",
+    "summary": "Black Kite has found that manufacturing remained the most targeted sector for ransomware attacks, and saw a big jump in incidents in H1 2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/"
+    ]
+  },
+  {
+    "title": "[+48h Old] AI Agent Breaches Spanish Organization, Modifies Personal Data",
+    "published_wib": "2026-09-18T14:00:00+07:00",
+    "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data"
+    ]
+  },
+  {
+    "title": "[+48h Old] 98% of fraudulent hires have company credentials by the time they\u2019re caught",
+    "published_wib": "2026-09-18T12:00:51+07:00",
+    "summary": "A 90-day period between hiring and onboarding is creating a blind spot in enterprise identity security, according to HYPR\u2019s State of HR Identity Fraud Detection report. \u201cAdversaries no longer need to breach a network when they can pass a remote interview and receive authentic credentials directly from IT,\u201d said Bojan Simic, CEO of HYPR. \u201cHuman intuition is\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/18/hypr-hiring-fraud-detection-report/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Most WordPress pros still lack a breach recovery plan",
+    "published_wib": "2026-09-18T11:30:56+07:00",
+    "summary": "Melapress, a maker of WordPress security plugins, surveyed 319 WordPress professionals and found that most had dealt with at least one known security incident. The respondents build and run WordPress sites for a living: agency staff, developers, designers, site owners and administrators. Across the whole group, fewer than three in ten have a breach recovery\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Security spending is growing \u2014 except for the typical CISO",
+    "published_wib": "2026-09-17T22:37:31+07:00",
+    "summary": "Security budgets may be growing on paper, but for a majority of CISOs, the money isn\u2019t moving in quite the same direction. The budgets grew by 5% on average in 2026, up from 4% last year. But that average hides a much weaker picture: median budget growth remained at 0%. And while 64% of CISOs asked for an increase this cycle, only 45% received one, meaning\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html"
+    ]
+  }
+]
