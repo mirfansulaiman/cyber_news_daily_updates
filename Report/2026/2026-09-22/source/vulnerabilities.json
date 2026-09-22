@@ -1,0 +1,102 @@
+[
+  {
+    "title": "21st September \u2013 Threat Intelligence Report",
+    "published_wib": "2026-09-22T06:13:07+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 21st Setpember, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japan\u2019s Digital Agency, which operates the Government Solution Service used by multiple ministries, has confirmed a data breach after attackers exploited a vulnerability in a VPN appliance. Approximately 246\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://research.checkpoint.com/2026/21st-september-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "AI intelligence report falsely identifies weapons on Chinese ship, nearly triggers US military operation",
+    "published_wib": "2026-09-22T06:12:36+07:00",
+    "summary": "An analyst at Special Operations Command Pacific used a chatbot to analyze intelligence regarding a Chinese ship, combining open-source and classified signals intelligence, as first reported by CNN.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-intelligence-report-falsely-identifies-weapons-on-chinese-ship-nearly-triggers-us-military-operation"
+    ]
+  },
+  {
+    "title": "Google had undercover analyst inside TeamPCP hacking group",
+    "published_wib": "2026-09-22T06:10:06+07:00",
+    "summary": "TeamPCP, known for its widespread malware distribution through open-source software and developer account hijacking, compromised hundreds of programs and breached over a thousand companies.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/google-had-undercover-analyst-inside-teampcp-hacking-group"
+    ]
+  },
+  {
+    "title": "CISA adds Linux kernel flaws to exploited vulnerabilities catalog",
+    "published_wib": "2026-09-22T06:03:58+07:00",
+    "summary": "CISA has ordered federal agencies to remediate these issues by September 21, 2026, as per Binding Operational Directive 22-01.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-linux-kernel-flaws-to-exploited-vulnerabilities-catalog"
+    ]
+  },
+  {
+    "title": "Trump calls for AI Force, says AI Czar will be named soon",
+    "published_wib": "2026-09-22T06:03:42+07:00",
+    "summary": "Trump's planned AI Force renews debate over guardrails and accountability for AI.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/trump-calls-for-ai-force-says-ai-czar-will-be-named-soon"
+    ]
+  },
+  {
+    "title": "Army and Air Force Exchange Service investigating suspicious customer messages",
+    "published_wib": "2026-09-22T05:50:57+07:00",
+    "summary": "The suspicious messages, which included a \"wishlist\" link and potentially other circulating communications, were also distributed through AAFES's official app.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/army-and-air-force-exchange-service-investigating-suspicious-customer-messages"
+    ]
+  },
+  {
+    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+    "published_wib": "2026-09-22T05:32:51+07:00",
+    "summary": "Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018"
+    ]
+  },
+  {
+    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+    "published_wib": "2026-09-22T04:18:49+07:00",
+    "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
+    ]
+  },
+  {
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "published_wib": "2026-09-22T03:12:17+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+    ]
+  },
+  {
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "published_wib": "2026-09-22T01:23:11+07:00",
+    "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+    ]
+  }
+]

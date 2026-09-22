@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ShinyHunters defaces Clop ransomware data leak site, claims data theft",
+    "published_wib": "2026-09-22T05:54:10+07:00",
+    "summary": "ShinyHunters claims to have exploited an unauthenticated file upload vulnerability in Grav CMS to deface the Clop Tor site with ASCII art of its Umbreon logo.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/shinyhunters-defaces-clop-ransomware-data-leak-site-claims-data-theft"
+    ]
+  },
+  {
+    "title": "Texas man pleads guilty in Scattered Spider extortion scheme",
+    "published_wib": "2026-09-22T05:48:09+07:00",
+    "summary": "Based on information from CyberScoop, a 24-year-old Texas man, Ahmed Hossam Eldin Elbadawy, has pleaded guilty to federal charges related to his involvement in the Scattered Spider cybercrime group's extortion activities.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/texas-man-pleads-guilty-in-scattered-spider-extortion-scheme"
+    ]
+  },
+  {
+    "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+    "published_wib": "2026-09-22T03:07:56+07:00",
+    "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims"
+    ]
+  },
+  {
+    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+    "published_wib": "2026-09-22T00:19:53+07:00",
+    "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union\u2019s strict privacy rules because it mishandled users\u2019 location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/"
+    ]
+  },
+  {
+    "title": "Gemini\u2019s breach of real companies exposes an AI guardrail problem",
+    "published_wib": "2026-09-21T21:21:38+07:00",
+    "summary": "Gemini crossed the boundaries of a capture-the-flag test and accessed systems belonging to three real companies.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/09/geminis-breach-of-real-companies-exposes-an-ai-guardrail-problem"
+    ]
+  },
+  {
+    "title": "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
+    "published_wib": "2026-09-21T19:46:00+07:00",
+    "summary": "Rival crew demands eight figures and threatens to expose companies that paid to keep quiet",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702"
+    ]
+  },
+  {
+    "title": "ShinyHunters Claim Hack of Rival Ransomware Gang Clop",
+    "published_wib": "2026-09-21T19:30:00+07:00",
+    "summary": "ShinyHunters has claimed responsibility for hacking the Clop ransomware group, defacing its leak site and alleging theft of key operational data",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/"
+    ]
+  },
+  {
+    "title": "North Korea\u2019s job interview scam runs both ways",
+    "published_wib": "2026-09-21T19:27:05+07:00",
+    "summary": "Attackers are targeting members of the Rust Project and maintainers of widely used crates (Rust code libraries), dangling attractive opportunities to compromise their devices and accounts and, ultimately, publish malware. The warning came last week from the Rust Project\u2019s crates.io team and security response working group, and described a recurring pattern:\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/21/north-korean-hackers-contagious-interview-defenses/"
+    ]
+  },
+  {
+    "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+    "published_wib": "2026-09-21T17:55:46+07:00",
+    "summary": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "Scammers impersonate cops, use arrest threats to extort victims",
+    "published_wib": "2026-09-21T17:53:24+07:00",
+    "summary": "Scammers are posing as police officers and federal agents, threatening arrest unless victims pay up, the FBI warns. The FBI\u2019s Internet Crime Complaint Center (IC3) updated an alert it first issued in 2022, citing \u201closses totaling more than $1.6 billion\u201d between January 2025 and July 2026. According to the FBI, most complaints involve a caller who accuses th\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/21/fake-police-federal-agents-scams/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Transparent Tribe targets India, Afghanistan with new malware in Operation RapidRust",
+    "published_wib": "2026-09-22T05:45:03+07:00",
+    "summary": "A Pakistan-aligned threat group, known as Transparent Tribe or APT36, has been linked to a new wave of cyberattacks targeting government and defense organizations in India and Afghanistan, according to Zscaler ThreatLabz.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/transparent-tribe-targets-india-afghanistan-with-new-malware-in-operation-rapidrust"
+    ]
+  },
+  {
+    "title": "New Rapuncel infostealer campaign uses fake GitHub repos to disable antivirus",
+    "published_wib": "2026-09-22T05:40:15+07:00",
+    "summary": "The campaign, uncovered by LastPass and Delphos Labs, impersonates LastPass and at least 39 other companies.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-rapuncel-infostealer-campaign-uses-fake-github-repos-to-disable-antivirus"
+    ]
+  },
+  {
+    "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
+    "published_wib": "2026-09-22T02:59:52+07:00",
+    "summary": "Ad biz promises users control while bug could expose voice prompts",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980"
+    ]
+  },
+  {
+    "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+    "published_wib": "2026-09-22T02:11:26+07:00",
+    "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films"
+    ]
+  },
+  {
+    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, \u2018Rapuncel\u2019 Stealer",
+    "published_wib": "2026-09-21T22:46:58+07:00",
+    "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, \u2018Rapuncel\u2019 Stealer appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/"
+    ]
+  },
+  {
+    "title": "New npm malware finds a way around install script defenses",
+    "published_wib": "2026-09-21T21:27:49+07:00",
+    "summary": "Blocking suspicious install scripts may no longer be enough to mitigate threats from malicious JavaScript dependencies used in software supply-chain attacks. Security researchers at Checkmarx are warning of attackers using a malicious package called \u201cindexed-btree\u201d to impersonate the legitimate sorted-btree library, to spread malware hidden in the package\u2019s\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4224400/new-npm-malware-finds-a-way-around-install-script-defenses-2.html"
+    ]
+  },
+  {
+    "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+    "published_wib": "2026-09-21T21:15:40+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes sc\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    ]
+  },
+  {
+    "title": "The TASK#STOMP Windows backdoor takes Wi-Fi passwords, screenshots, and business files",
+    "published_wib": "2026-09-21T21:00:18+07:00",
+    "summary": "Researchers have taken apart TASK#STOMP, a Windows backdoor that searches a victim\u2019s drives for business documents, uploads them to attacker servers, and then stays put to grab each new or edited document. The same malware steals saved Wi-Fi passwords and clipboard text, takes screenshots, and runs whatever command its operators send. Akshay Gaikwad and Aar\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/21/taskstomp-windows-backdoor/"
+    ]
+  },
+  {
+    "title": "Attackers Abuse npm Trusted Publishing in GHAPPIER Campaign",
+    "published_wib": "2026-09-21T20:30:00+07:00",
+    "summary": "CloudSEK linked GHAPPIER to a compromised npm package with valid trusted-publishing provenance",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attackers-abuse-npm-trusted/"
+    ]
+  },
+  {
+    "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+    "published_wib": "2026-09-21T20:16:20+07:00",
+    "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/"
+    ]
+  }
+]
