@@ -1,0 +1,102 @@
+[
+  {
+    "title": "BigCommerce merchants impacted by third-party app data breach",
+    "published_wib": "2026-09-23T06:02:25+07:00",
+    "summary": "The breach occurred between September 13 and September 17, 2026, when attackers gained access to shopper data via compromised credentials for the Ribon and Ribon 1.5 applications.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/bigcommerce-merchants-impacted-by-third-party-app-data-breach"
+    ]
+  },
+  {
+    "title": "BYD Shark 6 remotely hacked, exposing vehicle controls and cabin audio",
+    "published_wib": "2026-09-23T05:43:14+07:00",
+    "summary": "Cybersecurity researcher Dan Hreszczuk of Fortify Labs found a critical vulnerability in a BYD Shark 6, allowing remote access to vehicle functions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/byd-shark-6-remotely-hacked-exposing-vehicle-controls-and-cabin-audio"
+    ]
+  },
+  {
+    "title": "Microsoft Entra ID to retire SMS sign-in in 2027",
+    "published_wib": "2026-09-23T05:32:28+07:00",
+    "summary": "Microsoft will retire SMS and voice-based sign-in as a first-factor authentication method for Entra ID workforce tenants starting February 1, 2027.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/microsoft-entra-id-to-retire-sms-sign-in-in-2027"
+    ]
+  },
+  {
+    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+    "published_wib": "2026-09-23T03:35:24+07:00",
+    "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/"
+    ]
+  },
+  {
+    "title": "Code Security Review tool",
+    "published_wib": "2026-09-23T01:34:04+07:00",
+    "summary": "Posted by E. Kellinis on Sep 22 Karma Pro is an open source code review tool that can assist code reviewers with a multitude of useful tools. Karma Pro is a macOS source-code security scanner (AST base and Heuristics) that statically analyses projects in multiple languages. It's backed by an ML classifier trained on real patches to catch subtle issues. Beyo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/49"
+    ]
+  },
+  {
+    "title": "HP Advance / Output Central: unauthenticated SYSTEM RCE and two additional vulnerabilities (CVE-2026-89082/89083/89084)",
+    "published_wib": "2026-09-23T01:32:59+07:00",
+    "summary": "Posted by Joe via Fulldisclosure on Sep 22 HP Advance / HP Output Central Unauthenticated SYSTEM RCE, authorization bypass, and arbitrary file write/delete CVE-2026-89082, CVE-2026-89083, CVE-2026-89084 ================================================================ SUMMARY ================================================================ Vendor: HP Inc. Pr\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/66"
+    ]
+  },
+  {
+    "title": "CVE-2026-17613: Penpot cross-team file takeover via import-binfile (unpatched in 2.17.2)",
+    "published_wib": "2026-09-23T01:32:22+07:00",
+    "summary": "Posted by Louis Sanchez via Fulldisclosure on Sep 22 Posting this as an update rather than a first disclosure. The advisory went public on 2026-08-04 with no vendor fix. Penpot has shipped two releases since then, 2.17.1 and 2.17.2 -- the latter 14 days ago, on 2026-08-27 -- and I re-checked the code this morning: the missing permission check is still missi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/47"
+    ]
+  },
+  {
+    "title": "CVE-2026-44756: Pre-Auth RCE in SAP EPP Processing (ICM, Web Dispatcher, disp+work)",
+    "published_wib": "2026-09-23T01:31:55+07:00",
+    "summary": "Posted by Raschin Tavakoli via Fulldisclosure on Sep 22 nullFaktor Security Advisory =========================================================== Title: Pre-Authentication Remote Code Execution in SAP Extended Passport (EPP) processing library Affected Components: ICM, SAP Web Dispatcher, dialog work processes Vulnerability: Stack based Buffer Overflow CVE:\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/65"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] TigerGraph Community Edition 4.2.4 Default credentials plus GSQL TO_CSV arbitrary file write to SSH code execution (9.8)",
+    "published_wib": "2026-09-23T01:31:37+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Sep 22 0day Rubbish Research Team is publicly disclosing a vulnerability in TigerGraph Community Edition 4.2.4. Type: Default credentials plus GSQL TO_CSV arbitrary file write to SSH code execution (CWE-798) CVSS: 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) Impact: command execution as the tigergraph service user (ui\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/64"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] Teltonika RutOS 00.07.06.21 Authenticated ipsec.lua logread command injection with reflected output (8.8)",
+    "published_wib": "2026-09-23T01:31:35+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Sep 22 0day Rubbish Research Team is publicly disclosing a vulnerability in Teltonika RutOS 00.07.06.21. Type: Authenticated ipsec.lua logread command injection with reflected output (CWE-78) CVSS: 8.8 (AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H) Impact: root command execution on the router, with command output reflected\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/63"
+    ]
+  }
+]

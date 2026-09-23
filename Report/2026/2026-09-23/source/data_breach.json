@@ -1,0 +1,102 @@
+[
+  {
+    "title": "VA criticizes Baylor Genetics for delayed notification after data breach",
+    "published_wib": "2026-09-23T05:55:50+07:00",
+    "summary": "The cybersecurity incident at Baylor Genetics, occurring around June 15, resulted in unauthorized access to sensitive information of 30,263 veterans.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/va-criticizes-baylor-genetics-for-delayed-notification-after-data-breach"
+    ]
+  },
+  {
+    "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million",
+    "published_wib": "2026-09-23T04:40:37+07:00",
+    "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Milj\u00f6data for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/"
+    ]
+  },
+  {
+    "title": "Microsoft\u2019s EvilTokens takedown sheds light on state of AI-powered cybercrime",
+    "published_wib": "2026-09-23T03:40:34+07:00",
+    "summary": "Microsoft has hailed its success in disrupting EvilTokens , an AI-powered a phishing-as-a-service (PhaaS) platform linked to more than 12,000 compromised Microsoft 365 inboxes across more than 10,000 organizations worldwide. Since February 2026, EvilTokens has offered a subscription platform combining account compromise, mailbox analysis, target selection,\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4225175/microsofts-eviltokens-takedown-sheds-light-on-state-of-ai-powered-cybercrime.html"
+    ]
+  },
+  {
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+    "published_wib": "2026-09-23T02:13:29+07:00",
+    "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
+    ]
+  },
+  {
+    "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+    "published_wib": "2026-09-23T00:32:49+07:00",
+    "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+    ]
+  },
+  {
+    "title": "UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites",
+    "published_wib": "2026-09-22T22:00:00+07:00",
+    "summary": "Used by crims to compromise 12K+ email inboxes across 10K+ global orgs",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317"
+    ]
+  },
+  {
+    "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+    "published_wib": "2026-09-22T19:57:07+07:00",
+    "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/"
+    ]
+  },
+  {
+    "title": "AI Drives Surge in Bot and API Threats",
+    "published_wib": "2026-09-22T17:30:00+07:00",
+    "summary": "Akamai report warns of increase in bot traffic, API threats, chatbot leaks and other AI-related threats",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions",
+    "published_wib": "2026-09-22T15:54:30+07:00",
+    "summary": "Scammers are using a $249 website toolkit to sell unverified AI subscriptions worth up to $2,000 a year, and a genuine Google sign-in screen is what makes the sites convincing. Malwarebytes found more than 100 websites built this way, all tied to the same toolkit and closely related developer details. The network includes sites that copy the names of existi\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Gemini broke into 3 companies, but Google kept it quiet because \u2018no damage was done\u2019",
+    "published_wib": "2026-09-22T08:02:19+07:00",
+    "summary": "A Google Gemini AI agent broke into three companies in May, guessing the credentials for one and discovering the credentials for the second two in a public repository, Google confirmed on Monday. But the more interesting background to the story, which was broken by The Wall Street Journal on Friday, is that the May incident stemmed from a series of cybersec\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html"
+    ]
+  }
+]

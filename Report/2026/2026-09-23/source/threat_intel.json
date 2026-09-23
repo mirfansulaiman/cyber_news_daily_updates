@@ -1,0 +1,102 @@
+[
+  {
+    "title": "TASK#STOMP campaign uses PowerShell backdoor for data theft",
+    "published_wib": "2026-09-23T05:48:07+07:00",
+    "summary": "The TASK#STOMP campaign begins with an encoded Visual Basic Script (VBScript) executed by wscript.exe, with the initial access vector likely being phishing or social engineering.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/taskstomp-campaign-uses-powershell-backdoor-for-data-theft"
+    ]
+  },
+  {
+    "title": "New Exvicy malware-as-a-service framework copies rival's code",
+    "published_wib": "2026-09-23T05:30:07+07:00",
+    "summary": "Exvicy operates as a ClickFix framework, distributing malware through compromised WordPress websites, according to Sekoia's Threat Detection & Research team.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-exvicy-malware-as-a-service-framework-copies-rivals-code"
+    ]
+  },
+  {
+    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+    "published_wib": "2026-09-23T04:33:29+07:00",
+    "summary": "'first' publicly documented Windows implant to use LLMs for C2",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+    ]
+  },
+  {
+    "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+    "published_wib": "2026-09-23T03:02:02+07:00",
+    "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
+    ]
+  },
+  {
+    "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
+    "published_wib": "2026-09-23T02:06:15+07:00",
+    "summary": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33358"
+    ]
+  },
+  {
+    "title": "CFP No cON Name 2k26 - Palma, Mallorca - Spain",
+    "published_wib": "2026-09-23T01:32:52+07:00",
+    "summary": "Posted by Jose Nicolas Castellano on Sep 22 No cON Name 2026 - Palma, Mallorca - Balearic Islands ************************************ ***** Call For Papers ****** ************************************ https://www.noconname.org/call-for-papers/ Exact place not disclosed until a few weeks before due celebration. * INTRODUCTIONfulldisclosure () seclists org Th\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/48"
+    ]
+  },
+  {
+    "title": "APPLE-SA-09-14-2026-10 Xcode 27",
+    "published_wib": "2026-09-23T01:31:34+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Sep 22 APPLE-SA-09-14-2026-10 Xcode 27 Xcode 27 addresses the following issues. Information about the security content is also available at https://support.apple.com/149040\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/62"
+    ]
+  },
+  {
+    "title": "APPLE-SA-09-14-2026-9 Safari 27",
+    "published_wib": "2026-09-23T01:31:33+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Sep 22 APPLE-SA-09-14-2026-9 Safari 27 Safari 27 addresses the following issues. Information about the security content is also available at https://support.apple.com/149039\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/61"
+    ]
+  },
+  {
+    "title": "APPLE-SA-09-14-2026-8 visionOS 27",
+    "published_wib": "2026-09-23T01:31:31+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Sep 22 APPLE-SA-09-14-2026-8 visionOS 27 visionOS 27 addresses the following issues. Information about the security content is also available at https://support.apple.com/149038\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/60"
+    ]
+  },
+  {
+    "title": "APPLE-SA-09-14-2026-7 watchOS 27",
+    "published_wib": "2026-09-23T01:31:30+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Sep 22 APPLE-SA-09-14-2026-7 watchOS 27 watchOS 27 addresses the following issues. Information about the security content is also available at https://support.apple.com/149037\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/59"
+    ]
+  }
+]

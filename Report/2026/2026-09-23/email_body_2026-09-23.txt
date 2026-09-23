@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- BigCommerce merchants impacted by third-party app data breach
+- VA criticizes Baylor Genetics for delayed notification after data breach
+- TASK#STOMP campaign uses PowerShell backdoor for data theft
+- BYD Shark 6 remotely hacked, exposing vehicle controls and cabin audio
+- Microsoft Entra ID to retire SMS sign-in in 2027
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by TASK#STOMP campaign uses PowerShell backdoor for data theft. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by BigCommerce merchants impacted by third-party app data breach. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by VA criticizes Baylor Genetics for delayed notification after data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
