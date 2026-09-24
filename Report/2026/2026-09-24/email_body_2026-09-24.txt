@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- D-Link warns of critical vulnerabilities in legacy DIR-822A routers with public exploit code
+- Ransomware group PAYLOAD weaponizes Microsoft Active Directory for disruption
+- ICYMI: August 2026 @AWS Security
+- SideCopy threat actor targets Indian academic institutions with new attack methods
+- Worker stress increases due to AI-driven security threats
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New RemControl Android banking malware targets users in Europe and Canada. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by D-Link warns of critical vulnerabilities in legacy DIR-822A routers with public exploit code. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ransomware group PAYLOAD weaponizes Microsoft Active Directory for disruption. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

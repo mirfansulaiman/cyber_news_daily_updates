@@ -1,0 +1,102 @@
+[
+  {
+    "title": "D-Link warns of critical vulnerabilities in legacy DIR-822A routers with public exploit code",
+    "published_wib": "2026-09-24T06:33:59+07:00",
+    "summary": "The first vulnerability, CVE-2026-86296, is a stack-based buffer overflow in the DHCP server component.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/d-link-warns-of-critical-vulnerabilities-in-legacy-dir-822a-routers-with-public-exploit-code"
+    ]
+  },
+  {
+    "title": "ICYMI: August 2026 @AWS Security",
+    "published_wib": "2026-09-24T06:07:36+07:00",
+    "summary": "Read all about the latest AWS security features, compliance updates, and hands-on resources in our monthly digest posts. You\u2019ll find expert blog posts, new service capabilities, code samples, and workshops. AWS Security Blog posts August brought 20 AWS Security Blog posts organized across seven categories. Identity and access management led the month with f\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/"
+    ]
+  },
+  {
+    "title": "SideCopy threat actor targets Indian academic institutions with new attack methods",
+    "published_wib": "2026-09-24T05:55:17+07:00",
+    "summary": "SideCopy, an advanced persistent threat group originating from Pakistan and active since at least 2019, has historically targeted Indian defense forces and government officials.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/sidecopy-threat-actor-targets-indian-academic-institutions-with-new-attack-methods"
+    ]
+  },
+  {
+    "title": "Worker stress increases due to AI-driven security threats",
+    "published_wib": "2026-09-24T05:47:37+07:00",
+    "summary": "A recent report by Object First indicates that 91% of workers feel uncomfortably stressed by IT security risks, a seven percentage-point increase from last year.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/worker-stress-increases-due-to-ai-driven-security-threats"
+    ]
+  },
+  {
+    "title": "ZTE SmartLife platform vulnerabilities allow account takeover",
+    "published_wib": "2026-09-24T05:44:38+07:00",
+    "summary": "Security researcher Mina Nageh Salama disclosed four critical vulnerabilities in the SmartLife platform, with the most severe, CVE-2026-86553, rated 8.8.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/zte-smartlife-platform-vulnerabilities-allow-account-takeover"
+    ]
+  },
+  {
+    "title": "F5 fixes actively exploited zero-day flaw in BIG-IP APM",
+    "published_wib": "2026-09-24T03:44:25+07:00",
+    "summary": "Technology company F5 fixed a critical remote code execution vulnerability in its BIG-IP Access Policy Manager (APM) platform on Tuesday. The flaw impacts deployments configured as OAuth authorization servers and was already under active exploitation in the wild before the patch became available. BIG-IP APM is a software component in F5\u2019s BIG-IP hardware pl\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4225721/f5-fixes-actively-exploited-zero-day-flaw-in-big-ip-apm.html"
+    ]
+  },
+  {
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+    "published_wib": "2026-09-24T02:53:54+07:00",
+    "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+    ]
+  },
+  {
+    "title": "The government must designate AI as critical infrastructure sooner rather than later",
+    "published_wib": "2026-09-24T01:45:09+07:00",
+    "summary": "Here are five policy initiatives government and industry should act on before a catastrophic incident forces our hand.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/perspective/the-government-must-designate-ai-as-critical-infrastructure-sooner-rather-than-later"
+    ]
+  },
+  {
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "published_wib": "2026-09-24T01:31:22+07:00",
+    "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+    ]
+  },
+  {
+    "title": "VU#273940: Enterprise Access Management EAM does not rotate RSA keys",
+    "published_wib": "2026-09-24T01:22:53.773573+07:00",
+    "summary": "Overview Imprivata Enterprise Access Management (EAM), an authentication and single sign-on platform for enterprise and clinical environments, contains a vulnerability in versions 26.2.6 and below. The product provides no supported mechanism to rotate its RSA key pair after deployment, meaning the same key pair is used indefinitely to generate the appliance\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/273940"
+    ]
+  }
+]

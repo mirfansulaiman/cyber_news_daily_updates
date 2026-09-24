@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ransomware group PAYLOAD weaponizes Microsoft Active Directory for disruption",
+    "published_wib": "2026-09-24T06:20:45+07:00",
+    "summary": "The PAYLOAD ransomware group targeted a manufacturing organization in the Middle East, gaining initial access via a compromised VPN account, Kaspersky reported.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ransomware-group-payload-weaponizes-microsoft-active-directory-for-disruption"
+    ]
+  },
+  {
+    "title": "How device code phishing gives scammers access to your account",
+    "published_wib": "2026-09-24T01:59:38+07:00",
+    "summary": "A scammer asks you to enter a code to open a file or join a meeting. Approving it could sign them in to your account instead.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/how-to/2026/09/how-device-code-phishing-gives-scammers-access-to-your-account"
+    ]
+  },
+  {
+    "title": "GitHub App keys can still enable takeovers long after they are forgotten",
+    "published_wib": "2026-09-23T22:12:48+07:00",
+    "summary": "GitHub allows organizations to install GitHub Apps that automate and extend certain functionality on the platform and have access to selected repositories and permissions. But the private keys these applications use to authenticate themselves can remain valid for years unless manually revoked. If leaked, those keys can potentially give attackers administrat\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4225633/github-app-keys-can-still-enable-takeovers-long-after-they-are-forgotten-2.html"
+    ]
+  },
+  {
+    "title": "Hundreds of Leaked GitHub App Keys Still Authenticate",
+    "published_wib": "2026-09-23T22:00:00+07:00",
+    "summary": "GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/"
+    ]
+  },
+  {
+    "title": "Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure",
+    "published_wib": "2026-09-23T20:40:14+07:00",
+    "summary": "Network Solutions has launched Dark Web Monitoring, a new security capability that alerts small businesses when information associated with their domain appears in known breach data and provides steps they can take to reduce risk. Stolen credentials and other information exposed in data breaches can circulate across dark web marketplaces, forums and other s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/"
+    ]
+  },
+  {
+    "title": "ShinyHunters claims FBI breach was revenge for \u201cfalse\u201d report",
+    "published_wib": "2026-09-23T19:03:41+07:00",
+    "summary": "The extortion group says it stole sensitive data on FBI agents and job applicants, and wants the bureau to retract a warning about its tactics.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/09/shinyhunters-claims-fbi-breach-was-revenge-for-false-report"
+    ]
+  },
+  {
+    "title": "Ransomware Attacks Reach Record High for 2026",
+    "published_wib": "2026-09-23T19:00:00+07:00",
+    "summary": "A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/"
+    ]
+  },
+  {
+    "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+    "published_wib": "2026-09-23T18:23:30+07:00",
+    "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Ryuk ransomware member sentenced to 24 months in prison",
+    "published_wib": "2026-09-23T15:20:05+07:00",
+    "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+    "published_wib": "2026-09-23T12:30:09+07:00",
+    "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group sai\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
+    ]
+  }
+]

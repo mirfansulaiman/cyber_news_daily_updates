@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New RemControl Android banking malware targets users in Europe and Canada",
+    "published_wib": "2026-09-24T04:25:13+07:00",
+    "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/"
+    ]
+  },
+  {
+    "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+    "published_wib": "2026-09-24T03:53:38+07:00",
+    "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks"
+    ]
+  },
+  {
+    "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+    "published_wib": "2026-09-24T01:06:30+07:00",
+    "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dock\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html"
+    ]
+  },
+  {
+    "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+    "published_wib": "2026-09-23T23:14:37+07:00",
+    "summary": "Introduction",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33360"
+    ]
+  },
+  {
+    "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+    "published_wib": "2026-09-23T21:47:09+07:00",
+    "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign"
+    ]
+  },
+  {
+    "title": "Supporting ASD\u2019s multi-factor authentication campaign: Why MFA matters more than ever",
+    "published_wib": "2026-09-23T21:45:44+07:00",
+    "summary": "The Australian Signals Directorate (ASD) has this month issued a clear call to action through its Multi-factor authentication: Switch it on campaign, urging businesses, organisations, and individuals to enable multi-factor authentication (MFA) across their online accounts. At AWS, we strongly support this message. As threat actors continue to target credent\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/"
+    ]
+  },
+  {
+    "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+    "published_wib": "2026-09-23T21:17:58+07:00",
+    "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malwar\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
+    ]
+  },
+  {
+    "title": "Cofense measures employee readiness against real-world phishing threats",
+    "published_wib": "2026-09-23T21:01:12+07:00",
+    "summary": "Cofense has announced an expansion of its AI-driven Phishing Defense Platform through Cofense Command Center, its orchestration layer for measurement and reporting. The new Competency Dashboard measures how employees recognize, report and respond to phishing threats, giving security teams evidence of program effectiveness rather than training completion. Th\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/23/cofense-command-center/"
+    ]
+  },
+  {
+    "title": "Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods",
+    "published_wib": "2026-09-23T21:00:00+07:00",
+    "summary": "Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/"
+    ]
+  },
+  {
+    "title": "DarkMe RAT trades zero-days for plain phishing emails",
+    "published_wib": "2026-09-23T20:24:17+07:00",
+    "summary": "DarkMe, a remote access trojan and info-stealer that has previously been associated with a threat group that targeted financial market traders and cryptocurrency users, has been spotted again. This time around, its distribution has been simplified: instead of leveraging zero-day exploits, attackers are betting on a simple email to convince targets to run it\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/"
+    ]
+  }
+]
