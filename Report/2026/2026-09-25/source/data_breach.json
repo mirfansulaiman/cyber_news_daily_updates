@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New ransomware group n0n escalates threats by targeting backups",
+    "published_wib": "2026-09-25T06:42:13+07:00",
+    "summary": "Researchers at CyberXTron first observed n0n activity on September 18, with the group quickly establishing a Tor-hosted leak site and claiming over a dozen victims by September 22.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/new-ransomware-group-n0n-escalates-threats-by-targeting-backups"
+    ]
+  },
+  {
+    "title": "Scammers impersonating police and government officials have stolen $1.6 billion",
+    "published_wib": "2026-09-25T06:16:11+07:00",
+    "summary": "These sophisticated scams often involved unsolicited phone calls and sometimes video calls, with victims losing an average of $26,000 each.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/scammers-impersonating-police-and-government-officials-have-stolen-1-6-billion"
+    ]
+  },
+  {
+    "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
+    "published_wib": "2026-09-25T00:00:00+07:00",
+    "summary": "Security researchers report that Microsoft considers the side-channel leak of file events to be by design",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672"
+    ]
+  },
+  {
+    "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+    "published_wib": "2026-09-24T22:00:00+07:00",
+    "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/"
+    ]
+  },
+  {
+    "title": "3 Cyber Threats That Defined the Summer of 2026",
+    "published_wib": "2026-09-24T21:44:12+07:00",
+    "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026"
+    ]
+  },
+  {
+    "title": "OpenAI agent breached Australian government site, took months to report it",
+    "published_wib": "2026-09-24T20:22:49+07:00",
+    "summary": "The agent was looking for public spending data. It found a way into non-public files instead. What do we need to change to stop this from happening?",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/09/openai-agent-breached-medicare-statistics-portal-then-took-months-to-report-it"
+    ]
+  },
+  {
+    "title": "New Browser Guard features add protection before and after you click",
+    "published_wib": "2026-09-24T19:45:00+07:00",
+    "summary": "Spot dangerous sites before you click\u2014and check for scams once you\u2019re there.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/product/2026/09/new-browser-guard-features-add-protection-before-and-after-you-click"
+    ]
+  },
+  {
+    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    "published_wib": "2026-09-24T18:00:00+07:00",
+    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked c\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Astrana Health Data Breach Impacts Private, Confidential Information",
+    "published_wib": "2026-09-24T16:56:04+07:00",
+    "summary": "Hackers impersonated the company\u2019s personnel and contacted its employees to gain access to Astrana Health\u2019s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/"
+    ]
+  },
+  {
+    "title": "[+24h Old] US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+    "published_wib": "2026-09-24T15:38:29+07:00",
+    "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/"
+    ]
+  }
+]

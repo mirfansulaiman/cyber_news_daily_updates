@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Windows botnet offers AI credit draining and other attack methods",
+    "published_wib": "2026-09-25T06:05:14+07:00",
+    "summary": "The botnet, sold by WraithTools, includes capabilities for credential theft, SOCKS5 proxying, and an AI module for malware persistence, Qrator Research Labs reports.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-windows-botnet-offers-ai-credit-draining-and-other-attack-methods"
+    ]
+  },
+  {
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+    "published_wib": "2026-09-25T03:53:35+07:00",
+    "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/"
+    ]
+  },
+  {
+    "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+    "published_wib": "2026-09-25T03:32:50+07:00",
+    "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application"
+    ]
+  },
+  {
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "published_wib": "2026-09-25T03:10:48+07:00",
+    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
+    ]
+  },
+  {
+    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+    "published_wib": "2026-09-24T21:29:06+07:00",
+    "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instruct\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html"
+    ]
+  },
+  {
+    "title": "Symphony Risk Intelligence uses AI agents to streamline financial crime investigations",
+    "published_wib": "2026-09-24T20:46:32+07:00",
+    "summary": "SymphonyAI has introduced Symphony Risk Intelligence (SRI), an enterprise-grade, agent-native platform built to unlock Always-on Compliance. This is a critical shift from periodic to continuous risk and compliance management, in which institutions continuously reassess risk and adapt controls as regulations, threats and business activity change, rather than\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/24/symphonyai-risk-intelligence/"
+    ]
+  },
+  {
+    "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+    "published_wib": "2026-09-24T19:05:27+07:00",
+    "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the pac\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html"
+    ]
+  },
+  {
+    "title": "UK gears up for fight against Russia\u2019s disinformation machine",
+    "published_wib": "2026-09-24T18:25:36+07:00",
+    "summary": "The UK government will create a new body to track and disrupt disinformation campaigns run by hostile states, Prime Minister Andy Burnham announced at the United Nations General Assembly in New York. In his first address to the Assembly on 22 September, Burnham told world leaders he was tasking UK security chiefs to begin work on the National Centre for Inf\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/24/uk-national-centre-for-information-defence-disinformation-detection/"
+    ]
+  },
+  {
+    "title": "MacSync under the microscope: new delivery methods and a new payload",
+    "published_wib": "2026-09-24T17:00:21+07:00",
+    "summary": "We look at a new version of the MacSync macOS stealer with a backdoor module that targets crypto enthusiasts and developers.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/macsync-new-version/121383/"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Android malware RemControl steals banking PINs and blocks removal attempts",
+    "published_wib": "2026-09-24T16:40:43+07:00",
+    "summary": "A new Android banking trojan called RemControl tricks victims into installing a fake TV app, then takes control of their phones to steal banking PINs, Group-IB has found. Researchers confirmed that the malware targets customers of more than 30 banks in Italy, France, Spain, Poland, Portugal, Canada and some Gulf states. The first samples were submitted to V\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/09/24/remcontrol-android-banking-trojan-fake-tv-app/"
+    ]
+  }
+]

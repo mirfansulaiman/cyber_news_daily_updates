@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs and F5 patches critical zero-day flaw exploited in BIG-IP APM. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "New Windows botnet offers AI credit draining and other attack methods. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "New ransomware group n0n escalates threats by targeting backups. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-25",
+  "vol": "005"
+}

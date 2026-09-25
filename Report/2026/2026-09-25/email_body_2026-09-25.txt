@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- New ransomware group n0n escalates threats by targeting backups
+- Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs
+- F5 patches critical zero-day flaw exploited in BIG-IP APM
+- Scammers impersonating police and government officials have stolen $1.6 billion
+- Vicarius launches AI engine to write software flaw remediation scripts
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Windows botnet offers AI credit draining and other attack methods. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by New ransomware group n0n escalates threats by targeting backups. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
