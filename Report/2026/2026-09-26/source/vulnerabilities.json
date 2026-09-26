@@ -1,0 +1,102 @@
+[
+  {
+    "title": "3 Consulting Myths Debunked by Unit 42 Experts",
+    "published_wib": "2026-09-26T06:00:28+07:00",
+    "summary": "Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses. The post 3 Consulting Myths Debunked by Unit 42 Experts appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/"
+    ]
+  },
+  {
+    "title": "Vulnerable OBS overlay and Chromium flaw enable Twitch chat message code execution",
+    "published_wib": "2026-09-26T04:57:44+07:00",
+    "summary": "The attack targets streamers using OBS Studio version 32.2.2 or older, exploiting a cross-site scripting (XSS) flaw in custom Twitch chat overlays that insert viewer messages directly into the page as unsanitized HTML.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/vulnerable-obs-overlay-and-chromium-flaw-enable-twitch-chat-message-code-execution"
+    ]
+  },
+  {
+    "title": "Elementor plugin vulnerability allows admin account creation",
+    "published_wib": "2026-09-26T04:53:24+07:00",
+    "summary": "Threat actors can exploit this flaw by tricking a logged-in administrator into clicking a malicious link.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/elementor-plugin-vulnerability-allows-admin-account-creation"
+    ]
+  },
+  {
+    "title": "New Carbonato botnet uses AI framework to target insecure Docker daemons",
+    "published_wib": "2026-09-26T04:48:18+07:00",
+    "summary": "Carbonato exploits Docker hosts with unauthenticated API access on port 2375.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-carbonato-botnet-uses-ai-framework-to-target-insecure-docker-daemons"
+    ]
+  },
+  {
+    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+    "published_wib": "2026-09-26T03:57:55+07:00",
+    "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/"
+    ]
+  },
+  {
+    "title": "Elementor WordPress flaw lets attackers create admin accounts",
+    "published_wib": "2026-09-26T01:13:33+07:00",
+    "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/"
+    ]
+  },
+  {
+    "title": "AI tools help hacker break in for $25 per target",
+    "published_wib": "2026-09-26T00:38:42+07:00",
+    "summary": "It\u2019s cheap to set yourself up as a hacker these days using AI. Someone attacked 105 online retailers over a period of five days, compromising 27 of them \u2014 all for an average of $25 per attack, according to research by Israeli security company Gambit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4226861/ai-tools-help-hacker-break-in-for-25-per-target.html"
+    ]
+  },
+  {
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "published_wib": "2026-09-26T00:24:20+07:00",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Documentation placeholder domain used in ClickFix attacks",
+    "published_wib": "2026-09-25T23:42:48+07:00",
+    "summary": "The domain name third-party[.]com is being used to serve malware to users \u2014 bad news for those following a little too literally online documentation that uses it as a placeholder for any third-party domain. The site is serving a ClickFix lure to Windows machines, which sidesteps existing protection and can effect changes to PowerShell, according to Manifold\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4226782/documentation-placeholder-domain-used-in-clickfix-attacks.html"
+    ]
+  },
+  {
+    "title": "VU#699627: Readwise Reader for Android, version 8.7.2, contains multiple XSS vulnerabilities",
+    "published_wib": "2026-09-25T23:25:10.791585+07:00",
+    "summary": "Overview Three cross-site scripting (XSS) vulnerabilities identified in Readwise Reader for Android version 8.7.2 are disclosed. An attacker with the ability to craft malicious documents or metadata can exploit these vulnerabilities by supplying poisoned content that bypasses sanitization. Successful exploitation could allow the attacker to execute arbitrar\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/699627"
+    ]
+  }
+]

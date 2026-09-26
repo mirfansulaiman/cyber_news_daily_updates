@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "3 Consulting Myths Debunked by Unit 42 Experts and Vulnerable OBS overlay and Chromium flaw enable Twitch chat message code execution. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Researchers identify AliExpress-themed phishing campaign using disposable domains. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Bitget loses $351.6 million in suspected North Korean crypto hack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-26",
+  "vol": "005"
+}
