@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks and Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Bitget loses $351.6 million in suspected North Korean crypto hack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-27",
+  "vol": "005"
+}
