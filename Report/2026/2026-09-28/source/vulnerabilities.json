@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "published_wib": "2026-09-27T23:02:37+07:00",
+    "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+    ]
+  },
+  {
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "published_wib": "2026-09-27T21:13:31+07:00",
+    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+    "published_wib": "2026-09-27T16:35:21+07:00",
+    "summary": "CVE-2026-88771 and CVE-2026-88772, two zero-day vulnerabilities in Citrix NetScaler, have been confirmed as exploited in the wild. Citrix released patches on September 27, 2026. Change log Update September 27: Citrix published security bulletin CTX697096, confirming CVE-2026-88771 and CVE-2026-88772 as the two zero-day RCE vulnerabilities and releasing patc\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+    "published_wib": "2026-09-27T16:23:09+07:00",
+    "summary": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+    "published_wib": "2026-09-27T14:47:57+07:00",
+    "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SEC Consult SA-20260923-0 :: Local Privilege Escalation in Honeywell IQ MultiAccess Update Service #CVE-2026-13742",
+    "published_wib": "2026-09-27T11:16:15+07:00",
+    "summary": "Posted by SEC Consult Vulnerability Lab via Fulldisclosure on Sep 26 SEC Consult Vulnerability Lab Security Advisory ======================================================================= title: Local Privilege Escalation product: Honeywell IQ MultiAccess Update Service vulnerable version: IQ V27 & IQ V28 fixed version: IQ V27 SP1 & IQ V28 SP1 CVE number:\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/88"
+    ]
+  },
+  {
+    "title": "[+24h Old] [SYSS-2026-071]: GDCM (Grassroots DICOM) - Format String (CWE-134)",
+    "published_wib": "2026-09-27T11:16:13+07:00",
+    "summary": "Posted by Matthias Deeg via Fulldisclosure on Sep 26 Advisory ID: SYSS-2026-071 Product: GDCM (Grassroots DICOM) Manufacturer: GDCM Project Affected Version(s): 3.3.0 Tested Version(s): 3.3.0 Vulnerability Type: Format String (CWE-134) Risk Level: Medium Solution Status: Open Manufacturer Notification: 2026-07-24 Public Disclosure: 2026-09-23 CVE Reference:\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/87"
+    ]
+  },
+  {
+    "title": "[+24h Old] [SYSS-2026-070]: GDCM (Grassroots DICOM) - Integer Overflow (CWE-190)",
+    "published_wib": "2026-09-27T11:16:12+07:00",
+    "summary": "Posted by Matthias Deeg via Fulldisclosure on Sep 26 Advisory ID: SYSS-2026-070 Product: GDCM (Grassroots DICOM) Manufacturer: GDCM Project Affected Version(s): 3.3.0 Tested Version(s): 3.3.0 Vulnerability Type: Integer Overflow (CWE-190) Risk Level: High Solution Status: Open Manufacturer Notification: 2026-07-24 Public Disclosure: 2026-09-23 CVE Reference\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/86"
+    ]
+  },
+  {
+    "title": "[+24h Old] [SYSS-2026-068]: GDCM (Grassroots DICOM) - Stack-based Buffer Overflow (CWE-121)",
+    "published_wib": "2026-09-27T11:16:09+07:00",
+    "summary": "Posted by Matthias Deeg via Fulldisclosure on Sep 26 Advisory ID: SYSS-2026-068 Product: GDCM (Grassroots DICOM) Manufacturer: GDCM Project Affected Version(s): 3.3.0 Tested Version(s): 3.3.0 Vulnerability Type: Stack-based Buffer Overflow (CWE-121) Risk Level: High Solution Status: Open Manufacturer Notification: 2026-07-24 Public Disclosure: 2026-09-23 CV\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/84"
+    ]
+  },
+  {
+    "title": "[+24h Old] harness Gitspace hardcoded password for every user account",
+    "published_wib": "2026-09-27T11:14:57+07:00",
+    "summary": "Posted by Khashayar Fereidani on Sep 26 # harness Gitspace hardcoded password for every user account **Author:** Khashayar Fereidani **Disclosure Date:** 2026-09-24 **Advisory:** https://fereidani.com/harness-gitspace-hardcoded-password-for-every-user-account **Contact:** https://fereidani.com/contact ## Description Gitspaces are Harness's hosted developmen\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Sep/83"
+    ]
+  }
+]

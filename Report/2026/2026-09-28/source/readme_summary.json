@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Citrix confirms two NetScaler RCE zero-days exploited in attacks and Cloudflare fixes Containers cross-tenant flaw exposing customer data. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-28",
+  "vol": "005"
+}
