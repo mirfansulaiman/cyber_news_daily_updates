@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Nvidia releases Open Agent Safety Platform to monitor and govern agentic AI
+- Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)
+- QR code vulnerability allows attackers to hijack branded domains
+- Nvidia launches open-source platform to enhance AI agent safety
+- Malicious ad-blocking extensions exploit Chrome Web Store trust
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Lunex malware platform uses Psychedelic Stealer via compromised Ukrainian sites. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Nvidia releases Open Agent Safety Platform to monitor and govern agentic AI. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Google ads deliver sophisticated tech support scam targeting Windows and Mac users. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

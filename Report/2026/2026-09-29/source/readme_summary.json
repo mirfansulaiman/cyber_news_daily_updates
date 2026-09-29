@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Nvidia releases Open Agent Safety Platform to monitor and govern agentic AI and Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th). Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Lunex malware platform uses Psychedelic Stealer via compromised Ukrainian sites. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Japan's Keio confirms ransomware attack disrupted business systems. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-29",
+  "vol": "005"
+}
