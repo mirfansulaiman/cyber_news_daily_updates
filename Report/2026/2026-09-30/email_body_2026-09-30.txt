@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Two former Air Force members sentenced for BEC scams and phishing
+- Former IBM X-Force Red leaders launch AI-powered offensive cybersecurity startup
+- Vietnamese national charged in $16 million cryptocurrency pig butchering scam
+- PhantomSub campaign uses 101 npm packages to add developers to WhatsApp groups
+- Phishing Abuses RMM Tools for Persistent Access
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Two former Air Force members sentenced for BEC scams and phishing. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Former IBM X-Force Red leaders launch AI-powered offensive cybersecurity startup. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Vietnamese national charged in $16 million cryptocurrency pig butchering scam. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

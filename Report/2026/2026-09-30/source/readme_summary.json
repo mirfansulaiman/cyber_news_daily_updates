@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Former IBM X-Force Red leaders launch AI-powered offensive cybersecurity startup and PhantomSub campaign uses 101 npm packages to add developers to WhatsApp groups. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Two former Air Force members sentenced for BEC scams and phishing. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "FBI tells ShinyHunters members to turn themselves in after recent arrest. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-09-30",
+  "vol": "005"
+}

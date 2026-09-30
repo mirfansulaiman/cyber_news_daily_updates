@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Former IBM X-Force Red leaders launch AI-powered offensive cybersecurity startup",
+    "published_wib": "2026-09-30T05:33:21+07:00",
+    "summary": "RemoteThreat's platform is designed to simulate nation-state level attacks for Fortune 500 organizations and provide government operators with tools to target adversaries at speed and scale.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/former-ibm-x-force-red-leaders-launch-ai-powered-offensive-cybersecurity-startup"
+    ]
+  },
+  {
+    "title": "PhantomSub campaign uses 101 npm packages to add developers to WhatsApp groups",
+    "published_wib": "2026-09-30T05:19:26+07:00",
+    "summary": "The malicious npm packages, collectively downloaded 490,000 times, exploit the \"Baileys\" WhatsApp open-source project to subscribe developers to various WhatsApp groups.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/phantomsub-campaign-uses-101-npm-packages-to-add-developers-to-whatsapp-groups"
+    ]
+  },
+  {
+    "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+    "published_wib": "2026-09-30T04:31:29+07:00",
+    "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks"
+    ]
+  },
+  {
+    "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+    "published_wib": "2026-09-30T04:08:42+07:00",
+    "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution"
+    ]
+  },
+  {
+    "title": "57% of security execs report challenges with onboarding entry-level staff",
+    "published_wib": "2026-09-30T02:19:28+07:00",
+    "summary": "SkillBit survey says security teams struggle to find and train new staff as AI compresses the time they have to patch new bugs.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/57-of-security-execs-report-challenges-with-onboarding-new-staff"
+    ]
+  },
+  {
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "published_wib": "2026-09-30T01:37:12+07:00",
+    "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+    ]
+  },
+  {
+    "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+    "published_wib": "2026-09-30T00:49:45+07:00",
+    "summary": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+    ]
+  },
+  {
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "published_wib": "2026-09-30T00:20:17+07:00",
+    "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR). \"The key in\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
+    ]
+  },
+  {
+    "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+    "published_wib": "2026-09-29T23:00:00+07:00",
+    "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/"
+    ]
+  },
+  {
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+    "published_wib": "2026-09-29T22:39:19+07:00",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/"
+    ]
+  }
+]

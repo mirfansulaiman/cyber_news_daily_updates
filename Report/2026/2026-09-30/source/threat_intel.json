@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Two former Air Force members sentenced for BEC scams and phishing",
+    "published_wib": "2026-09-30T05:40:21+07:00",
+    "summary": "The duo stole victims' employee email credentials through spamming and phishing campaigns.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/two-former-air-force-members-sentenced-for-bec-scams-and-phishing"
+    ]
+  },
+  {
+    "title": "Phishing Abuses RMM Tools for Persistent Access",
+    "published_wib": "2026-09-30T04:39:27+07:00",
+    "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/"
+    ]
+  },
+  {
+    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+    "published_wib": "2026-09-30T04:34:39+07:00",
+    "summary": "It's a worm attack, AI-style",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922"
+    ]
+  },
+  {
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "published_wib": "2026-09-30T03:59:39+07:00",
+    "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/"
+    ]
+  },
+  {
+    "title": "Former US Air Force members sent to prison over BEC attacks",
+    "published_wib": "2026-09-30T01:09:39+07:00",
+    "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/"
+    ]
+  },
+  {
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "published_wib": "2026-09-30T00:20:08+07:00",
+    "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was inf\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
+    ]
+  },
+  {
+    "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
+    "published_wib": "2026-09-29T22:12:39+07:00",
+    "summary": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks"
+    ]
+  },
+  {
+    "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+    "published_wib": "2026-09-29T22:00:00+07:00",
+    "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as \u201cRedFlick\u201d. The post Star Blizzard refines phishing and malware delivery with the\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/"
+    ]
+  },
+  {
+    "title": "RatHat's Evolving C2 Panel Points to Malware-as-a-Service Model",
+    "published_wib": "2026-09-29T21:30:00+07:00",
+    "summary": "RatHat's C2 panel now builds malware and ranks victims with AI across nearly 100 deployments",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/"
+    ]
+  },
+  {
+    "title": "Microsoft Warns NeedyMantis Malware Enables Persistent Network Access",
+    "published_wib": "2026-09-29T20:30:00+07:00",
+    "summary": "Microsoft Threat Intelligence warns that NeedyMantis threat actor from China has targeted organizations across a range of industries",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/"
+    ]
+  }
+]

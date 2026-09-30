@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Vietnamese national charged in $16 million cryptocurrency pig butchering scam",
+    "published_wib": "2026-09-30T05:25:31+07:00",
+    "summary": "A Vietnamese national has been charged with money laundering for his alleged role in a massive \"pig butchering\" scam that defrauded a victim of $16 million in cryptocurrency.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/vietnamese-national-charged-in-16-million-cryptocurrency-pig-butchering-scam"
+    ]
+  },
+  {
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "published_wib": "2026-09-30T03:09:55+07:00",
+    "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
+    ]
+  },
+  {
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "published_wib": "2026-09-30T00:47:01+07:00",
+    "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday:\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
+    ]
+  },
+  {
+    "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+    "published_wib": "2026-09-30T00:10:11+07:00",
+    "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/"
+    ]
+  },
+  {
+    "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+    "published_wib": "2026-09-30T00:00:00+07:00",
+    "summary": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/"
+    ]
+  },
+  {
+    "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+    "published_wib": "2026-09-29T19:25:12+07:00",
+    "summary": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/"
+    ]
+  },
+  {
+    "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+    "published_wib": "2026-09-29T18:41:53+07:00",
+    "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake iPhone Duo preorder scam triggers DarkSword attack",
+    "published_wib": "2026-09-29T16:56:49+07:00",
+    "summary": "A fake iPhone Duo preorder page promises a $500 voucher. Open it on a vulnerable iPhone, and it tries to break in before you fill out the form.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/09/fake-iphone-duo-preorder-scam-triggers-darksword-attack"
+    ]
+  },
+  {
+    "title": "[+24h Old] Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+    "published_wib": "2026-09-29T15:35:10+07:00",
+    "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individua\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Major Cyber Attacks in September 2026: US and EU Face Session Theft, Remote Access, and Payment Fraud",
+    "published_wib": "2026-09-29T15:32:51+07:00",
+    "summary": "Cyberattacks observed in September showed how difficult it has become to separate malicious activity from legitimate business workflows. Attackers used trusted cloud services, familiar document-sharing platforms, legitimate authentication flows, remote-management software, and rapidly changing infrastructure to hide different stages of their operations. For\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/major-cyber-attacks-september-2026/"
+    ]
+  }
+]
