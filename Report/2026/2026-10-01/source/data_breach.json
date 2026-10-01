@@ -1,0 +1,102 @@
+[
+  {
+    "title": "South African air traffic control firm investigates ransomware-linked malware in OT network",
+    "published_wib": "2026-10-01T03:55:03+07:00",
+    "summary": "The incident at ATNS, which manages approximately 10% of the world's airspace, involved suspicious activity detected in OT environments supporting weather services.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/south-african-air-traffic-control-firm-investigates-ransomware-linked-malware-in-ot-network"
+    ]
+  },
+  {
+    "title": "Russia proposes new rules to curb SIM card fraud",
+    "published_wib": "2026-10-01T03:48:42+07:00",
+    "summary": "The proposed measures would restrict SIM card registration to direct dealers and mandate that new SIM cards be sold without any pre-loaded funds.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/russia-proposes-new-rules-to-curb-sim-card-fraud"
+    ]
+  },
+  {
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "published_wib": "2026-10-01T01:08:34+07:00",
+    "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
+    ]
+  },
+  {
+    "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+    "published_wib": "2026-09-30T18:58:00+07:00",
+    "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most dangerous techniques that should be on every s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html"
+    ]
+  },
+  {
+    "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+    "published_wib": "2026-09-30T17:20:02+07:00",
+    "summary": "In the wake of a suspected leader\u2019s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Calls on Members to Come Forward appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/"
+    ]
+  },
+  {
+    "title": "The MFA you have isn\u2019t the MFA you think you have",
+    "published_wib": "2026-09-30T17:00:00+07:00",
+    "summary": "For nearly a decade, multi-factor authentication has been the control every security leader points to when asked how they\u2019ve reduced account takeover risk. It sits on almost every compliance checklist and nearly every cyber insurance questionnaire, and for good reason \u2014 adding a second factor to a password login closed off an enormous share of credential-ba\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4228386/the-mfa-you-have-isnt-the-mfa-you-think-you-have.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Can we jail a superintelligence?",
+    "published_wib": "2026-09-30T16:00:00+07:00",
+    "summary": "AI containment is essential, but security leaders should assume every boundary can fail once an agent can communicate, use tools, and act on real systems. On September 17, podcaster Steven Bartlett asked four AI experts an unusual question: Could you build a jail for a digital Einstein? The panel on The Diary of a CEO was debating whether AI could one day t\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4228309/can-we-jail-a-superintelligence.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+    "published_wib": "2026-09-30T15:09:28+07:00",
+    "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+    "published_wib": "2026-09-30T14:00:00+07:00",
+    "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "published_wib": "2026-09-30T03:09:55+07:00",
+    "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
+    ]
+  }
+]

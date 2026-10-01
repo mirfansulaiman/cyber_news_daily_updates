@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "High-severity OpenSSL flaw can leak memory or crash programs and UK employers plan tech team expansion, prioritizing security and AI skills. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "South African air traffic control firm investigates ransomware-linked malware in OT network. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-10-01",
+  "vol": "006"
+}
