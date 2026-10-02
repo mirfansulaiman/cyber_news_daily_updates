@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Chinese ransomware group Warlock targets Spanish- and Portuguese-speaking countries and AI agent exploits zero-day flaws in Zammad ticketing system. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Russian hacking group Star Blizzard expands phishing operations with new malware technique. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Teenager arrested in Spain suspected of leading KillSec ransomware group. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-10-02",
+  "vol": "006"
+}

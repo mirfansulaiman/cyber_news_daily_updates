@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Russian hacking group Star Blizzard expands phishing operations with new malware technique",
+    "published_wib": "2026-10-02T05:46:58+07:00",
+    "summary": "A Russian state-backed hacking group, known as Star Blizzard, has significantly expanded its phishing operations this year, employing a new technique that simplifies malware infection for victims, according to Microsoft.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/russian-hacking-group-star-blizzard-expands-phishing-operations-with-new-malware-technique"
+    ]
+  },
+  {
+    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+    "published_wib": "2026-10-01T21:37:35+07:00",
+    "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-he\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
+    ]
+  },
+  {
+    "title": "CloudSyncD MacOS Backdoor Hides Behind Fake Zoom Installer",
+    "published_wib": "2026-10-01T20:30:00+07:00",
+    "summary": "CloudSyncD uses a fake Zoom installer to phish Mac passwords and launch a two-stage backdoor",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cloudsyncd-macos-backdoor-fake/"
+    ]
+  },
+  {
+    "title": "Threat Coverage Digest: New Malware Reports and 1,100+ Detection Rules",
+    "published_wib": "2026-10-01T20:13:27+07:00",
+    "summary": "September saw an expansion of detection coverage across network, file, and behavioral activity, providing analysts with additional visibility into suspicious activity. ANY.RUN added 76 behavior signatures, 16 YARA detections, and 1,098 Suricata rules, strengthening coverage across malware activity, suspicious files, and network communications. These updates\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/september-threat-coverage-2026/"
+    ]
+  },
+  {
+    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+    "published_wib": "2026-10-01T18:45:00+07:00",
+    "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/10/how-financial-services-companies-can.html"
+    ]
+  },
+  {
+    "title": "Malwarebytes earns another Top Product award in independent testing",
+    "published_wib": "2026-10-01T17:51:52+07:00",
+    "summary": "Three independent labs, three standout results: a perfect score, top certification, and every threat stopped before it ran.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/product/2026/10/malwarebytes-earns-another-top-product-award-in-independent-testing"
+    ]
+  },
+  {
+    "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
+    "published_wib": "2026-10-01T17:51:39+07:00",
+    "summary": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware Developer and His Network appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/"
+    ]
+  },
+  {
+    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+    "published_wib": "2026-10-01T17:42:36+07:00",
+    "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
+    "published_wib": "2026-10-01T12:32:13+07:00",
+    "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications...",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33388"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
+    "published_wib": "2026-10-01T09:00:02+07:00",
+    "summary": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33386"
+    ]
+  }
+]

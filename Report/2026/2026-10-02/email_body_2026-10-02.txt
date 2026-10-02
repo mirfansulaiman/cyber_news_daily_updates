@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Teenager arrested in Spain suspected of leading KillSec ransomware group
+- Chinese ransomware group Warlock targets Spanish- and Portuguese-speaking countries
+- AI agent exploits zero-day flaws in Zammad ticketing system
+- Russian hacking group Star Blizzard expands phishing operations with new malware technique
+- Fortinet warns of critical FortiMail flaw exploited in zero-day attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Russian hacking group Star Blizzard expands phishing operations with new malware technique. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Chinese ransomware group Warlock targets Spanish- and Portuguese-speaking countries. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Teenager arrested in Spain suspected of leading KillSec ransomware group. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

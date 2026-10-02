@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Chinese ransomware group Warlock targets Spanish- and Portuguese-speaking countries",
+    "published_wib": "2026-10-02T05:59:26+07:00",
+    "summary": "A Chinese ransomware outfit, known as Warlock, is exploiting Microsoft technologies to target large and critical organizations in Spanish- and Portuguese-speaking regions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/chinese-ransomware-group-warlock-targets-spanish-and-portuguese-speaking-countries"
+    ]
+  },
+  {
+    "title": "AI agent exploits zero-day flaws in Zammad ticketing system",
+    "published_wib": "2026-10-02T05:49:32+07:00",
+    "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) has reported a significant network breach facilitated by an autonomous AI agent that exploited two zero-day vulnerabilities in the open-source Zammad ticketing system.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-agent-exploits-zero-day-flaws-in-zammad-ticketing-system"
+    ]
+  },
+  {
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "published_wib": "2026-10-02T05:42:49+07:00",
+    "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+    "published_wib": "2026-10-02T03:52:50+07:00",
+    "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/"
+    ]
+  },
+  {
+    "title": "Microsoft says threat actors are ahead in the early AI race",
+    "published_wib": "2026-10-02T02:32:47+07:00",
+    "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/"
+    ]
+  },
+  {
+    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+    "published_wib": "2026-10-01T23:45:38+07:00",
+    "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years. That is the lesson running through the list. Attackers do not always\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
+    ]
+  },
+  {
+    "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+    "published_wib": "2026-10-01T23:43:30+07:00",
+    "summary": "Your invite to a fake AI policy advisory committee has strings attached",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595"
+    ]
+  },
+  {
+    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
+    "published_wib": "2026-10-01T21:44:00+07:00",
+    "summary": "Attackers were probing the mail server flaw weeks before it had a CVE to its name",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543"
+    ]
+  },
+  {
+    "title": "VU#553437: InsydeH2O IHISI SMM is vulnerable to unsafe memory write operations",
+    "published_wib": "2026-10-01T21:33:19.418341+07:00",
+    "summary": "Overview An Out-of-bounds Write vulnerability in the InsydeH2O IHISI software used by HP PC BIOS can allow a local attacker with OS kernel privileges to perform arbitrary physical memory writes, including writes to System Management RAM (SMRAM). Because the vulnerable code executes in System Management Mode (SMM), successful exploitation can allow an attack\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/553437"
+    ]
+  },
+  {
+    "title": "Critical Cisco Catalyst SD-WAN Zero-Day Under Active Exploitation",
+    "published_wib": "2026-10-01T21:17:00+07:00",
+    "summary": "Vulnerability in Cisco Catalyst SD-WAN Manager allows an unauthenticated, remote attacker to access systems with admin privileges",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/critical-cisco-catalyst-sdwan/"
+    ]
+  }
+]
