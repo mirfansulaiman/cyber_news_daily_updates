@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Dell patches critical vulnerabilities in container storage modules
+- Frontline Education breach exposes school district employee data
+- Fortinet FortiMail bug exploited in the wild, added to CISA KEV list
+- Warlock ransomware breach SharePoint in water, telecom operator attacks
+- GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Dell patches critical vulnerabilities in container storage modules. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Warlock ransomware breach SharePoint in water, telecom operator attacks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

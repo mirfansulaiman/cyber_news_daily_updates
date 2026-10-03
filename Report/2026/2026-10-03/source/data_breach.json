@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "published_wib": "2026-10-03T01:33:01+07:00",
+    "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/"
+    ]
+  },
+  {
+    "title": "Follow the thread: a new dashboard to investigate account abuse",
+    "published_wib": "2026-10-02T20:00:00+07:00",
+    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://blog.cloudflare.com/account-abuse-protection-dashboard/"
+    ]
+  },
+  {
+    "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "published_wib": "2026-10-02T19:23:15+07:00",
+    "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our inves\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html"
+    ]
+  },
+  {
+    "title": "Crypto Scammers Hijack Microsoft\u2019s Official X Account",
+    "published_wib": "2026-10-02T18:46:10+07:00",
+    "summary": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft\u2019s Official X Account appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/"
+    ]
+  },
+  {
+    "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+    "published_wib": "2026-10-02T18:14:34+07:00",
+    "summary": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad. The post In Rare Move, Alleged Iranian State Hacker Extradited to US appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Police Target KillSec Ransomware Group with Arrests and Seizures",
+    "published_wib": "2026-10-02T16:20:00+07:00",
+    "summary": "Investigators have disrupted the operations of ransomware group KillSec and arrested several key suspects",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "published_wib": "2026-10-02T15:01:30+07:00",
+    "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major at\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+    "published_wib": "2026-10-02T04:37:50+07:00",
+    "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old"
+    ]
+  },
+  {
+    "title": "[+24h Old] Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    "published_wib": "2026-10-01T23:55:57+07:00",
+    "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site. Investigators identif\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+    "published_wib": "2026-10-01T21:25:14+07:00",
+    "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
+    ]
+  }
+]

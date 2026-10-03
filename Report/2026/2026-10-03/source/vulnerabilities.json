@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Dell patches critical vulnerabilities in container storage modules",
+    "published_wib": "2026-10-03T05:34:29+07:00",
+    "summary": "Dell has released patches for two critical vulnerabilities affecting its Container Storage Modules (CSM), which are essential for integrating Dell enterprise storage arrays with Kubernetes environments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/dell-patches-critical-vulnerabilities-in-container-storage-modules"
+    ]
+  },
+  {
+    "title": "Frontline Education breach exposes school district employee data",
+    "published_wib": "2026-10-03T02:01:40+07:00",
+    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
+    ]
+  },
+  {
+    "title": "Fortinet FortiMail bug exploited in the wild, added to CISA KEV list",
+    "published_wib": "2026-10-03T01:50:30+07:00",
+    "summary": "Exploited FortiMail flaw lets attackers turn email security gateways into persistent footholds.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/fortinet-fortimail-bug-exploited-in-the-wild-added-to-cisa-kev-list"
+    ]
+  },
+  {
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "published_wib": "2026-10-03T00:33:31+07:00",
+    "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+    ]
+  },
+  {
+    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+    "published_wib": "2026-10-03T00:02:12+07:00",
+    "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+    ]
+  },
+  {
+    "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
+    "published_wib": "2026-10-02T23:56:30+07:00",
+    "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response"
+    ]
+  },
+  {
+    "title": "SWIFT Banking & Government Middleware Enables RCE",
+    "published_wib": "2026-10-02T23:27:54+07:00",
+    "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce"
+    ]
+  },
+  {
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "published_wib": "2026-10-02T23:20:05+07:00",
+    "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+    ]
+  },
+  {
+    "title": "Pentagon's new cyber pay initiative faces criticism and confusion",
+    "published_wib": "2026-10-02T23:19:25+07:00",
+    "summary": "The Pentagon's new Cyber Mastery Incentive Pay (C-MIP) program, intended to reward advanced technical skills within the cyber workforce, is facing significant challenges and criticism just days before its scheduled launch.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/pentagons-new-cyber-pay-initiative-faces-criticism-and-confusion"
+    ]
+  },
+  {
+    "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
+    "published_wib": "2026-10-02T21:30:00+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws. The post In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/"
+    ]
+  }
+]
