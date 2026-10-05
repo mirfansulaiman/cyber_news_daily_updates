@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- TTY Logs and the Data it Captures, (Sun, Oct 4th)
+- Citrix patches NetScaler SAML zero-day exploited in attacks
+- Scammers increasingly target mobile users with banking fraud
+- Frontline Education data breach exposes employee Social Security numbers
+- Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by TTY Logs and the Data it Captures, (Sun, Oct 4th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Citrix patches NetScaler SAML zero-day exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Scammers increasingly target mobile users with banking fraud. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

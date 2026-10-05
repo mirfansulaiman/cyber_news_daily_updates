@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Scammers increasingly target mobile users with banking fraud",
+    "published_wib": "2026-10-05T01:13:43+07:00",
+    "summary": "Banking scam fraudsters are increasingly focusing on mobile devices, with a 35% increase in such scams over the last 12 months.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/scammers-increasingly-target-mobile-users-with-banking-fraud"
+    ]
+  },
+  {
+    "title": "[+24h Old] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+    "published_wib": "2026-10-04T14:22:05+07:00",
+    "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif \u200cal-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Feder\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+    "published_wib": "2026-10-04T02:09:38+07:00",
+    "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft X account hijacked for crypto scam",
+    "published_wib": "2026-10-03T23:47:59+07:00",
+    "summary": "Unknown attackers compromised the official Microsoft account on X, promoting a cryptocurrency token in what appeared to be a pump-and-dump scheme.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/microsoft-x-account-hijacked-for-crypto-scam"
+    ]
+  },
+  {
+    "title": "[+24h Old] Danish university DTU breach exposes data of up to 200,000 people",
+    "published_wib": "2026-10-03T21:35:20+07:00",
+    "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Warlock ransomware breach SharePoint in water, telecom operator attacks",
+    "published_wib": "2026-10-03T01:33:01+07:00",
+    "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Follow the thread: a new dashboard to investigate account abuse",
+    "published_wib": "2026-10-02T20:00:00+07:00",
+    "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://blog.cloudflare.com/account-abuse-protection-dashboard/"
+    ]
+  },
+  {
+    "title": "[+48h Old] OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+    "published_wib": "2026-10-02T19:23:15+07:00",
+    "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our inves\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Crypto Scammers Hijack Microsoft\u2019s Official X Account",
+    "published_wib": "2026-10-02T18:46:10+07:00",
+    "summary": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft\u2019s Official X Account appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/"
+    ]
+  },
+  {
+    "title": "[+48h Old] In Rare Move, Alleged Iranian State Hacker Extradited to US",
+    "published_wib": "2026-10-02T18:14:34+07:00",
+    "summary": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad. The post In Rare Move, Alleged Iranian State Hacker Extradited to US appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/"
+    ]
+  }
+]

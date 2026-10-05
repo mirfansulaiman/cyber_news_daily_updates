@@ -1,0 +1,102 @@
+[
+  {
+    "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+    "published_wib": "2026-10-05T07:15:00+07:00",
+    "summary": "For an experiment, I created a script [1] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [2] to be correlated with all the data.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33396"
+    ]
+  },
+  {
+    "title": "[+24h Old] China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+    "published_wib": "2026-10-04T14:20:32+07:00",
+    "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Linux malware mimics network edge appliances to evade detection",
+    "published_wib": "2026-10-03T23:46:08+07:00",
+    "summary": "Sophisticated malware developers are creating Linux implants that closely mimic Korean and Taiwanese network edge appliances, making them exceptionally difficult to detect.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-linux-malware-mimics-network-edge-appliances-to-evade-detection"
+    ]
+  },
+  {
+    "title": "[+48h Old] Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+    "published_wib": "2026-10-03T00:33:16+07:00",
+    "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino.\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
+    "published_wib": "2026-10-02T20:15:00+07:00",
+    "summary": "The dropper \u201ccarries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime. The post macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Malicious Linux Implants Mimic Asian Mail Security Products",
+    "published_wib": "2026-10-02T20:00:00+07:00",
+    "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security"
+    ]
+  },
+  {
+    "title": "[+48h Old] Chinese spies impersonate White House, Anthropic figures to phish AI policy experts",
+    "published_wib": "2026-10-02T17:21:55+07:00",
+    "summary": "A China-aligned espionage group has been posing as a former White House official and a prominent economist to get into the cloud accounts of AI policy experts in the US, Proofpoint have found. The group, which the researchers track as TA419, ran several credential phishing campaigns in July 2026. \u201cIn July 2026, TA419 impersonated multiple individuals, inclu\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/02/china-aligned-ta419-phishing-ai-policy-experts/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Botnets, adversarial attacks and data poisoning top leaders\u2019 AI threat list",
+    "published_wib": "2026-10-02T12:00:28+07:00",
+    "summary": "Companies are putting more money into AI while naming attacks on AI systems as the threat they are least ready to face. PwC surveyed 3,934 business and technology leaders in 71 countries between May and July 2026. Half of the security and technology executives among them ranked such attacks in their top five preparedness gaps, ahead of every other threat on\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/"
+    ]
+  },
+  {
+    "title": "[+48h Old] ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+    "published_wib": "2026-10-02T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33390"
+    ]
+  },
+  {
+    "title": "[+48h Old] The Good, the Bad and the Ugly in Cybersecurity \u2013 Week 39 (2026)",
+    "published_wib": "2026-10-02T07:00:00+07:00",
+    "summary": "Ryuk access broker heads to prison, TraderTraitor backdoors surface on victim with no crypto ties, and one operator's AI agents skim 600K credit cards.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8"
+    ]
+  }
+]

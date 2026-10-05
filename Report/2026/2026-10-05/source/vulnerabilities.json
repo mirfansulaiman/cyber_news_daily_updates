@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+    "published_wib": "2026-10-05T04:58:01+07:00",
+    "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Frontline Education data breach exposes employee Social Security numbers",
+    "published_wib": "2026-10-05T01:11:25+07:00",
+    "summary": "Frontline Education, a provider of software and services for school districts, is notifying clients of a data breach that resulted from a vulnerability in a third-party application.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/frontline-education-data-breach-exposes-employee-social-security-numbers"
+    ]
+  },
+  {
+    "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
+    "published_wib": "2026-10-04T21:57:25+07:00",
+    "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+    "published_wib": "2026-10-04T15:00:19+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: 16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data A flaw in Titan, an internal Microsoft analytics service, could have let an attacker read employee records and Bing search analytics, a 16-year-old security r\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/"
+    ]
+  },
+  {
+    "title": "[+24h Old] GitLab warns of critical AI Gateway vulnerability allowing command execution",
+    "published_wib": "2026-10-03T23:33:43+07:00",
+    "summary": "A critical vulnerability in GitLab's AI Gateway that could allow attackers to execute arbitrary commands on affected instances.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/gitlab-warns-of-critical-ai-gateway-vulnerability-allowing-command-execution"
+    ]
+  },
+  {
+    "title": "[+24h Old] Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+    "published_wib": "2026-10-03T21:36:33+07:00",
+    "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fortra Patches Critical Vulnerabilities in BoKS",
+    "published_wib": "2026-10-03T18:34:00+07:00",
+    "summary": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+    "published_wib": "2026-10-03T22:27:00+07:00",
+    "summary": "Exploitation attempts came from China-hosted IP, VulnCheck researcher says",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933"
+    ]
+  },
+  {
+    "title": "[+48h Old] Dell patches critical vulnerabilities in container storage modules",
+    "published_wib": "2026-10-03T05:34:29+07:00",
+    "summary": "Dell has released patches for two critical vulnerabilities affecting its Container Storage Modules (CSM), which are essential for integrating Dell enterprise storage arrays with Kubernetes environments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/dell-patches-critical-vulnerabilities-in-container-storage-modules"
+    ]
+  },
+  {
+    "title": "[+48h Old] Frontline Education breach exposes school district employee data",
+    "published_wib": "2026-10-03T02:01:40+07:00",
+    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
+    ]
+  }
+]
