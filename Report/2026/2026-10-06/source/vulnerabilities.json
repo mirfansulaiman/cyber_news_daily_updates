@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Dell patches 18 critical flaws that could hand attackers the keys to storage and Kubernetes",
+    "published_wib": "2026-10-06T08:25:24+07:00",
+    "summary": "Dell\u2019s security team has had a busy week. The company has announced a slew of Common Vulnerabilities and Exposures (CVEs) impacting its Dell Container Storage Modules (CSM) and Dell System Update (DSU). Disclosed by Dell in two security notices, these critical vulnerabilities could allow unauthenticated attackers to \u201ccompletely bypass\u201d authentication contro\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4230923/dell-patches-18-critical-flaws-that-could-hand-attackers-the-keys-to-storage-and-kubernetes.html"
+    ]
+  },
+  {
+    "title": "ShinyHunters\u2019 exploitation of a new PeopleSoft zero-day hole threatens to change enterprise risk dynamics",
+    "published_wib": "2026-10-06T08:02:05+07:00",
+    "summary": "A recent compromise of PeopleSoft by hacking group ShinyHunters is causing new concerns for enterprise users of the Oracle product, with analysts recommending extreme measures in response. Law enforcement has made some progress in its pursuit of the cyber criminals involved. On Saturday, Reuters reported that a suspected member of ShinyHunters had been arre\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4230892/shinyhunters-exploitation-of-a-new-peoplesoft-zero-day-hole-threatens-to-change-enterprise-risk-dynamics.html"
+    ]
+  },
+  {
+    "title": "Cling botnet exploits Realtek SDK flaw, uses STUN for C2",
+    "published_wib": "2026-10-06T05:09:31+07:00",
+    "summary": "Threat actors are exploiting a critical vulnerability in the Realtek Jungle software development kit (SDK) to deploy a botnet malware known as Cling.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cling-botnet-exploits-realtek-sdk-flaw-uses-stun-for-c2"
+    ]
+  },
+  {
+    "title": "Milk Dragon scam uses fake deals on social media to steal payment data",
+    "published_wib": "2026-10-06T05:09:15+07:00",
+    "summary": "A sophisticated scam campaign dubbed Milk Dragon is leveraging fake e-commerce websites and social media promotions to steal users' payment data.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/milk-dragon-scam-uses-fake-deals-on-social-media-to-steal-payment-data"
+    ]
+  },
+  {
+    "title": "AWS Continuum sets a new standard in autonomous code security",
+    "published_wib": "2026-10-06T04:41:01+07:00",
+    "summary": "As AI models become more capable, they uncover more security vulnerabilities and identify increasingly sophisticated paths to exploit them, raising the bar for how quickly defenders must respond. Security teams now face more potential vulnerabilities than their existing processes were designed to handle \u2014 each requiring investigation, reproduction, and a re\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/aws-continuum-sets-a-new-standard-in-autonomous-code-security/"
+    ]
+  },
+  {
+    "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+    "published_wib": "2026-10-06T04:25:08+07:00",
+    "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes"
+    ]
+  },
+  {
+    "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+    "published_wib": "2026-10-06T04:18:48+07:00",
+    "summary": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
+    ]
+  },
+  {
+    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+    "published_wib": "2026-10-06T03:20:05+07:00",
+    "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/"
+    ]
+  },
+  {
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+    "published_wib": "2026-10-05T23:21:52+07:00",
+    "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
+    ]
+  },
+  {
+    "title": "Debian's latest kernel security update has 1,313 reasons to patch",
+    "published_wib": "2026-10-05T22:35:00+07:00",
+    "summary": "AI-assisted bug hunting adds to maintainers' workload, while broad CVE rules help explain the sprawling tally",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124"
+    ]
+  }
+]

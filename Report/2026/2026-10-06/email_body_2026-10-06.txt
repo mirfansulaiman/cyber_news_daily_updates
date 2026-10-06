@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Dell patches 18 critical flaws that could hand attackers the keys to storage and Kubernetes
+- ShinyHunters’ exploitation of a new PeopleSoft zero-day hole threatens to change enterprise risk dynamics
+- Cling botnet exploits Realtek SDK flaw, uses STUN for C2
+- Milk Dragon scam uses fake deals on social media to steal payment data
+- Iranian hacker Amir Barati faces extradition to the US over alleged data theft campaign
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by New Stealthy Linux Backdoors Target Telecoms, Masquerade as Email Traffic. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Dell patches 18 critical flaws that could hand attackers the keys to storage and Kubernetes. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Iranian hacker Amir Barati faces extradition to the US over alleged data theft campaign. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

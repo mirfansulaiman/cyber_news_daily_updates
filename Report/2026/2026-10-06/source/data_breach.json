@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Iranian hacker Amir Barati faces extradition to the US over alleged data theft campaign",
+    "published_wib": "2026-10-06T05:02:27+07:00",
+    "summary": "Iranian hacker Amir Barati, a dual Turkish and Iranian citizen, has been arrested in Montenegro and a court has approved his extradition to the United States.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/iranian-hacker-amir-barati-faces-extradition-to-the-us-over-alleged-data-theft-campaign"
+    ]
+  },
+  {
+    "title": "University of Illinois Chicago College of Medicine systems impacted by ransomware attack",
+    "published_wib": "2026-10-06T05:01:03+07:00",
+    "summary": "The University of Illinois Chicago (UIC) recently experienced a ransomware attack that disrupted access to certain systems within its College of Medicine, leading to a temporary data theft and system outage.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/university-of-illinois-chicago-college-of-medicine-systems-impacted-by-ransomware-attack"
+    ]
+  },
+  {
+    "title": "Microsoft's X account briefly hijacked for cryptocurrency scam",
+    "published_wib": "2026-10-06T04:48:11+07:00",
+    "summary": "Microsoft's official X account was briefly compromised and used to promote a cryptocurrency scam involving a token named $CLIPPY.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/microsofts-x-account-briefly-hijacked-for-cryptocurrency-scam"
+    ]
+  },
+  {
+    "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+    "published_wib": "2026-10-06T00:46:22+07:00",
+    "summary": "Another few bite the dust",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178"
+    ]
+  },
+  {
+    "title": "Denmark population registry data breach affects 8.8 million people",
+    "published_wib": "2026-10-05T22:21:10+07:00",
+    "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/"
+    ]
+  },
+  {
+    "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+    "published_wib": "2026-10-05T21:22:12+07:00",
+    "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/"
+    ]
+  },
+  {
+    "title": "5th October \u2013 Threat Intelligence Report",
+    "published_wib": "2026-10-05T20:57:30+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 5th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Arizona\u2019s state court system has suffered a phishing-led cyberattack after an employee clicked a malicious link. Attackers copied backup files containing protective-order records and more than 150,000 Foster Ca\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Malwarebytes Scam Link Check analyzes URLs and explains potential risks",
+    "published_wib": "2026-10-05T20:30:28+07:00",
+    "summary": "Malwarebytes has launched the Malwarebytes Scam Link Check, a free web tool that lets anyone check whether a website link is safe or dangerous before clicking it. Users paste any suspicious URL, the kind that arrives by text, email, chat, or social media, and the tool returns a safety result, along with the reasons behind it and recommended next steps. Scam\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/05/malwarebytes-scam-link-check/"
+    ]
+  },
+  {
+    "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+    "published_wib": "2026-10-05T20:01:45+07:00",
+    "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/"
+    ]
+  },
+  {
+    "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
+    "published_wib": "2026-10-05T19:35:15+07:00",
+    "summary": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/"
+    ]
+  }
+]
