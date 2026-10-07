@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System",
+    "published_wib": "2026-10-07T08:32:58+07:00",
+    "summary": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"
+    ]
+  },
+  {
+    "title": "A personnel file is a map: Why the FBI breach matters",
+    "published_wib": "2026-10-07T04:31:10+07:00",
+    "summary": "The government needs to protect personnel records as strongly as it protects its own secrets.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/perspective/a-personnel-file-is-a-map-why-the-fbi-breach-matters"
+    ]
+  },
+  {
+    "title": "Phishing scam targets tourists applying for Schengen visas",
+    "published_wib": "2026-10-07T00:02:10+07:00",
+    "summary": "A new phishing scam is targeting tourists applying for Schengen visas, with scammers sending fraudulent emails that mimic official communications from EU migration authorities.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/phishing-scam-targets-tourists-applying-for-schengen-visas"
+    ]
+  },
+  {
+    "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
+    "published_wib": "2026-10-06T23:33:54+07:00",
+    "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/"
+    ]
+  },
+  {
+    "title": "ASOS \u201chackers\u201d send push notifications to customers",
+    "published_wib": "2026-10-06T21:11:11+07:00",
+    "summary": "ASOS customers received a push notification regarding a breach of the company. Here's what we know so far.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/10/asos-hackers-send-push-notifications-to-customers"
+    ]
+  },
+  {
+    "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
+    "published_wib": "2026-10-06T19:47:57+07:00",
+    "summary": "An alleged leader of Tren de Aragua\u2019s ATM jackpotting activities, Canelon Aguirre was on the FBI\u2019s top 10 most wanted list since March 2026. The post FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/"
+    ]
+  },
+  {
+    "title": "Facebook Marketplace scam uses your name and number",
+    "published_wib": "2026-10-06T19:11:06+07:00",
+    "summary": "Facebook users are reporting receiving a message with a fake Facebook Marketplace listing that has their name as the seller.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/10/facebook-marketplace-phish-uses-your-name-and-number"
+    ]
+  },
+  {
+    "title": "Asos app delivers a data leak threat instead of fast fashion",
+    "published_wib": "2026-10-06T18:51:36+07:00",
+    "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332"
+    ]
+  },
+  {
+    "title": "ASOS Customers Receive Bizarre \u201cHacked\u201d Message Amid Suspected Snowflake Compromise",
+    "published_wib": "2026-10-06T18:41:00+07:00",
+    "summary": "ASOS customers have received a seemingly legitimate push notifications claiming the retailer\u2019s IT systems have been breached through a Snowflake breach",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/"
+    ]
+  },
+  {
+    "title": "IronChain Ransomware Threatens Businesses with Permanent Data Loss and Costly Downtime",
+    "published_wib": "2026-10-06T18:27:42+07:00",
+    "summary": "Editor\u2019s note: This research was conducted by Himanshu Anand, an independent cybersecurity researcher (follow Himanshu on X). During Cybersecurity Awareness Month, ransomware remains one of the clearest examples of how a cyber incident can become a business continuity issue. IronChain shows why. It puts business-critical data at risk of permanent loss and c\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/ironchain-analysis/"
+    ]
+  }
+]

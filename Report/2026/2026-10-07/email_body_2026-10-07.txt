@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System
+- A personnel file is a map: Why the FBI breach matters
+- Changing the game: How AI forces organizations to revisit assumptions about recovery and resilience
+- Ninja Forms plugin flaw exploited to hack WordPress sites
+- Hackers exploit 32 zero-days on first day of Pwn2Own Ireland
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Changing the game: How AI forces organizations to revisit assumptions about recovery and resilience. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

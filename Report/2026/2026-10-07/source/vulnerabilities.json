@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Changing the game: How AI forces organizations to revisit assumptions about recovery and resilience",
+    "published_wib": "2026-10-07T04:03:37+07:00",
+    "summary": "AI changes recovery plans because it is at once a threat accelerator, a new kind of critical infrastructure and a defensive tool.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/changing-the-game-how-ai-forces-organizations-to-revisit-assumptions-about-recovery-and-resilience"
+    ]
+  },
+  {
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+    "published_wib": "2026-10-07T04:00:27+07:00",
+    "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/"
+    ]
+  },
+  {
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+    "published_wib": "2026-10-07T02:21:53+07:00",
+    "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/"
+    ]
+  },
+  {
+    "title": "FBI removes contractor working with its PeopleSoft system after data breach, says report",
+    "published_wib": "2026-10-07T01:26:16+07:00",
+    "summary": "The US Federal Bureau of Investigation has removed an Accenture contractor working on its PeopleSoft installation over their role in a data breach that exposed personal details of FBI employees, Reuters reported Monday. This is the first time that anyone other than the hacker group Shinyhunters that claimed responsibility for the breach has linked it to Peo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4231356/fbi-removes-contractor-working-with-its-peoplesoft-system-after-data-breach-says-report.html"
+    ]
+  },
+  {
+    "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+    "published_wib": "2026-10-07T00:56:29+07:00",
+    "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] StreamSets Transformer 3.17.0 auth-mode none fallback and un-sandboxed ScalaDTransform execution to container root (8.1 primary)",
+    "published_wib": "2026-10-07T00:44:51+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 06 0day Rubbish Research Team is publicly disclosing a vulnerability in StreamSets Transformer, the Spark-engine data-pipeline platform from StreamSets Inc. (subsequently acquired by IBM), verified on version 3.17.0 analysed from the official container image. Type: failing-open authentication plus un-sandboxed\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/8"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] RCDevs WebADM 2.4.14 authenticated log viewer sid command injection to webadm uid 999 code execution (7.2)",
+    "published_wib": "2026-10-07T00:44:50+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 06 0day Rubbish Research Team is publicly disclosing a vulnerability in RCDevs WebADM 2.4.14, Freeware Edition, the closed-source IAM/MFA management platform from RCDevs Security SA (Luxembourg) that fronts the vendor's OpenOTP, SpanKey and TiQR authentication products. Type: OS command injection (CWE-78, with\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/7"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] Maian Cart 3.8 addBanners unrestricted banner upload to PHP webshell and administrator command execution (7.2 primary, PR:H)",
+    "published_wib": "2026-10-07T00:44:49+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 06 0day Rubbish Research Team is publicly disclosing a vulnerability in Maian Cart 3.8, the self-hosted PHP shopping-cart system from Maian Media (Maian Script World), verified end to end against a real installation of that version. Type: unrestricted upload of a file with a dangerous type (CWE-434), realized a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/6"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] IPConfigure Orchid VMS 26.3.0 authenticated DNF repository GPG-key property command injection to root (7.2)",
+    "published_wib": "2026-10-07T00:44:48+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 06 0day Rubbish Research Team is publicly disclosing a vulnerability in IPConfigure Orchid VMS, installed as Orchid Recorder, version 26.3.0. Type: OS command injection (CWE-78, with CWE-20 bearing on it because no character validation exists anywhere on the path; CWE-250 bears on the result). The server proper\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/5"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] Circutor LineEds 24.11.14-r0 unauthenticated pwrstudio events.xml shellExecute command injection (9.8)",
+    "published_wib": "2026-10-07T00:44:46+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 06 0day Rubbish Research Team is publicly disclosing a vulnerability in the pwrstudio daemon shipped in Circutor LineEds (Line Energy Data System) industrial energy gateway firmware 24.11.14-r0, engine variant pss0. Circutor S.A. is in Spain; the appliance sits between metering and power-quality instrumentation\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/4"
+    ]
+  }
+]

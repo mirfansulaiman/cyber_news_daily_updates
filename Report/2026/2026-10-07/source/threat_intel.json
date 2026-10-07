@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "published_wib": "2026-10-07T01:38:55+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization, spend audits, and business-account connecti\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+    ]
+  },
+  {
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    "published_wib": "2026-10-07T01:24:25+07:00",
+    "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrow\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html"
+    ]
+  },
+  {
+    "title": "Financial phishing campaigns exploit fragmented hosting, AI tools",
+    "published_wib": "2026-10-07T00:02:30+07:00",
+    "summary": "U.S. financial services faced a significant surge in phishing attacks during the first half of 2026, with nearly 40,000 malicious URLs identified.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/financial-phishing-campaigns-exploit-fragmented-hosting-ai-tools"
+    ]
+  },
+  {
+    "title": "MCP fixed secret handling. URL elicitation moved the phishing risk into the browser",
+    "published_wib": "2026-10-07T00:00:00+07:00",
+    "summary": "MCP URL elicitation protects secrets but shifts phishing risk into trusted browser flows.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/perspective/mcp-fixed-secret-handling-url-elicitation-moved-the-phishing-risk-into-the-browser"
+    ]
+  },
+  {
+    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+    "published_wib": "2026-10-06T22:16:44+07:00",
+    "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/"
+    ]
+  },
+  {
+    "title": "Nikkei Discloses Two Employee Cloud Account Compromises",
+    "published_wib": "2026-10-06T21:00:00+07:00",
+    "summary": "Nikkei says two employee cloud accounts were accessed, with one used to send 9,000 phishing emails",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
+    "published_wib": "2026-10-06T18:45:11+07:00",
+    "summary": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33402"
+    ]
+  },
+  {
+    "title": "Pacing the AI frontier won\u2019t solve agentic cybersecurity\u2019s most urgent problems",
+    "published_wib": "2026-10-06T18:00:00+07:00",
+    "summary": "When Anthropic CEO Dario Amodei urged other leading AI labs to \u201cpace the frontier\u201d last week, his calls for caution were echoed by other prominent voices in tech. Both Sam Altman and Elon Musk agreed with Amodei\u2019s assessment that pausing AI development was essential to prevent the extinction of the human race. Amodei listed several potential disasters that\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4230811/pacing-the-ai-frontier-wont-solve-agentic-cybersecuritys-most-urgent-problems.html"
+    ]
+  },
+  {
+    "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+    "published_wib": "2026-10-06T17:34:25+07:00",
+    "summary": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/"
+    ]
+  },
+  {
+    "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+    "published_wib": "2026-10-06T17:00:33+07:00",
+    "summary": "Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure. The post Blinder Tunnel Campaign Targets Iraqi Infrastructure appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/"
+    ]
+  }
+]
