@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ransomware recovery CEO charged over secret ransom payments",
+    "published_wib": "2026-10-08T06:04:37+07:00",
+    "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
+    ]
+  },
+  {
+    "title": "Hackers hijack Google domains after breaching ccTLD registries",
+    "published_wib": "2026-10-08T03:50:13+07:00",
+    "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/"
+    ]
+  },
+  {
+    "title": "FortiBleed campaign still attacking Fortinet devices, US agencies warn",
+    "published_wib": "2026-10-08T02:37:59+07:00",
+    "summary": "FBI warns FortiBleed attackers remain active, turning stolen credentials into persistent access.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/news/fortibleed-campaign-still-attacking-fortinet-devices-us-agencies-warn"
+    ]
+  },
+  {
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    "published_wib": "2026-10-08T01:48:17+07:00",
+    "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html"
+    ]
+  },
+  {
+    "title": "FortiBleed campaign targets Fortinet devices, leading to ransomware",
+    "published_wib": "2026-10-07T21:49:59+07:00",
+    "summary": "FortiBleed campaign targets Fortinet devices, leading to ransomware",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/fortibleed-campaign-targets-fortinet-devices-leading-to-ransomware"
+    ]
+  },
+  {
+    "title": "Bromcom notifies customers of personal data breach affecting SSO technology",
+    "published_wib": "2026-10-07T21:46:40+07:00",
+    "summary": "UK education software provider Bromcom alerted its customers to a personal data breach impacting its single sign-on (SSO) technology, potentially exposing email addresses and other limited information.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/bromcom-notifies-customers-of-personal-data-breach-affecting-sso-technology-5650"
+    ]
+  },
+  {
+    "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+    "published_wib": "2026-10-07T21:15:20+07:00",
+    "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/"
+    ]
+  },
+  {
+    "title": "Ransomware has a new target. Is your backup ready?",
+    "published_wib": "2026-10-07T21:01:11+07:00",
+    "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
+    ]
+  },
+  {
+    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+    "published_wib": "2026-10-07T20:48:45+07:00",
+    "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+    ]
+  },
+  {
+    "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+    "published_wib": "2026-10-07T20:47:12+07:00",
+    "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+    "published_wib": "2026-10-08T00:43:20+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html"
+    ]
+  },
+  {
+    "title": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
+    "published_wib": "2026-10-07T23:01:08+07:00",
+    "summary": "Quoth the LLM, 'More and more'",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672"
+    ]
+  },
+  {
+    "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+    "published_wib": "2026-10-07T22:33:51+07:00",
+    "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to insta\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html"
+    ]
+  },
+  {
+    "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+    "published_wib": "2026-10-07T22:04:08+07:00",
+    "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+    ]
+  },
+  {
+    "title": "Vijil DART tests AI agents for security flaws and policy violations",
+    "published_wib": "2026-10-07T20:41:51+07:00",
+    "summary": "Vijil has released Diamond Adaptive Red Teaming for Agents (DART), an automated testing system that finds security vulnerabilities and policy violations in enterprise AI agents. DART employs multiple adversarial agents of its own to probe the target\u2019s defenses with multi-turn attacks that learn and adapt tactics across turns, episodes, and engagements. Usin\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/07/vijil-diamond-adaptive-red-teaming-for-agents-dart/"
+    ]
+  },
+  {
+    "title": "Hoxhunt expands Respond to automate phishing investigations and email removal",
+    "published_wib": "2026-10-07T20:12:35+07:00",
+    "summary": "Hoxhunt has announced expanded capabilities for Hoxhunt Respond, its email incident response automation platform for security operations teams. Respond can reduce phishing tickets requiring analyst attention by up to 99% and remediate confirmed malicious campaigns in under one minute. Effective phishing training creates a valuable result: employees recogniz\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/07/hoxhunt-respond/"
+    ]
+  },
+  {
+    "title": "Attackers Hide AI Prompt Injections Inside Phishing Emails",
+    "published_wib": "2026-10-07T20:00:00+07:00",
+    "summary": "Barracuda finds phishing emails designed to manipulate both human users and AI assistants",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+    "published_wib": "2026-10-07T13:57:54+07:00",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer). The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+    "published_wib": "2026-10-07T09:00:02+07:00",
+    "summary": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33404"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "published_wib": "2026-10-07T01:38:55+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization, spend audits, and business-account connecti\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+    ]
+  }
+]

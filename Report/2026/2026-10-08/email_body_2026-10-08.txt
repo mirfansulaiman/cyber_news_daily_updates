@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Ransomware recovery CEO charged over secret ransom payments
+- Cisco quantum network controller lets apps order entanglement on demand
+- Evolution of Web3 in Cloud Supply Chain Attacks
+- Configuring your AI vulnerability harness, Part 2: The steering file
+- Building your AI vulnerability harness, Part 1
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cisco quantum network controller lets apps order entanglement on demand. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ransomware recovery CEO charged over secret ransom payments. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
