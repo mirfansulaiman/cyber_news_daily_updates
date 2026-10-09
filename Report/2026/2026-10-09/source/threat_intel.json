@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Low-cost Android phones ship with residential proxy malware",
+    "published_wib": "2026-10-09T02:20:33+07:00",
+    "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/"
+    ]
+  },
+  {
+    "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+    "published_wib": "2026-10-09T02:08:16+07:00",
+    "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting"
+    ]
+  },
+  {
+    "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+    "published_wib": "2026-10-09T01:01:50+07:00",
+    "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift"
+    ]
+  },
+  {
+    "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+    "published_wib": "2026-10-09T00:10:55+07:00",
+    "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/"
+    ]
+  },
+  {
+    "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
+    "published_wib": "2026-10-08T23:54:48+07:00",
+    "summary": "Credential-stealing malware detected within minutes of npm release, but impact remains unknown",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"
+    ]
+  },
+  {
+    "title": "Tensorlake npm package compromised in supply chain attack",
+    "published_wib": "2026-10-08T23:30:59+07:00",
+    "summary": "The npm package \"tensorlake,\" a TypeScript software development kit for Tensorlake applications, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack, based on information published by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/brief/tensorlake-npm-package-compromised-in-supply-chain-attack"
+    ]
+  },
+  {
+    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+    "published_wib": "2026-10-08T22:26:56+07:00",
+    "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previo\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html"
+    ]
+  },
+  {
+    "title": "Attackers Hijack Three ccTLDs to Obtain Google Certificates",
+    "published_wib": "2026-10-08T21:30:00+07:00",
+    "summary": "Attackers compromised .gh, .sl and .as registries to obtain unauthorized HTTPS certificates",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/"
+    ]
+  },
+  {
+    "title": "Russia-Aligned UAC-0099 Evolves MATCHBOIL Malware",
+    "published_wib": "2026-10-08T20:00:00+07:00",
+    "summary": "Russia-aligned UAC-0099 has steadily upgraded its MATCHBOIL downloader since 2024",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/russia-aligned-uac-0099-evolves/"
+    ]
+  },
+  {
+    "title": "Writing the Next Chapter",
+    "published_wib": "2026-10-08T19:00:00+07:00",
+    "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter"
+    ]
+  }
+]

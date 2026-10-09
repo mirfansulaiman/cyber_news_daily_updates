@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+    "published_wib": "2026-10-09T03:39:44+07:00",
+    "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt"
+    ]
+  },
+  {
+    "title": "Growing PQC at the edge belies deeper quantum-readiness challenges",
+    "published_wib": "2026-10-09T02:05:00+07:00",
+    "summary": "The quantum threat is becoming an increasing concern for security leaders, but many may be mistaking protection at their website\u2019s front door for quantum readiness across their business. More than half (54%) of the world\u2019s top 1 million websites now support post-quantum key exchange, according to research from F5 Labs, an encouraging statistic given that ju\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4232205/growing-pqc-at-the-edge-belies-deeper-quantum-readiness-challenges.html"
+    ]
+  },
+  {
+    "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+    "published_wib": "2026-10-09T01:32:21+07:00",
+    "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites f\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html"
+    ]
+  },
+  {
+    "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers",
+    "published_wib": "2026-10-09T01:17:08+07:00",
+    "summary": "The GPU giant released a fix for the flaw, tracked as CVE-2026-47483",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077"
+    ]
+  },
+  {
+    "title": "Australia's AI ambition faces talent shortage and cybersecurity gaps",
+    "published_wib": "2026-10-08T23:30:25+07:00",
+    "summary": "Australia's artificial intelligence ambitions are encountering significant challenges due to a growing demand for specialist technology talent, industry-wide shortages, cybersecurity capability gaps, and a shrinking technology workforce, which collectively threaten to outpace the supply of skilled professionals.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/australias-ai-ambition-faces-talent-shortage-and-cybersecurity-gaps"
+    ]
+  },
+  {
+    "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+    "published_wib": "2026-10-08T22:28:06+07:00",
+    "summary": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "published_wib": "2026-10-08T22:26:33+07:00",
+    "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
+    ]
+  },
+  {
+    "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+    "published_wib": "2026-10-08T21:04:44+07:00",
+    "summary": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian\u2019s self-hosted Data Center products. The post Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/"
+    ]
+  },
+  {
+    "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+    "published_wib": "2026-10-08T21:00:10+07:00",
+    "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/"
+    ]
+  },
+  {
+    "title": "AWS\u2019s repeated problems with AI agent controls illustrates the autonomous agent dilemma",
+    "published_wib": "2026-10-08T20:05:00+07:00",
+    "summary": "Throughout this year, Amazon Web Services (AWS) has repeatedly had to patch autonomous agent security holes, which have then reemerged in slightly different forms, according to cybersecurity researchers at Palo Alto Networks\u2019 Unit 42 and at Zenity Labs. But the problem is not with AWS, which seems to be reacting quickly to address security reports, as much\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4232054/awss-repeated-problems-with-ai-agent-controls-illustrates-the-autonomous-agent-dilemma.html"
+    ]
+  }
+]

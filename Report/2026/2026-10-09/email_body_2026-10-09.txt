@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- FBI disrupts Chinese hacking tools used to breach critical infrastructure
+- 'AgentCorruption' Puts AWS Environments At Risk With Single Prompt
+- Four US states allege TP-Link defrauded customers, seek damages
+- Ransomware attack disrupts Japan's IDCF Cloud used by govt clients
+- Low-cost Android phones ship with residential proxy malware
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Low-cost Android phones ship with residential proxy malware. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by 'AgentCorruption' Puts AWS Environments At Risk With Single Prompt. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FBI disrupts Chinese hacking tools used to breach critical infrastructure. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

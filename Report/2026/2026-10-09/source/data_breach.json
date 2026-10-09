@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "published_wib": "2026-10-09T04:42:51+07:00",
+    "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+    ]
+  },
+  {
+    "title": "Four US states allege TP-Link defrauded customers, seek damages",
+    "published_wib": "2026-10-09T03:18:56+07:00",
+    "summary": "Four states sue TP-Link over alleged security misrepresentations and ties to China.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/news/four-us-states-allege-tp-link-defrauded-customers-seek-damages"
+    ]
+  },
+  {
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+    "published_wib": "2026-10-09T03:09:45+07:00",
+    "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/"
+    ]
+  },
+  {
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+    "published_wib": "2026-10-09T00:58:02+07:00",
+    "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week isn't much more reassuring. Malicious code turned up in de\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html"
+    ]
+  },
+  {
+    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+    "published_wib": "2026-10-08T22:45:56+07:00",
+    "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affect\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html"
+    ]
+  },
+  {
+    "title": "Ransomware remediation company owner charged with defrauding victims",
+    "published_wib": "2026-10-08T22:03:04+07:00",
+    "summary": "Ransomware remediation company owner charged with defrauding victims",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ransomware-remediation-company-owner-charged-with-defrauding-victims"
+    ]
+  },
+  {
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    "published_wib": "2026-10-08T21:12:34+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration. \"In this ac\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+    ]
+  },
+  {
+    "title": "ASOS Confirms Data Breach Linked to Stolen Employee Credentials",
+    "published_wib": "2026-10-08T20:36:00+07:00",
+    "summary": "The ASOS hack comes from the compromise of agentic marketing platform Simon AI, said the attackers",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/asos-data-breach-stolen-employee/"
+    ]
+  },
+  {
+    "title": "Authorities seize sites selling hacked, stolen intimate images of 17,000 women and girls",
+    "published_wib": "2026-10-08T19:51:42+07:00",
+    "summary": "The FBI and French law enforcement have seized two websites that sold hacked and stolen sexually explicit images and videos of young women and girls, and arrested their suspected administrator in northern France. Seizure notice (Source: US Department of Justice) The U.S. Attorney\u2019s Office for the Eastern District of Virginia announced on Wednesday that the\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/08/nudeleaksteens-seized-fbi-france/"
+    ]
+  },
+  {
+    "title": "YouTubers targeted with fake sponsorships and \u201cchannel verification\u201d phishing",
+    "published_wib": "2026-10-08T19:41:43+07:00",
+    "summary": "Scammers are going after YouTube creators\u2019 Google accounts by posing as a brand looking for sponsorship partners. By sending out personalized emails that reference a creator\u2019s own videos and directing targeted creators to a convincing fake collaboration platform, the fraudsters walk them through what looks like a routine brand deal, right up until the momen\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/08/scams-targeting-youtube-creators-sponsorship/"
+    ]
+  }
+]
