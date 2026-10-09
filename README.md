@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 006 | 2026-10-08 09:00 WIB]
+## Today Updates: [Vol. 006 | 2026-10-09 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Cisco quantum network controller lets apps order entanglement on demand and Evolution of Web3 in Cloud Supply Chain Attacks. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: 'AgentCorruption' Puts AWS Environments At Risk With Single Prompt and Growing PQC at the edge belies deeper quantum-readiness challenges. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: Low-cost Android phones ship with residential proxy malware. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Ransomware recovery CEO charged over secret ransom payments. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: FBI disrupts Chinese hacking tools used to breach critical infrastructure. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-08/poster_2026-10-08_issue-006.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-09/poster_2026-10-09_issue-006.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-08/poster_vulnerabilities_2026-10-08_issue-006.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-09/poster_vulnerabilities_2026-10-09_issue-006.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-08/poster_threat-intel_2026-10-08_issue-006.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-09/poster_threat-intel_2026-10-09_issue-006.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-08/poster_data-breach_2026-10-08_issue-006.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-09/poster_data-breach_2026-10-09_issue-006.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-08/cyber_newsletter_2026-10-08.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-09/cyber_newsletter_2026-10-09.pdf
 
 <!-- DAILY_UPDATES_END -->
 
