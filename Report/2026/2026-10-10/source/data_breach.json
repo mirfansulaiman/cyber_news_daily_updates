@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+    "published_wib": "2026-10-10T07:17:42+07:00",
+    "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+    ]
+  },
+  {
+    "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+    "published_wib": "2026-10-10T03:58:32+07:00",
+    "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas"
+    ]
+  },
+  {
+    "title": "Small construction firm collapses after ransomware attack, while another narrowly avoids disaster",
+    "published_wib": "2026-10-10T02:52:01+07:00",
+    "summary": "According to The Register, a cybersecurity consultant shared two cautionary tales highlighting the critical importance of robust security measures, one involving a devastating ransomware attack on a small construction company and another detailing a sophisticated phishing attempt that was thwarted by advanced security software.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/small-construction-firm-collapses-after-ransomware-attack-while-another-narrowly-avoids-disaster"
+    ]
+  },
+  {
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    "published_wib": "2026-10-10T00:45:26+07:00",
+    "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been ma\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
+    ]
+  },
+  {
+    "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+    "published_wib": "2026-10-10T00:21:00+07:00",
+    "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack"
+    ]
+  },
+  {
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+    "published_wib": "2026-10-10T00:02:29+07:00",
+    "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/"
+    ]
+  },
+  {
+    "title": "Ransomware consultant said he would decrypt data, is accused of paying ransoms instead",
+    "published_wib": "2026-10-09T22:44:06+07:00",
+    "summary": "The owner of a ransomware remediation company is facing trial for defrauding customers. Zohar Pinhasi, also known as \u201cZack Silver\u201d and \u201cZack Green,\u201d has been arraigned in New York on wire fraud charges for allegedly defrauding clients of his ransomware remediation company, MonsterCloud. Pinhasi falsely claimed he could recover documents encrypted by ransomw\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4233219/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead.html"
+    ]
+  },
+  {
+    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+    "published_wib": "2026-10-09T22:38:56+07:00",
+    "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/"
+    ]
+  },
+  {
+    "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+    "published_wib": "2026-10-09T19:03:50+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/"
+    ]
+  },
+  {
+    "title": "Q3 2026 Sets New Record for Ransomware Attacks",
+    "published_wib": "2026-10-09T19:00:00+07:00",
+    "summary": "Comparitech observed 2627 claimed ransomware attacks in Q3, with critical sectors like finance, technology, education and healthcare experiencing significant increases",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- FBI Arrests Founder of Ransomware Negotiation Firm
+- ASOS Breach Reveals the Risks in Customer-Facing SaaS
+- Small construction firm collapses after ransomware attack, while another narrowly avoids disaster
+- Hunt.io finds BraZetsu infrastructure evolved beyond initial reports
+- Malware preinstalled on cheap Android phones generates ad fraud
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hunt.io finds BraZetsu infrastructure evolved beyond initial reports. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FBI Arrests Founder of Ransomware Negotiation Firm. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
