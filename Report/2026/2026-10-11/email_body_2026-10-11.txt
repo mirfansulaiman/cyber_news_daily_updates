@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+- Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison
+- [+24h Old] Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+- [+24h Old] FBI Arrests Executive at Ransomware Negotiation Firm
+- [+24h Old] ASOS Breach Reveals the Risks in Customer-Facing SaaS
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Hunt.io finds BraZetsu infrastructure evolved beyond initial reports. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Cyber exec arrested in case allegedly tied to ShinyHunters hackers. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

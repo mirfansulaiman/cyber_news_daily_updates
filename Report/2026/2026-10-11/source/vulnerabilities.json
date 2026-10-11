@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "published_wib": "2026-10-10T16:18:45+07:00",
+    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+    "published_wib": "2026-10-10T02:14:28+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SonicWall SSRF bug rated 10.0 exploited in SMA1000 Appliance Work Place",
+    "published_wib": "2026-10-10T02:13:14+07:00",
+    "summary": "Attackers target critical SonicWall SMA1000 flaw as security experts urge immediate patching.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/10-0-sonicwall-ssrf-bug-now-exploited-in-sma1000-appliance-work-place"
+    ]
+  },
+  {
+    "title": "[+24h Old] Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "published_wib": "2026-10-10T00:17:23+07:00",
+    "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/"
+    ]
+  },
+  {
+    "title": "[+24h Old] P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "published_wib": "2026-10-09T23:29:55+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Lightwell project filters out 400 Java library vulnerabilities",
+    "published_wib": "2026-10-09T23:09:36+07:00",
+    "summary": "Lightwell, the open-source security initiative set up by IBM and Red Hat, has identified more than 400 previously undiscovered vulnerabilities in widely used Java libraries \u2014 and now the companies are inviting customers to submit their own code dependencies to a new service, Lightwell Clearinghouse, for review. They\u2019ll be looking for bugs such as the critic\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233240/lightwell-project-filters-out-400-java-library-vulnerabilities-2.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] OpenAI reports three new incidents of misalignment",
+    "published_wib": "2026-10-09T22:33:20+07:00",
+    "summary": "OpenAI continues to report incidences of \u201cmisaligned\u201d behavior by its AI models, with three new reports dropping on Oct. 2. However, they describe relatively minor issues compared to previous alignment reports and notices covering its attacks on Hugging Face , Rubygems , and a German programming wiki\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233207/openai-reports-three-new-incidents-of-misalignment.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Citrix issues its weekly critical security patch for NetScaler ADC and NetScaler Gateway",
+    "published_wib": "2026-10-09T21:28:21+07:00",
+    "summary": "For the third week running, Citrix has issued a critical security warning to customers managing their own NetScaler ADC and Netscaler Gateway instances, this time warning of a memory overflow vulnerability enabling denial of service or remote code execution. This week\u2019s vulnerability affects ADC and Gateway when configured as a SAML (Security Assertion Mark\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233187/citrix-issues-its-weekly-critical-security-patch-for-netscaler-adc-and-netscaler-gateway-2.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] How to keep AI agents within their permissions",
+    "published_wib": "2026-10-09T21:01:11+07:00",
+    "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+    "published_wib": "2026-10-09T19:59:22+07:00",
+    "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html"
+    ]
+  }
+]
