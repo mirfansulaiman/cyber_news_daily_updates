@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Joint alert details Chinese cyber activity linked to Integrity Technology Group",
+    "published_wib": "2026-10-12T00:56:06+07:00",
+    "summary": "A joint alert from the U.S., UK, and allied nations has detailed the tactics, techniques, and procedures (TTPs) of a sanctioned Chinese organization known as Integrity Technology Group.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/joint-alert-details-chinese-cyber-activity-linked-to-integrity-technology-group"
+    ]
+  },
+  {
+    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+    "published_wib": "2026-10-11T21:23:46+07:00",
+    "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hunt.io finds BraZetsu infrastructure evolved beyond initial reports",
+    "published_wib": "2026-10-10T02:50:44+07:00",
+    "summary": "As reported by Security Affairs, Hunt.io's analysis of the BraZetsu initial access broker reveals that its underlying infrastructure continued to evolve and adapt months before public indicators of compromise (IOCs) became outdated.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/hunt-io-finds-brazetsu-infrastructure-evolved-beyond-initial-reports"
+    ]
+  },
+  {
+    "title": "[+48h Old] Malware preinstalled on cheap Android phones generates ad fraud",
+    "published_wib": "2026-10-10T02:49:32+07:00",
+    "summary": "Malware has been discovered preinstalled on thousands of inexpensive Android phones, capable of generating fraudulent ad revenue and potentially turning infected devices into components of larger botnets, based on information published by The Record.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/malware-preinstalled-on-cheap-android-phones-generates-ad-fraud"
+    ]
+  },
+  {
+    "title": "[+48h Old] FakeGit campaign reactivates, distributing SmartLoader malware via GitHub",
+    "published_wib": "2026-10-10T02:46:46+07:00",
+    "summary": "More than 17,000 fake repositories on GitHub are currently distributing the SmartLoader malware, a reactivation of the FakeGit campaign that began earlier this month to push the StealC infostealer, with further coverage provided by Bleeping Computer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/fakegit-campaign-reactivates-distributing-smartloader-malware-via-github"
+    ]
+  },
+  {
+    "title": "[+48h Old] Google Domains Impacted by Recent ccTLD Hijacks",
+    "published_wib": "2026-10-09T18:43:14+07:00",
+    "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+    "published_wib": "2026-10-09T16:55:35+07:00",
+    "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/"
+    ]
+  },
+  {
+    "title": "[+48h Old] US Disrupts Chinese State-Sponsored Hacking Tools",
+    "published_wib": "2026-10-09T15:36:37+07:00",
+    "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/"
+    ]
+  },
+  {
+    "title": "[+48h Old] ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
+    "published_wib": "2026-10-09T14:52:03+07:00",
+    "summary": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33412"
+    ]
+  },
+  {
+    "title": "[+48h Old] Low-cost Android phones ship with residential proxy malware",
+    "published_wib": "2026-10-09T02:20:33+07:00",
+    "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/"
+    ]
+  }
+]

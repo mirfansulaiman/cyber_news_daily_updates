@@ -1,0 +1,102 @@
+[
+  {
+    "title": "AnyDesk Linux exploit grants root access before connection approval",
+    "published_wib": "2026-10-12T01:03:03+07:00",
+    "summary": "A pre-authentication remote code execution flaw in AnyDesk for Linux has been fully exploited, allowing attackers to gain root access without user approval.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/anydesk-linux-exploit-grants-root-access-before-connection-approval"
+    ]
+  },
+  {
+    "title": "Critical vulnerabilities in AhsayCBS exploited for webshells and crypto miners",
+    "published_wib": "2026-10-12T01:02:51+07:00",
+    "summary": "Threat actors are actively exploiting two vulnerabilities, one critical and one medium-severity, in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-vulnerabilities-in-ahsaycbs-exploited-for-webshells-and-crypto-miners"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: FortiBleed is still active, Patch Tuesday forecast",
+    "published_wib": "2026-10-11T15:00:49+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Three questions a hospital CISO should ask a healthcare fintech vendor In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how he balances both roles. Security work is scheduled into every sprint, and issues touching patient da\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/"
+    ]
+  },
+  {
+    "title": "[+24h Old] P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "published_wib": "2026-10-11T11:24:34+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "published_wib": "2026-10-10T16:18:45+07:00",
+    "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+    "published_wib": "2026-10-10T02:14:28+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] SonicWall SSRF bug rated 10.0 exploited in SMA1000 Appliance Work Place",
+    "published_wib": "2026-10-10T02:13:14+07:00",
+    "summary": "Attackers target critical SonicWall SMA1000 flaw as security experts urge immediate patching.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/10-0-sonicwall-ssrf-bug-now-exploited-in-sma1000-appliance-work-place"
+    ]
+  },
+  {
+    "title": "[+48h Old] Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "published_wib": "2026-10-10T00:17:23+07:00",
+    "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Lightwell project filters out 400 Java library vulnerabilities",
+    "published_wib": "2026-10-09T23:09:36+07:00",
+    "summary": "Lightwell, the open-source security initiative set up by IBM and Red Hat, has identified more than 400 previously undiscovered vulnerabilities in widely used Java libraries \u2014 and now the companies are inviting customers to submit their own code dependencies to a new service, Lightwell Clearinghouse, for review. They\u2019ll be looking for bugs such as the critic\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233240/lightwell-project-filters-out-400-java-library-vulnerabilities-2.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] OpenAI reports three new incidents of misalignment",
+    "published_wib": "2026-10-09T22:33:20+07:00",
+    "summary": "OpenAI continues to report incidences of \u201cmisaligned\u201d behavior by its AI models, with three new reports dropping on Oct. 2. However, they describe relatively minor issues compared to previous alignment reports and notices covering its attacks on Hugging Face , Rubygems , and a German programming wiki\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233207/openai-reports-three-new-incidents-of-misalignment.html"
+    ]
+  }
+]

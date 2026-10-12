@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- AnyDesk Linux exploit grants root access before connection approval
+- Critical vulnerabilities in AhsayCBS exploited for webshells and crypto miners
+- Joint alert details Chinese cyber activity linked to Integrity Technology Group
+- Leader of child sextortion group 764 pleads guilty
+- Nippon Columbia malware incident exposes 8.6 million karaoke fan records
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Joint alert details Chinese cyber activity linked to Integrity Technology Group. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by AnyDesk Linux exploit grants root access before connection approval. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Leader of child sextortion group 764 pleads guilty. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
