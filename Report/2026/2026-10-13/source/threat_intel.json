@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+    "published_wib": "2026-10-13T09:00:02+07:00",
+    "summary": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33418"
+    ]
+  },
+  {
+    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+    "published_wib": "2026-10-12T21:00:10+07:00",
+    "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/"
+    ]
+  },
+  {
+    "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
+    "published_wib": "2026-10-12T18:58:39+07:00",
+    "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/"
+    ]
+  },
+  {
+    "title": "Phishing emails are baiting your AI assistant",
+    "published_wib": "2026-10-12T17:54:40+07:00",
+    "summary": "If you use an AI assistant to summarize your inbox, hidden instructions could turn a phishing email you wisely ignored into your next to-do item.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant"
+    ]
+  },
+  {
+    "title": "Low-cost Android phones are arriving with malware that owners can\u2019t uninstall",
+    "published_wib": "2026-10-12T17:53:51+07:00",
+    "summary": "People who buy low-cost Android phones from online marketplaces may be carrying malware that was placed on the device before it reached them, Bitdefender has found. The campaign, dubbed Midnight Mimosa, runs on budget Android devices from different brands built on MediaTek platforms. The malware ships in the device firmware, is present before the owner swit\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/12/midnight-mimosa-malware-cheap-android-phones/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
+    "published_wib": "2026-10-12T09:00:03+07:00",
+    "summary": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33416"
+    ]
+  },
+  {
+    "title": "[+24h Old] Auditing the auditor: Unmasking Apex Accelerator",
+    "published_wib": "2026-10-12T07:00:00+07:00",
+    "summary": "REF8801 exposes how Apex Accelerator combines convincing Web3 services with malicious npm packages, attacker-controlled AI infrastructure, and cross-platform malware delivery.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages"
+    ]
+  },
+  {
+    "title": "[+24h Old] Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+    "published_wib": "2026-10-11T21:23:46+07:00",
+    "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Joint alert details Chinese cyber activity linked to Integrity Technology Group",
+    "published_wib": "2026-10-12T00:56:06+07:00",
+    "summary": "A joint alert from the U.S., UK, and allied nations has detailed the tactics, techniques, and procedures (TTPs) of a sanctioned Chinese organization known as Integrity Technology Group.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/joint-alert-details-chinese-cyber-activity-linked-to-integrity-technology-group"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hunt.io finds BraZetsu infrastructure evolved beyond initial reports",
+    "published_wib": "2026-10-10T02:50:44+07:00",
+    "summary": "As reported by Security Affairs, Hunt.io's analysis of the BraZetsu initial access broker reveals that its underlying infrastructure continued to evolve and adapt months before public indicators of compromise (IOCs) became outdated.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/hunt-io-finds-brazetsu-infrastructure-evolved-beyond-initial-reports"
+    ]
+  }
+]

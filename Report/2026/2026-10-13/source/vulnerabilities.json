@@ -1,0 +1,102 @@
+[
+  {
+    "title": "GuardDuty Extended Threat Detection has added five new indicators to surface attack sequences",
+    "published_wib": "2026-10-13T04:58:44+07:00",
+    "summary": "Amazon GuardDuty Extended Threat Detection correlates weak GuardDuty signals into a single, critical-severity attack sequence finding when their composition crosses a threshold of credibility. On May 20, 2026, the service started attaching five new indicator types to those sequences: MALICIOUS_PACKAGE, MISCONFIGURATION, REACHABILITY, SENSITIVE_DATA, and VUL\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/"
+    ]
+  },
+  {
+    "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+    "published_wib": "2026-10-13T04:42:42+07:00",
+    "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack"
+    ]
+  },
+  {
+    "title": "Quantum-resistant signing on AWS, Part 2: Enforce your ML-DSA algorithm policy with SCPs and IAM",
+    "published_wib": "2026-10-13T03:13:06+07:00",
+    "summary": "You want to set a cryptographic algorithm policy and stop non-compliant choices from being made in your Amazon Web Services (AWS) environment. This post shows you how. As you adopt post-quantum cryptography, one of the first decisions you face is which algorithms and parameter sets fit your business needs, balancing security against signature size, key [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/"
+    ]
+  },
+  {
+    "title": "Quantum-resistant signing on AWS, Part 1: Build a software supply chain with ML-DSA",
+    "published_wib": "2026-10-13T03:12:53+07:00",
+    "summary": "Software supply chain attacks have grown in both frequency and sophistication. Recent high-profile compromises of build systems and open source dependencies demonstrate that attackers increasingly target the trust mechanisms that verify software integrity. Those trust mechanisms rely on digital signature algorithms, and today many use traditional algorithms\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/"
+    ]
+  },
+  {
+    "title": "Critical Bricksforge WordPress flaw exploited in attacks",
+    "published_wib": "2026-10-13T02:19:47+07:00",
+    "summary": "Attackers exploit critical Bricksforge WordPress flaw to execute code without authentication.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/critical-bricksforge-wordpress-flaw-exploited-in-attacks"
+    ]
+  },
+  {
+    "title": "VU#162329: Multiple vulnerabilities in Thelia 2.6.0 and 2.6.1",
+    "published_wib": "2026-10-12T21:52:17.431997+07:00",
+    "summary": "Overview Thelia versions 2.6.0 and 2.6.1 contain multiple vulnerabilities relating to file management, Smarty templating, module installation, and administrative workflows. Successful exploitation of these issues could enable remote code execution (RCE), server-side template injection (SSTI), stored and reflected cross-site scripting (XSS), unauthorized URL\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/162329"
+    ]
+  },
+  {
+    "title": "12th October \u2013 Threat Intelligence Report",
+    "published_wib": "2026-10-12T21:51:31+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark\u2019s government has disclosed a breach involving its Central Register of Persons after unauthorized individuals exploited access provided to a private supplier. The incident reportedly exposed personal in\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+    "published_wib": "2026-10-12T20:14:37+07:00",
+    "summary": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/"
+    ]
+  },
+  {
+    "title": "GitLab warns of max severity code execution vulnerability",
+    "published_wib": "2026-10-12T20:09:09+07:00",
+    "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+    ]
+  },
+  {
+    "title": "These ARE the droids you\u2019re looking for",
+    "published_wib": "2026-10-12T19:19:54+07:00",
+    "summary": "There\u2019s an old leadership fantasy that goes something like this: The CISO surveys a sprawling technology estate, discovers 11 tools doing the work of four, calculates the licensing savings, selects a shiny new strategic platform and declares that consolidation has begun. Six months later, all 11 tools are still running. The new platform is now number 12. I\u2019\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4233121/these-are-the-droids-youre-looking-for.html"
+    ]
+  }
+]

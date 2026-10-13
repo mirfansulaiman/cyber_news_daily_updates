@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+    "published_wib": "2026-10-13T03:00:53+07:00",
+    "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges"
+    ]
+  },
+  {
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "published_wib": "2026-10-13T01:51:59+07:00",
+    "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+    ]
+  },
+  {
+    "title": "GTA 6 leaker CyberLeek threatens playable build release for crypto coin",
+    "published_wib": "2026-10-13T00:33:37+07:00",
+    "summary": "The anonymous figure known as CyberLeek, responsible for earlier Grand Theft Auto 6 leaks, has escalated their demands by threatening to release a complete, playable build of the game.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/gta-6-leaker-cyberleek-threatens-playable-build-release-for-crypto-coin"
+    ]
+  },
+  {
+    "title": "Japanese karaoke maker Daiichi Kosho reports data breach affecting 8.7 million records",
+    "published_wib": "2026-10-13T00:05:04+07:00",
+    "summary": "Japanese entertainment system maker Daiichi Kosho has disclosed a significant data breach originating from its contractor, Nippon Columbia, potentially exposing over 8.7 million customer and employee records.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/japanese-karaoke-maker-daiichi-kosho-reports-data-breach-affecting-8-7-million-records"
+    ]
+  },
+  {
+    "title": "Deepfake-assisted identity fraud: risks, detection, and controls",
+    "published_wib": "2026-10-12T22:37:51+07:00",
+    "summary": "Deepfake-assisted identity fraud: risks, detection, and controls",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/tech-explainer/deepfake-assisted-identity-fraud-risks-detection-and-controls"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    "published_wib": "2026-10-12T22:16:26+07:00",
+    "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mes\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+    ]
+  },
+  {
+    "title": "Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings",
+    "published_wib": "2026-10-12T22:15:00+07:00",
+    "summary": "Leaked documents suggest a multi-pronged operation, with social engineering and more technical attackers working together to manipulate a single target",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/"
+    ]
+  },
+  {
+    "title": "What CISOs can learn from fraud teams",
+    "published_wib": "2026-10-12T21:11:16+07:00",
+    "summary": "Identity tells us who\u2019s at the door \u2013 but in the AI world, teams now need to monitor intent.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/perspective/what-cisos-can-learn-from-fraud-teams"
+    ]
+  },
+  {
+    "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
+    "published_wib": "2026-10-12T18:24:50+07:00",
+    "summary": "Oleg Korniev was a leader of YMCO, a sophisticated network of money mules that helped hackers move funds outside the US. The post Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/"
+    ]
+  },
+  {
+    "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+    "published_wib": "2026-10-12T18:21:48+07:00",
+    "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased products from CryptoBilis. The incident is said to have resulted i\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html"
+    ]
+  }
+]
