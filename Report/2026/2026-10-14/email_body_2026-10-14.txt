@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Microsoft Patches More Than 1,400 Security Flaws
+- Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say
+- OpenAI engineer arrested for allegedly planting spy device in office
+- Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday
+- Microsoft’s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by North Korea Phishes Ukrainians for War Intel. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Microsoft Patches More Than 1,400 Security Flaws. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

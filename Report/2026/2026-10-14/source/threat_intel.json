@@ -1,0 +1,102 @@
+[
+  {
+    "title": "North Korea Phishes Ukrainians for War Intel",
+    "published_wib": "2026-10-14T04:24:45+07:00",
+    "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"
+    ]
+  },
+  {
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "published_wib": "2026-10-14T04:16:34+07:00",
+    "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+    ]
+  },
+  {
+    "title": "Anthropic Finds Ingredients for Future AI Worms",
+    "published_wib": "2026-10-14T03:35:23+07:00",
+    "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms"
+    ]
+  },
+  {
+    "title": "The AI you can't see: Bringing third-party shadow AI into the risk picture",
+    "published_wib": "2026-10-14T01:55:20+07:00",
+    "summary": "As AI supply chains become more interconnected, continuous visibility must be the basis of third-party risk management.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/resource/the-ai-you-cant-see-bringing-third-party-shadow-ai-into-the-risk-picture"
+    ]
+  },
+  {
+    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+    "published_wib": "2026-10-14T01:20:57+07:00",
+    "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
+    ]
+  },
+  {
+    "title": "Canonical faces second DDoS attack this year, disrupting public websites",
+    "published_wib": "2026-10-13T22:34:01+07:00",
+    "summary": "Canonical, the parent company of Ubuntu, recently experienced its second distributed denial-of-service (DDoS) attack of the year, which disrupted its public websites for over four hours.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/canonical-faces-second-ddos-attack-this-year-disrupting-public-websites"
+    ]
+  },
+  {
+    "title": "Critical infrastructure orgs face heightened cyber risk from nation-state groups, AI threats",
+    "published_wib": "2026-10-13T20:00:00+07:00",
+    "summary": "Critical infrastructure faces mounting threats from nation-state groups and AI-driven attacks. In the latest installment of our Cybersecurity Awareness Month blog series, learn how leading cybersecurity agencies, such as CISA, are advising critical infrastructure organizations on ways to protect themselves and the essential services they provide. Key takeaw\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.tenable.com/blog/critical-infrastructure-orgs-face-heightened-cyber-risk-from-nation-state-groups-ai-threats"
+    ]
+  },
+  {
+    "title": "XWorm RAT Evolves Into Surveillance Platform",
+    "published_wib": "2026-10-13T18:13:10+07:00",
+    "summary": "Expanded plugin count allows the malware to monitor users\u2019 location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+    "published_wib": "2026-10-13T09:00:02+07:00",
+    "summary": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33418"
+    ]
+  },
+  {
+    "title": "[+24h Old] Malware Indicators of Compromise (IoCs) | Recorded Future",
+    "published_wib": "2026-10-13T07:00:00+07:00",
+    "summary": "Learn what malware indicators of compromise (IoCs) are, common types, how they\u2019re collected, and best practices for detection and response.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.recordedfuture.com/blog/malware-indicators-of-compromise"
+    ]
+  }
+]

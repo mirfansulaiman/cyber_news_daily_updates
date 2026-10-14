@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+    "published_wib": "2026-10-14T06:07:00+07:00",
+    "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/"
+    ]
+  },
+  {
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "published_wib": "2026-10-14T05:33:02+07:00",
+    "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+    ]
+  },
+  {
+    "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+    "published_wib": "2026-10-13T23:01:00+07:00",
+    "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/"
+    ]
+  },
+  {
+    "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+    "published_wib": "2026-10-13T20:12:32+07:00",
+    "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the \"very serious\" nature of\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
+    ]
+  },
+  {
+    "title": "'123456' password linked to Denmark data breach affecting 8.8M people",
+    "published_wib": "2026-10-13T18:14:00+07:00",
+    "summary": "Local media reports three weakly protected accounts at small IT biz whose access to national register was abused",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726"
+    ]
+  },
+  {
+    "title": "[+24h Old] Scammers know your name, and they\u2019re counting on you to reply",
+    "published_wib": "2026-10-13T14:30:51+07:00",
+    "summary": "Every reply to a scam text tells cybercriminals your number is active, which makes it worth more on the dark web and a better target for fraud.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/10/your-whos-this-reply-is-exactly-what-text-scammers-want"
+    ]
+  },
+  {
+    "title": "[+24h Old] Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+    "published_wib": "2026-10-13T13:00:11+07:00",
+    "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midn\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Prominent Ransomware Negotiator Faces Extortion Charges",
+    "published_wib": "2026-10-13T03:00:53+07:00",
+    "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges"
+    ]
+  },
+  {
+    "title": "[+24h Old] \u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    "published_wib": "2026-10-12T22:16:26+07:00",
+    "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mes\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings",
+    "published_wib": "2026-10-12T22:15:00+07:00",
+    "summary": "Leaked documents suggest a multi-pronged operation, with social engineering and more technical attackers working together to manipulate a single target",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/"
+    ]
+  }
+]
