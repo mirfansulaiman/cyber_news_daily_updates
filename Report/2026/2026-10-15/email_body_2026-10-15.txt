@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks
+- Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant
+- Cisco make-me-root email bug exploited as a 0-day by unknown crims
+- FTC seeks to shut down companies accused of defrauding sextortion victims
+- Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by North Korean hackers target Ukraine for war intelligence. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FTC seeks to shut down companies accused of defrauding sextortion victims. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

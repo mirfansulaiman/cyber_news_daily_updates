@@ -1,0 +1,102 @@
+[
+  {
+    "title": "North Korean hackers target Ukraine for war intelligence",
+    "published_wib": "2026-10-15T04:14:32+07:00",
+    "summary": "North Korean state-sponsored hackers are conducting spear-phishing campaigns targeting Ukrainian government, policy, and academic circles to gather intelligence on the country's position in the Russia-Ukraine war.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/north-korean-hackers-target-ukraine-for-war-intelligence"
+    ]
+  },
+  {
+    "title": "AI worms could spread across your smart devices, Anthropic warns",
+    "published_wib": "2026-10-14T23:36:46+07:00",
+    "summary": "Researchers say small AI models could be capable of spreading across vulnerable smart devices within months.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/10/ai-worms-could-spread-across-your-smart-devices-anthropic-warns"
+    ]
+  },
+  {
+    "title": "ROMULUS Malware Server Leverages ClickFix to Deliver Multiple Payloads",
+    "published_wib": "2026-10-14T21:00:00+07:00",
+    "summary": "Researchers at Forescout said the discovery shows how ClickFix is evolving from a delivery technique into full-blown cyber-criminal infrastructure",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/"
+    ]
+  },
+  {
+    "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
+    "published_wib": "2026-10-14T20:00:00+07:00",
+    "summary": "Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man. The post Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/"
+    ]
+  },
+  {
+    "title": "Hirudo Android malware replaces banking apps to evade security checks",
+    "published_wib": "2026-10-14T18:41:20+07:00",
+    "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fake AI Tools Put US Companies at Risk: Inside Counterfeit Claude, ChatGPT, and Copilot",
+    "published_wib": "2026-10-14T16:12:30+07:00",
+    "summary": "ANY.RUN researchers tracked fake AI tool campaigns that impersonate Claude, ChatGPT, GitHub Copilot, Gemini, and other AI brands to plant infostealers, take over browser sessions, and phish business accounts. Between April 15 and October 5, 2026, 1,258 public sandbox analyses were tied to these campaigns, and the USA was the second-largest source of submiss\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/fake-ai-tools-us-companies/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+    "published_wib": "2026-10-14T12:52:28+07:00",
+    "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
+    "published_wib": "2026-10-14T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33424"
+    ]
+  },
+  {
+    "title": "[+24h Old] North Korea Phishes Ukrainians for War Intel",
+    "published_wib": "2026-10-14T04:24:45+07:00",
+    "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"
+    ]
+  },
+  {
+    "title": "[+24h Old] Anthropic warns self-replicating AI could spread to your smart devices",
+    "published_wib": "2026-10-14T04:16:34+07:00",
+    "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+    ]
+  }
+]
