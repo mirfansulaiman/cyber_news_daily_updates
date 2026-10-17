@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs
+- Critical BlockStrap flaw lets hackers run code on Magento servers
+- Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk
+- BeyondTrust zero-day exploited by China-linked group Armory Castle
+- How SentinelOne Blocked APT29's CaptiveCrunch Campaign
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by The Good, the Bad and the Ugly in Cybersecurity - Week 42 (2026). highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
