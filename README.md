@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 006 | 2026-10-17 09:00 WIB]
+## Today Updates: [Vol. 006 | 2026-10-18 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs and Critical BlockStrap flaw lets hackers run code on Magento servers. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Drupal patches critical RCE flaws, warns exploits may emerge soon and BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: The Good, the Bad and the Ugly in Cybersecurity - Week 42 (2026). Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-17/poster_2026-10-17_issue-006.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-18/poster_2026-10-18_issue-006.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-17/poster_vulnerabilities_2026-10-17_issue-006.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-18/poster_vulnerabilities_2026-10-18_issue-006.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-17/poster_threat-intel_2026-10-17_issue-006.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-18/poster_threat-intel_2026-10-18_issue-006.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-17/poster_data-breach_2026-10-17_issue-006.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-18/poster_data-breach_2026-10-18_issue-006.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-17/cyber_newsletter_2026-10-17.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-18/cyber_newsletter_2026-10-18.pdf
 
 <!-- DAILY_UPDATES_END -->
 
