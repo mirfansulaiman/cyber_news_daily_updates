@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "published_wib": "2026-10-17T21:32:48+07:00",
+    "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+    ]
+  },
+  {
+    "title": "[+24h Old] BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+    "published_wib": "2026-10-17T03:34:37+07:00",
+    "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs"
+    ]
+  },
+  {
+    "title": "[+24h Old] Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "published_wib": "2026-10-17T03:00:59+07:00",
+    "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+    "published_wib": "2026-10-17T00:48:45+07:00",
+    "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+    "published_wib": "2026-10-17T00:47:54+07:00",
+    "summary": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hallucinated domain in official OpenAI skill underscores AI supply chain risks",
+    "published_wib": "2026-10-17T00:29:00+07:00",
+    "summary": "Researchers have discovered a first-of-its-kind supply-chain vulnerability in OpenAI\u2019s official skills repository. OpenAI maintains an official GitHub repository of skills that teach AI agents how to work with various platforms and services. As an official skill, these components are often given an implicit level of trust because they are contributed or vet\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4236659/hallucinated-domain-in-official-openai-skill-underscores-ai-supply-chain-risks.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Networking problems after the October 2026 Windows update? NTLM might be to blame",
+    "published_wib": "2026-10-16T22:30:00+07:00",
+    "summary": "Legacy protocol is going to be axed, and enforcement by default will highlight how migration is going",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503"
+    ]
+  },
+  {
+    "title": "[+24h Old] Xbow spent $40K on AI and cracked Google Chrome wide open",
+    "published_wib": "2026-10-16T22:17:37+07:00",
+    "summary": "A chain of vulnerabilities in Google\u2019s Chrome browser could have enabled researchers to take control of one billion Windows machines worldwide \u2014 and it cost them just $40,000 in AI compute time to discover it. Researchers at Xbow USA worked for six days on developing the exploit , which earned them a $250,000 bug bounty from Google, the first under the new\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4236599/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open-2.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+    "published_wib": "2026-10-16T21:09:51+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Linux kernel gets a fix for a flaw that enabled attackers to escape VMs",
+    "published_wib": "2026-10-16T18:37:35+07:00",
+    "summary": "The Linux kernel\u2019s networking stack was found vulnerable to a guest-to-host escape attack , in which an attacker operating inside a virtual machine (VM) could cross the isolation boundary and access the underlying host. Dubbed PwnEscape and tracked as CVE-2026-99999, a flaw allowed guest-controlled packet metadata to trigger a write that changes an IPv4 hea\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4236460/linux-kernel-gets-a-fix-for-a-flaw-that-enabled-attackers-to-escape-vms.html"
+    ]
+  }
+]

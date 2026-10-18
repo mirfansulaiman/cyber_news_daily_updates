@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
+- Drupal patches critical RCE flaws, warns exploits may emerge soon
+- MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+- [+24h Old] Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+- [+24h Old] BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Drupal patches critical RCE flaws, warns exploits may emerge soon. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
