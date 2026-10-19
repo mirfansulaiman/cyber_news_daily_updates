@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    "published_wib": "2026-10-17T18:11:56+07:00",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+    "published_wib": "2026-10-17T13:16:46+07:00",
+    "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a cloud-based backup and recovery service bui\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+    "published_wib": "2026-10-17T02:49:30+07:00",
+    "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk"
+    ]
+  },
+  {
+    "title": "[+48h Old] How SentinelOne Blocked APT29's CaptiveCrunch Campaign",
+    "published_wib": "2026-10-17T01:01:06+07:00",
+    "summary": "Learn how SentinelOne's Static AI blocked APT29's CaptiveCrunch campaign on the endpoint, stopping local DNS poisoning and captive portal network lures.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.sentinelone.com/blog/how-sentinelone-blocked-apt29-s-captivecrunch-campaign/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+    "published_wib": "2026-10-16T23:43:39+07:00",
+    "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor. Google Threat Intelligence Group, Mandiant, a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+    "published_wib": "2026-10-16T23:16:44+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes.\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Continuous accountability for Verified bots",
+    "published_wib": "2026-10-16T20:00:00+07:00",
+    "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.cloudflare.com/verified-bots-accountability/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hackers disguise phishing as promising business opportunities",
+    "published_wib": "2026-10-16T19:45:43+07:00",
+    "summary": "Attackers are breaking into business email accounts with short messages asking whether a company can quote on an upcoming project, the kind of request sales and procurement staff answer every week. Cadence Riddle, a cybersecurity researcher at Fortra, tracked a 12-fold increase in malicious emails mentioning \u201cRFQ\u201d (request for quotation) between October 202\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/16/rfq-phishing-emails-sales-procurement-staff/"
+    ]
+  },
+  {
+    "title": "[+48h Old] DORA TLPT Requirements Explained: Where Threat Intelligence Fits",
+    "published_wib": "2026-10-16T18:36:55+07:00",
+    "summary": "The DORA TLPT requirements push selected EU financial entities beyond standard penetration testing. TLPT must be based on realistic threat scenarios, relevant threat actors, and current intelligence about how attacks are actually carried out. That makes threat intelligence a core part of the process. It helps define what should be tested, which TTPs matter,\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/dora-tlpt-requirements-explained/"
+    ]
+  },
+  {
+    "title": "[+48h Old] AI Decision Models and Their Impact on AI SOC Platforms",
+    "published_wib": "2026-10-16T18:30:00+07:00",
+    "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
+    ]
+  }
+]

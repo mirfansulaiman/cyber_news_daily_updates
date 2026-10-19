@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers exploit SiteGuard WAF flaw to run commands as admins
+- [+24h Old] Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed
+- [+24h Old] Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
+- [+24h Old] Drupal patches critical RCE flaws, warns exploits may emerge soon
+- [+24h Old] MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers exploit SiteGuard WAF flaw to run commands as admins. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
