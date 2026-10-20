@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+    "published_wib": "2026-10-20T04:49:48+07:00",
+    "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
+    ]
+  },
+  {
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+    "published_wib": "2026-10-20T04:13:41+07:00",
+    "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation"
+    ]
+  },
+  {
+    "title": "Attackers compromise Microsoft 365 credential via ConnectWise Cloud Backup",
+    "published_wib": "2026-10-20T04:09:03+07:00",
+    "summary": "Stolen ConnectWise app credential enables unauthorized access to hundreds of Microsoft 365 tenants.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/news/attackers-compromise-microsoft-365-credential-via-connectwise-cloud-backup"
+    ]
+  },
+  {
+    "title": "19th October \u2013 Threat Intelligence Report",
+    "published_wib": "2026-10-19T21:54:40+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 19th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES CenterPoint Energy, a US utility company serving Texas and several other states, has disclosed a data breach affecting more than 1 million Texas residents. Unauthorized access to an external system exposed nam\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Conduent Agrees to Pay $80m to Settle Data Breach Class Action",
+    "published_wib": "2026-10-19T21:15:00+07:00",
+    "summary": "The 2024 cyber incident affected the healthcare data of 62 million people, who launched a class action lawsuit against the business services firm",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/conduent-settle-data-breach-action/"
+    ]
+  },
+  {
+    "title": "Inside the Underground Market for Know Your Client Services",
+    "published_wib": "2026-10-19T21:00:10+07:00",
+    "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/"
+    ]
+  },
+  {
+    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+    "published_wib": "2026-10-19T20:48:56+07:00",
+    "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/"
+    ]
+  },
+  {
+    "title": "OpenCode Breach Could Affect OpenAI, Anthropic and Google",
+    "published_wib": "2026-10-19T20:30:00+07:00",
+    "summary": "A breach affecting the OpenCode Console may lead to the exposure of API keys for Anthropic, OpenAI and Google Gemini users",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/"
+    ]
+  },
+  {
+    "title": "Bring Your Own Vulnerable Driver: What Detection Teams Should Actually Hunt",
+    "published_wib": "2026-10-19T20:00:01+07:00",
+    "summary": "Discover how detection teams can split EDR-killer attacks into four distinct behavior hunts to catch BYOVD and driverless threats before ransomware fires.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.sentinelone.com/blog/bring-your-own-vulnerable-driver-what-detection-teams-should-actually-hunt/"
+    ]
+  },
+  {
+    "title": "A sextortion conspiracy killed his son (Lock and Code S07E21)",
+    "published_wib": "2026-10-19T19:10:53+07:00",
+    "summary": "This week on the Lock and Code podcast, we speak with John DeMay about a sextortion plot that targeted his son on the night of his suicide.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/podcast/2026/10/a-sextortion-conspiracy-killed-his-son-lock-and-code-s07e21"
+    ]
+  }
+]

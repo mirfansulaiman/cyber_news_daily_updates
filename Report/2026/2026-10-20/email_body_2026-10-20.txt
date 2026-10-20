@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)
+- Nikkei discloses third data breach in a month, 1.8M records exposed
+- WordPress SEO plugin Rank Math compromised to backdoor websites
+- Researchers Infiltrate Microsoft Tech Support Scam Operation
+- Attackers compromise Microsoft 365 credential via ConnectWise Cloud Backup
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by WordPress SEO plugin Rank Math compromised to backdoor websites. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Nikkei discloses third data breach in a month, 1.8M records exposed. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "published_wib": "2026-10-20T04:24:51+07:00",
+    "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+    ]
+  },
+  {
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "published_wib": "2026-10-20T02:40:58+07:00",
+    "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+    ]
+  },
+  {
+    "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+    "published_wib": "2026-10-19T23:28:47+07:00",
+    "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be tre\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html"
+    ]
+  },
+  {
+    "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack",
+    "published_wib": "2026-10-19T22:20:53+07:00",
+    "summary": "Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16. The post Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "Vishing (voice phishing): how the attack works and how to stop it",
+    "published_wib": "2026-10-19T21:32:28+07:00",
+    "summary": "Vishing (voice phishing): how the attack works and how to stop it",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/tech-explainer/vishing-voice-phishing-how-the-attack-works-and-how-to-stop-it"
+    ]
+  },
+  {
+    "title": "Fake WatchGuard website steals VPN credentials with legitimate software download",
+    "published_wib": "2026-10-19T21:30:09+07:00",
+    "summary": "A sophisticated phishing scheme has been uncovered where a fake WatchGuard VPN website successfully stole administrator credentials by posing as a legitimate download portal.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/fake-watchguard-website-steals-vpn-credentials-with-legitimate-software-download"
+    ]
+  },
+  {
+    "title": "Smishing (SMS phishing): how the attack works and how to stop it",
+    "published_wib": "2026-10-19T21:26:21+07:00",
+    "summary": "Smishing (SMS phishing): how the attack works and how to stop it",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/tech-explainer/smishing-sms-phishing-how-the-attack-works-and-how-to-stop-it"
+    ]
+  },
+  {
+    "title": "AOMEI Backupper update servers hijacked to push malware: Check your PC",
+    "published_wib": "2026-10-19T21:21:22+07:00",
+    "summary": "Attackers tampered with AOMEI Backupper\u2019s update system to deliver malware that could give them remote access to users\u2019 PCs.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/10/aomei-backupper-update-servers-hijacked-to-push-malware-check-your-pc"
+    ]
+  },
+  {
+    "title": "Unmasking the robots: Why it\u2019s critical to discover AI agent identities and how Tenable helps you secure them",
+    "published_wib": "2026-10-19T20:17:00+07:00",
+    "summary": "Discover how to secure AI agents in your cloud environment with Tenable One Cloud Exposure. We explore Microsoft Entra Agent ID and provide essential best practices for robust agentic AI identity security. Key takeaways Understand your current maturity level and then build an appropriate action plan to secure your agent identities. Use your cloud providers\u2019\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.tenable.com/blog/secure-ai-agent-identities-microsoft-entra-agent-id-tenable-one"
+    ]
+  },
+  {
+    "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+    "published_wib": "2026-10-19T20:05:45+07:00",
+    "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their mod\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html"
+    ]
+  }
+]
