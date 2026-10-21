@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Oracle October 2026 Critical Patch Update Addresses 1209 CVEs",
+    "published_wib": "2026-10-21T04:58:58+07:00",
+    "summary": "Oracle addresses 1209 CVEs in its final quarterly update of 2026 with 1295 patches, including 112 critical updates. Key Takeaways The October 2026 Critical Patch Update (CPU) contains fixes for 1209 unique CVEs in 1295 security updates 112 issues (8.6% of all patches) were assigned a critical severity rating Oracle Fusion Middleware received the highest num\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/oracle-october-2026-critical-patch-update-addresses-1209-cves"
+    ]
+  },
+  {
+    "title": "KVM escape exposes broader attack surface in Linux networking",
+    "published_wib": "2026-10-21T04:37:05+07:00",
+    "summary": "Security researchers have found a critical flaw in the Linux kernel\u2019s networking stack that can let attackers escape a KVM virtual machine and execute code on the host system. The weakness could also potentially let attackers compromise systems running other Linux-based virtualization and sandbox platforms. Tracked as CVE-2026-99999 and dubbed PwnEscape , t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4237999/kvm-escape-exposes-broader-attack-surface-in-linux-networking.html"
+    ]
+  },
+  {
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "published_wib": "2026-10-21T03:56:43+07:00",
+    "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+    ]
+  },
+  {
+    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+    "published_wib": "2026-10-21T03:30:42+07:00",
+    "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+    ]
+  },
+  {
+    "title": "Siemens Software Center flaw exploited in ClickFix DLL-sideloading attack",
+    "published_wib": "2026-10-21T03:18:07+07:00",
+    "summary": "Malware lets attackers gain the Siemens app with full privileges into industrial enterprises.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/siemens-software-center-flaw-exploited-in-clickfix-dll-sideloading-attack"
+    ]
+  },
+  {
+    "title": "The Real Jump Scare Isn\u2019t the Attacker; It\u2019s The Vulnerabilities You\u2019re Focusing On",
+    "published_wib": "2026-10-21T02:08:51+07:00",
+    "summary": "Key Takeaways Teams are remediating more than ever, but exposure from the vulnerabilities that matter is still rising faster than they can keep up with. Mean time to exploitation is about \u22127 days. Mean time to remediate sits around +30 days. Qualys research: closures rose from 73M (2022) to 473M (2025) \u2013 6\u00d7 \u2013 while [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/qualys-insights/2026/10/20/remediation-paradox-cybersecurity-awareness-month"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] TRENDnet TV-IP302PI firmware 1.02.38 authenticated NTP server-address OS command injection to root command execution via a shell-form system() call (7.2 High, PR:H)",
+    "published_wib": "2026-10-21T01:50:07+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 20 0day Rubbish Research Team is publicly disclosing a vulnerability in TRENDnet TV-IP302PI firmware 1.02.38, the closed-source IP surveillance camera from TRENDnet (United States). The camera's application daemon is shipped at /hunt/hunt_server: an ARM 32-bit EABI5 version 5TE soft-float binary, dynamically li\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/34"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] Royal Render 9.1.26b: default-unauthenticated job submission on rrServer TCP 7773 reaches worker-side shell execution as the worker identity, measured root (8.1 High)",
+    "published_wib": "2026-10-21T01:50:06+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 20 0day Rubbish Research Team is publicly disclosing a vulnerability in Royal Render 9.1.26b, the closed-source render-farm job manager for VFX and animation studios from Binary Alchemy (proprietor Holger Schoenberger) of Ludwigsburg, Germany. Royal Render is a different product from the Royal Server gateway so\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/33"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] ProSoft Technology RLX-IFH24E v2.2.44 unsigned firmware upgrade package to root command execution and full account-database overwrite (7.2)",
+    "published_wib": "2026-10-21T01:50:05+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 20 0day Rubbish Research Team is publicly disclosing a vulnerability in the ProSoft RLX-IFH24E, version v2.2.44, the industrial wireless radio from ProSoft Technology, Inc. (United States). The appliance is a closed-source embedded device and an OEM build of the MicroHard Systems IPx21 platform on the MHX-910 b\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/32"
+    ]
+  },
+  {
+    "title": "[0day-rubbish] Parasoft Continuous Testing Platform 10.7.5-SNAPSHOT anonymous deserialization in the database restore path to JSP command execution as uid=1000 (9.8)",
+    "published_wib": "2026-10-21T01:50:03+07:00",
+    "summary": "Posted by disclosure via Fulldisclosure on Oct 20 0day Rubbish Research Team is publicly disclosing a vulnerability in Parasoft Continuous Testing Platform 10.7.5-SNAPSHOT, the closed-source commercial continuous-testing, service-virtualisation and environment-management product from Parasoft, a United States software-testing vendor headquartered in Monrovi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Oct/31"
+    ]
+  }
+]

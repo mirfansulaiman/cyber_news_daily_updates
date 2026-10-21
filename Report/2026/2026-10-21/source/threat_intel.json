@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Malicious Rank Math PRO version distributed in supply chain attack",
+    "published_wib": "2026-10-20T22:57:07+07:00",
+    "summary": "Users downloaded malicious versions of Rank Math PRO last week, after the WordPress SEO plugin was compromised in a supply chain attack.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.scworld.com/brief/malicious-rank-math-pro-version-distributed-in-supply-chain-attack"
+    ]
+  },
+  {
+    "title": "AOMEI Backupper servers hijacked for minutes at a time to push backdoor",
+    "published_wib": "2026-10-20T22:14:30+07:00",
+    "summary": "An unknown number of AOMEI Backupper users had their computers infected with a backdoor through an unusually stealthy supply chain attack, security researchers discovered. Between April and July 2026, attackers repeatedly altered configuration files on AOMEI\u2019s own servers for just five to ten minutes at a time, then restored the originals. The tampered file\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/20/aomei-backupper-compromised-supply-chain/"
+    ]
+  },
+  {
+    "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+    "published_wib": "2026-10-20T20:51:01+07:00",
+    "summary": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/"
+    ]
+  },
+  {
+    "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+    "published_wib": "2026-10-20T20:18:36+07:00",
+    "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/"
+    ]
+  },
+  {
+    "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+    "published_wib": "2026-10-20T18:31:22+07:00",
+    "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/"
+    ]
+  },
+  {
+    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+    "published_wib": "2026-10-20T18:06:25+07:00",
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor cal\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+    "published_wib": "2026-10-20T15:21:29+07:00",
+    "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 9\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+    "published_wib": "2026-10-20T11:05:58+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+    "published_wib": "2026-10-20T09:00:03+07:00",
+    "summary": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33436"
+    ]
+  },
+  {
+    "title": "[+24h Old] WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "published_wib": "2026-10-20T04:24:51+07:00",
+    "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Oracle October 2026 Critical Patch Update Addresses 1209 CVEs
+- KVM escape exposes broader attack surface in Linux networking
+- PHP warns admins of two critical flaws, emergency patches coming tomorrow
+- Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)
+- Siemens Software Center flaw exploited in ClickFix DLL-sideloading attack
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Malicious Rank Math PRO version distributed in supply chain attack. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Oracle October 2026 Critical Patch Update Addresses 1209 CVEs. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Zeabur shutting down after second security breach in two months. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
