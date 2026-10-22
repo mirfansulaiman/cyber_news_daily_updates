@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+    "published_wib": "2026-10-22T05:16:26+07:00",
+    "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+    ]
+  },
+  {
+    "title": "State Bank of India investigates suspected dark web data leak",
+    "published_wib": "2026-10-22T04:54:13+07:00",
+    "summary": "State Bank of India is investigating a potential data breach involving thousands of customer records that appeared on a dark web forum, according to a recent report by Tech Radar.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/state-bank-of-india-investigates-suspected-dark-web-data-leak"
+    ]
+  },
+  {
+    "title": "Zeabur to shut down following major security breach",
+    "published_wib": "2026-10-22T04:54:04+07:00",
+    "summary": "Zeabur is shutting down its development platform after a significant security breach resulted in the theft of millions of environment variable records and account information, as first reported by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/zeabur-to-shut-down-following-major-security-breach"
+    ]
+  },
+  {
+    "title": "California student data breach impacts millions",
+    "published_wib": "2026-10-22T04:50:13+07:00",
+    "summary": "Coverage from Tech Radar indicates that a significant data breach has compromised the sensitive personal information of millions of current and former California public school students.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/california-student-data-breach-impacts-millions"
+    ]
+  },
+  {
+    "title": "TeamUpdraft security breach exposes WordPress site connection keys",
+    "published_wib": "2026-10-22T04:45:27+07:00",
+    "summary": "According to Bleeping Computer, a threat actor breached the infrastructure of TeamUpdraft, a developer of popular WordPress backup and security plugins, potentially compromising connection keys used to manage remote websites.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/teamupdraft-security-breach-exposes-wordpress-site-connection-keys"
+    ]
+  },
+  {
+    "title": "US citizen pleads guilty to defrauding military members in identity theft scheme",
+    "published_wib": "2026-10-22T04:45:07+07:00",
+    "summary": "Cyberscoop reports that a 45-year-old U.S. citizen has pleaded guilty to orchestrating a massive identity theft and fraud operation that targeted thousands of military service members and veterans.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/u-s-citizen-pleads-guilty-to-defrauding-military-members-in-identity-theft-scheme"
+    ]
+  },
+  {
+    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+    "published_wib": "2026-10-22T04:15:39+07:00",
+    "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security"
+    ]
+  },
+  {
+    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+    "published_wib": "2026-10-22T00:00:00+07:00",
+    "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/"
+    ]
+  },
+  {
+    "title": "\u201cNext Exploit Opportunities\u201d: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "published_wib": "2026-10-21T21:00:24+07:00",
+    "summary": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post \u201cNext Exploit Opportunities\u201d: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities appeared first on Unit 42 .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/"
+    ]
+  },
+  {
+    "title": "WordPress sites compromised after TeamUpdraft credential exposure",
+    "published_wib": "2026-10-21T19:15:58+07:00",
+    "summary": "Attackers are using stolen connection keys exposed in a TeamUpdraft security breach to install malicious plugins on affected WordPress sites and establish persistent access. Sites already compromised may remain at risk even after the exposed credentials are revoked. The attacks followed unauthorized access to TeamUpdraft\u2019s website. The company, which develo\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4238422/wordpress-sites-compromised-after-teamupdraft-credential-exposure.html"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "OpenAI\u2019s models are deliberately breaking their misalignment monitoring systems",
+    "published_wib": "2026-10-22T06:47:34+07:00",
+    "summary": "AI agents are getting more inventive in finding ways to circumvent safeguards to prevent bad behavior, OpenAI has revealed. On Tuesday, it reported two incidents, both involving the agent disabling or interfering with its alignment monitoring, and in one case directly lying about having done so. \u201cIn two internal coding tasks, agents weakened misalignment mo\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4238782/openais-models-are-deliberately-breaking-their-misalignment-monitoring-systems.html"
+    ]
+  },
+  {
+    "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+    "published_wib": "2026-10-22T06:02:57+07:00",
+    "summary": "'Coordinated vulnerability disclosure, unless there's evidence of active exploits in the wild,' Chainguard CEO tells The Reg",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611"
+    ]
+  },
+  {
+    "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+    "published_wib": "2026-10-22T05:36:26+07:00",
+    "summary": "Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-109619. The exploit attempt originated from an IP address associated with a commercial anonymization network. While the vulnerability was under embargo, the targeting of a hon\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+    ]
+  },
+  {
+    "title": "Hijacked Tor exit relays used to intercept SSH connections",
+    "published_wib": "2026-10-22T04:52:07+07:00",
+    "summary": "Attackers compromised more than 300 Tor exit relays in early October to redirect SSH traffic and steal login credentials, according to a recent report by The Hacker News.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/hijacked-tor-exit-relays-used-to-intercept-ssh-connections"
+    ]
+  },
+  {
+    "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+    "published_wib": "2026-10-22T04:27:26+07:00",
+    "summary": "Organizations are scrambling to protect themselves following the disclosure of two critical vulnerabilities in commonly used code that powers much of the internet. The flaws discovered in the PHP scripting language could allow attackers to perform unauthenticated remote code execution (RCE). On Wednesday morning, the PHP Foundation released patches for affe\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4238692/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive.html"
+    ]
+  },
+  {
+    "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
+    "published_wib": "2026-10-22T04:02:43+07:00",
+    "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33440"
+    ]
+  },
+  {
+    "title": "Microsoft: Treat AI agents as insider threats",
+    "published_wib": "2026-10-22T03:54:06+07:00",
+    "summary": "EVP of Microsoft Security Hayete Gallot writes in a blog post that AI agents operating independently within companies could be a serious security threat. According to Microsoft, today\u2019s most advanced AI models cannot be fully trusted. Not because they are malicious, but because they are trained to achieve goals and can take unexpected shortcuts to achieve t\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4238693/microsoft-treat-ai-agents-as-insider-threats.html"
+    ]
+  },
+  {
+    "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
+    "published_wib": "2026-10-22T02:21:11+07:00",
+    "summary": "Stop PHP2Shell with SentinelOne. Learn how Singularity Agent stops web worker post-exploitation, kills process trees, and hunts threats.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/"
+    ]
+  },
+  {
+    "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+    "published_wib": "2026-10-22T02:19:17+07:00",
+    "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry"
+    ]
+  },
+  {
+    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+    "published_wib": "2026-10-22T01:57:34+07:00",
+    "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+    ]
+  }
+]

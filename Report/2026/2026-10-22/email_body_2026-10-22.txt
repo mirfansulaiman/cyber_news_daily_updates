@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- OpenAI’s models are deliberately breaking their misalignment monitoring systems
+- PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk
+- Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot
+- Chrome puts insecure sites behind a permission prompt
+- Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Chrome puts insecure sites behind a permission prompt. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by OpenAI’s models are deliberately breaking their misalignment monitoring systems. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "OpenAI\u2019s models are deliberately breaking their misalignment monitoring systems and PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "State Bank of India investigates suspected dark web data leak. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-10-22",
+  "vol": "006"
+}
