@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Arista Networks patches actively exploited zero-day vulnerability in VeloCloud Orchestrator",
+    "published_wib": "2026-10-23T06:35:56+07:00",
+    "summary": "Arista Networks has released critical security updates to address an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator on-premises deployments, according to a recent report by Bleeping Computer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/arista-networks-patches-actively-exploited-zero-day-vulnerability-in-velocloud-orchestrator"
+    ]
+  },
+  {
+    "title": "2026-10-16: Coruna-like iOS exploit kit traffic",
+    "published_wib": "2026-10-23T06:07:00+07:00",
+    "summary": "2026-10-16: Coruna-like iOS exploit kit traffic",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malware-traffic-analysis.net/2026/10/16/index.html"
+    ]
+  },
+  {
+    "title": "VU#763488: Memory corruption vulnerabilities in PHP",
+    "published_wib": "2026-10-23T05:23:51.159697+07:00",
+    "summary": "Overview Two memory-related vulnerabilities have been identified in PHP versions prior to 8.2.35, 8.3.36, 8.4.27, and 8.5.12. An unauthenticated remote attacker with network access to PHP web services can exploit these vulnerabilities via specially crafted HTTP requests to potentially achieve arbitrary code execution. Description PHP is a widely used open-s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/763488"
+    ]
+  },
+  {
+    "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+    "published_wib": "2026-10-23T05:04:00+07:00",
+    "summary": "Two critical PHP vulnerabilities sent criminal forum operators scrambling to protect their own infrastructure, revealing that threat actors face the same exposure management challenges as the organizations they target. Key takeaways The adversary economy operates on the same fundamental principles as the legitimate economy. Forum self-evacuations: Criminal\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response"
+    ]
+  },
+  {
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "published_wib": "2026-10-23T03:37:52+07:00",
+    "summary": "\u201cAdversaries are clearly spending time (and tokens) on this bug,\u201d researcher says.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+    ]
+  },
+  {
+    "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+    "published_wib": "2026-10-23T03:29:05+07:00",
+    "summary": "GitLab on Wednesday published updated versions of its Community Edition (CE) and Enterprise Edition (EE) that address a dozen bugs and security issues, including some that allow various unauthenticated actions. The most serious of the security issues, labeled critical in severity, is CVE-2026-110264 , an integer overflow issue. \u201cGitLab has remediated an iss\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4239289/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users-2.html"
+    ]
+  },
+  {
+    "title": "Les supermarch\u00e9s de l'UE paient d'un firmware de r\u00e9frig\u00e9rateur non mis \u00e0 jour",
+    "published_wib": "2026-10-23T02:30:20+07:00",
+    "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel \u00e0 des tiers pour g\u00e9rer le micrologiciel OT obsol\u00e8te qui pilotait leurs syst\u00e8mes de climatisation.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french"
+    ]
+  },
+  {
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    "published_wib": "2026-10-23T02:05:17+07:00",
+    "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over i\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html"
+    ]
+  },
+  {
+    "title": "Security teams urged to center defense on the flaw profile attackers target most",
+    "published_wib": "2026-10-23T01:25:24+07:00",
+    "summary": "Attackers are increasingly focusing on a limited range of critical vulnerabilities to run attacks with flaws packaged into exploits within as little as three days. Rapid7\u2019s latest Quarterly Threat Landscape report found the number of newly exploited vulnerabilities in Q3 of 2026 was 43, up 19% year on year. Douglas McKee, director of vulnerability intellige\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4239255/security-teams-urged-to-center-defense-on-the-single-profile-attackers-target-most.html"
+    ]
+  },
+  {
+    "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
+    "published_wib": "2026-10-23T00:36:30+07:00",
+    "summary": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854"
+    ]
+  }
+]

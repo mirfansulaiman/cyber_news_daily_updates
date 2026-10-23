@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Arista Networks patches actively exploited zero-day vulnerability in VeloCloud Orchestrator
+- Microsoft links agentic AI to ConnectWise supply chain breach
+- 2026-10-16: Coruna-like iOS exploit kit traffic
+- VU#763488: Memory corruption vulnerabilities in PHP
+- The adversary economy: How threat actors are reacting to PHP2Shell
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Arista Networks patches actively exploited zero-day vulnerability in VeloCloud Orchestrator. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Microsoft links agentic AI to ConnectWise supply chain breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+    "published_wib": "2026-10-23T03:42:17+07:00",
+    "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack"
+    ]
+  },
+  {
+    "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+    "published_wib": "2026-10-23T03:33:10+07:00",
+    "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers"
+    ]
+  },
+  {
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "published_wib": "2026-10-23T02:12:51+07:00",
+    "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+    ]
+  },
+  {
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "published_wib": "2026-10-23T02:05:35+07:00",
+    "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we stil\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
+    ]
+  },
+  {
+    "title": "When the attacker becomes the user: Rethinking account takeover",
+    "published_wib": "2026-10-22T22:00:00+07:00",
+    "summary": "SPONSORED FEATURE: AI makes phishing easier than ever",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913"
+    ]
+  },
+  {
+    "title": "LiteLLM hit by second supply chain attack this year, users urged to rotate credentials",
+    "published_wib": "2026-10-22T20:10:28+07:00",
+    "summary": "A malicious release of LiteLLM pushed to PyPI and Docker registries on Wednesday carried malware built to harvest cloud logins, developer secrets and API keys for AI services from anyone who installed it. \u201cLiteLLM got compromised\u2026 again,\u201d security researcher Kevin Beaumont wrote on Mastodon. In August, Hudson Rock analyzed a 153GB archive stolen during an e\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/22/litellm-compromised-supply-chain-attack-pypi-docker/"
+    ]
+  },
+  {
+    "title": "Iranian Hacking Group Found Hosting C2 Infrastructure in the US",
+    "published_wib": "2026-10-22T20:05:00+07:00",
+    "summary": "Stealthy malware campaign by \u2018Prince of Persia\u2019 threat group targeting organisations worldwide discovered operating on American soil",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/"
+    ]
+  },
+  {
+    "title": "Localizing compliance at scale: achieving South Korea\u2019s ISMS certification",
+    "published_wib": "2026-10-22T20:00:00+07:00",
+    "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.cloudflare.com/k-isms/"
+    ]
+  },
+  {
+    "title": "Cyber Threat Context for Early Response: Enriching SOC Telemetry with Real-Time Intel from 16K Organizations",
+    "published_wib": "2026-10-22T19:59:39+07:00",
+    "summary": "When an IOC hits the SOC, the clock is already running. An IP address, domain, file hash, or suspicious URL can trigger a detection, but an analyst still needs to understand what it is, whether it is connected to known malicious activity, and what happened around it. The longer it takes to build that context, [\u2026] The post Cyber Threat Context for Early Resp\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/cyber-threat-context-for-early-soc-triage-response/"
+    ]
+  },
+  {
+    "title": "LiteLLM release pipeline hacked to distribute credential-stealing malware",
+    "published_wib": "2026-10-22T19:07:08+07:00",
+    "summary": "Hackers hijacked the software release pipeline of LiteLLM, a popular open-source AI gateway, to distribute credential-stealing malware, marking the project\u2019s second supply chain compromise this year despite security measures introduced after an earlier attack. The compromised version, 1.107.0, was distributed through the Python Package Index (PyPI) and offi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4239033/litellm-release-pipeline-hacked-to-distribute-credential-stealing-malware.html"
+    ]
+  }
+]
