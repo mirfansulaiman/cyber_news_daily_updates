@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cyber insurance providers adapt to evolving threat landscape
+- Japan calls for cybersecurity task force to combat AI-driven threats
+- New York Knicks use fake championship ring offer in phishing test
+- Senior CISA official departs agency amid vulnerability tracking challenges
+- Russian hackers collaborate on destructive cyberattack against Ukrainian logistics firm
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Cyber insurance providers adapt to evolving threat landscape. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Japan calls for cybersecurity task force to combat AI-driven threats. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Trust Is Not What It Seems — And Fraudsters Are Counting on It. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

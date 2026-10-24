@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cyber insurance providers adapt to evolving threat landscape",
+    "published_wib": "2026-10-24T04:28:45+07:00",
+    "summary": "Cyber insurance has evolved from a niche product into a critical component of organizational security strategies as providers implement stricter requirements to combat sophisticated threats based on information published by Dark Reading.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/cyber-insurance-providers-adapt-to-evolving-threat-landscape"
+    ]
+  },
+  {
+    "title": "New York Knicks use fake championship ring offer in phishing test",
+    "published_wib": "2026-10-24T04:22:47+07:00",
+    "summary": "The New York Knicks organization recently conducted a phishing test by sending employees emails promising free championship rings to evaluate staff awareness of cybersecurity threats, as first reported by Ars Technica.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/new-york-knicks-use-fake-championship-ring-offer-in-phishing-test"
+    ]
+  },
+  {
+    "title": "Russian hackers collaborate on destructive cyberattack against Ukrainian logistics firm",
+    "published_wib": "2026-10-24T04:17:23+07:00",
+    "summary": "A destructive data-wiping attack against a Ukrainian logistics company was carried out through a strategic partnership between the Russian state-sponsored group Sandworm and another threat actor, as first reported by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/russian-hackers-collaborate-on-destructive-cyberattack-against-ukrainian-logistics-firm"
+    ]
+  },
+  {
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "published_wib": "2026-10-24T01:54:41+07:00",
+    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/"
+    ]
+  },
+  {
+    "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+    "published_wib": "2026-10-24T00:26:59+07:00",
+    "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost"
+    ]
+  },
+  {
+    "title": "Dual BIOS: The laptop security feature SMBs don\u2019t know they need",
+    "published_wib": "2026-10-23T22:54:22+07:00",
+    "summary": "Every security checklist starts with the basics: strong passwords, multifactor authentication, spotting phishing, and keeping software up to date. All four protect what happens after a laptop starts. But some attackers are more focused on what happens before. That\u2019s the domain of the BIOS, the first code that runs when a laptop powers on. It checks the hard\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4239779/dual-bios-the-laptop-security-feature-smbs-dont-know-they-need.html"
+    ]
+  },
+  {
+    "title": "Resident Evil maker Capcom warns of phishing after 11.7 million records exposed",
+    "published_wib": "2026-10-23T20:07:52+07:00",
+    "summary": "Exposed email addresses could put CAPCOM ID users at risk of phishing. Passwords were also changed without permission on 196 accounts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/10/resident-evil-maker-capcom-warns-of-phishing-after-11-7-million-records-exposed"
+    ]
+  },
+  {
+    "title": "Infostealer riding the AI Train",
+    "published_wib": "2026-10-23T20:00:09+07:00",
+    "summary": "Key Points Introduction Infostealers commonly target browser passwords, session cookies, and cryptocurrency wallets. This malware combines those established capabilities with dedicated collection routines for AI applications and development tools. Its targets include Claude, ChatGPT Desktop, Codex, Cursor, Windsurf, and GitHub Copilot, alongside cloud crede\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/"
+    ]
+  },
+  {
+    "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "published_wib": "2026-10-23T18:11:23+07:00",
+    "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced atta\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html"
+    ]
+  },
+  {
+    "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+    "published_wib": "2026-10-23T17:31:16+07:00",
+    "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/"
+    ]
+  }
+]
