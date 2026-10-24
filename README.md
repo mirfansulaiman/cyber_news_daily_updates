@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 006 | 2026-10-23 09:00 WIB]
+## Today Updates: [Vol. 006 | 2026-10-24 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Arista Networks patches actively exploited zero-day vulnerability in VeloCloud Orchestrator and 2026-10-16: Coruna-like iOS exploit kit traffic. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Japan calls for cybersecurity task force to combat AI-driven threats and Senior CISA official departs agency amid vulnerability tracking challenges. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: Cyber insurance providers adapt to evolving threat landscape. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Microsoft links agentic AI to ConnectWise supply chain breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Trust Is Not What It Seems — And Fraudsters Are Counting on It. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-23/poster_2026-10-23_issue-006.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-24/poster_2026-10-24_issue-006.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-23/poster_vulnerabilities_2026-10-23_issue-006.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-24/poster_vulnerabilities_2026-10-24_issue-006.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-23/poster_threat-intel_2026-10-23_issue-006.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-24/poster_threat-intel_2026-10-24_issue-006.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-23/poster_data-breach_2026-10-23_issue-006.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-24/poster_data-breach_2026-10-24_issue-006.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-23/cyber_newsletter_2026-10-23.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-10-24/cyber_newsletter_2026-10-24.pdf
 
 <!-- DAILY_UPDATES_END -->
 
