@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)",
+    "published_wib": "2026-10-27T08:19:40+07:00",
+    "summary": "Researchers have demonstrated remote code execution through CVE-2026-111497, an out-of-bounds write in Google's Brotli decoder library, and public proofs-of-concept (PoCs) are available. Software that uses the decoder includes Node.js,.NET, Bun, Envoy Proxy, Istio, Python HTTP clients and PHP for Windows. Key Takeaways CVE-2026-111497, known as Brotli2Shell\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/brotli2shell-frequently-asked-questions-for-google-brotli-decoder-vulnerability-cve-2026"
+    ]
+  },
+  {
+    "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+    "published_wib": "2026-10-27T07:26:50+07:00",
+    "summary": "Measuring AI model security gets complex fast \u2014 a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges"
+    ]
+  },
+  {
+    "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+    "published_wib": "2026-10-27T06:34:37+07:00",
+    "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33458"
+    ]
+  },
+  {
+    "title": "VU#701544: mpc-lib Hardened Derivation Fails to Protect Ancestor Isolation",
+    "published_wib": "2026-10-27T05:45:54.629708+07:00",
+    "summary": "Overview Fireblocks' mpc-lib library contains a cryptographic fail-open vulnerability in its BIP32 hardened derivation implementation in the case of a missing private parent key. This breaks the ancestor isolation property of hardened derivation, allowing an attacker with a compromised lower-level signer share to recover the higher-level share it was derive\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/701544"
+    ]
+  },
+  {
+    "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+    "published_wib": "2026-10-27T03:59:26+07:00",
+    "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown"
+    ]
+  },
+  {
+    "title": "PHP2Shell exploitation confirmed, but mass attacks remain elusive",
+    "published_wib": "2026-10-27T03:11:05+07:00",
+    "summary": "PHP2Shell exploits are emerging, but widespread attacks remain unconfirmed as scanning surges.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/php2shell-exploitation-confirmed-but-mass-attacks-remain-elusive"
+    ]
+  },
+  {
+    "title": "Discover and remediate PHP2Shell exposure with Tenable",
+    "published_wib": "2026-10-27T02:48:07+07:00",
+    "summary": "Learn how to use Tenable solutions to find vulnerable PHP versions, prioritize remediation, and patch the critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) faster. Key takeaways The PHP2Shell vulnerabilities ( CVE-2026-109618 and CVE-2026-109619 ) put security teams in a race against attackers. PHP runs on more than 70% of websites, s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable"
+    ]
+  },
+  {
+    "title": "DreamHost forces password resets in ongoing \"incident\"",
+    "published_wib": "2026-10-27T02:26:20+07:00",
+    "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/"
+    ]
+  },
+  {
+    "title": "VU#128947: COVESA vsomeip excessive memory allocation in reliable (TCP) endpoint buffer handling",
+    "published_wib": "2026-10-27T02:07:02.688776+07:00",
+    "summary": "Overview vsomeip, COVESA's open source implementation of the SOME/IP automotive communication middleware, contained a memory allocation vulnerability present in versions 3.7.3 and below. A vsomeip reliable (TCP) SOME/IP endpoint grows its receive buffer to an attacker-declared message size before validating that the declared bytes have actually been receive\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/128947"
+    ]
+  },
+  {
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+    "published_wib": "2026-10-27T00:58:00+07:00",
+    "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)
+- So Many AI Security Benchmarks, But None Tell the Whole Story
+- Apple Patches for October 2026, (Mon, Oct 26th)
+- VU#701544: mpc-lib Hardened Derivation Fails to Protect Ancestor Isolation
+- Dutch police arrest two men over AI-powered bank fraud scheme
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Worm armed 42 GitHub repos by hiding a payload too big to fail. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497). prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Dutch police arrest two men over AI-powered bank fraud scheme. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
