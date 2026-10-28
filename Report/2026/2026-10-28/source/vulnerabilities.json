@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers hijack Convertr analytics script to steal payment card data",
+    "published_wib": "2026-10-28T03:57:25+07:00",
+    "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/"
+    ]
+  },
+  {
+    "title": "Brotli bug reaches far beyond Node.js (CVE-2026-111497)",
+    "published_wib": "2026-10-28T00:38:51+07:00",
+    "summary": "A vulnerability in Brotli, Google\u2019s widely used open-source compression library, is putting a broad range of software at risk. About CVE-2026-111497 Alternatively known as \u201cNode2Shell\u201d, \u201cBroccoli2Shell\u201d and \u201cBrotli2Shell\u201d, CVE-2026-111497 is a remotely exploitable out-of-bounds write flaw that gained widespread attention after Node.js publicly disclosed it\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/"
+    ]
+  },
+  {
+    "title": "Cyber Incident Forces UNM Health to Cancel Surgeries, Divert Ambulances",
+    "published_wib": "2026-10-27T23:45:00+07:00",
+    "summary": "The University of New Mexico is working to restore systems following the incident, which has been claimed by the BYOD ransomware group",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cyber-unmhealth-surgeries/"
+    ]
+  },
+  {
+    "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of \u2018Tailworm\u2019 Flaws",
+    "published_wib": "2026-10-27T22:26:12+07:00",
+    "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of \u2018Tailworm\u2019 Flaws appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/"
+    ]
+  },
+  {
+    "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs",
+    "published_wib": "2026-10-27T22:00:00+07:00",
+    "summary": "ISC2\u2019s new Cyber-AI Workforce Coalition serves as a \u201cvendor-neutral convener\u201d to map the future of AI security careers, ISC2 CEO Scott Beale told Infosecurity",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/"
+    ]
+  },
+  {
+    "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+    "published_wib": "2026-10-27T21:45:00+07:00",
+    "summary": "Both critical PHP flaws land on the agency\u2019s exploited list as infosec pros confirm hackers are getting working shells",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+    ]
+  },
+  {
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+    "published_wib": "2026-10-27T21:09:46+07:00",
+    "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+    ]
+  },
+  {
+    "title": "SkyW4lker Exposed: A Growing Microsoft 365 Phishing Threat to American Enterprises",
+    "published_wib": "2026-10-27T21:02:18+07:00",
+    "summary": "SkyW4lker (SkyW4lker x365 Sentinel) is an active device-code phishing kit targeting Microsoft 365 users in the United States, Europe, and other regions. By abusing Microsoft\u2019s legitimate authentication process, the kit can give attackers access to corporate accounts without stealing passwords or bypassing MFA. This puts business emails, sensitive documents,\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://any.run/cybersecurity-blog/skyw4lker-phishing-kit-analysis/"
+    ]
+  },
+  {
+    "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+    "published_wib": "2026-10-27T20:59:09+07:00",
+    "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw wer\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html"
+    ]
+  },
+  {
+    "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+    "published_wib": "2026-10-27T20:13:58+07:00",
+    "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/"
+    ]
+  }
+]

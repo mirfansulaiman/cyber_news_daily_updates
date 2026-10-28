@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+    "published_wib": "2026-10-28T06:35:51+07:00",
+    "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/"
+    ]
+  },
+  {
+    "title": "Engie confirms customer data breach via marketing platform",
+    "published_wib": "2026-10-28T06:06:39+07:00",
+    "summary": "Per Bleeping Computer, French energy provider Engie recently confirmed that unauthorized actors accessed customer data following a security breach of a marketing platform utilized by its business partners.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/engie-confirms-customer-data-breach-via-marketing-platform"
+    ]
+  },
+  {
+    "title": "China-linked Warlock ransomware group targets global infrastructure",
+    "published_wib": "2026-10-28T05:57:39+07:00",
+    "summary": "As reported by cyberscoop, the China-linked threat group known as Storm-2603, which operates the Warlock ransomware, has launched a series of targeted attacks against at least four organizations across Europe, Africa and Latin America.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/china-linked-warlock-ransomware-group-targets-global-infrastructure"
+    ]
+  },
+  {
+    "title": "Japanese ISP GMO Internet suffers major data breach and ransomware demand",
+    "published_wib": "2026-10-28T05:32:34+07:00",
+    "summary": "As detailed in The Register, Japanese internet service provider GMO Internet has confirmed a significant security breach affecting its Onamae.com Desktop Cloud service.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/japanese-isp-gmo-internet-suffers-major-data-breach-and-ransomware-demand"
+    ]
+  },
+  {
+    "title": "University of Copenhagen reports data breach affecting over 500,000 individuals",
+    "published_wib": "2026-10-28T05:30:33+07:00",
+    "summary": "Bleeping Computer reports that the University of Copenhagen recently confirmed a cyberattack involving unauthorized access to a test environment containing the personal data of 525,000 people.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/university-of-copenhagen-reports-data-breach-affecting-over-500000-individuals"
+    ]
+  },
+  {
+    "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+    "published_wib": "2026-10-28T05:07:34+07:00",
+    "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/"
+    ]
+  },
+  {
+    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+    "published_wib": "2026-10-27T23:15:39+07:00",
+    "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/"
+    ]
+  },
+  {
+    "title": "Five election scams to watch out for",
+    "published_wib": "2026-10-27T22:36:09+07:00",
+    "summary": "Election messages can ask you to register, donate, take a survey, or buy merchandise. Here\u2019s how to check before you click or pay.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/10/five-election-scams-to-watch-out-for"
+    ]
+  },
+  {
+    "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+    "published_wib": "2026-10-27T20:30:28+07:00",
+    "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/"
+    ]
+  },
+  {
+    "title": "Exeon expands threat detection to shadow AI and autonomous agents",
+    "published_wib": "2026-10-27T19:36:08+07:00",
+    "summary": "Exeon Analytics has introduced Exeon.AgentGuard, a new AI security solution designed to give organizations visibility into approved and shadow AI use, autonomous agent activity and the data flows created through connected tools and external services. Building on its expertise in AI-driven behavioral analytics and threat detection, Exeon expands its cybersec\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/27/exeon-expands-threat-detection-to-shadow-ai-and-autonomous-agents/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Introducing Route 53 Resolved IP Validation for AWS Network Firewall
+- Japan's GMO urges customers to shut down PCs amid ransomware threat
+- Engie confirms customer data breach via marketing platform
+- China-linked Warlock ransomware group targets global infrastructure
+- Japanese ISP GMO Internet suffers major data breach and ransomware demand
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Introducing Route 53 Resolved IP Validation for AWS Network Firewall. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers hijack Convertr analytics script to steal payment card data. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Japan's GMO urges customers to shut down PCs amid ransomware threat. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
