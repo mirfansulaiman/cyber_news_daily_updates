@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+    "published_wib": "2026-10-29T07:42:15+07:00",
+    "summary": "Introduction",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33466"
+    ]
+  },
+  {
+    "title": "Malicious AI desktop applications distribute Yoba malware",
+    "published_wib": "2026-10-29T04:18:27+07:00",
+    "summary": "Based on information from Infosecurity Magazine, attackers are distributing a sophisticated malware chain by impersonating popular artificial intelligence desktop applications on GitHub.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/malicious-ai-desktop-applications-distribute-yoba-malware"
+    ]
+  },
+  {
+    "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+    "published_wib": "2026-10-29T02:39:00+07:00",
+    "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github"
+    ]
+  },
+  {
+    "title": "GitHub\u2019s npm package firewall can block brand-new versions before they install",
+    "published_wib": "2026-10-29T00:09:14+07:00",
+    "summary": "GitHub announced a package firewall that checks npm packages against an enterprise\u2019s policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any developer can turn it on by pointing npm at the firewall. The checks run before a package reaches a laptop, a build, or a coding agent. GitHub says AI agents are h\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/"
+    ]
+  },
+  {
+    "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+    "published_wib": "2026-10-29T00:08:09+07:00",
+    "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the feat\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html"
+    ]
+  },
+  {
+    "title": "Attackers Hide Malware Behind Signed ChatGPT and Claude Binaries",
+    "published_wib": "2026-10-28T22:13:00+07:00",
+    "summary": "Attackers have used fake ChatGPT and Claude projects to distribute Yoba malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attackers-hide-malware-behind/"
+    ]
+  },
+  {
+    "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+    "published_wib": "2026-10-28T21:48:32+07:00",
+    "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/"
+    ]
+  },
+  {
+    "title": "Fake ChatGPT, Claude apps spread malware via signed AI binaries",
+    "published_wib": "2026-10-28T19:36:48+07:00",
+    "summary": "Attackers are distributing malware through fake ChatGPT and Claude desktop applications, using legitimate, digitally signed executables from OpenAI and Anthropic to load malicious code onto victims\u2019 Windows systems, according to Check Point Research. The campaign, tracked as Yoba, uses fake GitHub repositories and websites promoting purported AI application\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4241634/fake-chatgpt-claude-apps-spread-malware-via-signed-ai-binaries.html"
+    ]
+  },
+  {
+    "title": "Gheist turns GitHub Actions into a secret extraction service",
+    "published_wib": "2026-10-28T19:05:42+07:00",
+    "summary": "A threat actor dubbed Gheist is turning compromised GitHub accounts into credential-harvesting platforms. By planting malicious GitHub Actions workflows in private repositories, the attackers can expose repository and environment secrets, then retrieve them through GitHub APIs before deleting evidence of the activity. Tracked since September 15 by Wiz Resea\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4241625/gheist-turns-github-actions-into-a-secret-extraction-service.html"
+    ]
+  },
+  {
+    "title": "AI-Powered Malware & Phishing Analysis for SOC Teams: Cut Workload and Speed Up Response",
+    "published_wib": "2026-10-28T18:38:18+07:00",
+    "summary": "AI is now everywhere in cybersecurity. But how much of it is actually making SOC teams\u2019 jobs easier? Almost every vendor offers AI-powered solutions promising faster threat detection, automated malware analysis, and smarter investigations. For SOC teams, separating real value from AI branding has become a challenge of its own. Meanwhile, alert volumes keep\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/ai-malware-analysis-soc-teams/"
+    ]
+  }
+]

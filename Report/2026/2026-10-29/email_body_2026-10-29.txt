@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Yet Another ClickFix Campaign, (Wed, Oct 28th)
+- After the breach: Uncovering the full scope of the attack
+- Cisco releases open source project quarry to monitor AI agent behavior
+- Malicious AI desktop applications distribute Yoba malware
+- Federal agencies face growing fraud threats requiring better data visibility
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Yet Another ClickFix Campaign, (Wed, Oct 28th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cisco releases open source project quarry to monitor AI agent behavior. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by After the breach: Uncovering the full scope of the attack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

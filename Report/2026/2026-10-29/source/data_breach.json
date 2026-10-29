@@ -1,0 +1,102 @@
+[
+  {
+    "title": "After the breach: Uncovering the full scope of the attack",
+    "published_wib": "2026-10-29T04:33:46+07:00",
+    "summary": "Following an incident, every major decision depends on knowing exactly what happened.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/resource/after-the-breach-uncovering-the-full-scope-of-the-attack"
+    ]
+  },
+  {
+    "title": "Unwrapping Retail Peak Season Cyber Threats",
+    "published_wib": "2026-10-29T01:00:10+07:00",
+    "summary": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/"
+    ]
+  },
+  {
+    "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+    "published_wib": "2026-10-28T23:45:47+07:00",
+    "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/"
+    ]
+  },
+  {
+    "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
+    "published_wib": "2026-10-28T22:52:17+07:00",
+    "summary": "Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050"
+    ]
+  },
+  {
+    "title": "Japan\u2019s GMO Internet Urges Customers to Disconnect PCs",
+    "published_wib": "2026-10-28T22:49:00+07:00",
+    "summary": "GMO Internet has told customers to unplug their PCs in advance of a possible ransomware attack",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/japan-gmo-internet-disconnect/"
+    ]
+  },
+  {
+    "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+    "published_wib": "2026-10-28T22:05:06+07:00",
+    "summary": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/"
+    ]
+  },
+  {
+    "title": "345,000 email addresses stolen in cyberattack on Germany\u2019s far-right party AfD",
+    "published_wib": "2026-10-28T21:28:43+07:00",
+    "summary": "Over 345,000 unique email addresses were exposed in the September 2026 breach at German far-right political party Alternative f\u00fcr Deutschland (AfD). Breach notification service Have I Been Pwned (HIBP) added the data to its database on 27 October, listing email addresses and email messages as the compromised information. HIBP has flagged the incident as a s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/28/afd-data-breach-email-leak/"
+    ]
+  },
+  {
+    "title": "Energy Giant Engie Notifies Customers of Supply Chain Breach",
+    "published_wib": "2026-10-28T21:05:00+07:00",
+    "summary": "An undisclosed number of Engie customers have had their data compromised after a supply chain incident",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/energy-giant-engie-supply-chain/"
+    ]
+  },
+  {
+    "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+    "published_wib": "2026-10-28T18:45:00+07:00",
+    "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea\u2019s financial giants",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
+    ]
+  },
+  {
+    "title": "When prevention fails: Why cyber resilience is the next big test of trust",
+    "published_wib": "2026-10-28T17:00:00+07:00",
+    "summary": "Imagine arriving at work on a Monday morning to find employees cannot log in, customer service is unavailable, and critical business applications have stopped working. Security alerts are flashing. The IT team is investigating. Business leaders want to know when operations will resume. Then comes the question everyone hopes they never have to ask: Can we re\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.csoonline.com/article/4241129/when-prevention-fails-why-cyber-resilience-is-the-next-big-test-of-trust.html"
+    ]
+  }
+]
