@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "PHP2Shell plus Fragnesia: A dangerous new route from web server to root and Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Hugging Face malware campaign returns to hijack GPUs for crypto mining. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Binance probes potential $5.8 billion crypto-theft hack. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-10-30",
+  "vol": "006"
+}

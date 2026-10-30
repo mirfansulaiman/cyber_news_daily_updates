@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- PHP2Shell plus Fragnesia: A dangerous new route from web server to root
+- A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure
+- Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched
+- Binance probes potential $5.8 billion crypto-theft hack
+- Hugging Face malware campaign returns to hijack GPUs for crypto mining
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by PHP2Shell plus Fragnesia: A dangerous new route from web server to root. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Binance probes potential $5.8 billion crypto-theft hack. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

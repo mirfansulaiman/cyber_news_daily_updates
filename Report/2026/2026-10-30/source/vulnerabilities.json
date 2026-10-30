@@ -1,0 +1,102 @@
+[
+  {
+    "title": "PHP2Shell plus Fragnesia: A dangerous new route from web server to root",
+    "published_wib": "2026-10-30T07:55:47+07:00",
+    "summary": "The PHP2Shell saga continues, with attackers discovering new ways to exploit the critical vulnerability impacting millions of organizations worldwide. The US Cybersecurity and Infrastructure Security Agency (CISA) has warned of a high severity Linux kernel privilege escalation flaw that attackers are chaining with PHP2Shell bugs in the wild. Identified as C\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4242454/php2shell-plus-fragnesia-a-dangerous-new-route-from-web-server-to-root.html"
+    ]
+  },
+  {
+    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+    "published_wib": "2026-10-30T06:12:26+07:00",
+    "summary": "Embedded browsers are at the heart of the problem",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508"
+    ]
+  },
+  {
+    "title": "Vulnpocalypse Continues Until Defense Improves - PSW #950",
+    "published_wib": "2026-10-30T04:00:00+07:00",
+    "summary": "Vulnpocalypse Continues Until Defense Improves - PSW #950",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15254-vulnpocalypse-continues-until-defense-improves-psw-950"
+    ]
+  },
+  {
+    "title": "Rethinking Cybersecurity Awareness in the AI Era",
+    "published_wib": "2026-10-30T03:15:37+07:00",
+    "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era"
+    ]
+  },
+  {
+    "title": "A revoked certificate is not a blocked connection",
+    "published_wib": "2026-10-30T02:40:24+07:00",
+    "summary": "Certificate revocation doesn't guarantee protection unless applications enforce it.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/perspective/a-revoked-certificate-is-not-a-blocked-connection"
+    ]
+  },
+  {
+    "title": "New Cisco firewall zero-day being actively exploited",
+    "published_wib": "2026-10-30T02:31:38+07:00",
+    "summary": "A high-severity flaw in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) and Cisco Secure Firewall Threat Defense (FTD) is under active exploitation to crash vulnerable devices. The vulnerability, tracked as CVE-2026-76418 and rated 8.6 in severity, is due to logic errors when secondary authentication is configure\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4242420/new-cisco-firewall-zero-day-being-actively-exploited.html"
+    ]
+  },
+  {
+    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+    "published_wib": "2026-10-30T02:11:58+07:00",
+    "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html"
+    ]
+  },
+  {
+    "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
+    "published_wib": "2026-10-30T02:05:17+07:00",
+    "summary": "Snoops 'likely still' have access to US government-affiliated network",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
+    ]
+  },
+  {
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+    "published_wib": "2026-10-30T01:38:26+07:00",
+    "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
+    ]
+  },
+  {
+    "title": "Cisco SD-WAN Catalyst Controller attacks linked to Volt Typhoon\u2019s Silent Train network",
+    "published_wib": "2026-10-30T01:16:51+07:00",
+    "summary": "China-linked hackers exploit Cisco SD-WAN flaw, with infrastructure tied to Volt Typhoon.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisco-sd-wan-catalyst-controller-attacks-linked-to-volt-typhoons-silent-train-network"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "A deep dive into China\u2019s Volt Typhoon suggests it is preparing for an assault on infrastructure",
+    "published_wib": "2026-10-30T07:10:15+07:00",
+    "summary": "In a deep dive into the Silent Train attack tactic used by China\u2019s Volt Typhoon cybercrime group, Lumen\u2019s Black Lotus Labs highlighted evidence of efforts to pre-position access within what it described as \u201cstrategic communications, critical infrastructure and other ecosystems that become essential during geopolitical tensions or crises.\u201d The report, releas\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4242439/a-deep-dive-into-chinas-volt-typhoon-suggests-it-is-preparing-for-an-assault-on-infrastructure.html"
+    ]
+  },
+  {
+    "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+    "published_wib": "2026-10-30T05:09:24+07:00",
+    "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/"
+    ]
+  },
+  {
+    "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+    "published_wib": "2026-10-30T04:21:56+07:00",
+    "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools"
+    ]
+  },
+  {
+    "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+    "published_wib": "2026-10-29T23:10:31+07:00",
+    "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
+    ]
+  },
+  {
+    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+    "published_wib": "2026-10-29T22:20:29+07:00",
+    "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
+    ]
+  },
+  {
+    "title": "NIK C2 Malware Can Use Victims\u2019 OpenAI Keys for AI Queries",
+    "published_wib": "2026-10-29T22:00:00+07:00",
+    "summary": "NIK C2 malware can fall back on victims\u2019 OpenAI API keys to run AI queries",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/"
+    ]
+  },
+  {
+    "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude",
+    "published_wib": "2026-10-29T21:49:11+07:00",
+    "summary": "Fake GitHub projects posing as desktop versions of ChatGPT and Claude have been used to spread a malware chain that ends with a cryptocurrency miner, Check Point has found. The researchers have been tracking the campaign, dubbed Yoba, for the past two months. Its operator set up repositories and GitHub.io pages for supposed apps called GPT-5.6 Sol, GPT-6 As\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/"
+    ]
+  },
+  {
+    "title": "Volt Typhoon targeted enterprise control planes via ever-changing \u201cSilent Train\u201d relay network",
+    "published_wib": "2026-10-29T20:42:13+07:00",
+    "summary": "Volt Typhoon, a Chinese state-sponsored APT group that\u2019s focused on cyberespionage and United States\u2019 critical infrastructure, has been using a covert, constantly rotating relay network to hide its most sensitive intrusions, Lumen\u2019s Black Lotus Labs revealed on Wednesday. This network, dubbed Silent Train by the researchers, consists of chains of compromise\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/"
+    ]
+  },
+  {
+    "title": "Fake Anthropic AI previews lure in overeager employees",
+    "published_wib": "2026-10-29T20:05:00+07:00",
+    "summary": "Everyone wants to know what Anthropic is up to, and hackers are gleefully exploiting the fact. New research from cybersecurity company Cofense describes a phishing campaign that hooks overeager enterprise users by making them think they are getting an invite to a private invite-only Anthropic preview. In reality, adversarial actors are trying to steal Googl\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.csoonline.com/article/4241895/fake-anthropic-ai-previews-lure-in-overeager-employees.html"
+    ]
+  },
+  {
+    "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+    "published_wib": "2026-10-29T19:55:00+07:00",
+    "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.cloudflare.com/ddos-threat-report-2026-q3/"
+    ]
+  }
+]

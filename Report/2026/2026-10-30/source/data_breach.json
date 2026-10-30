@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Binance probes potential $5.8 billion crypto-theft hack",
+    "published_wib": "2026-10-30T05:45:23+07:00",
+    "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+    ]
+  },
+  {
+    "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+    "published_wib": "2026-10-30T05:08:04+07:00",
+    "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/"
+    ]
+  },
+  {
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "published_wib": "2026-10-30T04:47:25+07:00",
+    "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+    ]
+  },
+  {
+    "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+    "published_wib": "2026-10-29T20:26:49+07:00",
+    "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/"
+    ]
+  },
+  {
+    "title": "Over 41,000 DHS Employee Records Leaked Online",
+    "published_wib": "2026-10-29T19:54:14+07:00",
+    "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/"
+    ]
+  },
+  {
+    "title": "Imposter abused trust in OpenAI, Anthropic, and 30 others to hunt for secrets",
+    "published_wib": "2026-10-29T18:52:51+07:00",
+    "summary": "Attackers are impersonating AI agents from companies including OpenAI, Anthropic, and Meta in a bid to trick organizations into exposing sensitive credentials, according to researchers who observed a single threat actor cycling through dozens of fake bot identities while probing enterprise web servers for secrets. A single threat actor was seen posing as ap\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4242088/imposter-abused-trust-in-openai-anthropic-and-30-others-to-hunt-for-secrets.html"
+    ]
+  },
+  {
+    "title": "Online Scam Volumes Double to Overtake Phishing",
+    "published_wib": "2026-10-29T18:15:00+07:00",
+    "summary": "Akamai research reveals that scam detections topped six million in Q2 2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/online-scam-volumes-double/"
+    ]
+  },
+  {
+    "title": "ICO Reprimands Staffordshire Police After Domestic Abuse Breach",
+    "published_wib": "2026-10-29T17:30:00+07:00",
+    "summary": "The UK\u2019s privacy regulator has issued a reprimand to Staffordshire Police following a serious breach of personal information",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ico-reprimand-staffordshire-police/"
+    ]
+  },
+  {
+    "title": "Hacktivists leak 41,000 DHS staff records, revealing undercover ICE agents",
+    "published_wib": "2026-10-29T17:16:18+07:00",
+    "summary": "Names, offices, contact details and assignments of more than 41,000 U.S. Department of Homeland Security (DHS) employees have been leaked by a hacktivist group calling itself the Department of Peace. The group handed the data to the transparency collective Distributed Denial of Secrets (DDoSecrets) and to Swiss hacker and journalist maia arson crimew. DDoSe\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/10/29/icepick-dhs-leak-ice-undercover-agents/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Unwrapping Retail Peak Season Cyber Threats",
+    "published_wib": "2026-10-29T01:00:10+07:00",
+    "summary": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/"
+    ]
+  }
+]
