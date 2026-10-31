@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Choosing a WAAP in 2026: 3 questions that separate the shortlist and AI-generated code security shows first significant improvement in a year. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Sophisticated malware targets government-specific windows systems in Asia. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-10-31",
+  "vol": "006"
+}

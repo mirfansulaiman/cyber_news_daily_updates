@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Choosing a WAAP in 2026: 3 questions that separate the shortlist
+- AI-generated code security shows first significant improvement in a year
+- Sophisticated malware targets government-specific windows systems in Asia
+- Critical Linux kernel flaw allows remote root attacks on MPTCP servers
+- Devs Hit by Trojanized Claude Code Extension for Cursor
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Sophisticated malware targets government-specific windows systems in Asia. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Choosing a WAAP in 2026: 3 questions that separate the shortlist. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

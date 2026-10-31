@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sophisticated malware targets government-specific windows systems in Asia",
+    "published_wib": "2026-10-31T06:29:47+07:00",
+    "summary": "As noted by The Record, suspected nation-state hackers have developed sophisticated malware designed to target a customized version of Windows used by government agencies in Asia.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/sophisticated-malware-targets-government-specific-windows-systems-in-asia"
+    ]
+  },
+  {
+    "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+    "published_wib": "2026-10-31T03:05:58+07:00",
+    "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor"
+    ]
+  },
+  {
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "published_wib": "2026-10-30T21:36:54+07:00",
+    "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+    ]
+  },
+  {
+    "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+    "published_wib": "2026-10-30T21:00:00+07:00",
+    "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/"
+    ]
+  },
+  {
+    "title": "[+24h Old] $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+    "published_wib": "2026-10-30T16:41:36+07:00",
+    "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "published_wib": "2026-10-30T16:18:13+07:00",
+    "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+    "published_wib": "2026-10-30T15:55:47+07:00",
+    "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] $6 Billion Binance Hack Bears Hallmarks of North Korea\u2019s TraderTraitor",
+    "published_wib": "2026-10-30T15:16:26+07:00",
+    "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea\u2019s TraderTraitor appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/"
+    ]
+  },
+  {
+    "title": "[+24h Old] As Russia's Cyberwar Evolves, Belarus Steps Forward",
+    "published_wib": "2026-10-30T15:00:00+07:00",
+    "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward"
+    ]
+  },
+  {
+    "title": "[+24h Old] In the year AI re-wrote the infosec rulebook, it\u2019s comforting to know crypto exchanges still have bad security",
+    "published_wib": "2026-10-30T11:22:12+07:00",
+    "summary": "Binance freezes funny money after compromise of engineer\u2019s laptop linked to $6.3 billion of unauthorized trades",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539"
+    ]
+  }
+]
