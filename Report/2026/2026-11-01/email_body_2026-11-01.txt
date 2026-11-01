@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Northflank security breach leads to abuse of customers' AI API keys
+- New Android SMS of Death exploit can remotely crash unpatched phones
+- From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.
+- Chainalysis discloses data breach from "offensive agentic techniques"
+- Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by New Android SMS of Death exploit can remotely crash unpatched phones. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Northflank security breach leads to abuse of customers' AI API keys. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
