@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Alpine Linux rebuilds GitLab after attempted RCE attack
+- [+24h Old] Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability
+- [+24h Old] CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+- [+24h Old] NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection
+- [+24h Old] Northflank security breach leads to abuse of customers' AI API keys
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Alpine Linux rebuilds GitLab after attempted RCE attack. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Northflank security breach leads to abuse of customers' AI API keys. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "published_wib": "2026-11-01T22:11:21+07:00",
+    "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+    "published_wib": "2026-11-01T16:00:00+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit\u2019s catch-all forum for open source software, have barred any project that \u201cuses AI, is made by AI, or is intended for AI.\u201d Moderator Wolvereness announced the rules\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/"
+    ]
+  },
+  {
+    "title": "[+24h Old] New Android SMS of Death exploit can remotely crash unpatched phones",
+    "published_wib": "2026-10-31T22:35:11+07:00",
+    "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+    ]
+  },
+  {
+    "title": "[+24h Old] From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+    "published_wib": "2026-10-31T20:10:19+07:00",
+    "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+    "published_wib": "2026-10-31T15:27:43+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Choosing a WAAP in 2026: 3 questions that separate the shortlist",
+    "published_wib": "2026-10-31T07:31:07+07:00",
+    "summary": "One platform or four Your WAF renewal is coming up. The API team has its own tooling in mind, the fraud team wants a bot product, and someone in networking owns DDoS. Four controls, four consoles, four sets of policies in front of the same applications. That is the situation a Web Application and API Protection platform, or WAAP, exists to replace: one serv\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4242913/choosing-a-waap-in-2026-3-questions-that-separate-the-shortlist.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] AI-generated code security shows first significant improvement in a year",
+    "published_wib": "2026-10-31T06:38:26+07:00",
+    "summary": "According to Tech Radar, security in code generated by frontier artificial intelligence models has improved for the first time in a year, with vulnerability rates decreasing from 44% to 38%.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ai-generated-code-security-shows-first-significant-improvement-in-a-year"
+    ]
+  },
+  {
+    "title": "[+48h Old] Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "published_wib": "2026-10-31T04:09:46+07:00",
+    "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Behind the Scenes of How Operation Blackout Went Down",
+    "published_wib": "2026-10-31T02:46:08+07:00",
+    "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down"
+    ]
+  },
+  {
+    "title": "[+48h Old] Drupal Commerce Core access bypass flaw exploited in attacks",
+    "published_wib": "2026-10-31T02:34:43+07:00",
+    "summary": "Attackers exploit critical Drupal Commerce Core flaw to bypass access controls and manipulate orders.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/drupal-commerce-core-access-bypass-flaw-exploited-in-attacks"
+    ]
+  }
+]
