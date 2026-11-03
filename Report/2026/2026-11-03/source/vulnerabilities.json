@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New research reveals limitations of vendor advisories in identifying critical security vulnerabilities",
+    "published_wib": "2026-11-03T07:41:28+07:00",
+    "summary": "Per Infosecurity Magazine, 88% of critical and high-severity vulnerabilities identified during live attack simulations this year would have remained undetected by relying solely on vendor advisories or external intelligence sources.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/new-research-reveals-limitations-of-vendor-advisories-in-identifying-critical-security-vulnerabilities"
+    ]
+  },
+  {
+    "title": "BTCPay Server urges users to update after hot wallet attacks",
+    "published_wib": "2026-11-03T07:39:08+07:00",
+    "summary": "BTCPay Server has issued an urgent security advisory for users to update their software following reports of attackers draining hot wallets on older versions of the payment processing platform, based on information published by Bleeping Computer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/btcpay-server-urges-users-to-update-after-hot-wallet-attacks"
+    ]
+  },
+  {
+    "title": "European supermarkets that failed to act after French freezer attack are now feeling the heat",
+    "published_wib": "2026-11-03T07:23:35+07:00",
+    "summary": "Just a couple of weeks after a cyberattack on French supermarket refrigeration systems resulted in spoiled food, and even some fires, retailers in Belgium, Ireland, Sweden, Finland, and Estonia were hit with nearly-identical attacks on Monday. The mid-October attack prompted an advisory from the French Computer Emergency Response Team (CERT-FR) recommending\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4243371/european-supermarkets-that-failed-to-act-after-french-freezer-attack-are-now-feeling-the-heat.html"
+    ]
+  },
+  {
+    "title": "Max-severity bug in widely used OT programming tool exploited to deliver Linux malware",
+    "published_wib": "2026-11-03T05:55:17+07:00",
+    "summary": "Your industrial IoT gateway isn't exposed to the internet, right? RIGHT?!",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086"
+    ]
+  },
+  {
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "published_wib": "2026-11-03T04:40:14+07:00",
+    "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/"
+    ]
+  },
+  {
+    "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+    "published_wib": "2026-11-03T03:20:59+07:00",
+    "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/"
+    ]
+  },
+  {
+    "title": "CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)",
+    "published_wib": "2026-11-02T22:58:08+07:00",
+    "summary": "CISA added two new Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527) to its Known Exploited Vulnerabilities catalog on Friday, after Ivanti updated an earlier security advisory with details about the flaws. Three flaws chained to gain a foothold CVE-2026-111357, a missing authentication for a critical function vulnerability that allow\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/"
+    ]
+  },
+  {
+    "title": "VU#203719: INFINITT PACS System Manager Contains Multiple Code Execution Vulnerabilities",
+    "published_wib": "2026-11-02T22:38:19.438399+07:00",
+    "summary": "Overview INFINITT PACS installations using System Manager versions 3.0.11.3 and 3.0.11.5 contain vulnerabilities that may allow an attacker to execute arbitrary code. INFINITT Healthcare has remediated the issues in System Manager versions 3.0.12.3 and 3.0.12.5. Description INFINITT PACS is an enterprise web-based medical imaging platform that stores, retri\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/203719"
+    ]
+  },
+  {
+    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+    "published_wib": "2026-11-02T22:03:07+07:00",
+    "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/"
+    ]
+  },
+  {
+    "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+    "published_wib": "2026-11-02T21:52:05+07:00",
+    "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#;xa0;CVE-2026-98432)",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33482"
+    ]
+  }
+]

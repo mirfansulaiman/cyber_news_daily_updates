@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+    "published_wib": "2026-11-03T09:00:02+07:00",
+    "summary": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33484"
+    ]
+  },
+  {
+    "title": "Cops bust botnet of 1.3M infected Android TV boxes",
+    "published_wib": "2026-11-03T02:03:31+07:00",
+    "summary": "Videostrong accused of shipping devices with a backdoor baked in",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045"
+    ]
+  },
+  {
+    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+    "published_wib": "2026-11-03T01:16:34+07:00",
+    "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+    "published_wib": "2026-11-02T23:57:56+07:00",
+    "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding n\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html"
+    ]
+  },
+  {
+    "title": "Google disrupts XCPE botnet, bans the company behind it",
+    "published_wib": "2026-11-02T22:50:46+07:00",
+    "summary": "Google shut down the servers behind XCPE, a backdoor hidden in the firmware of Android TV set-top boxes. Google\u2019s Threat Intelligence Group attributes the operation with high confidence to Videostrong Technology, the company that manufactured many of those boxes. More than 1.3 million devices were enrolled. XCPE malware overview (Source: Google) Access The\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/02/xcpe-botnet-android-backdoor/"
+    ]
+  },
+  {
+    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+    "published_wib": "2026-11-02T22:50:26+07:00",
+    "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traf\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
+    ]
+  },
+  {
+    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+    "published_wib": "2026-11-02T21:46:05+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional co\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
+    ]
+  },
+  {
+    "title": "Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign",
+    "published_wib": "2026-11-02T21:00:00+07:00",
+    "summary": "Bitter used three infection chains against South and Southeast Asian targets, one with no malware executable",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/paprat-bitter-cyberespionage/"
+    ]
+  },
+  {
+    "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+    "published_wib": "2026-11-02T21:00:00+07:00",
+    "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia"
+    ]
+  },
+  {
+    "title": "it-sa 2026 Recap: Key Trends Shaping Security Operations",
+    "published_wib": "2026-11-02T19:12:32+07:00",
+    "summary": "From October 27 to 29, the ANY.RUN team joined it-sa 2026 in Nuremberg, meeting customers, partners, SOC and MSSP teams, and cybersecurity professionals from across Europe. Three days of conversations gave us a valuable opportunity to hear what security teams are focused on today, exchange ideas about evolving security operations, and discuss how malware an\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/it-sa-2026-recap/"
+    ]
+  }
+]

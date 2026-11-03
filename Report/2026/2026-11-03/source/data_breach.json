@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "published_wib": "2026-11-03T09:24:31+07:00",
+    "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to mor\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
+    ]
+  },
+  {
+    "title": "Synology warns of C3RB3R ransomware targeting outdated NAS devices",
+    "published_wib": "2026-11-03T07:32:14+07:00",
+    "summary": "As outlined in Bleeping Computer, Synology has issued an urgent warning to customers regarding a surge in C3RB3R ransomware attacks targeting its network-attached storage devices.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/synology-warns-of-c3rb3r-ransomware-targeting-outdated-nas-devices"
+    ]
+  },
+  {
+    "title": "Massive AT&T data breach exposes customer call logs",
+    "published_wib": "2026-11-03T07:26:52+07:00",
+    "summary": "A significant data breach at AT&T in 2024 exposed the communication logs of 109 million customers, highlighting the risks associated with long-term data retention by telecommunications providers, according to a recent report by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/massive-att-data-breach-exposes-customer-call-logs"
+    ]
+  },
+  {
+    "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+    "published_wib": "2026-11-03T06:00:45+07:00",
+    "summary": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/"
+    ]
+  },
+  {
+    "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+    "published_wib": "2026-11-03T05:27:24+07:00",
+    "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths"
+    ]
+  },
+  {
+    "title": "2nd November \u2013 Threat Intelligence Report",
+    "published_wib": "2026-11-02T22:57:23+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 2nd November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Binance, a global cryptocurrency exchange, has suffered a cyberattack resulting in the theft of approximately $6.3 billion in digital assets. Attackers reportedly compromised a DevOps engineer\u2019s laptop and abu\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+    "published_wib": "2026-11-02T22:01:11+07:00",
+    "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/"
+    ]
+  },
+  {
+    "title": "AI-powered infostealer picks out the most profitable parts of your stolen data",
+    "published_wib": "2026-11-02T21:47:57+07:00",
+    "summary": "A new Windows infostealer sends the data it steals to an AI model and asks it to rank the victim\u2019s assets by how much money they could bring in, Cisco Talos has found. \u201cThere is a new idea in the cybercrime world \u2014 cast a wide net, steal everything, and let AI sort out the specifics,\u201d said Ryan Fetterman, a security researcher at Cisco. The malware calls it\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/02/ai-powered-infostealer-volta-victim-profiling/"
+    ]
+  },
+  {
+    "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+    "published_wib": "2026-11-02T21:44:18+07:00",
+    "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/"
+    ]
+  },
+  {
+    "title": "Revolve Data Breach Impacts at Least 180,000 People",
+    "published_wib": "2026-11-02T20:35:21+07:00",
+    "summary": "Hackers accessed its online shopping platform and stole customers\u2019 personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/"
+    ]
+  }
+]
