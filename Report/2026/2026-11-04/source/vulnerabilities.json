@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Critical Langflow flaws enable authentication bypass and RCE",
+    "published_wib": "2026-11-04T06:09:01+07:00",
+    "summary": "IBM patched critical vulnerabilities in Langflow, an open-source framework for building AI agents, LLM-powered workflows, and retrieval-augmented generation (RAG) systems. The flaws could allow attackers to bypass authentication, leak API credentials, and execute arbitrary code. Langflow, now owned by IBM, is popular in enterprise environments because it of\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4244226/critical-langflow-flaws-enable-authentication-bypass-and-rce.html"
+    ]
+  },
+  {
+    "title": "Barracuda Networks issues patches for critical security vulnerabilities",
+    "published_wib": "2026-11-04T06:08:55+07:00",
+    "summary": "Bleeping Computer reports that Barracuda Networks has issued an urgent warning to customers regarding two security vulnerabilities that could allow unauthorized attackers to execute commands with root privileges on various appliances.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/barracuda-networks-issues-patches-for-critical-security-vulnerabilities"
+    ]
+  },
+  {
+    "title": "UK organisations warned to brace for AI-powered ransomware attacks",
+    "published_wib": "2026-11-04T01:53:08+07:00",
+    "summary": "AI-powered malware is \u201chighly likely\u201d to be used in ransomware attacks on Britain\u2019s critical national infrastructure within the next two years. The head of GCHQ\u2019s National Cyber Security Centre, Dr. Richard Horne, warned that abuse of AI technologies is making it much easier for attackers to rapidly expose and exploit long-neglected security weaknesses. Dr.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4244138/uk-organisations-warned-to-brace-for-ai-powered-ransomware-attacks.html"
+    ]
+  },
+  {
+    "title": "FedRAMP Authorization Is the Easy Part: How to Stay Authorized with Qualys Policy Audit",
+    "published_wib": "2026-11-03T23:05:12+07:00",
+    "summary": "Key Takeaways FedRAMP authorization isn\u2019t the finish line. Providers are expected to keep monitoring their security posture and give federal agencies the information they need for ongoing, risk-based decisions. CISA\u2019s BOD 26-04, issued on June 10, 2026, moves federal vulnerability management toward risk-based prioritization instead of a single fixed deadlin\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/11/03/fedramp-authorization-is-the-easy-part-how-to-stay-authorized-with-qualys-policy-audit"
+    ]
+  },
+  {
+    "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+    "published_wib": "2026-11-03T22:59:19+07:00",
+    "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html"
+    ]
+  },
+  {
+    "title": "VU#124705: BaseChat \u2013 Audio Dating App, Android version 9.8.1, contains multiple vulnerabilities",
+    "published_wib": "2026-11-03T22:42:35.704372+07:00",
+    "summary": "Overview Multiple vulnerabilities have been identified in the Android application, BaseChat \u2013 Audio Dating App, version 9.8.1, which ultimately compromise the privacy of users\u2019 personal data and activity. Description BaseChat is an online dating platform built in Flutter and targeted toward users over 18. It facilitates anonymous, voice-first interaction be\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/124705"
+    ]
+  },
+  {
+    "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
+    "published_wib": "2026-11-03T22:35:50+07:00",
+    "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise"
+    ]
+  },
+  {
+    "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+    "published_wib": "2026-11-03T22:16:32+07:00",
+    "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html"
+    ]
+  },
+  {
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "published_wib": "2026-11-03T22:06:16+07:00",
+    "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/"
+    ]
+  },
+  {
+    "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+    "published_wib": "2026-11-03T21:32:38+07:00",
+    "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/"
+    ]
+  }
+]
