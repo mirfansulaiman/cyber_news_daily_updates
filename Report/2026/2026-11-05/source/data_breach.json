@@ -1,0 +1,102 @@
+[
+  {
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "published_wib": "2026-11-05T02:05:19+07:00",
+    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
+    ]
+  },
+  {
+    "title": "US charges two Canadians accused of hacking US universities",
+    "published_wib": "2026-11-04T20:13:20+07:00",
+    "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/"
+    ]
+  },
+  {
+    "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
+    "published_wib": "2026-11-04T19:43:20+07:00",
+    "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/"
+    ]
+  },
+  {
+    "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
+    "published_wib": "2026-11-04T19:27:58+07:00",
+    "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/"
+    ]
+  },
+  {
+    "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
+    "published_wib": "2026-11-04T19:00:00+07:00",
+    "summary": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/"
+    ]
+  },
+  {
+    "title": "Fake job interview opened the door to $6.34 billion Binance heist",
+    "published_wib": "2026-11-04T17:29:48+07:00",
+    "summary": "A tampered software installer and a fake job interview gave attackers the access they needed to steal about $6.34 billion in digital assets from Binance. \u201cIt was not a single isolated breach or a simple phishing incident,\u201d Binance wrote in its incident report. \u201cThe attackers combined a range of techniques, including social engineering by fake recruitment in\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+    "published_wib": "2026-11-04T15:17:11+07:00",
+    "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspec\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+    "published_wib": "2026-11-04T09:00:00+07:00",
+    "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach"
+    ]
+  },
+  {
+    "title": "[+24h Old] North Korean fake job interview led to $6.3B Binance heist",
+    "published_wib": "2026-11-04T05:04:45+07:00",
+    "summary": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+    ]
+  },
+  {
+    "title": "[+24h Old] Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+    "published_wib": "2026-11-04T04:57:12+07:00",
+    "summary": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud"
+    ]
+  }
+]

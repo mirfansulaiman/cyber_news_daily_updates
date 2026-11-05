@@ -1,0 +1,102 @@
+[
+  {
+    "title": "SonicWall warns of unpatched vulnerabilities in end-of-life management software",
+    "published_wib": "2026-11-05T08:19:43+07:00",
+    "summary": "In a report by Bleeping Computer, SonicWall has issued a warning regarding two critical security vulnerabilities affecting its Global Management System, or GMS, which has reached its end-of-life status.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/sonicwall-warns-of-unpatched-vulnerabilities-in-end-of-life-management-software"
+    ]
+  },
+  {
+    "title": "Texas A&M develops sovereign AI platform for research",
+    "published_wib": "2026-11-05T08:16:40+07:00",
+    "summary": "As noted by Silicon Angle, university research labs are increasingly prioritizing sovereign AI to maintain control over data, models and computing resources. This shift is essential for institutions balancing open education with sensitive federal research requirements.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/texas-am-develops-sovereign-ai-platform-for-research"
+    ]
+  },
+  {
+    "title": "Vercel rolls out new protection against stolen session cookie attacks",
+    "published_wib": "2026-11-05T04:31:18+07:00",
+    "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/"
+    ]
+  },
+  {
+    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "published_wib": "2026-11-05T03:58:19+07:00",
+    "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/"
+    ]
+  },
+  {
+    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    "published_wib": "2026-11-05T00:00:38+07:00",
+    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+    ]
+  },
+  {
+    "title": "Cloud Agent, now in a Container: Host Security for Nodes You Can\u2019t Touch",
+    "published_wib": "2026-11-04T23:00:00+07:00",
+    "summary": "A single container image that brings Vulnerability Management and Policy Audit to every Kubernetes node, on immutable and mutable Linux alike, deployed the way your container workloads already are. Key Takeaways The Qualys Cloud Agent is now available as a container image on Docker Hub, bringing host-based Vulnerability Management and Policy Audit to every\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/11/04/cloud-agent-now-in-a-container-host-security-for-nodes-you-cant-touch"
+    ]
+  },
+  {
+    "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+    "published_wib": "2026-11-04T21:42:25+07:00",
+    "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/"
+    ]
+  },
+  {
+    "title": "Russian hackers target iOS and Android users with n-day exploits",
+    "published_wib": "2026-11-04T21:38:37+07:00",
+    "summary": "Russia\u2019s APT29 has been using compromised websites, lookalike domains and a hijacked web analytics service to target iOS and Android users with exploits for patched flaws and steal their cookies, messages and Wi-Fi passwords, according to Sekoia. APT29 watering holes target mobile devices with n-day exploits (Source: Sekoia) The company\u2019s Threat Detection &\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/04/apt29-watering-hole-mobile-devices-n-day-exploits/"
+    ]
+  },
+  {
+    "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+    "published_wib": "2026-11-04T21:24:54+07:00",
+    "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda\u2019s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/"
+    ]
+  },
+  {
+    "title": "Live Q&A: CISSP exam prep with ISC2 experts",
+    "published_wib": "2026-11-04T21:00:31+07:00",
+    "summary": "Join ISC2 on November 6, 2026 at 7:00pm CET for a live Q&A about the CISSP exam. A panel of experts will answer your questions, explain what it takes to earn the certification, and walk through the exam domains. You\u2019ll also learn about self-study resources and training options to help you prepare for exam day. You\u2019ll learn: How CISSP builds your end-to-end\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Russian state-backed hackers launch mobile cyberespionage campaign
+- Operation CloudFire: phishing campaign targets corporate Google sessions
+- SonicWall warns of unpatched vulnerabilities in end-of-life management software
+- Texas A&M develops sovereign AI platform for research
+- Vercel rolls out new protection against stolen session cookie attacks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Russian state-backed hackers launch mobile cyberespionage campaign. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by SonicWall warns of unpatched vulnerabilities in end-of-life management software. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by DreamHost confirms data breach exposed FTP logins and webmail sessions. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
