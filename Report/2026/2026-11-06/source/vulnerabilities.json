@@ -1,0 +1,102 @@
+[
+  {
+    "title": "OpenSSH flaw lets attackers access password-disabled accounts on some Linux systems",
+    "published_wib": "2026-11-06T08:10:08+07:00",
+    "summary": "A critical vulnerability that affects OpenSSH servers on Linux systems built with the musl C library instead of glibc allows remote attackers to easily bypass authentication and log into accounts that should have password authentication disabled. The flaw impacts the lightweight Alpine Linux, which is widely used for cloud Docker container images, as well a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4245407/openssh-flaw-lets-attackers-access-password-disabled-accounts-on-some-linux-systems.html"
+    ]
+  },
+  {
+    "title": "Android devices vulnerable to ghostmap boot loop attack",
+    "published_wib": "2026-11-06T05:42:02+07:00",
+    "summary": "Android devices are susceptible to a denial-of-service vulnerability known as GhostMap that can force smartphones into a continuous boot loop.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/android-devices-vulnerable-to-ghostmap-boot-loop-attack"
+    ]
+  },
+  {
+    "title": "Security vulnerability discovered in OpenSSH on musl-based Linux systems",
+    "published_wib": "2026-11-06T05:41:48+07:00",
+    "summary": "As outlined in The Register, a security vulnerability dubbed *sshole allows attackers to gain root access on certain Linux systems by entering a password longer than 256 bytes.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/security-vulnerability-discovered-in-openssh-on-musl-based-linux-systems"
+    ]
+  },
+  {
+    "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
+    "published_wib": "2026-11-06T02:21:56+07:00",
+    "summary": "AWS Identity and Access Management (IAM) is introducing account access manager, a flexible new way to manage workforce access to your Amazon Web Services (AWS) accounts. This combines the IAM role flexibility your teams already rely on, delivered through the centralized federation of AWS IAM Identity Center, with user-level visibility built-in. Account acce\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/"
+    ]
+  },
+  {
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "published_wib": "2026-11-06T01:29:00+07:00",
+    "summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+    ]
+  },
+  {
+    "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+    "published_wib": "2026-11-06T01:03:00+07:00",
+    "summary": "Agentic 'on-path attack' went after Chainalysis's tools, which are routinely called upon to assist police investigations",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+    ]
+  },
+  {
+    "title": "OpenAI built an AI pipeline to find, exploit and patch Linux flaws",
+    "published_wib": "2026-11-06T00:48:04+07:00",
+    "summary": "OpenAI has developed an autonomous AI pipeline that can identify software vulnerabilities, develop working exploits to validate their impact and generate patches for human review. In an October experiment targeting the Linux kernel, the pipeline created exploits for 948 distinct local privilege-escalation (LPE) vulnerabilities at a total API cost of $1.2 mi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4245265/openai-built-an-ai-pipeline-to-find-exploit-and-patch-linux-flaws.html"
+    ]
+  },
+  {
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "published_wib": "2026-11-06T00:45:29+07:00",
+    "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
+    ]
+  },
+  {
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+    "published_wib": "2026-11-06T00:32:37+07:00",
+    "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/"
+    ]
+  },
+  {
+    "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+    "published_wib": "2026-11-06T00:22:06+07:00",
+    "summary": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple AI agents that plan tests, run security tools, and record evidence of potential vulnerabilities. Its web dashboard bring\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/"
+    ]
+  }
+]

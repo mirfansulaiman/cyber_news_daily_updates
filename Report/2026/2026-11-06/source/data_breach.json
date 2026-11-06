@@ -1,0 +1,102 @@
+[
+  {
+    "title": "DigiCert reports data breach following server migration error",
+    "published_wib": "2026-11-06T05:43:11+07:00",
+    "summary": "DigiCert suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents, according to a recent report by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/digicert-reports-data-breach-following-server-migration-error"
+    ]
+  },
+  {
+    "title": "Bristol schools data breach leads to online leak of 320,000 files",
+    "published_wib": "2026-11-06T05:34:50+07:00",
+    "summary": "As detailed in Tech Radar, a significant cyberattack targeting the Bristol school network has resulted in the unauthorized release of over 320,000 stolen files on the dark web.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/bristol-schools-data-breach-leads-to-online-leak-of-320000-files"
+    ]
+  },
+  {
+    "title": "French banking group hit by supply chain cyberattack",
+    "published_wib": "2026-11-06T05:21:16+07:00",
+    "summary": "French regional banking group Cr\u00e9dit Mutuel Ark\u00e9a admitted Wednesday that attackers had accessed an internal account via an unnamed third-party service provider\u2019s platform and transferred funds to other financial institutions. Those funds, it said, could have then been potentially converted to cryptocurrency by the thieves. The day before, cryptocurrency ne\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4245357/french-banking-group-hit-by-supply-chain-cyberattack.html"
+    ]
+  },
+  {
+    "title": "Phone return scams: where a real delivery and a fake return end up in a bill for you",
+    "published_wib": "2026-11-06T05:18:22+07:00",
+    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals gets a phone and you get billed.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you"
+    ]
+  },
+  {
+    "title": "Scammers use AI-generated images of missing pets to extort owners",
+    "published_wib": "2026-11-06T04:34:14+07:00",
+    "summary": "Scammers are using AI images to enhance their \"I've found your missing pet and want money to return it to you\" schemes.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/11/scammers-use-ai-generated-images-of-missing-pets-to-extort-owners"
+    ]
+  },
+  {
+    "title": "DigiCert data breach exposes customer information, identity documents",
+    "published_wib": "2026-11-05T23:12:46+07:00",
+    "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/"
+    ]
+  },
+  {
+    "title": "Scammers capitalize on GTA 6 hype to push malware and crypto cons",
+    "published_wib": "2026-11-05T18:41:50+07:00",
+    "summary": "Scammers are offering supposed leaked builds, early copies and phone versions of Grand Theft Auto VI (GTA 6) weeks before the game\u2019s November 19 launch, Netcraft warned in a new blog post. The company looked at GTA VI-themed domains that appeared between July 1 and October 27, 2026. Most of the lures fell into four groups, with sites borrowing the name of p\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/05/gta-6-scams-fake-leaks-early-access/"
+    ]
+  },
+  {
+    "title": "Norway's aid agency pwned and all users' data is stolen",
+    "published_wib": "2026-11-05T18:19:16+07:00",
+    "summary": "Norad said it cannot be sure that the details of those in 'conflict areas and authoritarian states' are safe or not",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765"
+    ]
+  },
+  {
+    "title": "[+24h Old] Building incident playbooks for machine identity breaches",
+    "published_wib": "2026-11-05T16:00:00+07:00",
+    "summary": "Pull up your SOC\u2019s compromised account playbook and read through the first 15 minutes. Most SOCs begin their response by calling or messaging the user via Teams to ask whether the 2:00 am sign-in from an unfamiliar country was indeed them. Their subsequent actions depend upon what the user responds with. Try that with a service account, and you\u2019ll be waitin\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4244632/building-incident-playbooks-for-machine-identity-breaches.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "published_wib": "2026-11-05T02:05:19+07:00",
+    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+    "published_wib": "2026-11-06T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33494"
+    ]
+  },
+  {
+    "title": "New CWPdoor malware targets Linux servers via Control Web Panel",
+    "published_wib": "2026-11-06T05:53:16+07:00",
+    "summary": "CWPdoor is a stealthy Linux malware strain currently targeting the Control Web Panel management interface by replacing the legitimate cwpsrv binary with a malicious version, as first reported by Bleeping Computer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/new-cwpdoor-malware-targets-linux-servers-via-control-web-panel"
+    ]
+  },
+  {
+    "title": "Binance heist is stark example of AI governance gaps and basic security failures",
+    "published_wib": "2026-11-06T04:57:37+07:00",
+    "summary": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html"
+    ]
+  },
+  {
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "published_wib": "2026-11-06T04:30:30+07:00",
+    "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    ]
+  },
+  {
+    "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+    "published_wib": "2026-11-06T04:00:47+07:00",
+    "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds"
+    ]
+  },
+  {
+    "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+    "published_wib": "2026-11-06T03:05:39+07:00",
+    "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users"
+    ]
+  },
+  {
+    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+    "published_wib": "2026-11-05T23:24:26+07:00",
+    "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/"
+    ]
+  },
+  {
+    "title": "Email threat landscape: Q3 2026 trends and insights",
+    "published_wib": "2026-11-05T23:00:00+07:00",
+    "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July \u2013 September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides. The post Email threat landscape: Q3 2026\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/"
+    ]
+  },
+  {
+    "title": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
+    "published_wib": "2026-11-05T21:37:00+07:00",
+    "summary": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless Device Bound Session Credentials is a security technology designed to limit the consequences of an inf\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/"
+    ]
+  },
+  {
+    "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+    "published_wib": "2026-11-05T21:00:11+07:00",
+    "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction Earlier this year, Check Point Research disclosed a security flaw in ChatGPT\u2019s code-execution runtime that allowed sensitive conversation data to be silently exfiltrated to an attacker-controlled server through DNS tunneling, a hidden outbound channel that bypassed the runtime\u2019s network isolation. A f\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/"
+    ]
+  }
+]
