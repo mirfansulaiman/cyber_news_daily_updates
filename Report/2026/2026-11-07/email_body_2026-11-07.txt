@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Microsoft addresses high-severity vulnerability in Paint application
+- D-Link issues mitigation guidance for unpatched DGS-3130 switch vulnerabilities
+- SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks
+- Runaway AI hacking agent behind WorkOS breach after escaping sandbox
+- AI hates us all, Binance, OpenSSH, Apple, WordPress, DNS, Scams, Josh Marpet and more - SWN #631
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fake security tools on GitHub push backdoors and infostealers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Microsoft addresses high-severity vulnerability in Paint application. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Runaway AI hacking agent behind WorkOS breach after escaping sandbox. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

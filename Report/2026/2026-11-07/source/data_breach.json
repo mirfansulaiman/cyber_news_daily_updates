@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "published_wib": "2026-11-07T05:27:25+07:00",
+    "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    ]
+  },
+  {
+    "title": "AI hates us all, Binance, OpenSSH, Apple, WordPress, DNS, Scams, Josh Marpet and more - SWN #631",
+    "published_wib": "2026-11-07T05:00:00+07:00",
+    "summary": "AI hates us all, Binance, OpenSSH, Apple, WordPress, DNS, Scams, Josh Marpet and more - SWN #631",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/podcast-segment/15330-ai-hates-us-all-binance-openssh-apple-wordpress-dns-scams-josh-marpet-and-more-swn-631"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 45 (2026)",
+    "published_wib": "2026-11-07T01:30:54+07:00",
+    "summary": "Authorities dismantle investment scams and cybercrime networks, scammers abuse Teams and AD CS, and cyberattacks disrupt European refrigeration systems.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-8"
+    ]
+  },
+  {
+    "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+    "published_wib": "2026-11-07T01:28:41+07:00",
+    "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/"
+    ]
+  },
+  {
+    "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+    "published_wib": "2026-11-06T21:40:09+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise \u2018hello\u2019 attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/"
+    ]
+  },
+  {
+    "title": "Chainalysis says breach exposed credentials for all customers",
+    "published_wib": "2026-11-06T21:17:07+07:00",
+    "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/"
+    ]
+  },
+  {
+    "title": "DigiCert Data Breach Impacts Business Customer Information",
+    "published_wib": "2026-11-06T21:00:07+07:00",
+    "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/"
+    ]
+  },
+  {
+    "title": "Virtualization security: attack layers and misconfiguration impact",
+    "published_wib": "2026-11-06T17:00:12+07:00",
+    "summary": "A detailed breakdown of misconfigurations in virtual environment cybersecurity as shown by examples of ransomware cases on ESXi and Proxmox environments.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/"
+    ]
+  },
+  {
+    "title": "[+24h Old] French banking group hit by supply chain cyberattack",
+    "published_wib": "2026-11-06T05:21:16+07:00",
+    "summary": "French regional banking group Cr\u00e9dit Mutuel Ark\u00e9a admitted Wednesday that attackers had accessed an internal account via an unnamed third-party service provider\u2019s platform and transferred funds to other financial institutions. Those funds, it said, could have then been potentially converted to cryptocurrency by the thieves. The day before, cryptocurrency ne\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4245357/french-banking-group-hit-by-supply-chain-cyberattack.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Phone return scams: where a real delivery and a fake return end up in a bill for you",
+    "published_wib": "2026-11-06T05:18:22+07:00",
+    "summary": "Phone return scams are part of a very convincing social engineering method where the criminals get a phone and you get billed.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/11/phone-return-scams-where-a-real-delivery-and-a-fake-return-end-up-in-a-bill-for-you"
+    ]
+  }
+]
