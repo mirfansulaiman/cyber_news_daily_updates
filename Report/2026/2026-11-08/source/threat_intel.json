@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[+24h Old] Fake security tools on GitHub push backdoors and infostealers",
+    "published_wib": "2026-11-07T01:46:52+07:00",
+    "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Why Europe's Freezer Hacks Spread So Far, So Fast",
+    "published_wib": "2026-11-06T21:00:00+07:00",
+    "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast"
+    ]
+  },
+  {
+    "title": "[+24h Old] ARTEX Offensive AI Tool Activity Far Exceeds Reported Campaigns, Censys Finds",
+    "published_wib": "2026-11-06T20:00:00+07:00",
+    "summary": "A new Censys report showed that the use of ARTEX, an AI pentesting tool popular with threat actor, could be spreading far beyond initially reported campaigns",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/artex-activity-exceeds-reported/"
+    ]
+  },
+  {
+    "title": "[+48h Old] Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "published_wib": "2026-11-06T12:58:54+07:00",
+    "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the atta\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Rental phishing sites use live chat to win over hesitant travelers",
+    "published_wib": "2026-11-06T12:00:41+07:00",
+    "summary": "Holiday travelers looking for a place to stay are landing on copies of popular rental platforms, complete with host names, ratings and reviews, that ask for their passwords, personal details and credit card numbers. The sites, spotted and taken down by Fortra\u2019s Intelligence and Research Experts (FIRE) team, rely on familiar branding, copied property listing\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/"
+    ]
+  },
+  {
+    "title": "[+48h Old] ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+    "published_wib": "2026-11-06T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33494"
+    ]
+  },
+  {
+    "title": "[+48h Old] Binance heist is stark example of AI governance gaps and basic security failures",
+    "published_wib": "2026-11-06T04:57:37+07:00",
+    "summary": "A chain of avoidable technical and human security failures enabled the largest crypto heist on record, the theft of approximately $6.34 billion from Binance\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "published_wib": "2026-11-06T04:30:30+07:00",
+    "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    ]
+  },
+  {
+    "title": "[+48h Old] What We Missed: Knicks Phishing Test Goes Out of Bounds",
+    "published_wib": "2026-11-06T04:00:47+07:00",
+    "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds"
+    ]
+  },
+  {
+    "title": "[+48h Old] APT29's Watering Holes Target Thousands of Mobile Users",
+    "published_wib": "2026-11-06T03:05:39+07:00",
+    "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users"
+    ]
+  }
+]

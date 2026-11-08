@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers pull off $133 million French bank heist via service provider
+- CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands
+- NHS breach helpline left staff carrying a 'significant emotional burden'
+- SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins
+- [+24h Old] Microsoft addresses high-severity vulnerability in Paint application
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fake security tools on GitHub push backdoors and infostealers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Hackers pull off $133 million French bank heist via service provider. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+    "published_wib": "2026-11-07T21:10:19+07:00",
+    "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+    ]
+  },
+  {
+    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "published_wib": "2026-11-07T17:16:23+07:00",
+    "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft addresses high-severity vulnerability in Paint application",
+    "published_wib": "2026-11-07T07:05:50+07:00",
+    "summary": "Microsoft has released a security update to resolve a high-severity vulnerability in the Paint application that could allow remote code execution, based on information published by Tech Radar.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/microsoft-addresses-high-severity-vulnerability-in-paint-application"
+    ]
+  },
+  {
+    "title": "[+24h Old] D-Link issues mitigation guidance for unpatched DGS-3130 switch vulnerabilities",
+    "published_wib": "2026-11-07T07:03:01+07:00",
+    "summary": "Reported by Bleeping Computer. D-Link has issued mitigation measures for multiple unpatched security flaws affecting its DGS-3130 series managed Gigabit stackable switches.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/d-link-issues-mitigation-guidance-for-unpatched-dgs-3130-switch-vulnerabilities"
+    ]
+  },
+  {
+    "title": "[+24h Old] SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "published_wib": "2026-11-07T07:00:55+07:00",
+    "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "published_wib": "2026-11-07T03:24:19+07:00",
+    "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+    ]
+  },
+  {
+    "title": "[+24h Old] QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "published_wib": "2026-11-07T00:04:23+07:00",
+    "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+    "published_wib": "2026-11-06T23:08:38+07:00",
+    "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher ad\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "published_wib": "2026-11-06T22:21:49+07:00",
+    "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Aut\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] A mole in the White House? Residential proxies are everywhere",
+    "published_wib": "2026-11-06T22:00:54+07:00",
+    "summary": "Residential proxies are often used by bad actors to hide the true source of internet traffic \u2014 and now one of them appears to have taken up residence in the White House. The Residential Proxy Observatory , set up by Layer3 Intel to monitor the threat of anonymized network activity, has identified proxy exit activity on one particular network, AS2650, which\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4245791/a-mole-in-the-white-house-residential-proxies-are-everywhere.html"
+    ]
+  }
+]
