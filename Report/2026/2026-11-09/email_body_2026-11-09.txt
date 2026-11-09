@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Three charged in $129 million deepfake fraud scheme
+- Royal Cornwall Hospitals NHS Trust review highlights impact of data breach
+- Brenner Base Tunnel SE confirms data breach as Everest group claims theft
+- Iris Ohyama discloses data breach affecting 7.7 million customers
+- British soldier court-martialed after phone security breach in Estonia
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Fake security tools on GitHub push backdoors and infostealers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th). prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Three charged in $129 million deepfake fraud scheme. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
