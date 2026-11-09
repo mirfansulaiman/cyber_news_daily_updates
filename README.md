@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 007 | 2026-11-08 09:00 WIB]
+## Today Updates: [Vol. 007 | 2026-11-09 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands and SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th) and Week in review: Refrigeration cyberattacks hit European retailers again, Patch Tuesday forecast. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
 Endpoint posture is also under pressure: Fake security tools on GitHub push backdoors and infostealers. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: NHS breach helpline left staff carrying a 'significant emotional burden'. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Royal Cornwall Hospitals NHS Trust review highlights impact of data breach. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-08/poster_2026-11-08_issue-007.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-09/poster_2026-11-09_issue-007.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-08/poster_vulnerabilities_2026-11-08_issue-007.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-09/poster_vulnerabilities_2026-11-09_issue-007.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-08/poster_threat-intel_2026-11-08_issue-007.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-09/poster_threat-intel_2026-11-09_issue-007.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-08/poster_data-breach_2026-11-08_issue-007.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-09/poster_data-breach_2026-11-09_issue-007.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-08/cyber_newsletter_2026-11-08.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-09/cyber_newsletter_2026-11-09.pdf
 
 <!-- DAILY_UPDATES_END -->
 
