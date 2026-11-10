@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "SonicWall releases patches for 7 flaws in its firewalls, most involving unauthenticated access and Microsoft\u2019s email security is unexpectedly blocking legitimate business mail. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "France blames Iran for supermarket hack meltdowns. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "York University discloses data breach affecting departmental forms. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-11-10",
+  "vol": "007"
+}

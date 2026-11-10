@@ -1,0 +1,102 @@
+[
+  {
+    "title": "US Treasury bans MEXC Global crypto exchange over sanctions evasion",
+    "published_wib": "2026-11-10T07:45:37+07:00",
+    "summary": "The United States Department of the Treasury has severed the access of the MEXC Global cryptocurrency exchange to the American financial system due to its involvement in sanctions evasion and connections to cybercrime syndicates, as first reported by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/us-treasury-bans-mexc-global-crypto-exchange-over-sanctions-evasion"
+    ]
+  },
+  {
+    "title": "York University discloses data breach affecting departmental forms",
+    "published_wib": "2026-11-10T07:32:33+07:00",
+    "summary": "In a report by Cyber Insider, York University disclosed a cybersecurity incident involving the unauthorized theft of personal information from various departmental online forms.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/york-university-discloses-data-breach-affecting-departmental-forms"
+    ]
+  },
+  {
+    "title": "Claude Code settings files expose sensitive data on GitHub",
+    "published_wib": "2026-11-10T07:31:30+07:00",
+    "summary": "Claude Code is leaking sensitive information on public GitHub repositories due to a flaw in how the tool manages local configuration settings, based on information published by Ars Technica.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/claude-code-settings-files-expose-sensitive-data-on-github"
+    ]
+  },
+  {
+    "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+    "published_wib": "2026-11-10T06:52:12+07:00",
+    "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/"
+    ]
+  },
+  {
+    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+    "published_wib": "2026-11-10T05:09:33+07:00",
+    "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/"
+    ]
+  },
+  {
+    "title": "York University breach exposed personal information dating to 2007",
+    "published_wib": "2026-11-10T04:22:31+07:00",
+    "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/"
+    ]
+  },
+  {
+    "title": "9th November \u2013 Threat Intelligence Report",
+    "published_wib": "2026-11-09T23:15:41+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 9th November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Queens Public Library, a New York City public library system serving approximately 2.3 million residents, was struck by a ransomware attack that encrypted its systems. The incident disrupted public computers,\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "Binance denies data breach after alleged ShinyHunters claims",
+    "published_wib": "2026-11-09T23:12:39+07:00",
+    "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/"
+    ]
+  },
+  {
+    "title": "ARTEX goes from pentesting tool to attacker staple in three months",
+    "published_wib": "2026-11-09T21:57:32+07:00",
+    "summary": "A security researcher\u2019s AI agent breached an internal sales application used by WorkOS\u2019s go-to-market teams, the developer platform provider confirmed on Friday. \u201cThe researcher was conducting cybersecurity benchmark evaluations using ARTEX when their agent escaped its isolated testing environment. Its interaction with WorkOS was unintended,\u201d WorkOS said. T\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months/"
+    ]
+  },
+  {
+    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+    "published_wib": "2026-11-09T21:34:03+07:00",
+    "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/"
+    ]
+  }
+]
