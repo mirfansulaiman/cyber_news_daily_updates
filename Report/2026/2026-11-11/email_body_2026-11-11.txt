@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- [remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution
+- Managed service providers face client trust challenges during ransomware recovery
+- Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty
+- Amplifon Americas discloses data breach affecting sensitive customer information
+- Critical authentication bypass vulnerability in Xen Orchestra under active exploitation
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Blind Eagle threat group launches new phishing campaign in Latin America. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by [remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Managed service providers face client trust challenges during ransomware recovery. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "[remote] Ruflo MCP Bridge 3.16.2 - Remote Code Execution",
+    "published_wib": "2026-11-11T07:00:00+07:00",
+    "summary": "Ruflo MCP Bridge 3.16.2 - Remote Code Execution",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.exploit-db.com/exploits/52705"
+    ]
+  },
+  {
+    "title": "Reduce alert fatigue by customizing threat detection features in Amazon GuardDuty",
+    "published_wib": "2026-11-11T06:04:52+07:00",
+    "summary": "The teams responsible for security today don\u2019t have a problem with the number of alerts they receive; they have a problem turning those alerts into something truly actionable. When an analyst concludes an investigation with \u201cthis was caused by our vulnerability scanner\u201d or \u201cthis account is configured to share Amazon Machine Images (AMIs) publicly on [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/"
+    ]
+  },
+  {
+    "title": "Critical authentication bypass vulnerability in Xen Orchestra under active exploitation",
+    "published_wib": "2026-11-11T05:54:21+07:00",
+    "summary": "A critical authentication bypass vulnerability in Xen Orchestra is currently being exploited in the wild, potentially granting unauthorized actors administrator privileges and full control over XCP-ng virtualization hosts, based on information published by Bleeping Computer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/critical-authentication-bypass-vulnerability-in-xen-orchestra-under-active-exploitation"
+    ]
+  },
+  {
+    "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+    "published_wib": "2026-11-11T05:37:01+07:00",
+    "summary": "Microsoft admins wail and gnash their teeth",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946"
+    ]
+  },
+  {
+    "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+    "published_wib": "2026-11-11T05:26:51+07:00",
+    "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves"
+    ]
+  },
+  {
+    "title": "UK military deploys cyber hunt forces to track adversaries overseas",
+    "published_wib": "2026-11-11T05:26:24+07:00",
+    "summary": "Reported by IT Pro. The United Kingdom military is deploying specialized cybersecurity hunt forces overseas to physically track and disrupt cyber criminals targeting British military systems.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/uk-military-deploys-cyber-hunt-forces-to-track-adversaries-overseas"
+    ]
+  },
+  {
+    "title": "N-able N-central gets emergency fix two days after 33 exploits published",
+    "published_wib": "2026-11-11T05:05:12+07:00",
+    "summary": "N-able has taken its hosted N-central remote monitoring and management (RMM) platform offline worldwide and shipped an emergency hotfix after a security researcher released 33 zero-day exploits for the software, including attack chains that could let unauthenticated attackers take over servers. N-central is used by managed service providers (MSPs) and enter\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html"
+    ]
+  },
+  {
+    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+    "published_wib": "2026-11-11T04:55:03+07:00",
+    "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+    "published_wib": "2026-11-11T04:01:14+07:00",
+    "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
+    ]
+  },
+  {
+    "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+    "published_wib": "2026-11-11T03:39:54+07:00",
+    "summary": "As the year approaches its final stretch, Microsoft\u2019s November 2026 Patch Tuesday highlights the continued importance of proactive vulnerability management. This month\u2019s security updates address vulnerabilities across the Microsoft ecosystem, reinforcing the need for organizations to promptly identify, prioritize, and remediate security risks. This month\u2019s\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/10/microsoft-patch-tuesday-november-2026-security-update-review"
+    ]
+  }
+]

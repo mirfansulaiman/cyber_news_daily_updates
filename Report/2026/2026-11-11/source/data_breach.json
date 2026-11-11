@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Managed service providers face client trust challenges during ransomware recovery",
+    "published_wib": "2026-11-11T06:05:02+07:00",
+    "summary": "Managed service providers often struggle to maintain client trust following ransomware attacks due to communication gaps and billing inconsistencies, based on information published by Bleeping Computer.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/managed-service-providers-face-client-trust-challenges-during-ransomware-recovery"
+    ]
+  },
+  {
+    "title": "Amplifon Americas discloses data breach affecting sensitive customer information",
+    "published_wib": "2026-11-11T06:00:59+07:00",
+    "summary": "Tech Radar reports that Amplifon Americas has disclosed a significant cyberattack resulting in the unauthorized exposure of sensitive personal, insurance and healthcare-related information.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/amplifon-americas-discloses-data-breach-affecting-sensitive-customer-information"
+    ]
+  },
+  {
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "published_wib": "2026-11-11T05:20:19+07:00",
+    "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+    ]
+  },
+  {
+    "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+    "published_wib": "2026-11-11T03:54:55+07:00",
+    "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/"
+    ]
+  },
+  {
+    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+    "published_wib": "2026-11-11T01:46:22+07:00",
+    "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github"
+    ]
+  },
+  {
+    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+    "published_wib": "2026-11-10T22:33:59+07:00",
+    "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthori\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html"
+    ]
+  },
+  {
+    "title": "Fireworks AI gets burned twice as customer data exposure widens",
+    "published_wib": "2026-11-10T22:28:00+07:00",
+    "summary": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+    ]
+  },
+  {
+    "title": "Ransomware recovery is now a client retention metric",
+    "published_wib": "2026-11-10T22:01:11+07:00",
+    "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/"
+    ]
+  },
+  {
+    "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+    "published_wib": "2026-11-10T20:00:00+07:00",
+    "summary": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687"
+    ]
+  },
+  {
+    "title": "Vanderbilt University Takes Systems Offline After Cyber Incident",
+    "published_wib": "2026-11-10T18:15:00+07:00",
+    "summary": "The BYOD ransomware group has claimed to have locked the university\u2019s databases and stolen sensitive data from its systems",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/vanderbilt-university-cyber/"
+    ]
+  }
+]

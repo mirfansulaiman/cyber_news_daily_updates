@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Blind Eagle threat group launches new phishing campaign in Latin America",
+    "published_wib": "2026-11-11T05:37:57+07:00",
+    "summary": "Blind Eagle, a threat actor also known as APT-C-36, has initiated a new cyberattack campaign targeting organizations across Latin America using judicial and administrative-themed phishing lures to distribute a remote access trojan, as first reported by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/blind-eagle-threat-group-launches-new-phishing-campaign-in-latin-america"
+    ]
+  },
+  {
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    "published_wib": "2026-11-11T00:43:23+07:00",
+    "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check Point Research is tracking the clusters un\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html"
+    ]
+  },
+  {
+    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
+    "published_wib": "2026-11-10T23:45:00+07:00",
+    "summary": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next app\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/"
+    ]
+  },
+  {
+    "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+    "published_wib": "2026-11-10T22:58:44+07:00",
+    "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscal\u00eda notice\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html"
+    ]
+  },
+  {
+    "title": "Not All That Glitters Is Gold: Tracking CopperDragon\u2019s Sparrow Framework Around the Globe",
+    "published_wib": "2026-11-10T21:01:14+07:00",
+    "summary": "Key Points Introduction Over the past year, Check Point Research investigated a series of intrusion campaigns targeting several dozens of high-profile organizations across Latin America, Asia, and Europe. These campaigns initially appeared to be independent operations, each using different backdoors, post-exploitation tools and operational pace. However, we\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/"
+    ]
+  },
+  {
+    "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+    "published_wib": "2026-11-10T20:27:44+07:00",
+    "summary": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "CISA tweaks cyber incident form to spot attacks that might be linked",
+    "published_wib": "2026-11-10T20:17:50+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its online incident reporting form to help analysts spot when attacks on different organizations may be part of the same campaign. The revised questionnaire asks more specific questions and removes duplicate ones. The form asks whether an incident involved malware, attempts to tric\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/"
+    ]
+  },
+  {
+    "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+    "published_wib": "2026-11-10T20:00:00+07:00",
+    "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/application-security/ai-reverse-engineering-apps"
+    ]
+  },
+  {
+    "title": "Formbook Targets European Manufacturing and Technology Businesses with Localized Order Lures",
+    "published_wib": "2026-11-10T19:40:37+07:00",
+    "summary": "European businesses, particularly in the UK and Italy, face malware campaigns that exploit routine business correspondence. A recent Formbook (now also known as XLoader) campaign uses localized order and procurement lures to deliver an information stealer. Manufacturing and technology companies are especially exposed because employees regularly handle purch\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/formbook-malware-analysis-november-2026/"
+    ]
+  },
+  {
+    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+    "published_wib": "2026-11-10T17:07:29+07:00",
+    "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html"
+    ]
+  }
+]
