@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill",
+    "published_wib": "2026-11-12T09:53:41+07:00",
+    "summary": "As AI model training and distillation increase, AI tokens are becoming a piping hot currency for threat actors. Cloud hosting provider Railway found out the hard way; it has confirmed a near 26-hour battle against attackers targeting AI provider credentials to sell to AI \u2018transfer stations\u2019 for use in model distillation. The crooks generated about $740,000\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4247578/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill.html"
+    ]
+  },
+  {
+    "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+    "published_wib": "2026-11-12T08:00:00+07:00",
+    "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry"
+    ]
+  },
+  {
+    "title": "Google releases open-source agent substrate for secure AI sandboxing",
+    "published_wib": "2026-11-12T06:41:03+07:00",
+    "summary": "As reported by Silicon Angle, Google LLC has introduced Agent Substrate, an open-source project designed to provide secure, efficient sandboxing for autonomous AI agents.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/google-releases-open-source-agent-substrate-for-secure-ai-sandboxing"
+    ]
+  },
+  {
+    "title": "CISA adds IBM, SignalWire, OpenSSH and GPUStack flaws to known exploited vulnerabilities catalog",
+    "published_wib": "2026-11-12T06:38:33+07:00",
+    "summary": "Coverage from Security Affairs indicates that the Cybersecurity and Infrastructure Security Agency has added four critical vulnerabilities to its Known Exploited Vulnerabilities catalog.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-ibm-signalwire-openssh-and-gpustack-flaws-to-known-exploited-vulnerabilities-catalog"
+    ]
+  },
+  {
+    "title": "Baker Tilly notifies clients of data breach at third-party provider",
+    "published_wib": "2026-11-12T06:01:31+07:00",
+    "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/"
+    ]
+  },
+  {
+    "title": "Attackers leverage AntiFox platform on Alibaba cloud to target aws environments",
+    "published_wib": "2026-11-12T05:56:17+07:00",
+    "summary": "Following insights from Bleeping Computer, security researchers have identified a growing trend of attackers utilizing Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to compromise web services and Amazon Web Services environments.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/attackers-leverage-antifox-platform-on-alibaba-cloud-to-target-aws-environments"
+    ]
+  },
+  {
+    "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+    "published_wib": "2026-11-12T03:05:18+07:00",
+    "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws"
+    ]
+  },
+  {
+    "title": "Cisco BroadWorks flaw added to CISA's exploited vulnerabilities list",
+    "published_wib": "2026-11-12T02:49:58+07:00",
+    "summary": "CISA confirms active exploitation of a Cisco BroadWorks flaw exposing sensitive telecom files.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisco-broadworks-flaw-added-to-cisas-exploited-vulnerabilities-list"
+    ]
+  },
+  {
+    "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+    "published_wib": "2026-11-12T02:49:57+07:00",
+    "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for stealthy C2 appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/"
+    ]
+  },
+  {
+    "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+    "published_wib": "2026-11-12T01:28:43+07:00",
+    "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microsoft Edge.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33508"
+    ]
+  }
+]

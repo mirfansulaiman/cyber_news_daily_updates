@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill
+- ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)
+- Chinese AI Project Scouts Spies in Taiwan Chip Industry
+- Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise
+- Google releases open-source agent substrate for secure AI sandboxing
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+    "published_wib": "2026-11-12T07:00:00+07:00",
+    "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches"
+    ]
+  },
+  {
+    "title": "Researchers link Qilin ransomware administrator to St. Petersburg man",
+    "published_wib": "2026-11-12T06:40:44+07:00",
+    "summary": "Per Krebs on Security, the cybercrime group Qilin has become the most active ransomware-as-a-service operation, with researchers identifying the group's administrator as a 36-year-old man residing in St. Petersburg, Russia.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/researchers-link-qilin-ransomware-administrator-to-st-petersburg-man"
+    ]
+  },
+  {
+    "title": "Japan faces rising cybersecurity threats to its national ID infrastructure",
+    "published_wib": "2026-11-12T06:29:01+07:00",
+    "summary": "Japan is grappling with a significant increase in data breaches targeting the ecosystem surrounding its My Number national identification system, according to a recent report by Biometric Update.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/japan-faces-rising-cybersecurity-threats-to-its-national-id-infrastructure"
+    ]
+  },
+  {
+    "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+    "published_wib": "2026-11-12T03:54:20+07:00",
+    "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+    ]
+  },
+  {
+    "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+    "published_wib": "2026-11-12T01:29:01+07:00",
+    "summary": "Vanderbilt University is restoring campus technology, but has not confirmed the attackers\u2019 claims of stolen student and employee data.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft"
+    ]
+  },
+  {
+    "title": "Who Runs the Ransomware Group Qilin?",
+    "published_wib": "2026-11-12T01:06:01+07:00",
+    "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/"
+    ]
+  },
+  {
+    "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+    "published_wib": "2026-11-11T23:24:18+07:00",
+    "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+    ]
+  },
+  {
+    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+    "published_wib": "2026-11-11T19:19:40+07:00",
+    "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
+    ]
+  },
+  {
+    "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",
+    "published_wib": "2026-11-11T17:00:25+07:00",
+    "summary": "We break down the Citrus Ransomware group's attacks: the attackers' TTPs and tooling, including VLESS traffic tunneling and LLM use, plus their links to Toy Ghouls.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://securelist.com/citrus-ransomware/121879/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Fingerprint trains specialized models to detect distinct fraud types",
+    "published_wib": "2026-11-11T16:12:57+07:00",
+    "summary": "Fingerprint has launched Fraud Score, a predictive fraud signal trained directly on customers\u2019 own fraud outcomes and powered by Fingerprint\u2019s device intelligence and machine learning models. Fraud Score learns the fraud types at each organization to help them identify fraud more accurately without having to build and maintain their own models. Basic risk s\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/"
+    ]
+  }
+]
