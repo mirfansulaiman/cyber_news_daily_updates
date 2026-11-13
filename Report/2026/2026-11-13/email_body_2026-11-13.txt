@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance
+- ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)
+- Open WebUI: the Windows installer mints the master key from the install second — CVE-2025-15603 was rejected; here is the measurement
+- AI Didn’t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.
+- APPLE-SA-11-12-2026-1 HomeView Software Version 27.2
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Open WebUI: the Windows installer mints the master key from the install second — CVE-2025-15603 was rejected; here is the measurement. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

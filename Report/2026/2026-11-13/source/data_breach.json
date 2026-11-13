@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+    "published_wib": "2026-11-13T09:28:21+07:00",
+    "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/"
+    ]
+  },
+  {
+    "title": "Notion discloses data exposure following security breach at AI vendor",
+    "published_wib": "2026-11-13T05:38:49+07:00",
+    "summary": "As noted by Bleeping Computer, the digital workspace platform Notion recently disclosed that a security breach at its AI infrastructure provider, Fireworks AI, resulted in the exposure of Notion AI chat transcripts within a limited number of workspaces.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/notion-discloses-data-exposure-following-security-breach-at-ai-vendor"
+    ]
+  },
+  {
+    "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+    "published_wib": "2026-11-13T03:09:41+07:00",
+    "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time"
+    ]
+  },
+  {
+    "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+    "published_wib": "2026-11-13T01:02:51+07:00",
+    "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is hel\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
+    ]
+  },
+  {
+    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+    "published_wib": "2026-11-12T21:36:47+07:00",
+    "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/"
+    ]
+  },
+  {
+    "title": "Stolen Claude API keys can turn Claude Code into a remote-controlled implant",
+    "published_wib": "2026-11-12T18:00:21+07:00",
+    "summary": "Darktrace researchers turned Claude Code into a remote-controlled implant in a lab test, steering the coding agent through the memory stores feature of Anthropic\u2019s Claude platform and pulling a 1 GB file out through the Claude Files API. Once the agent was set up, every job and every result traveled through api.anthropic.com, the endpoint the agent already\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/"
+    ]
+  },
+  {
+    "title": "Inside an AI Attack Against a US Retailer",
+    "published_wib": "2026-11-12T18:00:00+07:00",
+    "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
+    ]
+  },
+  {
+    "title": "Why scammers want you to allow push notifications",
+    "published_wib": "2026-11-12T17:52:57+07:00",
+    "summary": "Browser push notifications are a common nuisance, and they can make people think their device is infected with adware.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/mobile/2026/11/why-scammers-want-you-to-allow-notifications"
+    ]
+  },
+  {
+    "title": "Photos: IRISSCON 2026 cybercrime conference",
+    "published_wib": "2026-11-12T17:16:07+07:00",
+    "summary": "IRISSCON 2026, the annual cybercrime conference organized by IRISSCERT, took place at the Aviva Stadium in Dublin on November 11. The all-day event gives attendees a look at the cyber threats businesses are facing right now, along with practical advice on how organizations can respond to them. Help Net Security was there, and here\u2019s a look at the day. Visit\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/12/irisscon-2026-photos/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Maersk Reveals Data Breach as Extortion Group Demands $5m",
+    "published_wib": "2026-11-12T15:49:00+07:00",
+    "summary": "Maersk has revealed a threat actor extracted data from one of its legacy systems",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/"
+    ]
+  }
+]

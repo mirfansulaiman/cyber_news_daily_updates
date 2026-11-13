@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+    "published_wib": "2026-11-13T09:00:03+07:00",
+    "summary": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33516"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-12-2026-1 HomeView Software Version 27.2",
+    "published_wib": "2026-11-13T08:29:16+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-12-2026-1 HomeView Software Version 27.2 HomeView Software Version 27.2 addresses the following issues. Information about the security content is also available at https://support.apple.com/149851\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/33"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-9 visionOS 27.2.1",
+    "published_wib": "2026-11-13T08:29:15+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-9 visionOS 27.2.1 visionOS 27.2.1 addresses the following issues. Information about the security content is also available at https://support.apple.com/149724\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/32"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-8 watchOS 26.6.1",
+    "published_wib": "2026-11-13T08:29:13+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-8 watchOS 26.6.1 watchOS 26.6.1 addresses the following issues. Information about the security content is also available at https://support.apple.com/149723\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/31"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-7 watchOS 27.2.1",
+    "published_wib": "2026-11-13T08:29:12+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-7 watchOS 27.2.1 watchOS 27.2.1 addresses the following issues. Information about the security content is also available at https://support.apple.com/149722\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/30"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-6 macOS Sequoia 15.8.3",
+    "published_wib": "2026-11-13T08:29:11+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-6 macOS Sequoia 15.8.3 macOS Sequoia 15.8.3 addresses the following issues. Information about the security content is also available at https://support.apple.com/149720\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/29"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-5 macOS Tahoe 26.7.3",
+    "published_wib": "2026-11-13T08:29:08+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-5 macOS Tahoe 26.7.3 macOS Tahoe 26.7.3 addresses the following issues. Information about the security content is also available at https://support.apple.com/149719\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/28"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-4 macOS Golden Gate 27.2.1",
+    "published_wib": "2026-11-13T08:29:07+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-4 macOS Golden Gate 27.2.1 macOS Golden Gate 27.2.1 addresses the following issues. Information about the security content is also available at https://support.apple.com/149718\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/27"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12",
+    "published_wib": "2026-11-13T08:29:06+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-3 iOS 18.7.12 and iPadOS 18.7.12 iOS 18.7.12 and iPadOS 18.7.12 addresses the following issues. Information about the security content is also available at https://support.apple.com/149717\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/26"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3",
+    "published_wib": "2026-11-13T08:29:04+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-09-2026-2 iOS 26.7.3 and iPadOS 26.7.3 iOS 26.7.3 and iPadOS 26.7.3 addresses the following issues. Information about the security content is also available at https://support.apple.com/149716\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/25"
+    ]
+  }
+]
