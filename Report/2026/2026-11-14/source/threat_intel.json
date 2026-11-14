@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+    "published_wib": "2026-11-14T03:26:42+07:00",
+    "summary": "From Oct. 3 to Nov. 5, 2026, Amazon\u2019s MadPot, a globally distributed network of decoy threat sensors, captured requests from AI agents that included operating memory from offensive campaigns that threat actors ran on ARTEX, an open-source agentic AI penetration testing framework. The ARTEX agents sent these requests to MadPot sensors configured to present a\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/"
+    ]
+  },
+  {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "published_wib": "2026-11-14T02:26:07+07:00",
+    "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare\u2019s observations and recommended countermeasures.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/"
+    ]
+  },
+  {
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "published_wib": "2026-11-13T23:21:43+07:00",
+    "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+    ]
+  },
+  {
+    "title": "Fake GTA 6 download goes after Steam logins and crypto wallet data",
+    "published_wib": "2026-11-13T22:00:59+07:00",
+    "summary": "Cynet researchers followed a \u201cGTA 6 EXE file download\u201d link from a Google Colab notebook to a ZIP archive and found a WARDEN Stealer loader inside. The malware takes saved passwords, browser cookies, Steam and Roblox credentials, and cryptocurrency wallet data from the machine it runs on. A Google Colab notebook promotes a fake GTA 6 executable download (So\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/13/fake-gta-6-download-scam/"
+    ]
+  },
+  {
+    "title": "Quantum Systems drones back in the air after malware scare",
+    "published_wib": "2026-11-13T20:14:00+07:00",
+    "summary": "Germany's Bundeswehr lifted precautionary grounding after malicious update reportedly reached military servers",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658"
+    ]
+  },
+  {
+    "title": "Phishing Rises Three Times Faster in Europe Than Globally, Proofpoint Finds",
+    "published_wib": "2026-11-13T18:15:00+07:00",
+    "summary": "New Proofpoint research reveals phishing detections surged 4.5x across Europe year over year, compared with 1.5x globally",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/phishing-rises-faster-europe/"
+    ]
+  },
+  {
+    "title": "[+24h Old] How attackers turned a Teams meeting booking into a device code phishing trap",
+    "published_wib": "2026-11-13T13:15:48+07:00",
+    "summary": "Attackers used a fake Microsoft Teams meeting scheduler to trick an employee at a construction company into approving a device code sign-in. They got a valid session token before Huntress\u2019s security operations center identified the incident. Device code phishing abuses a real Microsoft sign-in flow. The attacker starts a sign-in, gets a short code back, and\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+    "published_wib": "2026-11-13T10:41:41+07:00",
+    "summary": "Introduction",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33518"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+    "published_wib": "2026-11-13T09:00:03+07:00",
+    "summary": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33516"
+    ]
+  },
+  {
+    "title": "[+24h Old] APPLE-SA-11-12-2026-1 HomeView Software Version 27.2",
+    "published_wib": "2026-11-13T08:29:16+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 12 APPLE-SA-11-12-2026-1 HomeView Software Version 27.2 HomeView Software Version 27.2 addresses the following issues. Information about the security content is also available at https://support.apple.com/149851\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/33"
+    ]
+  }
+]

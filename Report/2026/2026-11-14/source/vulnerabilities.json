@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
+    "published_wib": "2026-11-14T08:39:15+07:00",
+    "summary": "A firewall is intended to be a boundary attackers can\u2019t cross. But firewalls face the web, making them just as vulnerable to attack as other systems, as evidenced by the emergency hotfixes released by Check Point Software for several of its products. The patches address a high-severity privilege escalation flaw, CVE-2026-123039 , that gives attackers root p\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html"
+    ]
+  },
+  {
+    "title": "Unocoin investigates potential exploitation of multisignature wallet backup mechanism",
+    "published_wib": "2026-11-14T07:25:43+07:00",
+    "summary": "As noted by Coin Central, Indian cryptocurrency exchange Unocoin is investigating a potential exploitation of its multisignature wallet backup mechanism following a series of unauthorized blockchain transactions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/unocoin-investigates-potential-exploitation-of-multisignature-wallet-backup-mechanism"
+    ]
+  },
+  {
+    "title": "Cybersecurity threats escalate across Europe",
+    "published_wib": "2026-11-14T07:25:32+07:00",
+    "summary": "Cybersecurity threats are accelerating across Europe at a rate faster than anywhere else in the world, driven by a surge in email-borne attacks and sophisticated exploitation of artificial intelligence, according to a recent report by Tech Radar.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cybersecurity-threats-escalate-across-europe"
+    ]
+  },
+  {
+    "title": "How AI is changing the nature of cyberattacks",
+    "published_wib": "2026-11-14T02:02:39+07:00",
+    "summary": "AI may be helping cyberattackers increase the speed and scale of their operations, but it is not yet changing their core objectives or the techniques they employ as part of their attack chains. Phishing, malware, and vulnerability exploitation remain the main techniques in play even as abuse of AI tools has made attacks easier to mount and cheaper for even\u2026",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html"
+    ]
+  },
+  {
+    "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+    "published_wib": "2026-11-13T23:53:08+07:00",
+    "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run thi\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+    ]
+  },
+  {
+    "title": "Inside the loop: Five AI attack frameworks that never ask permission",
+    "published_wib": "2026-11-13T23:00:00+07:00",
+    "summary": "Five agentic offensive frameworks act in bursts of two to 25 seconds, and none enforces authorization in code. What ARTEX, CyberStrikeAI, Cairn, PentAGI, and HexStrike leave in your telemetry, and the ES|QL hunt that catches them.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex"
+    ]
+  },
+  {
+    "title": "November Patch Tuesday: How to Sort Through the Patches",
+    "published_wib": "2026-11-13T22:23:43+07:00",
+    "summary": "Key Takeaways At 1,252 CVEs this month, \u201cpatch everything now\u201d isn\u2019t a plan; teams need to decide what to patch first, what to test, and what to mitigate. Know your exposure early: Qualys InstaScan flagged affected assets about 40 minutes before Microsoft\u2019s release notes page finished loading, with no new scan. Not every patch is [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/11/13/november-patch-tuesday-how-to-sort-through-the-patches"
+    ]
+  },
+  {
+    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+    "published_wib": "2026-11-13T22:20:00+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/"
+    ]
+  },
+  {
+    "title": "Microsoft 365 Outage Set to Ramp up Security Risks to Organizations",
+    "published_wib": "2026-11-13T19:29:00+07:00",
+    "summary": "While Microsoft resolves the global M365 and Outlook outage, cybersecurity teams remain on high alert as cybercriminals prepare to exploit the chaos",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/"
+    ]
+  },
+  {
+    "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+    "published_wib": "2026-11-13T19:20:28+07:00",
+    "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/"
+    ]
+  }
+]

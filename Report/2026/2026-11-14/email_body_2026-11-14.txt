@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- The firewall becomes the foothold: Attackers turn Check Point gateways against customers
+- Uber drivers impacted by data breach at third-party provider
+- Experts predict AI will revolutionize ransomware tactics by 2027
+- Unocoin investigates potential exploitation of multisignature wallet backup mechanism
+- Cybersecurity threats escalate across Europe
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by The firewall becomes the foothold: Attackers turn Check Point gateways against customers. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Uber drivers impacted by data breach at third-party provider. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
