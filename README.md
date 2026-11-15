@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 007 | 2026-11-14 09:00 WIB]
+## Today Updates: [Vol. 007 | 2026-11-15 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: The firewall becomes the foothold: Attackers turn Check Point gateways against customers and Unocoin investigates potential exploitation of multisignature wallet backup mechanism. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection and The firewall becomes the foothold: Attackers turn Check Point gateways against customers. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: US disrupts North Korean campaign behind $400 million crypto theft. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Uber drivers impacted by data breach at third-party provider. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Cursor confirms security breach led to malicious Claude Code extension. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-14/poster_2026-11-14_issue-007.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-15/poster_2026-11-15_issue-007.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-14/poster_vulnerabilities_2026-11-14_issue-007.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-15/poster_vulnerabilities_2026-11-15_issue-007.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-14/poster_threat-intel_2026-11-14_issue-007.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-15/poster_threat-intel_2026-11-15_issue-007.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-14/poster_data-breach_2026-11-14_issue-007.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-15/poster_data-breach_2026-11-15_issue-007.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-14/cyber_newsletter_2026-11-14.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-15/cyber_newsletter_2026-11-15.pdf
 
 <!-- DAILY_UPDATES_END -->
 
