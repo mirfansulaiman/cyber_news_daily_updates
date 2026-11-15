@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cursor confirms security breach led to malicious Claude Code extension
+- US disrupts North Korean campaign behind $400 million crypto theft
+- Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection
+- [+24h Old] The firewall becomes the foothold: Attackers turn Check Point gateways against customers
+- [+24h Old] Uber drivers impacted by data breach at third-party provider
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by US disrupts North Korean campaign behind $400 million crypto theft. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Cursor confirms security breach led to malicious Claude Code extension. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
