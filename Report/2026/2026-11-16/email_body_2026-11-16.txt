@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)
+- FBI warns ARTEX AI hacking tool is powering global cyberattacks
+- TSMC employee data breach linked to cloud provider
+- [+24h Old] Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant
+- [+24h Old] Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by FBI warns ARTEX AI hacking tool is powering global cyberattacks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
