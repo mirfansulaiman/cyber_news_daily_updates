@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware
+- ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)
+- LearnWorlds platform exploited to distribute phishing emails
+- Google Project Zero updates vulnerability disclosure policy
+- Security researcher identifies critical NoisyTCP vulnerability in Linux kernel
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Fandango Media reports data breach involving payment card information. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

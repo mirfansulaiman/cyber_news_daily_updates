@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "published_wib": "2026-11-17T09:12:17+07:00",
+    "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+    ]
+  },
+  {
+    "title": "LearnWorlds platform exploited to distribute phishing emails",
+    "published_wib": "2026-11-17T08:25:52+07:00",
+    "summary": "LearnWorlds, a software and learning course platform, recently faced a security incident where an attacker utilized automated tools to send 13,000 phishing emails to external recipients, based on information published by The Register.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/learnworlds-platform-exploited-to-distribute-phishing-emails"
+    ]
+  },
+  {
+    "title": "Google Project Zero updates vulnerability disclosure policy",
+    "published_wib": "2026-11-17T08:23:08+07:00",
+    "summary": "Following insights from Infosecurity Magazine, Google Project Zero has replaced its long-standing disclosure policy with a new framework titled Full X. This shift responds to the rapid increase in vulnerability discovery driven by artificial intelligence.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/google-project-zero-updates-vulnerability-disclosure-policy"
+    ]
+  },
+  {
+    "title": "Security researcher identifies critical NoisyTCP vulnerability in Linux kernel",
+    "published_wib": "2026-11-17T08:15:59+07:00",
+    "summary": "A critical Linux kernel vulnerability known as NoisyTCP allows remote attackers to crash servers without requiring authentication, based on information published by The Register.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/security-researcher-identifies-critical-noisytcp-vulnerability-in-linux-kernel"
+    ]
+  },
+  {
+    "title": "Ensuring CJIS compliance through robust authentication strategies",
+    "published_wib": "2026-11-17T07:39:57+07:00",
+    "summary": "As outlined in Bleeping Computer, the Federal Bureau of Investigation has updated its Criminal Justice Information Services security policy to address the persistent threat of credential-based attacks against law enforcement agencies.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/ensuring-cjis-compliance-through-robust-authentication-strategies"
+    ]
+  },
+  {
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+    "published_wib": "2026-11-17T04:31:44+07:00",
+    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/"
+    ]
+  },
+  {
+    "title": "VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)",
+    "published_wib": "2026-11-16T23:17:31.751246+07:00",
+    "summary": "Overview A mismatch between Apple File System (APFS) filesystem and path resolution for multiple applications allows attackers to bypass security exclusions using alternative Unicode spellings. By supplying an alternative Unicode spelling or case-folded variant (such as \u00df versus ss ) that bypasses the application's file write checks, a local attacker can ov\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://kb.cert.org/vuls/id/604762"
+    ]
+  },
+  {
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "published_wib": "2026-11-16T23:00:00+07:00",
+    "summary": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+    ]
+  },
+  {
+    "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+    "published_wib": "2026-11-16T22:31:25+07:00",
+    "summary": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/"
+    ]
+  },
+  {
+    "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+    "published_wib": "2026-11-16T22:01:11+07:00",
+    "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/"
+    ]
+  }
+]

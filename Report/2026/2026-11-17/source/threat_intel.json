@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+    "published_wib": "2026-11-17T09:05:15+07:00",
+    "summary": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33524"
+    ]
+  },
+  {
+    "title": "Security researchers uncover large-scale domain squatting campaign targeting AI brands",
+    "published_wib": "2026-11-17T07:49:04+07:00",
+    "summary": "Security researchers have identified a widespread domain squatting campaign that impersonates popular artificial intelligence platforms to distribute malware, based on information published by Tech Radar.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/security-researchers-uncover-large-scale-domain-squatting-campaign-targeting-ai-brands"
+    ]
+  },
+  {
+    "title": "Phishing attacks target luxury hotel reservation systems",
+    "published_wib": "2026-11-17T07:47:01+07:00",
+    "summary": "Phishing attacks targeting luxury hotel reservation systems highlight critical vulnerabilities in hospitality security protocols, as first reported by Schneier on Security.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/phishing-attacks-target-luxury-hotel-reservation-systems"
+    ]
+  },
+  {
+    "title": "Tor project releases emergency update to mitigate ongoing DDOS attacks",
+    "published_wib": "2026-11-17T07:44:33+07:00",
+    "summary": "Coverage from Cyber Insider indicates that the Tor Project has issued an emergency security update, version 0.4.9.17, to bolster relay defenses against a persistent distributed denial-of-service attack.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/tor-project-releases-emergency-update-to-mitigate-ongoing-ddos-attacks"
+    ]
+  },
+  {
+    "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+    "published_wib": "2026-11-17T07:08:41+07:00",
+    "summary": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors appeared first on Microsoft Security Blog .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/"
+    ]
+  },
+  {
+    "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+    "published_wib": "2026-11-17T06:00:55+07:00",
+    "summary": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels. The post QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/"
+    ]
+  },
+  {
+    "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+    "published_wib": "2026-11-17T02:10:03+07:00",
+    "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models"
+    ]
+  },
+  {
+    "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
+    "published_wib": "2026-11-16T23:15:00+07:00",
+    "summary": "Securing supply chains or coercing other nations to help Washington sideline Beijing and its AI ambitions?",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
+    ]
+  },
+  {
+    "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration",
+    "published_wib": "2026-11-16T23:00:00+07:00",
+    "summary": "Symantec said attackers are targeting new campaign sites registered by big name brands, with the lookalike domains enabling malicious follow-on activity",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/"
+    ]
+  },
+  {
+    "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+    "published_wib": "2026-11-16T22:45:43+07:00",
+    "summary": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/"
+    ]
+  }
+]

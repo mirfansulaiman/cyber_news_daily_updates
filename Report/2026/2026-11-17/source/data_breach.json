@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Fandango Media reports data breach involving payment card information",
+    "published_wib": "2026-11-17T08:06:55+07:00",
+    "summary": "As outlined in Bleeping Computer, Fandango Media is notifying customers of a data breach that exposed sensitive payment card details entered on its checkout pages. The incident occurred between Oct. 8 and Oct. 11, 2026, affecting users who made purchases through the company's official website.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/fandango-media-reports-data-breach-involving-payment-card-information"
+    ]
+  },
+  {
+    "title": "Security breach reported at Fugaku supercomputer facility",
+    "published_wib": "2026-11-17T08:03:55+07:00",
+    "summary": "In a report by SDx Central, the Fugaku supercomputer, developed by Riken and Fujitsu, has experienced a security breach involving unauthorized access.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/security-breach-reported-at-fugaku-supercomputer-facility"
+    ]
+  },
+  {
+    "title": "Infoblox customer and staff data exposed in Sharepoint breach",
+    "published_wib": "2026-11-17T04:53:28+07:00",
+    "summary": "The company is investigating",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
+    ]
+  },
+  {
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "published_wib": "2026-11-17T02:57:13+07:00",
+    "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+    ]
+  },
+  {
+    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+    "published_wib": "2026-11-17T02:56:05+07:00",
+    "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline"
+    ]
+  },
+  {
+    "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+    "published_wib": "2026-11-17T02:52:00+07:00",
+    "summary": "Critical orgs around the globe under seige",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223"
+    ]
+  },
+  {
+    "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+    "published_wib": "2026-11-17T00:03:00+07:00",
+    "summary": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122"
+    ]
+  },
+  {
+    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+    "published_wib": "2026-11-16T23:36:55+07:00",
+    "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks"
+    ]
+  },
+  {
+    "title": "Fandango says hackers stole payment card details from checkout pages",
+    "published_wib": "2026-11-16T22:44:21+07:00",
+    "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/"
+    ]
+  },
+  {
+    "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People",
+    "published_wib": "2026-11-16T22:25:00+07:00",
+    "summary": "Maileva breach exposed names and postal addresses of 22 million people",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/"
+    ]
+  }
+]

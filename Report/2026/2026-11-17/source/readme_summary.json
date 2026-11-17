@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware and LearnWorlds platform exploited to distribute phishing emails. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Security researchers uncover large-scale domain squatting campaign targeting AI brands. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Fandango Media reports data breach involving payment card information. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-11-17",
+  "vol": "007"
+}
