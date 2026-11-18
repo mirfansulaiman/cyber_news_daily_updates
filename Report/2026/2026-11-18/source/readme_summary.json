@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Attackers Used Optimizely to A/B Test Malware on Top Websites and Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Trigram campaign targets blockchain and AI developers with infostealers. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Cloud keys leaked in Docker Hub images are stolen within seconds. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-11-18",
+  "vol": "007"
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Microsoft tests remote lock feature for windows 11 devices",
+    "published_wib": "2026-11-18T08:00:32+07:00",
+    "summary": "Reported by Bleeping Computer. Microsoft is testing a new feature that allows enterprise IT administrators to remotely lock lost or stolen Windows 11 devices without performing a full data wipe.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/microsoft-tests-remote-lock-feature-for-windows-11-devices"
+    ]
+  },
+  {
+    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+    "published_wib": "2026-11-18T04:27:17+07:00",
+    "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/"
+    ]
+  },
+  {
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+    "published_wib": "2026-11-18T03:51:21+07:00",
+    "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+    ]
+  },
+  {
+    "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+    "published_wib": "2026-11-18T01:38:37+07:00",
+    "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach"
+    ]
+  },
+  {
+    "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
+    "published_wib": "2026-11-17T23:15:00+07:00",
+    "summary": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+    ]
+  },
+  {
+    "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "published_wib": "2026-11-17T21:55:30+07:00",
+    "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/"
+    ]
+  },
+  {
+    "title": "Suspected ransomware affiliate extradited to US over $500 million in extortion demands",
+    "published_wib": "2026-11-17T20:42:04+07:00",
+    "summary": "A 43-year-old Kazakh national accused of helping a ransomware crew steal data from US hospitals and schools, then threatening to publish patients\u2019 medical information, has been extradited from Italy, the US Department of Justice announced. Prosecutors believe Roman Khlynovskiy was a member of the \u201c8-Digits Team,\u201d a group affiliated with the INC and Lynx ran\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/17/8-digits-team-ransomware-suspect-extradited-us-italy/"
+    ]
+  },
+  {
+    "title": "\u201cAmazon\u201d job offer promises $5,000 a month, but it\u2019s got all the signs of a scam",
+    "published_wib": "2026-11-17T20:37:48+07:00",
+    "summary": "Lookalike Amazon sites advertise high-paying remote jobs, but has all the signs of a reshipping scam.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam"
+    ]
+  },
+  {
+    "title": "Access Dental Management Data Breach Impacts Over 340,000",
+    "published_wib": "2026-11-17T19:59:04+07:00",
+    "summary": "Hackers breached Access Dental\u2019s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
+    ]
+  },
+  {
+    "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
+    "published_wib": "2026-11-17T19:48:15+07:00",
+    "summary": "California Attorney General Rob Bonta has sued OpenAI, alleging the company has lost control of its autonomous AI agents more than 80 times during testing and misled the public about how safely it develops its models. The complaint was filed on November 16 in San Francisco Superior Court against OpenAI Foundation and OpenAI Group PBC. It says OpenAI disclos\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4249653/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public-2.html"
+    ]
+  }
+]

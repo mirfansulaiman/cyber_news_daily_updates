@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "published_wib": "2026-11-18T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33528"
+    ]
+  },
+  {
+    "title": "Trigram campaign targets blockchain and AI developers with infostealers",
+    "published_wib": "2026-11-18T08:05:59+07:00",
+    "summary": "A large-scale, industrialized cyberattack campaign known as Trigram is actively targeting artificial intelligence, blockchain and logistics sectors across Europe and the United States to deploy information-stealing malware, as first reported by The Hacker News.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/trigram-campaign-targets-blockchain-and-ai-developers-with-infostealers"
+    ]
+  },
+  {
+    "title": "Operation ShadowCloud targets government sectors with cloud-based backdoors",
+    "published_wib": "2026-11-18T08:05:33+07:00",
+    "summary": "Based on information from The Hacker News, a sophisticated cyber intrusion campaign dubbed Operation ShadowCloud has been identified targeting government sectors across Asia and Africa. First discovered in early 2026, the campaign utilizes undocumented backdoors to compromise systems.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/operation-shadowcloud-targets-government-sectors-with-cloud-based-backdoors"
+    ]
+  },
+  {
+    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+    "published_wib": "2026-11-18T05:34:22+07:00",
+    "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks"
+    ]
+  },
+  {
+    "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+    "published_wib": "2026-11-18T03:58:13+07:00",
+    "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat"
+    ]
+  },
+  {
+    "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+    "published_wib": "2026-11-18T03:43:14+07:00",
+    "summary": "The OPTIMJACK supply chain attack demonstrates how a compromised vendor script can expose websites, highlighting the need for strict segmentation. The post Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/"
+    ]
+  },
+  {
+    "title": "APPLE-SA-11-13-2026-1 tvOS 27.2.1",
+    "published_wib": "2026-11-18T02:15:40+07:00",
+    "summary": "Posted by Apple Product Security via Fulldisclosure on Nov 17 APPLE-SA-11-13-2026-1 tvOS 27.2.1 tvOS 27.2.1 addresses the following issues. Information about the security content is also available at https://support.apple.com/149721\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://seclists.org/fulldisclosure/2026/Nov/35"
+    ]
+  },
+  {
+    "title": "Tor releases emergency update amid ongoing DDoS attack",
+    "published_wib": "2026-11-18T01:04:15+07:00",
+    "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+    ]
+  },
+  {
+    "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
+    "published_wib": "2026-11-17T23:00:00+07:00",
+    "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/"
+    ]
+  },
+  {
+    "title": "Understanding the Risks of Public AWS AMIs: Hidden Dangers of Malicious and Misconfigured Images",
+    "published_wib": "2026-11-17T23:00:00+07:00",
+    "summary": "Key Takeaways Public Amazon Machine Images (AMIs) speed up deployment, but anyone can publish one, so they should never be trusted based on their name or description alone. Malicious or misconfigured AMIs can carry vulnerable software, embedded malware, exposed credentials, or insecure configurations that compromise workloads as soon as they launch. The who\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/11/17/public-aws-ami-risks-whoami-golden-ami"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Attackers Used Optimizely to A/B Test Malware on Top Websites
+- Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability
+- ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)
+- Optimizely confirms massive cyberattack on customer websites injected stealer malware
+- Trigram campaign targets blockchain and AI developers with infostealers
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Attackers Used Optimizely to A/B Test Malware on Top Websites. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Microsoft tests remote lock feature for windows 11 devices. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
