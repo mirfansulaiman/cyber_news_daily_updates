@@ -6,31 +6,31 @@ This repository stores **daily cybersecurity newsletters**.
 ![Ko-fi](https://storage.ko-fi.com/cdn/logomarkLogo.png) https://ko-fi.com/mirfansulaiman
 
 <!-- DAILY_UPDATES_START -->
-## Today Updates: [Vol. 007 | 2026-11-18 09:00 WIB]
+## Today Updates: [Vol. 007 | 2026-11-19 09:00 WIB]
 
-Today's highlights are led by exploit-ready vulnerabilities: Attackers Used Optimizely to A/B Test Malware on Top Websites and Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
+Today's highlights are led by exploit-ready vulnerabilities: NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities and National Security Agency network outage linked to routine patching. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.
 
-Endpoint posture is also under pressure: Trigram campaign targets blockchain and AI developers with infostealers. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
+Endpoint posture is also under pressure: New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.
 
-Identity and edge access risks remain elevated: Cloud keys leaked in Docker Hub images are stolen within seconds. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
+Identity and edge access risks remain elevated: Ransomware access brokers are moving their deals off public forums. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.
 
-![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-18/poster_2026-11-18_issue-007.jpg)
+![Cover Poster](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-19/poster_2026-11-19_issue-007.jpg)
 
 ### TOP 10 - VULNERABILITIES
 
-![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-18/poster_vulnerabilities_2026-11-18_issue-007.jpg)
+![Top 10 Vulnerabilities](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-19/poster_vulnerabilities_2026-11-19_issue-007.jpg)
 
 ### TOP 10 - THREAT INTEL
 
-![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-18/poster_threat-intel_2026-11-18_issue-007.jpg)
+![Top 10 Threat Intel](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-19/poster_threat-intel_2026-11-19_issue-007.jpg)
 
 ### TOP 10 - DATA BREACH & CYBERCRIME
 
-![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-18/poster_data-breach_2026-11-18_issue-007.jpg)
+![Top 10 Data Breach & Cybercrime](https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-19/poster_data-breach_2026-11-19_issue-007.jpg)
 
 ### PDF Report
 
-Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-18/cyber_newsletter_2026-11-18.pdf
+Download: https://raw.githubusercontent.com/mirfansulaiman/cyber_news_daily_updates/main/Report/2026/2026-11-19/cyber_newsletter_2026-11-19.pdf
 
 <!-- DAILY_UPDATES_END -->
 
