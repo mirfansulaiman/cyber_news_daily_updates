@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ransomware access brokers are moving their deals off public forums",
+    "published_wib": "2026-11-19T06:28:20+07:00",
+    "summary": "Ransomware and extortion gangs claimed about 718 victims a month through October 2026, according to threat intelligence firm ZeroFox, up from roughly 573 a month in 2025. Between early 2025 and early 2026, public dark web listings selling access to hacked corporate networks fell from about 620 a quarter to about 370. Those listings worked as an early warnin\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/19/ransomware-access-brokers-cybercrime/"
+    ]
+  },
+  {
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+    "published_wib": "2026-11-19T06:08:33+07:00",
+    "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"
+    ]
+  },
+  {
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+    "published_wib": "2026-11-19T04:59:46+07:00",
+    "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"
+    ]
+  },
+  {
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+    "published_wib": "2026-11-19T03:49:32+07:00",
+    "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/"
+    ]
+  },
+  {
+    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+    "published_wib": "2026-11-19T03:38:42+07:00",
+    "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups"
+    ]
+  },
+  {
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "published_wib": "2026-11-19T02:39:33+07:00",
+    "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+    ]
+  },
+  {
+    "title": "Aerospace To Chemicals: Why Manufacturers Are Easy Targets for Access Brokers",
+    "published_wib": "2026-11-19T01:15:00+07:00",
+    "summary": "Manufacturing was the most targeted sector for ransomware and data extortion from January to October 2026, with 1,379 claims, or 16.8% of all victims Intel 471 tracked.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.intel471.com/blog/aerospace-to-chemicals-why-manufacturers-are-easy-targets-for-access-brokers"
+    ]
+  },
+  {
+    "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+    "published_wib": "2026-11-18T20:33:47+07:00",
+    "summary": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/"
+    ]
+  },
+  {
+    "title": "CISO Conversations: Patti Degnan \u2013 Part of the Job Is Deciding What Not to Do",
+    "published_wib": "2026-11-18T19:00:00+07:00",
+    "summary": "Patti Degnan\u2019s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan \u2013 Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/"
+    ]
+  },
+  {
+    "title": "Attackers hijack Microsoft\u2019s agent-framework package to steal Azure and CI credentials",
+    "published_wib": "2026-11-18T18:58:53+07:00",
+    "summary": "Attackers briefly hijacked Microsoft\u2019s official Agent Framework package on PyPI and used it to distribute credential-stealing malware capable of harvesting cloud tokens, developer secrets and CI/CD credentials from developer workstations and automated build systems, according to multiple security researchers. Two malicious versions of the package, 1.26.1 an\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.csoonline.com/article/4250156/attackers-hijack-microsofts-agent-framework-package-to-steal-azure-and-ci-credentials.html"
+    ]
+  }
+]

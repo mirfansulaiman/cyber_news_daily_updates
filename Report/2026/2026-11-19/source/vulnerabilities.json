@@ -1,0 +1,102 @@
+[
+  {
+    "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
+    "published_wib": "2026-11-19T07:18:05+07:00",
+    "summary": "Frequently asked questions about five critical NGINX remote code execution vulnerabilities and five additional flaws fixed in F5\u2019s November 18 out-of-band release. Key takeaways NGINX2Root is associated with five critical remote code execution vulnerabilities in NGINX, and a separate, unpatched Linux kernel local privilege escalation (LPE) flaw that can be\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+    ]
+  },
+  {
+    "title": "National Security Agency network outage linked to routine patching",
+    "published_wib": "2026-11-19T06:52:01+07:00",
+    "summary": "As reported by SDx Central, the National Security Agency experienced a significant internal communications network outage on Nov. 17. The disruption prompted the agency to retain essential staff at its Maryland campus to address the technical failure.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/national-security-agency-network-outage-linked-to-routine-patching"
+    ]
+  },
+  {
+    "title": "CISA adds critical Perforce Puppet Enterprise vulnerability to known exploited list",
+    "published_wib": "2026-11-19T06:45:44+07:00",
+    "summary": "Per Security Affairs, the Cybersecurity and Infrastructure Security Agency has added a critical vulnerability in Perforce Puppet Enterprise, tracked as CVE-2026-115731, to its Known Exploited Vulnerabilities catalog.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-critical-perforce-puppet-enterprise-vulnerability-to-known-exploited-list"
+    ]
+  },
+  {
+    "title": "Tails releases emergency update to address uBlock Origin vulnerability",
+    "published_wib": "2026-11-19T06:45:30+07:00",
+    "summary": "As detailed in Cyber Insider, the privacy-focused operating system Tails issued an emergency update on Nov. 17 to remove the uBlock Origin extension from its bundled Tor Browser due to a critical security flaw.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/tails-releases-emergency-update-to-address-ublock-origin-vulnerability"
+    ]
+  },
+  {
+    "title": "Apache releases security update for critical roller flaw",
+    "published_wib": "2026-11-19T06:42:53+07:00",
+    "summary": "Apache has released security updates to address a critical vulnerability in the Apache Roller blogging server that threat actors are actively exploiting to gain remote code execution, with further coverage provided by Bleeping Computer.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/apache-releases-security-update-for-critical-roller-flaw"
+    ]
+  },
+  {
+    "title": "AI unearths \u2018internet breaker\u2019 flaws in Nginx web server",
+    "published_wib": "2026-11-19T06:36:40+07:00",
+    "summary": "Nginx, the web server estimated to power a third of the internet, has shipped fixes for multiple vulnerabilities, including a critical unauthenticated remote code execution flaw that puts millions of websites at risk and has existed in the code for over a decade. Researchers from several security firms independently found some of the same flaws by using AI\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html"
+    ]
+  },
+  {
+    "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+    "published_wib": "2026-11-19T06:21:12+07:00",
+    "summary": "Executive Summary NGINX2Root is a set of five nginx vulnerabilities disclosed on November 18, 2026. The lead flaw, CVE-2026-123007, is a memory corruption bug in the way nginx handles HTTP/2 connections. F5, which maintains nginx, rates it 9.2 under CVSS v4.0 and 8.1 under CVSS v3.1. An attacker with no credentials can crash nginx worker [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now"
+    ]
+  },
+  {
+    "title": "GTA 6 scams could cost you your account, money, or crypto",
+    "published_wib": "2026-11-19T05:06:05+07:00",
+    "summary": "A free GTA 6 code could cost you your Google account, money, or crypto. Here\u2019s how scammers are exploiting the game\u2019s launch hype.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto"
+    ]
+  },
+  {
+    "title": "A new critical Java hole illustrates the enterprise IT visibility problem",
+    "published_wib": "2026-11-19T03:39:16+07:00",
+    "summary": "When cybersecurity research firm Calif published details Tuesday of a potentially major Java security flaw, dubbed Java4Shell, it described an unauthenticated attacker\u2019s ability to read Java heap memory, steal private keys, tokens, and session secrets, and reach remote code execution (RCE). With Java being all-but-ubiquitous in today\u2019s enterprise, coupled w\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4250390/a-new-critical-java-hole-illustrates-the-enterprise-it-visibility-problem.html"
+    ]
+  },
+  {
+    "title": "Java4Shell flaw: Attackers probe critical JVM vulnerability",
+    "published_wib": "2026-11-19T03:16:24+07:00",
+    "summary": "Attackers probe critical Java4Shell flaw as experts warn exploitation is likely and urge patching.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/java4shell-flaw-attackers-probe-critical-jvm-vulnerability"
+    ]
+  }
+]

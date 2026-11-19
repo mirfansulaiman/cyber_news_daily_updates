@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+    "published_wib": "2026-11-19T09:00:03+07:00",
+    "summary": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33536"
+    ]
+  },
+  {
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "published_wib": "2026-11-18T21:11:28+07:00",
+    "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with eve\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
+    ]
+  },
+  {
+    "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure",
+    "published_wib": "2026-11-18T21:00:00+07:00",
+    "summary": "Suspected Chinese APT rebuilt EggStreme malware and infrastructure after Bitdefender exposure",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/"
+    ]
+  },
+  {
+    "title": "Who protects the antivirus? How we secure Malwarebytes itself",
+    "published_wib": "2026-11-18T20:32:54+07:00",
+    "summary": "Imagine a piece of malware that can disable your antivirus and leave you unprotected. That's exactly what we as engineers work to prevent.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself"
+    ]
+  },
+  {
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "published_wib": "2026-11-18T19:28:30+07:00",
+    "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this w\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers",
+    "published_wib": "2026-11-18T13:00:03+07:00",
+    "summary": "ReversingLabs has taken apart BubbleLoader, a loader that turns ordinary Windows programs into carriers for other malware. The attackers rewrite a handful of instructions at a program\u2019s entry point, the spot where Windows begins running it, and add two PNG images that hold the hidden code. Known hosts include WinRAR, the x64dbg debugger, Windows Media Playe\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "published_wib": "2026-11-18T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33528"
+    ]
+  },
+  {
+    "title": "[+24h Old] We caught the agent-framework PyPI compromise six minutes after it published",
+    "published_wib": "2026-11-18T07:00:00+07:00",
+    "summary": "Versions 1.26.1 and 1.26.2 stole Azure, Azure DevOps and GitHub Actions tokens from a .pth hook that ran on every Python launch, so if either one touched a build agent or a laptop, assume every secret on that host is gone.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.elastic.co/security-labs/threat-command/we-caught-the-agent-framework-pypi-compromise-six-minutes-after-it-published"
+    ]
+  },
+  {
+    "title": "[+24h Old] Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+    "published_wib": "2026-11-18T05:34:22+07:00",
+    "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks"
+    ]
+  },
+  {
+    "title": "[+24h Old] 'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+    "published_wib": "2026-11-18T03:58:13+07:00",
+    "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat"
+    ]
+  }
+]
