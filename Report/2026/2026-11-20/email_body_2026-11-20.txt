@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- A single pull request could have handed attackers the keys to Microsoft’s software supply chain
+- European Commission HR hit by cyber attack
+- ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)
+- VMware patches vCenter zero-day exploited in attacks since September
+- Android developer verification will reach every install source, with a side door for power users
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by A single pull request could have handed attackers the keys to Microsoft’s software supply chain. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by European Commission HR hit by cyber attack. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Ukrainian authorities arrest four suspects in international ransomware operation. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

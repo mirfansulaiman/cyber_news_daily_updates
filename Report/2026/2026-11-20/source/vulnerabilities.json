@@ -1,0 +1,102 @@
+[
+  {
+    "title": "European Commission HR hit by cyber attack",
+    "published_wib": "2026-11-20T09:08:48+07:00",
+    "summary": "Barely a week after the US Federal Bureau of Investigation (FBI) warned companies of the cyber attacker interest in an open source penetration testing tool called ARTEX, the European Commission has confirmed that attackers armed with that tool broke into its HR systems. The attack, which Commission officials detected on October 22, forced them to shut off m\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251068/european-commission-hr-hit-by-cyber-attack.html"
+    ]
+  },
+  {
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "published_wib": "2026-11-20T07:26:25+07:00",
+    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    ]
+  },
+  {
+    "title": "Android developer verification will reach every install source, with a side door for power users",
+    "published_wib": "2026-11-20T06:03:24+07:00",
+    "summary": "Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose the normal install experience on certified Android devices. The rollout opens w\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/"
+    ]
+  },
+  {
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+    "published_wib": "2026-11-20T05:40:03+07:00",
+    "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering"
+    ]
+  },
+  {
+    "title": "Critical flaw in VMware vCenter allows authentication bypass",
+    "published_wib": "2026-11-20T04:07:25+07:00",
+    "summary": "Broadcom has released patches for bugs in multiple products, one of which, fixing a VMware vCenter authentication bypass vulnerability, is rated 9.8 out of 10 in severity. The company\u2019s advisory describes the flaw, tracked as CVE-2026-123890 , as \u201can authentication bypass vulnerability in the VMware Directory Service,\u201d that could let a threat actor with net\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251012/critical-flaw-in-vmware-vcenter-allows-authentication-bypass-2.html"
+    ]
+  },
+  {
+    "title": "PHP releases 18 security patches, including 7 critical flaws",
+    "published_wib": "2026-11-20T03:03:38+07:00",
+    "summary": "New PHP vulnerabilities prompt urgent patching as experts warn last month's fixes offer no protection.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/php-releases-18-security-patches-including-7-critical-flaws"
+    ]
+  },
+  {
+    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+    "published_wib": "2026-11-20T02:57:31+07:00",
+    "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell"
+    ]
+  },
+  {
+    "title": "Navigating Vulnerability Hysteria in the AI Era",
+    "published_wib": "2026-11-20T02:46:44+07:00",
+    "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era"
+    ]
+  },
+  {
+    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+    "published_wib": "2026-11-20T02:21:06+07:00",
+    "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    ]
+  },
+  {
+    "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+    "published_wib": "2026-11-20T01:25:50+07:00",
+    "summary": "F5 has patched five critical vulnerabilities in NGINX, the world\u2019s most widely used open-source web server, that can allow remote code execution under certain conditions. Dubbed \u201cNGINX2Root\u201d by Xint researchers, two of the bunch (CVE-2026-123633 and CVE-2026-123007) were also independently unearthed and reported by Rapid7, Wiz, Ikotas Labs, Palo Alto Networ\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/"
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ukrainian authorities arrest four suspects in international ransomware operation",
+    "published_wib": "2026-11-20T05:06:21+07:00",
+    "summary": "Reported by Bleeping Computer, Ukrainian authorities, in collaboration with the Federal Bureau of Investigation, arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ukrainian-authorities-arrest-four-suspects-in-international-ransomware-operation"
+    ]
+  },
+  {
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+    "published_wib": "2026-11-20T04:12:33+07:00",
+    "summary": "First service outages, then data breaches\u2026what's next?!",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+    ]
+  },
+  {
+    "title": "Second Norwegian Energy Company Breached in Two Days",
+    "published_wib": "2026-11-20T03:14:15+07:00",
+    "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached"
+    ]
+  },
+  {
+    "title": "Nvidia adds possible hack to list of very bad things under investigation",
+    "published_wib": "2026-11-20T01:52:53+07:00",
+    "summary": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
+    ]
+  },
+  {
+    "title": "INTERPOL launches deepfake scam awareness campaign as AI impersonation risks grow",
+    "published_wib": "2026-11-20T01:44:26+07:00",
+    "summary": "As AI-powered deepfakes undermine trust in digital identities, CISOs need stronger media verification.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/perspective/interpol-launches-deepfake-scam-awareness-campaign-as-ai-impersonation-risks-grow"
+    ]
+  },
+  {
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "published_wib": "2026-11-20T01:20:01+07:00",
+    "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
+    ]
+  },
+  {
+    "title": "Deepfake Elon Musk nearly costs viewers $4.7 million in crypto",
+    "published_wib": "2026-11-20T00:26:39+07:00",
+    "summary": "Coinbase says it blocked $4.7 million in attempted payments to an Elon Musk deepfake scam.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto"
+    ]
+  },
+  {
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "published_wib": "2026-11-19T22:00:10+07:00",
+    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"
+    ]
+  },
+  {
+    "title": "Russian spies turn one cloud breach into a stepping stone for the next",
+    "published_wib": "2026-11-19T21:42:20+07:00",
+    "summary": "A Russian cyberespionage group is posing as employees of organizations it has already breached to phish new targets, Google Threat Intelligence Group (GTIG) found. Google tracks the group as COLD RELIC (also known as Star Blizzard, Callisto and Gossamer Bear), and the US Department of Justice has assessed that it operates within Russia\u2019s Federal Security Se\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/"
+    ]
+  },
+  {
+    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+    "published_wib": "2026-11-19T21:17:32+07:00",
+    "summary": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/"
+    ]
+  }
+]

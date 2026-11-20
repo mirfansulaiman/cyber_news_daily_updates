@@ -1,0 +1,102 @@
+[
+  {
+    "title": "A single pull request could have handed attackers the keys to Microsoft\u2019s software supply chain",
+    "published_wib": "2026-11-20T10:10:04+07:00",
+    "summary": "The most dangerous actor in a software supply chain may now be an automated script with powerful credentials and no idea where it\u2019s sending them. Researchers from pen-testing company Cycode have discovered a now patched critical zero-click supply chain vulnerability in the open-source Windows Package Manager (WinGet), which sits on billions of devices world\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4251117/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain.html"
+    ]
+  },
+  {
+    "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+    "published_wib": "2026-11-20T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33538"
+    ]
+  },
+  {
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    "published_wib": "2026-11-20T01:47:58+07:00",
+    "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watchi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+    ]
+  },
+  {
+    "title": "PHP 8.6 is out, and here\u2019s what changes for your code",
+    "published_wib": "2026-11-19T22:22:36+07:00",
+    "summary": "PHP 8.6 has been released. The new version adds partial function application, a Time\\Duration class, a polling API for event loops and a clamp() function. PHP 8.6 also changes defaults that existing apps could trip over. Sessions now start with session.use_strict_mode and session.cookie_httponly turned on and session.cookie_samesite set to Lax. Custom sessi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/"
+    ]
+  },
+  {
+    "title": "European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline",
+    "published_wib": "2026-11-19T21:45:00+07:00",
+    "summary": "The European Commission said the attack targeted \u201cindividual systems\u201d, with reports that attackers leveraged ARTEX in the campaign",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/"
+    ]
+  },
+  {
+    "title": "Surge in GTA VI phishing attacks targets corporate employees",
+    "published_wib": "2026-11-19T20:58:23+07:00",
+    "summary": "Surge in GTA VI phishing attacks targets corporate employees",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.scworld.com/brief/surge-in-gta-vi-phishing-attacks-targets-corporate-employees"
+    ]
+  },
+  {
+    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+    "published_wib": "2026-11-19T19:23:34+07:00",
+    "summary": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+    "published_wib": "2026-11-19T09:00:03+07:00",
+    "summary": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33536"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft's official Python agent framework hijacked to distribute malware",
+    "published_wib": "2026-11-19T00:23:37+07:00",
+    "summary": "In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858"
+    ]
+  },
+  {
+    "title": "[+24h Old] New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "published_wib": "2026-11-18T21:11:28+07:00",
+    "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with eve\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
+    ]
+  }
+]
