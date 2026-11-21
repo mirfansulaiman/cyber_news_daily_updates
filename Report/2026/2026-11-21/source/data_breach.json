@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Carnegie Endowment for International Peace reports data breach",
+    "published_wib": "2026-11-21T07:50:58+07:00",
+    "summary": "As noted by Nextgov, the Carnegie Endowment for International Peace recently experienced a data breach involving a third-party vendor used for online donations.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/carnegie-endowment-for-international-peace-reports-data-breach"
+    ]
+  },
+  {
+    "title": "Ransomware recovery timelines and shifting attack tactics in 2026",
+    "published_wib": "2026-11-21T07:48:28+07:00",
+    "summary": "Ransomware recovery requires a median of 20 days for organizations to achieve full restoration, with nearly 30% of victims needing more than six weeks to return to normal operations, based on information published by Infosecurity Magazine.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.scworld.com/brief/ransomware-recovery-timelines-and-shifting-attack-tactics-in-2026"
+    ]
+  },
+  {
+    "title": "Bell Canada confirms data breach involving agentic threat actor",
+    "published_wib": "2026-11-21T07:46:14+07:00",
+    "summary": "Coverage from Bleeping Computer indicates that Bell Canada experienced a security breach on Nov. 17, 2026, involving an agentic threat actor that compromised enterprise customer data.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/bell-canada-confirms-data-breach-involving-agentic-threat-actor"
+    ]
+  },
+  {
+    "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
+    "published_wib": "2026-11-21T07:36:39+07:00",
+    "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+    ]
+  },
+  {
+    "title": "Dialing for Data: Inside the Com\u2019s High-Profile Heists",
+    "published_wib": "2026-11-21T05:00:25+07:00",
+    "summary": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com\u2019s High-Profile Heists appeared first on Unit 42 .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/"
+    ]
+  },
+  {
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "published_wib": "2026-11-21T01:51:43+07:00",
+    "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+    ]
+  },
+  {
+    "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
+    "published_wib": "2026-11-20T23:15:00+07:00",
+    "summary": "Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/"
+    ]
+  },
+  {
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "published_wib": "2026-11-20T22:58:06+07:00",
+    "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+    ]
+  },
+  {
+    "title": "US launches center to disrupt scams and warn victims sooner",
+    "published_wib": "2026-11-20T20:49:11+07:00",
+    "summary": "The US Homeland Security Task Force launched the Threat Disruption Center to target the crime networks behind scams and sextortion.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/news/2026/11/us-launches-center-to-disrupt-scams-and-warn-victims-sooner"
+    ]
+  },
+  {
+    "title": "N-able says recent security breach led to major service outage",
+    "published_wib": "2026-11-20T20:18:36+07:00",
+    "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+    ]
+  }
+]

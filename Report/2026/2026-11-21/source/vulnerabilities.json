@@ -1,0 +1,102 @@
+[
+  {
+    "title": "SonicWall urges retirement of generation 6 firewalls due to security risks",
+    "published_wib": "2026-11-21T07:48:11+07:00",
+    "summary": "In a report by The Hacker News, SonicWall has issued an urgent advisory for customers to immediately retire and replace all Generation 6 firewalls. The company warns that these unsupported devices are increasingly vulnerable to automated and AI-assisted cyberattacks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/sonicwall-urges-retirement-of-generation-6-firewalls-due-to-security-risks"
+    ]
+  },
+  {
+    "title": "PHP2Shell aftershock: 18 more PHP flaws put enterprise web admins on alert",
+    "published_wib": "2026-11-21T07:39:17+07:00",
+    "summary": "PHP continues to root out flaws in its architecture, this week releasing fixes for a slew of additional security issues in the wake of PHP2Shell. The patches address 18 vulnerabilities , including a critical request smuggling flaw that could allow unauthenticated attackers to remotely execute code on vulnerable servers. Other vulnerabilities affect PHP\u2019s co\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251713/php2shell-aftershock-18-more-php-flaws-put-enterprise-web-admins-on-alert.html"
+    ]
+  },
+  {
+    "title": "F5 scrambles to fix more critical BIG-IP security flaws",
+    "published_wib": "2026-11-21T07:16:44+07:00",
+    "summary": "F5 has released a batch of out of band patches for BIG-IP Access Policy Manager (APM) and BIG-IP iRule programmable scripting, five of which are rated 9.8 (Critical) in severity. BIG-IP Access Policy Manager (APM) is the vendor\u2019s application access management and security product while BIG-IP iRules lets network administrators customize how BIG-IP handles a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251711/f5-scrambles-to-fix-more-critical-big-ip-security-flaws-2.html"
+    ]
+  },
+  {
+    "title": "CyberPower power management software exploited in network intrusion",
+    "published_wib": "2026-11-21T06:15:26+07:00",
+    "summary": "Infosecurity Magazine reports that attackers have exploited CyberPower PowerPanel Business software to execute malicious scripts on domain controllers, effectively repurposing power management features into remote command channels.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cyberpower-power-management-software-exploited-in-network-intrusion"
+    ]
+  },
+  {
+    "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+    "published_wib": "2026-11-21T03:24:38+07:00",
+    "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.cloudflare.com/ruby2shell-waf-protection/"
+    ]
+  },
+  {
+    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+    "published_wib": "2026-11-21T00:57:20+07:00",
+    "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+    ]
+  },
+  {
+    "title": "Chinese-nexus actor\u2019s Cairn AI agents found a zero-day on their own",
+    "published_wib": "2026-11-21T00:30:13+07:00",
+    "summary": "Amazon Threat Intelligence is sharing findings from an investigation into a Chinese-nexus threat actor using autonomous AI agents to conduct hacking operations with minimal human involvement. The actor gave the agents a simple goal: \u201cobtain shell access.\u201d During the campaign, the agents found a zero-day in an open-source application and used it to gain full\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/"
+    ]
+  },
+  {
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "published_wib": "2026-11-21T00:30:00+07:00",
+    "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+    ]
+  },
+  {
+    "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+    "published_wib": "2026-11-21T00:30:00+07:00",
+    "summary": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+    "why_it_matters": "Publicly discussed 0-days often see rapid weaponization, increasing the risk of opportunistic attacks at scale.",
+    "recommendation": "Apply vendor guidance immediately, reduce attack surface, and monitor for IoCs/exploitation telemetry until patches are fully deployed.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+    ]
+  },
+  {
+    "title": "A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate",
+    "published_wib": "2026-11-21T00:29:31+07:00",
+    "summary": "Executive Summary Java4Shell (CVE-2026-114938) is a heap out-of-bounds write in HotSpot\u2019s AVX-512 Base64 decoder on x86-64. Calif reported it and showed pre-auth RCE in Keycloak, Jira, Confluence, Artifactory, Jenkins, and PingFederate. Nobody has reported exploitation in the wild as of November 17, 2026. CISA issued an alert that same day, urging everyone\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://blog.qualys.com/qualys-insights/2026/11/20/a-technical-guide-to-mitigate-java4shell-with-trurisk-eliminate"
+    ]
+  }
+]

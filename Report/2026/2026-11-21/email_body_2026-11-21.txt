@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Security researchers track rising mail bombing and helpdesk impersonation campaigns
+- Carnegie Endowment for International Peace reports data breach
+- Ransomware recovery timelines and shifting attack tactics in 2026
+- SonicWall urges retirement of generation 6 firewalls due to security risks
+- Bell Canada confirms data breach involving agentic threat actor
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Security researchers track rising mail bombing and helpdesk impersonation campaigns. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by SonicWall urges retirement of generation 6 firewalls due to security risks. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Carnegie Endowment for International Peace reports data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
