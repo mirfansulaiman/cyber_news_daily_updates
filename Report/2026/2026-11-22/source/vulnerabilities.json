@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "published_wib": "2026-11-22T07:53:02+07:00",
+    "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+    ]
+  },
+  {
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "published_wib": "2026-11-22T01:01:58+07:00",
+    "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    ]
+  },
+  {
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+    "published_wib": "2026-11-21T21:26:04+07:00",
+    "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+    ]
+  },
+  {
+    "title": "Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day",
+    "published_wib": "2026-11-21T19:08:50+07:00",
+    "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers\u2019 AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/"
+    ]
+  },
+  {
+    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+    "published_wib": "2026-11-21T18:05:53+07:00",
+    "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that u\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+    ]
+  },
+  {
+    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+    "published_wib": "2026-11-21T18:03:17+07:00",
+    "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    "published_wib": "2026-11-21T15:49:13+07:00",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] SonicWall urges retirement of generation 6 firewalls due to security risks",
+    "published_wib": "2026-11-21T07:48:11+07:00",
+    "summary": "In a report by The Hacker News, SonicWall has issued an urgent advisory for customers to immediately retire and replace all Generation 6 firewalls. The company warns that these unsupported devices are increasingly vulnerable to automated and AI-assisted cyberattacks.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/sonicwall-urges-retirement-of-generation-6-firewalls-due-to-security-risks"
+    ]
+  },
+  {
+    "title": "[+24h Old] PHP2Shell aftershock: 18 more PHP flaws put enterprise web admins on alert",
+    "published_wib": "2026-11-21T07:39:17+07:00",
+    "summary": "PHP continues to root out flaws in its architecture, this week releasing fixes for a slew of additional security issues in the wake of PHP2Shell. The patches address 18 vulnerabilities , including a critical request smuggling flaw that could allow unauthenticated attackers to remotely execute code on vulnerable servers. Other vulnerabilities affect PHP\u2019s co\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251713/php2shell-aftershock-18-more-php-flaws-put-enterprise-web-admins-on-alert.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] F5 scrambles to fix more critical BIG-IP security flaws",
+    "published_wib": "2026-11-21T07:16:44+07:00",
+    "summary": "F5 has released a batch of out of band patches for BIG-IP Access Policy Manager (APM) and BIG-IP iRule programmable scripting, five of which are rated 9.8 (Critical) in severity. BIG-IP Access Policy Manager (APM) is the vendor\u2019s application access management and security product while BIG-IP iRules lets network administrators customize how BIG-IP handles a\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4251711/f5-scrambles-to-fix-more-critical-big-ip-security-flaws-2.html"
+    ]
+  }
+]

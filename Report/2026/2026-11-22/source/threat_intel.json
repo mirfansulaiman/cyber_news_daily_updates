@@ -1,0 +1,102 @@
+[
+  {
+    "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+    "published_wib": "2026-11-21T22:17:27+07:00",
+    "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Security researchers track rising mail bombing and helpdesk impersonation campaigns",
+    "published_wib": "2026-11-21T07:55:14+07:00",
+    "summary": "As noted by Infosecurity Magazine, cybercriminals are executing large-scale mail bombing attacks combined with IT helpdesk impersonation to compromise user accounts.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/security-researchers-track-rising-mail-bombing-and-helpdesk-impersonation-campaigns"
+    ]
+  },
+  {
+    "title": "[+24h Old] Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+    "published_wib": "2026-11-21T04:27:56+07:00",
+    "summary": "No financial details, but plenty of other clues",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478"
+    ]
+  },
+  {
+    "title": "[+24h Old] Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    "published_wib": "2026-11-20T23:58:16+07:00",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan.\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] Do AI\u2019s mathematical advances put PKI under threat?",
+    "published_wib": "2026-11-20T15:25:00+07:00",
+    "summary": "Warnings by a leading cryptographer that industry-wide public-key cryptography could fail because of advances in AI has sparked a debate in the security community. In a series of post on X, Johns Hopkins cryptographer Matthew Green warned that existing public-key cryptography systems were at risk because machines have begun outperforming humans in their abi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.csoonline.com/article/4248694/do-ais-mathematical-advances-put-pki-under-threat.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+    "published_wib": "2026-11-20T14:11:39+07:00",
+    "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary side\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] A single pull request could have handed attackers the keys to Microsoft\u2019s software supply chain",
+    "published_wib": "2026-11-20T10:10:04+07:00",
+    "summary": "The most dangerous actor in a software supply chain may now be an automated script with powerful credentials and no idea where it\u2019s sending them. Researchers from pen-testing company Cycode have discovered a now patched critical zero-click supply chain vulnerability in the open-source Windows Package Manager (WinGet), which sits on billions of devices world\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Audit build pipelines, rotate CI/CD secrets, enforce package integrity controls, and review developer workstation hardening.",
+    "sources": [
+      "https://www.csoonline.com/article/4251117/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+    "published_wib": "2026-11-20T09:00:02+07:00",
+    "summary": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33538"
+    ]
+  },
+  {
+    "title": "[+48h Old] ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    "published_wib": "2026-11-20T01:47:58+07:00",
+    "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watchi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+    ]
+  },
+  {
+    "title": "[+48h Old] European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline",
+    "published_wib": "2026-11-19T21:45:00+07:00",
+    "summary": "The European Commission said the attack targeted \u201cindividual systems\u201d, with reports that attackers leveraged ARTEX in the campaign",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/"
+    ]
+  }
+]
