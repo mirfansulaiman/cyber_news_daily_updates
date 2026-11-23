@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Researchers uncover widespread data leakage in AI service networks
+- Microsoft discloses data breach involving Entra Connect Health service
+- WhatsApp patches three security flaws including one exploited in scam campaign
+- CISA adds four critical vulnerabilities to its known exploited catalog
+- Badbox malware botnet returns with record-breaking ad fraud
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Badbox malware botnet returns with record-breaking ad fraud. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by WhatsApp patches three security flaws including one exploited in scam campaign. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Researchers uncover widespread data leakage in AI service networks. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

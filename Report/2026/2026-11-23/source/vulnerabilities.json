@@ -1,0 +1,102 @@
+[
+  {
+    "title": "WhatsApp patches three security flaws including one exploited in scam campaign",
+    "published_wib": "2026-11-23T09:15:30+07:00",
+    "summary": "WhatsApp has released a security update to address three vulnerabilities, including one that was actively exploited to enhance the credibility of fraudulent messages, as first reported by Security Affairs.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/whatsapp-patches-three-security-flaws-including-one-exploited-in-scam-campaign"
+    ]
+  },
+  {
+    "title": "CISA adds four critical vulnerabilities to its known exploited catalog",
+    "published_wib": "2026-11-23T09:13:18+07:00",
+    "summary": "The Cybersecurity and Infrastructure Security Agency has officially added four high-risk vulnerabilities affecting Cisco, SAP, Broadcom and Apache software to its Known Exploited Vulnerabilities catalog, according to a recent report by Security Affairs.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-four-critical-vulnerabilities-to-its-known-exploited-catalog"
+    ]
+  },
+  {
+    "title": "Google\u2019s semantic governance policies can block an AI agent\u2019s tool call before it runs",
+    "published_wib": "2026-11-23T07:27:25+07:00",
+    "summary": "Google lets enterprises put a checkpoint in front of an AI agent\u2018s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent\u2019s model proposes and block it before it runs if the call doesn\u2019t match the user\u2019s request or breaks a company rule. The check sits outside the agent, at an enforcement point such as Age\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/"
+    ]
+  },
+  {
+    "title": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list",
+    "published_wib": "2026-11-23T06:05:09+07:00",
+    "summary": "The Debian project released Debian 13.8, the eighth update to its stable \u201ctrixie\u201d series. It mainly carries security fixes, plus corrections for a few serious bugs, and it bundles advisories Debian had already published separately. If you run trixie, here is what to check. The security table runs from DSA-6408 to DSA-6629 (a DSA is a Debian Security Advisor\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/"
+    ]
+  },
+  {
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "published_wib": "2026-11-23T01:45:37+07:00",
+    "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+    ]
+  },
+  {
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "published_wib": "2026-11-22T22:43:04+07:00",
+    "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs",
+    "published_wib": "2026-11-22T16:00:25+07:00",
+    "summary": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom An attacker exploited a vulnerability in Optimizely\u2019s web experimentation platform to plant malicious JavaScript on its customers\u2019 websites, the company has confirmed. Java4Sh\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "published_wib": "2026-11-22T12:03:41+07:00",
+    "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "published_wib": "2026-11-22T07:53:02+07:00",
+    "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "published_wib": "2026-11-22T01:01:58+07:00",
+    "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+    ]
+  }
+]
