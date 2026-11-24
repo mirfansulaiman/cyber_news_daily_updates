@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Linux patches can take weeks, and OpenAI and Cisco built Shirudo to help in the meantime",
+    "published_wib": "2026-11-24T13:00:50+07:00",
+    "summary": "OpenAI and Cisco released Shirudo, an open-source tool that puts temporary protections on running Linux systems while their owners work on a patch. Shirudo is Japanese for \u201cshield,\u201d which is also what each protection is called: a small program that blocks the specific behavior a vulnerability depends on, with no restart needed. Testing and deploying a patch\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/24/cisco-openai-shirudo/"
+    ]
+  },
+  {
+    "title": "Stalwart: Open-source Microsoft Exchange replacement",
+    "published_wib": "2026-11-24T12:00:26+07:00",
+    "summary": "Stalwart, an open source mail server, shipped version 1.2.0 with support for the protocols Exchange clients speak: MAPI over HTTP, Exchange Web Services (EWS), Exchange ActiveSync and Autodiscover. Outlook, Apple Mail and the built-in apps on phones connect to it as they would to an Exchange server, with mail, calendars, contacts, tasks and notes in one acc\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/24/stalwart-microsoft-exchange-replacement/"
+    ]
+  },
+  {
+    "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+    "published_wib": "2026-11-24T08:46:56+07:00",
+    "summary": "\u2018Shirudo\u2019 project promises to whip up compensating controls in a hurry",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795"
+    ]
+  },
+  {
+    "title": "Microsoft addresses Azure API Management vulnerability linked to energy sector attacks",
+    "published_wib": "2026-11-24T06:04:28+07:00",
+    "summary": "As reported by Bleeping Computer, Microsoft has issued a security advisory regarding a vulnerability in its Azure API Management Classic tiers that allowed unauthorized access to sensitive credentials.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/microsoft-addresses-azure-api-management-vulnerability-linked-to-energy-sector-attacks"
+    ]
+  },
+  {
+    "title": "Cisco Expressway Series bug added to exploited vulnerabilities list",
+    "published_wib": "2026-11-24T04:59:34+07:00",
+    "summary": "CISA flags an actively exploited Cisco Expressway flaw that gives attackers root-level access.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/news/cisco-expressway-series-bug-added-to-exploited-vulnerabilities-list"
+    ]
+  },
+  {
+    "title": "Introducing AWS WAF simplified pricing",
+    "published_wib": "2026-11-24T03:35:03+07:00",
+    "summary": "Starting today, AWS WAF pricing is easier to predict. Your bill is now based on three dimensions: the resources you protect, the traffic AWS WAF inspects, and the level of protection you apply to that traffic. Existing AWS WAF customers move to the new pricing on February 1, 2027. Until then, you keep your current [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/introducing-aws-waf-simplified-pricing/"
+    ]
+  },
+  {
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "published_wib": "2026-11-24T02:42:20+07:00",
+    "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+    ]
+  },
+  {
+    "title": "Bluetooth brakes are broken as researchers find anyone can control them",
+    "published_wib": "2026-11-24T02:29:59+07:00",
+    "summary": "Security fixes are available for two Elecbrakes models, but an older controller remains vulnerable and unpatched",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
+    ]
+  },
+  {
+    "title": "Critical Cisco remote code execution bug under attack",
+    "published_wib": "2026-11-24T00:56:56+07:00",
+    "summary": "CISA, F6 sound the alarm after PoC exploit made public",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
+    ]
+  },
+  {
+    "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+    "published_wib": "2026-11-24T00:45:52+07:00",
+    "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors"
+    ]
+  }
+]

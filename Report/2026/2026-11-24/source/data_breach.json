@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Orgs that leak data \u2018prioritize corporate interests over customers\u2019 says Have I Been Pwned\u2019s Troy Hunt",
+    "published_wib": "2026-11-24T12:13:51+07:00",
+    "summary": "Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802"
+    ]
+  },
+  {
+    "title": "Cleverbridge discloses data breach involving payment card information",
+    "published_wib": "2026-11-24T05:54:22+07:00",
+    "summary": "Cleverbridge has confirmed a significant data breach involving the theft of customer payment card details, including card numbers, expiry dates and CVV security codes, according to a recent report by Tech Radar.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/cleverbridge-discloses-data-breach-involving-payment-card-information"
+    ]
+  },
+  {
+    "title": "LaLiga reports data breach affecting fan services platform",
+    "published_wib": "2026-11-24T05:54:05+07:00",
+    "summary": "Reported by Bleeping Computer, LaLiga, the top professional football league in Spain, recently disclosed a security incident involving unauthorized access to its digital infrastructure.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/laliga-reports-data-breach-affecting-fan-services-platform"
+    ]
+  },
+  {
+    "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
+    "published_wib": "2026-11-24T03:54:51+07:00",
+    "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"
+    ]
+  },
+  {
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+    "published_wib": "2026-11-24T03:00:20+07:00",
+    "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
+    ]
+  },
+  {
+    "title": "Spanish LaLiga confirms hackers stole soccer fans\u2019 personal data",
+    "published_wib": "2026-11-24T01:38:40+07:00",
+    "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/"
+    ]
+  },
+  {
+    "title": "23rd November \u2013 Threat Intelligence Report",
+    "published_wib": "2026-11-23T22:16:27+07:00",
+    "summary": "For the latest discoveries in cyber research for the week of 23rd November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES The FBI has reportedly experienced a second cyber incident in recent months, this time targeting its National Crime Information Center (NCIC). The database shares records on fugitives, warrants, criminal hist\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://research.checkpoint.com/2026/23rd-november-threat-intelligence-report/"
+    ]
+  },
+  {
+    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+    "published_wib": "2026-11-23T22:10:48+07:00",
+    "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers re\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html"
+    ]
+  },
+  {
+    "title": "FBI crime database reportedly hacked",
+    "published_wib": "2026-11-23T19:57:11+07:00",
+    "summary": "The FBI is reportedly investigating a breach of the National Crime Information Center. What could this mean for you?",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/11/fbi-crime-database-reportedly-hacked"
+    ]
+  },
+  {
+    "title": "Press play on Elastic Security 9.6, banger after banger",
+    "published_wib": "2026-11-23T19:34:52+07:00",
+    "summary": "AlertZero works your alert queue in the background and nothing consequential it proposes runs until you approve it. 9.6 also brings entity resolution, MITRE ATLAS mappings, 143 AI detection rules, and Linux ransomware protection.",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.elastic.co/security-labs/blog/elastic-security-9-6-release-highlights"
+    ]
+  }
+]

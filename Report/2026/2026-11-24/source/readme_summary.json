@@ -1,0 +1,7 @@
+{
+  "highlights_led_by_exploit_ready_vulns": "Linux patches can take weeks, and OpenAI and Cisco built Shirudo to help in the meantime and Stalwart: Open-source Microsoft Exchange replacement. Treat newly published PoCs and early exploitation signals as immediate patch/mitigation triggers for internet-facing and fleet-wide infrastructure.",
+  "endpoint_posture_under_pressure": "Bulgaria uncovers five-year cyberespionage campaign targeting government networks. Tighten EDR coverage, block known IoCs where available, and validate software supply-chain integrity in build and CI/CD.",
+  "identity_and_edge_access_risks": "Orgs that leak data \u2018prioritize corporate interests over customers\u2019 says Have I Been Pwned\u2019s Troy Hunt. Prioritize MFA enforcement, phishing-resistant authentication, and reduce management-plane exposure for edge services and remote access.",
+  "issue_date": "2026-11-24",
+  "vol": "007"
+}

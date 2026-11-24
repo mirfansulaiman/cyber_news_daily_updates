@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "published_wib": "2026-11-24T09:00:04+07:00",
+    "summary": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33552"
+    ]
+  },
+  {
+    "title": "Bulgaria uncovers five-year cyberespionage campaign targeting government networks",
+    "published_wib": "2026-11-24T05:52:29+07:00",
+    "summary": "Bulgaria has identified a significant cyberespionage operation that compromised government databases and resulted in the theft of 130 gigabytes of sensitive administrative files over a five-year period, as first reported by Security Affairs.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/bulgaria-uncovers-five-year-cyberespionage-campaign-targeting-government-networks"
+    ]
+  },
+  {
+    "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+    "published_wib": "2026-11-24T04:52:23+07:00",
+    "summary": "Whatever they call themselves these days: be on the lookout for voice phishing attempts",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768"
+    ]
+  },
+  {
+    "title": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found",
+    "published_wib": "2026-11-23T22:05:50+07:00",
+    "summary": "Attackers compromised GoodCloud, GL.iNet\u2019s cloud remote management service, and used it to install malware on routers and KVM (keyboard, video and mouse) devices connected to it. The Chinese company, best known for its small travel routers, is still investigating, and it\u2019s not yet known how many devices have been affected. The incident has also sparked addi\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/"
+    ]
+  },
+  {
+    "title": "Holiday Lures, Real Threats: 5 Thanksgiving and Black Friday Campaigns from 2026",
+    "published_wib": "2026-11-23T22:00:10+07:00",
+    "summary": "The holiday season brings a surge of invitations, promotional offers, and shared documents \u2014 all familiar ways for cybercriminals to disguise malicious activity. During the 2026 Thanksgiving and Black Friday season, ANY.RUN analysts investigated five cases involving fake corporate invitations, e-cards, healthcare surveys, promotional newsletters, and discou\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/thanksgiving-black-friday-cyber-threats-2026/"
+    ]
+  },
+  {
+    "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+    "published_wib": "2026-11-23T20:26:22+07:00",
+    "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/"
+    ]
+  },
+  {
+    "title": "OXLoader abuses DLL hijacking to distribute different malware families",
+    "published_wib": "2026-11-23T18:35:39+07:00",
+    "summary": "Our analysis traces OXLoader campaigns spreading malware through fake complaints and activators.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/threat-intel/2026/11/oxloader-abuses-dll-hijacking-to-distribute-different-malware-families"
+    ]
+  },
+  {
+    "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+    "published_wib": "2026-11-23T17:00:43+07:00",
+    "summary": "How cybercriminals prepare for Black Friday: phishing, scams and malware targeting online shoppers and gamers, GTA VI- and wellness-related schemes, and fake sales spam.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Tighten email authentication and filtering, run targeted user awareness, and monitor for lookalike domains and suspicious inbox rules.",
+    "sources": [
+      "https://securelist.com/black-friday-threat-report-2026/122061/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Google claims last week\u2019s critical VMware bug was under attack in September",
+    "published_wib": "2026-11-23T11:39:19+07:00",
+    "summary": "China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+    "published_wib": "2026-11-23T09:00:04+07:00",
+    "summary": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33548"
+    ]
+  }
+]

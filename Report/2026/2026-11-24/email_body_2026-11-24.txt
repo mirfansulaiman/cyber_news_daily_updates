@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Linux patches can take weeks, and OpenAI and Cisco built Shirudo to help in the meantime
+- Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt
+- Stalwart: Open-source Microsoft Exchange replacement
+- ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)
+- Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Linux patches can take weeks, and OpenAI and Cisco built Shirudo to help in the meantime. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
