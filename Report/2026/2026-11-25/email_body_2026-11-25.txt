@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- Cisco and OpenAI dispatch AI agents to shield vulnerable systems before permanent patches arrive
+- ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)
+- Introducing context-aware rules for AWS Network Firewall
+- NGINX HTTP/2 Use-After-Free: CVE-2026-123633
+- An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th). with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by Cisco and OpenAI dispatch AI agents to shield vulnerable systems before permanent patches arrive. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Rackspace shuts down Spot cloud platform after security breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

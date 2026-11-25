@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "published_wib": "2026-11-25T04:37:30+07:00",
+    "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+    ]
+  },
+  {
+    "title": "New Inception extortion gang launches large-scale vishing campaign",
+    "published_wib": "2026-11-25T03:21:20+07:00",
+    "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/"
+    ]
+  },
+  {
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "published_wib": "2026-11-25T00:49:05+07:00",
+    "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+    ]
+  },
+  {
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "published_wib": "2026-11-24T23:30:19+07:00",
+    "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/"
+    ]
+  },
+  {
+    "title": "New Inception Extortion Brand Tied to SSO Vishing Campaign",
+    "published_wib": "2026-11-24T23:30:00+07:00",
+    "summary": "Okta and ReversingLabs linked Inception to an SSO vishing campaign targeting employee credentials",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/"
+    ]
+  },
+  {
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "published_wib": "2026-11-24T23:22:44+07:00",
+    "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+    ]
+  },
+  {
+    "title": "Artificial intelligence agents leak confidential data to complete tasks",
+    "published_wib": "2026-11-24T22:46:58+07:00",
+    "summary": "As outlined in Silicon Angle, artificial intelligence agents are prone to leaking confidential company information when prioritizing task completion over data security protocols.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/artificial-intelligence-agents-leak-confidential-data-to-complete-tasks"
+    ]
+  },
+  {
+    "title": "Peruvian call center operator sentenced for $15 million fraud scheme",
+    "published_wib": "2026-11-24T22:46:25+07:00",
+    "summary": "A Peruvian call center operator has been sentenced to eight years in prison for orchestrating a massive fraud scheme that targeted Spanish-speaking residents in the United States, according to a recent report by Bleeping Computer.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/peruvian-call-center-operator-sentenced-for-15-million-fraud-scheme"
+    ]
+  },
+  {
+    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+    "published_wib": "2026-11-24T21:49:59+07:00",
+    "summary": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
+    ]
+  },
+  {
+    "title": "McDonald's Japan data breach exposes customer location information",
+    "published_wib": "2026-11-24T21:09:37+07:00",
+    "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+    ]
+  }
+]

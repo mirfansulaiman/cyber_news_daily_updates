@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cisco and OpenAI dispatch AI agents to shield vulnerable systems before permanent patches arrive",
+    "published_wib": "2026-11-25T11:04:12+07:00",
+    "summary": "Autonomous AI agents are rapidly and dramatically transforming the cybersecurity landscape for both defenders and adversaries. In hopes of giving security teams a head start and pitting machine against machine, Cisco and OpenAI have released a new open source project, dubbed Shirudo (Japanese for \u201cshield\u201d). The Shirudo platform launches small, temporary mit\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4252893/cisco-and-openai-dispatch-ai-agents-to-shield-vulnerable-systems-before-permanent-patches-arrive-2.html"
+    ]
+  },
+  {
+    "title": "Introducing context-aware rules for AWS Network Firewall",
+    "published_wib": "2026-11-25T08:19:20+07:00",
+    "summary": "AWS Network Firewall now supports context-aware rules, which match traffic by the AWS resources that send and receive it instead of by IP address. A rule can name a virtual private cloud (VPC), a subnet, a security group, or a transit gateway attachment. Rules that match on IP addresses have to keep up with every [\u2026]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/introducing-context-aware-rules-for-aws-network-firewall/"
+    ]
+  },
+  {
+    "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+    "published_wib": "2026-11-25T06:00:14+07:00",
+    "summary": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance. The post NGINX HTTP/2 Use-After-Free: CVE-2026-123633 appeared first on Unit 42 .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/"
+    ]
+  },
+  {
+    "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+    "published_wib": "2026-11-25T05:41:58+07:00",
+    "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+    ]
+  },
+  {
+    "title": "Becoming fast and flexible: How to defend against AI-driven attacks",
+    "published_wib": "2026-11-25T02:06:49+07:00",
+    "summary": "Repelling AI-powered attacks demands AI-powered security controls and proactive patching.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/resource/becoming-fast-and-flexible-how-to-defend-against-ai-driven-attacks"
+    ]
+  },
+  {
+    "title": "Reflecting on the recent outages: Why people and patching must remain intertwined",
+    "published_wib": "2026-11-25T00:07:11+07:00",
+    "summary": "Facing our ongoing AI challenge will require humans-in-the-loop.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/perspective/reflecting-on-the-recent-outages-why-people-and-patching-must-remain-intertwined"
+    ]
+  },
+  {
+    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+    "published_wib": "2026-11-24T23:32:56+07:00",
+    "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/"
+    ]
+  },
+  {
+    "title": "Hackers compromise Check Point Servers in 22 organizations",
+    "published_wib": "2026-11-24T23:15:23+07:00",
+    "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+    ]
+  },
+  {
+    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+    "published_wib": "2026-11-24T22:10:10+07:00",
+    "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
+    ]
+  },
+  {
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "published_wib": "2026-11-24T22:01:11+07:00",
+    "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
+    ]
+  }
+]

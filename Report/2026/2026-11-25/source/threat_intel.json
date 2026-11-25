@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+    "published_wib": "2026-11-25T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33554"
+    ]
+  },
+  {
+    "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+    "published_wib": "2026-11-25T04:48:06+07:00",
+    "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn"
+    ]
+  },
+  {
+    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+    "published_wib": "2026-11-25T00:00:00+07:00",
+    "summary": "No sophisticated malware or attack framework required",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+    ]
+  },
+  {
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "published_wib": "2026-11-24T23:54:07+07:00",
+    "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise fram\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    ]
+  },
+  {
+    "title": "Recent Trends and Tactics of Agentic AI Attacks",
+    "published_wib": "2026-11-24T22:00:19+07:00",
+    "summary": "We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces. The post Recent Trends and Tactics of Agentic AI Attacks appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+    ]
+  },
+  {
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "published_wib": "2026-11-24T21:21:56+07:00",
+    "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/"
+    ]
+  },
+  {
+    "title": "Volant Manticore: Flying Under the Radar",
+    "published_wib": "2026-11-24T21:13:55+07:00",
+    "summary": "Key Points Introduction Check Point Research is tracking a previously undocumented Iran-nexus threat group who we named Volant Manticore. What started in July 2026 as a single backdoor delivered to a Cyprus-based airline through a fake CV has since expanded into a broader cluster of activity that we traced back to September 2025. MuddyWater is [\u2026] The post\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/"
+    ]
+  },
+  {
+    "title": "[+24h Old] LATAM\u2019s Financial Fraud Ecosystem: Key Threats and Strategies for Business Protection",
+    "published_wib": "2026-11-24T16:44:36+07:00",
+    "summary": "Editor\u2019s note: The current article is authored by Clandestine, threat researcher and threat hunter. You can find Clandestine on X. Taking down a banking Trojan does not necessarily stop financial fraud. Cybercriminals can switch malware families, reuse existing infrastructure, and exploit legitimate software to keep their operations running. In LATAM, this\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://any.run/cybersecurity-blog/latams-financial-fraud/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Researchers Find a New AI Attack Path: Agent Instructions",
+    "published_wib": "2026-11-24T16:30:00+07:00",
+    "summary": "Ox Security warns that agents are being manipulated without the need for executable malware",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "published_wib": "2026-11-24T09:00:04+07:00",
+    "summary": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33552"
+    ]
+  }
+]
