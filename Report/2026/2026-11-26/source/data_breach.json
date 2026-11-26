@@ -1,0 +1,102 @@
+[
+  {
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "published_wib": "2026-11-26T04:33:33+07:00",
+    "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    ]
+  },
+  {
+    "title": "Colorado shuts down myColorado app following data breach",
+    "published_wib": "2026-11-26T03:01:09+07:00",
+    "summary": "The Colorado Office of Information Technology has suspended the myColorado mobile application following a cybersecurity incident that exposed user data, as first reported by Statescoop.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/colorado-shuts-down-mycolorado-app-following-data-breach"
+    ]
+  },
+  {
+    "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+    "published_wib": "2026-11-25T23:40:16+07:00",
+    "summary": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+    ]
+  },
+  {
+    "title": "US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds",
+    "published_wib": "2026-11-25T23:00:00+07:00",
+    "summary": "DOJ's anti-scam surge has targeted over 800 defendants while the FBI has hit over 29 scam compounds",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/"
+    ]
+  },
+  {
+    "title": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts",
+    "published_wib": "2026-11-25T21:45:00+07:00",
+    "summary": "Shufti has announced the launch of its Fraud Hub, a connected fraud intelligence layer designed to detect suspicious verification attempts, identify coordinated fraud networks and monitor emerging risks across the user lifecycle. Shufti Fraud Hub connects identity, device, biometric, and behavioural signals to help businesses spot threats that individual ch\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/"
+    ]
+  },
+  {
+    "title": "Two exposed databases held over 3.5 billion records",
+    "published_wib": "2026-11-25T19:27:36+07:00",
+    "summary": "Researchers found stolen passwords, session cookies and children's school records sitting in two open databases.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records"
+    ]
+  },
+  {
+    "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+    "published_wib": "2026-11-25T18:51:48+07:00",
+    "summary": "TL;DR More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it le\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+    ]
+  },
+  {
+    "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
+    "published_wib": "2026-11-25T18:16:18+07:00",
+    "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
+    ]
+  },
+  {
+    "title": "Ransomware Attacks Surge 23% in October Following Record Quarter",
+    "published_wib": "2026-11-25T17:45:00+07:00",
+    "summary": "The continued rise in ransomware attacks may reflect a new cyber environment, NCC Group researchers have warned",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-surge-october-record/"
+    ]
+  },
+  {
+    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+    "published_wib": "2026-11-25T17:43:07+07:00",
+    "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html"
+    ]
+  }
+]

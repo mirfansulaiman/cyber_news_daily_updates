@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ICYMI: October 2026 @AWS Security",
+    "published_wib": "2026-11-26T06:04:26+07:00",
+    "summary": "Welcome to this month\u2019s AWS Security news! Organizations need current information about AWS Security developments to maintain their cloud security. This monthly digest covers key AWS Security updates. Each month, we compile new announcements, features, and resources to help you improve your security. Based on AWS Security developments, you\u2019ll find expert pe\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/icymi-october-2026-aws-security/"
+    ]
+  },
+  {
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+    "published_wib": "2026-11-26T05:05:09+07:00",
+    "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"
+    ]
+  },
+  {
+    "title": "Secure agentic access to AWS with Enterprise-Managed Authorization",
+    "published_wib": "2026-11-26T04:00:37+07:00",
+    "summary": "AWS Sign-In is introducing support for Enterprise-Managed Authorization (EMA) using the Identity Assertion JWT Authorization Grant (ID-JAG), enabling organizations to securely authorize AI agents to access AWS MCP Server through their existing enterprise identity providers (IdPs), such as Okta. With this capability, organizations can centrally manage which\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/secure-agentic-access-to-aws-with-enterprise-managed-authorization/"
+    ]
+  },
+  {
+    "title": "International law enforcement disrupts illegal streaming networks",
+    "published_wib": "2026-11-26T03:13:54+07:00",
+    "summary": "According to Bleeping Computer, law enforcement authorities from 11 countries have successfully disrupted 57 illegal internet protocol television services.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/international-law-enforcement-disrupts-illegal-streaming-networks"
+    ]
+  },
+  {
+    "title": "Security researchers identify dangling DNS records on US Treasury subdomains",
+    "published_wib": "2026-11-26T03:08:50+07:00",
+    "summary": "Coverage from HackRead indicates that cybersecurity researchers at Intruder successfully hijacked five US Treasury subdomains by exploiting dangling DNS records.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/security-researchers-identify-dangling-dns-records-on-us-treasury-subdomains"
+    ]
+  },
+  {
+    "title": "Broadcom issues fixes for 23 new VMware flaws, three critical",
+    "published_wib": "2026-11-26T03:07:57+07:00",
+    "summary": "Broadcom on Tuesday reported almost two dozen new security vulnerabilities in VMware, adding to a lengthy list of fixes from this month alone. The most serious of the flaws in the current advisory is a vCenter authentication bypass vulnerability, CVE-2026-123903, assigned a CVSSv3 base score of 9.8 (Critical). \u201cA malicious actor with network access to vCent\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4253329/broadcom-issues-fixes-for-23-new-vmware-flaws-three-critical.html"
+    ]
+  },
+  {
+    "title": "Asus releases security update for GPU Tweak iii to fix command injection flaw",
+    "published_wib": "2026-11-26T02:59:52+07:00",
+    "summary": "Based on information from Cyber Insider, Asus has issued a critical security update for its GPU Tweak III utility to remediate a vulnerability that permits remote attackers to execute arbitrary operating system commands.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/asus-releases-security-update-for-gpu-tweak-iii-to-fix-command-injection-flaw"
+    ]
+  },
+  {
+    "title": "Reduce operational overhead by migrating from AWS CloudHSM to AWS KMS",
+    "published_wib": "2026-11-26T02:54:52+07:00",
+    "summary": "AWS Key Management Service (AWS KMS) supports the security certifications, algorithms, and performance that most AWS CloudHSM workloads require. Organizations that migrate from AWS CloudHSM to AWS KMS have significantly reduced costs while eliminating hardware security module (HSM) provisioning, patching, and high-availability management. For a detailed com\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://aws.amazon.com/blogs/security/reduce-operational-overhead-by-migrating-from-aws-cloudhsm-to-aws-kms/"
+    ]
+  },
+  {
+    "title": "CISA adds N-able and Project MONAI vulnerabilities to exploited list",
+    "published_wib": "2026-11-26T02:46:12+07:00",
+    "summary": "As reported by Security Affairs, the Cybersecurity and Infrastructure Security Agency has added two critical vulnerabilities to its Known Exploited Vulnerabilities catalog.",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/cisa-adds-n-able-and-project-monai-vulnerabilities-to-exploited-list"
+    ]
+  },
+  {
+    "title": "The security of US water systems is even leakier than we thought",
+    "published_wib": "2026-11-26T02:40:17+07:00",
+    "summary": "And intruders don't always need to exploit bugs to break in",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243"
+    ]
+  }
+]

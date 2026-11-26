@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Ongoing cyberespionage campaign targets Check Point security management servers",
+    "published_wib": "2026-11-26T02:55:54+07:00",
+    "summary": "Check Point security management servers have been compromised in an ongoing campaign targeting 22 organizations across 17 countries, based on information published by Bleeping Computer.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.scworld.com/brief/ongoing-cyberespionage-campaign-targets-check-point-security-management-servers"
+    ]
+  },
+  {
+    "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+    "published_wib": "2026-11-25T22:48:04+07:00",
+    "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments"
+    ]
+  },
+  {
+    "title": "[+24h Old] How to protect against preinstalled Android malware",
+    "published_wib": "2026-11-25T16:00:35+07:00",
+    "summary": "We look at Trojans in the firmware of Android devices, share some statistics, and discuss the risks to corporate users and ways to counter the threat with Kaspersky Next.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+    "published_wib": "2026-11-25T13:50:19+07:00",
+    "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financ\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+    "published_wib": "2026-11-25T13:21:12+07:00",
+    "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has proactively detected and blocked the threat before it could be officially releas\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+    "published_wib": "2026-11-25T09:00:03+07:00",
+    "summary": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://isc.sans.edu/diary/rss/33554"
+    ]
+  },
+  {
+    "title": "[+24h Old] Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+    "published_wib": "2026-11-25T04:48:06+07:00",
+    "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn"
+    ]
+  },
+  {
+    "title": "[+24h Old] An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+    "published_wib": "2026-11-25T00:00:00+07:00",
+    "summary": "No sophisticated malware or attack framework required",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+    ]
+  },
+  {
+    "title": "[+24h Old] Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "published_wib": "2026-11-24T23:54:07+07:00",
+    "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise fram\u2026",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Recent Trends and Tactics of Agentic AI Attacks",
+    "published_wib": "2026-11-24T22:00:19+07:00",
+    "summary": "We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces. The post Recent Trends and Tactics of Agentic AI Attacks appeared first on Unit 42 .",
+    "why_it_matters": "Threat-actor tradecraft and active campaigns help defenders anticipate techniques likely to be used against their environment.",
+    "recommendation": "Update detections and threat hunts using reported TTPs/IOCs, review email/web controls, and harden high-risk internet-facing services.",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+    ]
+  }
+]

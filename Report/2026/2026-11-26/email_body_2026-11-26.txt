@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- ICYMI: October 2026 @AWS Security
+- Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks
+- 1Password customer data stolen after employee GitHub account breach
+- Secure agentic access to AWS with Enterprise-Managed Authorization
+- International law enforcement disrupts illegal streaming networks
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Ongoing cyberespionage campaign targets Check Point security management servers. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by ICYMI: October 2026 @AWS Security. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by 1Password customer data stolen after employee GitHub account breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---
