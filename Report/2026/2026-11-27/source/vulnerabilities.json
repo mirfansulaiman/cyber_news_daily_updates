@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+    "published_wib": "2026-11-27T08:19:31+07:00",
+    "summary": "India\u2019s Digital Infrastructure for Governance Impact and Transformation tool can leak data",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449"
+    ]
+  },
+  {
+    "title": "New GeoServer RCE exploit chain seen in the wild two days after disclosure",
+    "published_wib": "2026-11-26T22:39:58+07:00",
+    "summary": "Attackers have begun probing a chain of five GeoServer vulnerabilities that enables unauthenticated remote code execution, just two days after the open source geospatial server project disclosed the flaws. Security firm watchTowr, which operates a global network of honeypot servers, reported that it observed the probing activity in the early morning hours o\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4253667/new-geoserver-rce-exploit-chain-seen-in-the-wild-two-days-after-disclosure.html"
+    ]
+  },
+  {
+    "title": "Financial Crimes Enforcement Network investigates cybersecurity incident",
+    "published_wib": "2026-11-26T21:03:54+07:00",
+    "summary": "Financial Crimes Enforcement Network investigates cybersecurity incident",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.scworld.com/brief/financial-crimes-enforcement-network-investigates-cybersecurity-incident"
+    ]
+  },
+  {
+    "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
+    "published_wib": "2026-11-26T20:05:35+07:00",
+    "summary": "Palo Alto Networks has confirmed that attackers exploited Fragnesia, a Linux kernel flaw, to gain root on PAN-OS firewalls through the PHP2Shell vulnerabilities, and has shipped fixes six months after the bug was patched in Linux. The vulnerability allows a locally authenticated, low-privileged attacker to escalate privileges to root. \u201cExploitation of CVE-2\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html"
+    ]
+  },
+  {
+    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+    "published_wib": "2026-11-26T20:04:06+07:00",
+    "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+    "published_wib": "2026-11-26T18:35:25+07:00",
+    "summary": "Accenture says hackers exploited MiCollab flaws before Mitel\u2019s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    ]
+  },
+  {
+    "title": "US agency tracking money laundering is latest casualty in string of federal breaches",
+    "published_wib": "2026-11-26T18:05:01+07:00",
+    "summary": "An intrusion at the US Treasury\u2019s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. The bureau serves as the US government\u2019s financial intelligence unit, collecting suspicious activity reports and other Bank Secrecy Act filings from banks and other fina\u2026",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/"
+    ]
+  },
+  {
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "published_wib": "2026-11-26T18:02:00+07:00",
+    "summary": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+    ]
+  },
+  {
+    "title": "[+24h Old] Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+    "published_wib": "2026-11-26T16:12:26+07:00",
+    "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1Password Breach Exposes Customer Data, Internal Source Code",
+    "published_wib": "2026-11-26T15:32:10+07:00",
+    "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .",
+    "why_it_matters": "Exploit-ready vulnerabilities can rapidly translate into compromise\u2014especially for internet-facing services and widely deployed products.",
+    "recommendation": "Prioritize patching/mitigations, review exposure, and add detection for exploitation attempts (e.g., WAF/EDR signatures and logs).",
+    "sources": [
+      "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
+    ]
+  }
+]

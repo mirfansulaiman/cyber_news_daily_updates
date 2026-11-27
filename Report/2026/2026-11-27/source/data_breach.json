@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "published_wib": "2026-11-27T02:39:57+07:00",
+    "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there\u2019s the question of who gets to us\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+    ]
+  },
+  {
+    "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+    "published_wib": "2026-11-27T02:04:00+07:00",
+    "summary": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+    ]
+  },
+  {
+    "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+    "published_wib": "2026-11-26T22:29:00+07:00",
+    "summary": "The latest attack in spate of similar incidents targeting booking systems globally",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360"
+    ]
+  },
+  {
+    "title": "Todoist confirms data breach involving stolen credentials",
+    "published_wib": "2026-11-26T21:23:00+07:00",
+    "summary": "Todoist confirms data breach involving stolen credentials",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/todoist-confirms-data-breach-involving-stolen-credentials"
+    ]
+  },
+  {
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    "published_wib": "2026-11-26T17:57:25+07:00",
+    "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Data recovery firm co-founder accused of cashing in on ransomware victims",
+    "published_wib": "2026-11-26T16:59:07+07:00",
+    "summary": "The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-year-old Colombian national, was arrested in Las Vegas on October 22 and has been charged by a federal grand jury in the District of Rhode Island with three counts\u2026",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1Password Hit by Backend Breach via Hijacked Employee GitHub Account",
+    "published_wib": "2026-11-26T16:32:00+07:00",
+    "summary": "An attacker used a 1Password employee's GitHub account to take customer data, but not vaults",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/1password-github-account-backend/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1Password breached through hijacked employee GitHub account, customer names and emails stolen",
+    "published_wib": "2026-11-26T15:42:32+07:00",
+    "summary": "An attacker who got into a 1Password employee\u2019s corporate GitHub account went on to copy account records for some of the company\u2019s users and source code from private repositories, the password manager maker disclosed on Wednesday. \u201c1Password identified a security incident involving some of our backend systems,\u201d the company wrote in a post it plans to keep u\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/"
+    ]
+  },
+  {
+    "title": "[+24h Old] What Two Million Canary Prompts Reveal About AI Supply Chain Security",
+    "published_wib": "2026-11-26T12:33:42+07:00",
+    "summary": "Executive Summary To evaluate the security of the AI supply chain, Dragos seeded approximately two million AI prompts with canary URLs and credentials. The investigation revealed that prompt data was stolen from at least three AI hosting providers and from the system of a Chinese AI lab, which accessed secret URLs from prompts marked for [\u2026]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://blog.qualys.com/product-tech/2026/11/25/ai-prompt-leaks-dragos-canary-study-ai-supply-chain"
+    ]
+  },
+  {
+    "title": "[+24h Old] 1Password customer data stolen after employee GitHub account breach",
+    "published_wib": "2026-11-26T04:33:33+07:00",
+    "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    ]
+  }
+]
