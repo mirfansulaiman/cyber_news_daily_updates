@@ -1,0 +1,19 @@
+Hi there,
+
+Here is your Cybersecurity Daily Update for the last 24 hours (with a limited 48-hour fallback where needed).
+
+Quick Highlights (max 5):
+- 1Password data breach included some customer info, internal source code
+- Flaw in Linux NFS file sharing exposes servers to remote takeover
+- Cybercriminals use AI website builder to host phishing pages on Hugging Face
+- Flight Centre investigates third-party data breach
+- New Boston Scientific data breach exposes personal, medical info
+
+Section Summaries:
+- Threat Intelligence: 10 items, led by Cybercriminals use AI website builder to host phishing pages on Hugging Face. with ongoing campaign and malware activity signals.
+- Latest Vulnerabilities: 10 items, led by 1Password data breach included some customer info, internal source code. prioritizing patching and exposure reduction for high-impact issues.
+- Data Breach & Cybercrime: 10 items, led by Flight Centre investigates third-party data breach. highlighting extortion, leakage, and law-enforcement actions where reported.
+
+CTA: Full report and infographics attached below.
+
+---

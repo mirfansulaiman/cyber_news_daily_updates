@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Flight Centre investigates third-party data breach",
+    "published_wib": "2026-11-28T03:24:35+07:00",
+    "summary": "Flight Centre Travel Group is investigating a cyber incident involving a third-party accommodation booking system that potentially exposed customer travel records, as first reported by Security Affairs.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.scworld.com/brief/flight-centre-investigates-third-party-data-breach"
+    ]
+  },
+  {
+    "title": "New Boston Scientific data breach exposes personal, medical info",
+    "published_wib": "2026-11-28T01:57:42+07:00",
+    "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"
+    ]
+  },
+  {
+    "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 48 (2026)",
+    "published_wib": "2026-11-27T21:00:00+07:00",
+    "summary": "Police disrupt 57 illegal streaming services, Com affiliates hijack cloud accounts via vishing, and ARTEX AI is reportedly used to breach a CIA system.",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-8"
+    ]
+  },
+  {
+    "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+    "published_wib": "2026-11-27T18:00:00+07:00",
+    "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared first on SecurityWeek .",
+    "why_it_matters": "Ransomware operations combine disruption with extortion, making recovery speed and data-resilience core business risks.",
+    "recommendation": "Verify offline backups, test restores, harden remote access, and review segmentation to limit lateral movement.",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Flight Centre Travel Group warns of customer data breach involving some passport details",
+    "published_wib": "2026-11-27T16:31:44+07:00",
+    "summary": "Travellers who booked accommodation through Flight Centre and several of its leisure brands may have had their names, and in rare cases passport and health details, accessed by unknown persons, Flight Centre Travel Group (FLT) disclosed. In a statement to the Australian Securities Exchange, the Brisbane-based travel company said it is investigating \u201cunusual\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/"
+    ]
+  },
+  {
+    "title": "[+24h Old] 100,000 Potentially Impacted by Colorado Data Breach",
+    "published_wib": "2026-11-27T16:30:54+07:00",
+    "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek .",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/"
+    ]
+  },
+  {
+    "title": "[+24h Old] Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "published_wib": "2026-11-27T13:04:20+07:00",
+    "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not bee\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+    ]
+  },
+  {
+    "title": "[+24h Old] Product showcase: Norton helps Claude users uncover the telltale signs of fraud",
+    "published_wib": "2026-11-27T13:00:59+07:00",
+    "summary": "The Norton connector for Claude brings the company\u2019s Genie AI-powered scam detection capabilities into the chatbot. Users can submit suspicious emails, text messages, screenshots, and links for analysis, as well as ask questions about cybersecurity, privacy, and identity protection. The integration does not require a Norton account or a separate application\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/"
+    ]
+  },
+  {
+    "title": "[+24h Old] US seizes nearly $17 billion in global war on scam rings",
+    "published_wib": "2026-11-27T12:30:28+07:00",
+    "summary": "The US government has gone after more than 800 alleged scammers in what it calls its largest-ever crackdown on scams targeting Americans. The Department of Justice announced that the effort covers more than 400 cases in 85 federal districts, including new charges, guilty verdicts and sentences, and 30 defendants were extradited to the United States. America\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://www.helpnetsecurity.com/2026/11/27/doj-scam-crackdown-800-scammers/"
+    ]
+  },
+  {
+    "title": "[+24h Old] ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "published_wib": "2026-11-27T02:39:57+07:00",
+    "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there\u2019s the question of who gets to us\u2026",
+    "why_it_matters": "Breaches and cybercrime activity signal where attackers are focusing and what data types are actively monetized.",
+    "recommendation": "Validate incident-response readiness, monitor for exposed credentials, and reinforce MFA, phishing resistance, and data-loss controls.",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html"
+    ]
+  }
+]
